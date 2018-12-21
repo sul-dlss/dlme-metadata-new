@@ -20,7 +20,7 @@ Under the https://opendatacommons.org/licenses/odbl/ license
 
 * Centre d'études alexandrines (CEALEX)
 	- 270 images and serials (a serial with multiple issues is counted as a single records)
-	-priority: medium
+	- priority: medium
 
 * École biblique et archéologique française de Jérusalem (EBAF)
 	- 199 books and maps
