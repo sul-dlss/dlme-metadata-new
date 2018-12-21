@@ -12,6 +12,36 @@ http://numismatics.org/search/query.csv?q=department_facet:%22Islamic%22
 
 Under the https://opendatacommons.org/licenses/odbl/ license
 
+## BnF
+
+* Bibliothèque orientale (BO)
+	- 66 books
+	- priority: high
+
+* Centre d'études alexandrines (CEALEX)
+	- 270 images and serials (a serial with multiple issues is counted as a single records)
+	-priority: medium
+
+* École biblique et archéologique française de Jérusalem (EBAF)
+	- 199 books and maps
+	- priority: high
+
+* Institut Dominicain d’études orientales (IDEO)
+	- 60 books
+	- priority: high
+
+* Institut français d’archéologie orientale (IFAO)
+	- 277 books and images (mostly images)
+	- priority: high
+
+* Institut français d’études anatoliennes (IFEA)
+	- 415 images
+	- priority: medium
+
+* SALT
+	- 405 press and magazines
+	- priority: high
+
 ## Harvard
 
 * Islamic Manuscripts
