@@ -1460,35 +1460,6 @@
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
                 <oai_dc:dc>
-                    <dc:contributor>Directeur-Propriétaire: N. Nicolaïdès</dc:contributor>
-                    <dc:date>1908-08-29</dc:date>
-                    <dc:description>Journal de défense des intérêts de l'Empire Ottoman.</dc:description>
-                    <dc:format>33-26 cm</dc:format>
-                    <dc:identifier>PFOR908</dc:identifier>
-                    <dc:identifier>http://www.archives.saltresearch.org/R/?func=dbin-jump-full&amp;object_id=824440</dc:identifier>
-                    <dc:language>French</dc:language>
-                    <dc:relation>vignette : http://www.archives.saltresearch.org/webclient/DeliveryManager?pid=848203</dc:relation>
-                    <dc:rights>Open access</dc:rights>
-                    <dc:title>L'Orient</dc:title>
-                    <dc:type>Newspaper</dc:type>
-                </oai_dc:dc>
-            </srw:recordData>
-            <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
-            <srw:extraRecordData>
-                <epubFile/>
-                <infoSupModifiable/>
-                <link>http://www.archives.saltresearch.org/R/?func=dbin-jump-full&amp;object_id=824440 </link>
-                <nqamoyen>0.0</nqamoyen>
-                <thumbnail> http://www.archives.saltresearch.org/webclient/DeliveryManager?pid=848203 </thumbnail>
-                <typedoc>periodiques</typedoc>
-            </srw:extraRecordData>
-        </srw:record>
-        <srw:record>
-            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
-            <srw:recordPacking>xml</srw:recordPacking>
-            <srw:recordData>
-                <oai_dc:dc>
                     <dc:contributor>Directeur-Propriétaire: D. A. Bellis</dc:contributor>
                     <dc:date>1890-01-02</dc:date>
                     <dc:format>54-70 cm</dc:format>
@@ -1502,7 +1473,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1531,7 +1502,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1561,7 +1532,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1589,7 +1560,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1618,7 +1589,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1648,7 +1619,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1678,7 +1649,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1708,7 +1679,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1737,7 +1708,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1767,7 +1738,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1795,7 +1766,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1825,7 +1796,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1855,7 +1826,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1885,7 +1856,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1914,7 +1885,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1942,7 +1913,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1973,7 +1944,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2005,7 +1976,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2035,7 +2006,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2065,7 +2036,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2095,7 +2066,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2123,7 +2094,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2152,7 +2123,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2181,7 +2152,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2210,7 +2181,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2239,7 +2210,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2269,7 +2240,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2297,7 +2268,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2328,7 +2299,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2358,7 +2329,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2388,7 +2359,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2416,7 +2387,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2445,7 +2416,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2474,7 +2445,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2503,7 +2474,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2533,7 +2504,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2561,7 +2532,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2590,7 +2561,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2620,7 +2591,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2649,7 +2620,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2679,7 +2650,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2708,7 +2679,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2737,7 +2708,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2765,7 +2736,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2795,7 +2766,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2823,7 +2794,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2852,7 +2823,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2881,7 +2852,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2910,7 +2881,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2920,7 +2891,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -2938,7 +2909,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2948,7 +2919,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -2967,7 +2938,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2999,7 +2970,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3028,7 +2999,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3058,7 +3029,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3087,7 +3058,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3115,7 +3086,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3145,7 +3116,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3174,7 +3145,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3204,7 +3175,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3234,7 +3205,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3263,7 +3234,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3293,7 +3264,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3325,7 +3296,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3354,7 +3325,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3385,7 +3356,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3415,7 +3386,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3444,7 +3415,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3473,7 +3444,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3502,7 +3473,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3530,7 +3501,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3558,7 +3529,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3588,7 +3559,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3617,7 +3588,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3647,7 +3618,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3675,7 +3646,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3705,7 +3676,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3733,7 +3704,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3763,7 +3734,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3794,7 +3765,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3824,7 +3795,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3853,7 +3824,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3883,7 +3854,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3914,7 +3885,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3944,7 +3915,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -3973,7 +3944,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4003,7 +3974,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4032,7 +4003,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4061,7 +4032,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4090,7 +4061,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4119,7 +4090,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4148,7 +4119,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4178,7 +4149,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4208,7 +4179,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4240,7 +4211,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4272,7 +4243,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4299,7 +4270,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4327,7 +4298,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4357,7 +4328,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4386,7 +4357,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4396,7 +4367,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -4415,7 +4386,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4425,7 +4396,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -4445,7 +4416,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4477,7 +4448,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4507,7 +4478,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4536,7 +4507,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4565,7 +4536,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4593,7 +4564,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4621,7 +4592,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4650,7 +4621,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4678,7 +4649,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4707,7 +4678,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4736,7 +4707,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4766,7 +4737,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4796,7 +4767,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4824,7 +4795,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4854,7 +4825,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4882,7 +4853,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4913,7 +4884,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4945,7 +4916,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -4974,7 +4945,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5003,7 +4974,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5031,7 +5002,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5059,7 +5030,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5088,7 +5059,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5117,7 +5088,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5146,7 +5117,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5176,7 +5147,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5206,7 +5177,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5238,7 +5209,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5266,7 +5237,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5295,7 +5266,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5322,7 +5293,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5353,7 +5324,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5384,7 +5355,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5413,7 +5384,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5443,7 +5414,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5473,7 +5444,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5503,7 +5474,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5533,7 +5504,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5565,7 +5536,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5594,7 +5565,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5625,7 +5596,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5655,7 +5626,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5685,7 +5656,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5715,7 +5686,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5744,7 +5715,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5773,7 +5744,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5805,7 +5776,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5835,7 +5806,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5863,7 +5834,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5873,7 +5844,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -5892,7 +5863,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5902,7 +5873,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -5920,7 +5891,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5949,7 +5920,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -5978,7 +5949,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6006,7 +5977,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6035,7 +6006,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6064,7 +6035,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6093,7 +6064,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6122,7 +6093,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6153,7 +6124,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6182,7 +6153,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6212,7 +6183,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6242,7 +6213,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6271,7 +6242,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6299,7 +6270,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6328,7 +6299,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6358,7 +6329,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6386,7 +6357,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6416,7 +6387,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6445,7 +6416,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6474,7 +6445,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6506,7 +6477,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6536,7 +6507,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6566,7 +6537,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6594,7 +6565,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6623,7 +6594,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6653,7 +6624,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6682,7 +6653,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6712,7 +6683,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6741,7 +6712,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6769,7 +6740,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6797,7 +6768,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6827,7 +6798,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6855,7 +6826,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6884,7 +6855,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6914,7 +6885,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6942,7 +6913,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -6971,7 +6942,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7000,7 +6971,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7030,7 +7001,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7060,7 +7031,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7089,7 +7060,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7119,7 +7090,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7147,7 +7118,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7177,7 +7148,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7208,7 +7179,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7238,7 +7209,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7267,7 +7238,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7295,7 +7266,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7324,7 +7295,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7334,7 +7305,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -7354,7 +7325,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7364,7 +7335,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -7383,7 +7354,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7412,7 +7383,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7440,7 +7411,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7469,7 +7440,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7499,7 +7470,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7528,7 +7499,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7557,7 +7528,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7587,7 +7558,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7619,7 +7590,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7649,7 +7620,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7679,7 +7650,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7709,7 +7680,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7739,7 +7710,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7767,7 +7738,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7796,7 +7767,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7827,7 +7798,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7857,7 +7828,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7889,7 +7860,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7917,7 +7888,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7947,7 +7918,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -7977,7 +7948,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8006,7 +7977,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8035,7 +8006,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8063,7 +8034,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8091,7 +8062,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8121,7 +8092,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8151,7 +8122,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8182,7 +8153,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8213,7 +8184,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8242,7 +8213,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8272,7 +8243,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8302,7 +8273,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8333,7 +8304,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8364,7 +8335,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8391,7 +8362,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8421,7 +8392,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8451,7 +8422,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8482,7 +8453,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8513,7 +8484,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8543,7 +8514,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8572,7 +8543,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8604,7 +8575,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8632,7 +8603,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8663,7 +8634,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8695,7 +8666,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8725,7 +8696,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8755,7 +8726,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8783,7 +8754,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8813,7 +8784,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8823,7 +8794,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -8841,7 +8812,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8851,7 +8822,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -8870,7 +8841,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8899,7 +8870,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8927,7 +8898,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8955,7 +8926,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -8984,7 +8955,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9013,7 +8984,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9043,7 +9014,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9071,7 +9042,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9101,7 +9072,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9131,7 +9102,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9161,7 +9132,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9190,7 +9161,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9222,7 +9193,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9253,7 +9224,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9283,7 +9254,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9315,7 +9286,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9347,7 +9318,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9378,7 +9349,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9406,7 +9377,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9438,7 +9409,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9466,7 +9437,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9495,7 +9466,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9525,7 +9496,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9557,7 +9528,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9587,7 +9558,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9615,7 +9586,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9645,7 +9616,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9674,7 +9645,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9704,7 +9675,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9733,7 +9704,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9761,7 +9732,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9790,7 +9761,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9819,7 +9790,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9849,7 +9820,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9878,7 +9849,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9907,7 +9878,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9936,7 +9907,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9966,7 +9937,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -9996,7 +9967,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10024,7 +9995,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10052,7 +10023,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10081,7 +10052,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10111,7 +10082,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10141,7 +10112,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10171,7 +10142,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10201,7 +10172,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10230,7 +10201,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10259,7 +10230,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10288,7 +10259,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10298,7 +10269,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -10320,7 +10291,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10330,7 +10301,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -10352,7 +10323,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10380,7 +10351,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10409,7 +10380,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10437,7 +10408,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10467,7 +10438,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10497,7 +10468,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10527,7 +10498,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10556,7 +10527,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10586,7 +10557,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10615,7 +10586,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10644,7 +10615,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10676,7 +10647,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10706,7 +10677,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10735,7 +10706,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10765,7 +10736,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10795,7 +10766,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10824,7 +10795,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>17</srw:recordPosition>
+            <srw:recordPosition>16</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10852,7 +10823,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>18</srw:recordPosition>
+            <srw:recordPosition>17</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10880,7 +10851,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>19</srw:recordPosition>
+            <srw:recordPosition>18</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10911,7 +10882,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>20</srw:recordPosition>
+            <srw:recordPosition>19</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10940,7 +10911,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>21</srw:recordPosition>
+            <srw:recordPosition>20</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -10971,7 +10942,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>22</srw:recordPosition>
+            <srw:recordPosition>21</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11000,7 +10971,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>23</srw:recordPosition>
+            <srw:recordPosition>22</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11028,7 +10999,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>24</srw:recordPosition>
+            <srw:recordPosition>23</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11056,7 +11027,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>25</srw:recordPosition>
+            <srw:recordPosition>24</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11085,7 +11056,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>26</srw:recordPosition>
+            <srw:recordPosition>25</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11115,7 +11086,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>27</srw:recordPosition>
+            <srw:recordPosition>26</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11145,7 +11116,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>28</srw:recordPosition>
+            <srw:recordPosition>27</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11174,7 +11145,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>29</srw:recordPosition>
+            <srw:recordPosition>28</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11202,7 +11173,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>30</srw:recordPosition>
+            <srw:recordPosition>29</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11231,7 +11202,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>31</srw:recordPosition>
+            <srw:recordPosition>30</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11260,7 +11231,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>32</srw:recordPosition>
+            <srw:recordPosition>31</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11288,7 +11259,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>33</srw:recordPosition>
+            <srw:recordPosition>32</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11317,7 +11288,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>34</srw:recordPosition>
+            <srw:recordPosition>33</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11346,7 +11317,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>35</srw:recordPosition>
+            <srw:recordPosition>34</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11375,7 +11346,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>36</srw:recordPosition>
+            <srw:recordPosition>35</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11407,7 +11378,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>37</srw:recordPosition>
+            <srw:recordPosition>36</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11436,7 +11407,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>38</srw:recordPosition>
+            <srw:recordPosition>37</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11465,7 +11436,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>39</srw:recordPosition>
+            <srw:recordPosition>38</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11497,7 +11468,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>40</srw:recordPosition>
+            <srw:recordPosition>39</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11527,7 +11498,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>41</srw:recordPosition>
+            <srw:recordPosition>40</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11558,7 +11529,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>42</srw:recordPosition>
+            <srw:recordPosition>41</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11588,7 +11559,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>43</srw:recordPosition>
+            <srw:recordPosition>42</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11618,7 +11589,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>44</srw:recordPosition>
+            <srw:recordPosition>43</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11648,7 +11619,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>45</srw:recordPosition>
+            <srw:recordPosition>44</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11676,7 +11647,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>46</srw:recordPosition>
+            <srw:recordPosition>45</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11705,7 +11676,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>47</srw:recordPosition>
+            <srw:recordPosition>46</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11735,7 +11706,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>48</srw:recordPosition>
+            <srw:recordPosition>47</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11763,7 +11734,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>49</srw:recordPosition>
+            <srw:recordPosition>48</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11773,7 +11744,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-    <srw:record>
+        <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -11793,7 +11764,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
+            <srw:recordPosition>49</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11803,7 +11774,7 @@
                 <typedoc>periodiques</typedoc>
             </srw:extraRecordData>
         </srw:record>
-        <srw:record>
+    <srw:record>
             <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
@@ -11823,7 +11794,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11855,7 +11826,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11883,7 +11854,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -11912,7 +11883,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>

@@ -1863,44 +1863,6 @@
             <srw:recordPacking>xml</srw:recordPacking>
             <srw:recordData>
                 <oai_dc:dc>
-                    <dc:contributor>Chebat, Fouad. Fonction indéterminée</dc:contributor>
-                    <dc:contributor>Julliot de La Morandière, Léon (1885-1968). Fonction indéterminée</dc:contributor>
-                    <dc:date>1938</dc:date>
-                    <dc:description>Numérisé par le partenaire</dc:description>
-                    <dc:description>Appartient à l’ensemble documentaire : BbLevt0</dc:description>
-                    <dc:description>Numérisé par le partenaire</dc:description>
-                    <dc:format>VIII, 386 p. ; 25 cm</dc:format>
-                    <dc:format>Nombre total de vues : 408</dc:format>
-                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9106476f</dc:identifier>
-                    <dc:language>fre</dc:language>
-                    <dc:language>français</dc:language>
-                    <dc:publisher>Sirey (Paris)</dc:publisher>
-                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588713r</dc:relation>
-                    <dc:rights>domaine public</dc:rights>
-                    <dc:rights>public domain</dc:rights>
-                    <dc:source>Bibliothèque Orientale de l'Université Saint-Joseph de Beyrouth, 59 C3/21</dc:source>
-                    <dc:title>Les Etrangers devant la justice en Syrie et au Liban / Fouad Chebat ; préface de M. Julliot de La Morandière</dc:title>
-                    <dc:type>text</dc:type>
-                    <dc:type>monographie imprimée</dc:type>
-                    <dc:type>monographie imprimée</dc:type>
-                </oai_dc:dc>
-            </srw:recordData>
-            <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>0</srw:recordPosition>
-            <srw:extraRecordData>
-                <epubFile/>
-                <infoSupModifiable/>
-                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9106476f </link>
-                <nqamoyen>0.0</nqamoyen>
-                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9106476f.thumbnail</thumbnail>
-                <typedoc>monographies</typedoc>
-            </srw:extraRecordData>
-        </srw:record>
-        <srw:record>
-            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
-            <srw:recordPacking>xml</srw:recordPacking>
-            <srw:recordData>
-                <oai_dc:dc>
                     <dc:contributor>Laurent, Achille. Fonction indéterminée</dc:contributor>
                     <dc:date>1846</dc:date>
                     <dc:description>Numérisé par le partenaire</dc:description>
@@ -1923,7 +1885,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>1</srw:recordPosition>
+            <srw:recordPosition>0</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -1960,7 +1922,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>2</srw:recordPosition>
+            <srw:recordPosition>1</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2001,7 +1963,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>3</srw:recordPosition>
+            <srw:recordPosition>2</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2040,7 +2002,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>4</srw:recordPosition>
+            <srw:recordPosition>3</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2077,7 +2039,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>5</srw:recordPosition>
+            <srw:recordPosition>4</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2117,7 +2079,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>6</srw:recordPosition>
+            <srw:recordPosition>5</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2154,7 +2116,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>7</srw:recordPosition>
+            <srw:recordPosition>6</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2191,7 +2153,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>8</srw:recordPosition>
+            <srw:recordPosition>7</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2230,7 +2192,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>9</srw:recordPosition>
+            <srw:recordPosition>8</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2267,7 +2229,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>10</srw:recordPosition>
+            <srw:recordPosition>9</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2304,7 +2266,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>11</srw:recordPosition>
+            <srw:recordPosition>10</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2341,7 +2303,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>12</srw:recordPosition>
+            <srw:recordPosition>11</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2378,7 +2340,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>13</srw:recordPosition>
+            <srw:recordPosition>12</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2415,7 +2377,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>14</srw:recordPosition>
+            <srw:recordPosition>13</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2452,7 +2414,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>15</srw:recordPosition>
+            <srw:recordPosition>14</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>
@@ -2488,7 +2450,7 @@
                 </oai_dc:dc>
             </srw:recordData>
             <srw:recordIdentifier>ark</srw:recordIdentifier>
-            <srw:recordPosition>16</srw:recordPosition>
+            <srw:recordPosition>15</srw:recordPosition>
             <srw:extraRecordData>
                 <epubFile/>
                 <infoSupModifiable/>

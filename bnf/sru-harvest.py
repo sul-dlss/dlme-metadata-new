@@ -1,9 +1,10 @@
-from lxml import etree
-import urllib.request
-import os
 from math import ceil
-import time
+import os
 import re
+import time
+import urllib.request
+
+from lxml import etree
 
 # Add key-value pairs where the key is the file name and the value is the url to the first page in the search results
 BnF_data = {
@@ -12,7 +13,7 @@ BnF_data = {
     'bo': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Biblioth%C3%A8que%20Orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29',
     'ebaf': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22%20Ecole%20biblique%20et%20arch%C3%A9ologique%20fran%C3%A7aise%20de%20J%C3%A9rusalem%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29',
     'cealex': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22cealex%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29',
-    'ideo': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&collapsing=true&exactSearch=false&query=%28%28bibliotheque%20adj%20%22Institut%20dominicain%20d%27%C3%A9tudes%20orientales%22%29%29#resultat-id-3',     
+    'ideo': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&collapsing=true&exactSearch=false&query=%28%28bibliotheque%20adj%20%22Institut%20dominicain%20d%27%C3%A9tudes%20orientales%22%29%29#resultat-id-3',
     'ifao': 'https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Institut%20fran%C3%A7ais%20d%E2%80%99arch%C3%A9ologie%20orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29',
 }
 
@@ -27,7 +28,7 @@ def to_str(bytes_or_str):
     else:
         value = bytes_or_str
 
-    return value # Instance of str
+    return value  # Instance of str
 
 
 def base_url_to_xml(base_url):
@@ -38,8 +39,8 @@ def base_url_to_xml(base_url):
 
 
 def get_number_of_records(url):
-    '''Reads in an xml file from a provided url and retrieves the value in the numberOfRecords 
-    element.''' 
+    '''Reads in an xml file from a provided url and retrieves the value in the numberOfRecords
+    element.'''
     url = base_url_to_xml(url)
     site = urllib.request.urlopen(url)
     contents = site.read()
@@ -51,7 +52,27 @@ def get_number_of_records(url):
     os.remove('temp.xml')
 
     return number_of_records
- 
+
+
+def get_next_record_position(url):
+    '''Reads in an xml file from a provided url and retrieves the value in the nextRecordPosition
+    element.'''
+    url = base_url_to_xml(url)
+    site = urllib.request.urlopen(url)
+    contents = site.read()
+    file = open('temp.xml', 'w')
+    file.write(to_str(contents))
+    file.close()
+    tree = etree.ElementTree(file='temp.xml')
+    next_record_position = tree.find('srw:nextRecordPosition', ns).text
+    os.remove('temp.xml')
+
+    number_of_records = get_number_of_records(url)
+
+    # if next_record_position <= number_of_records:
+    return next_record_position 
+    # else:
+    #     return number_of_records
 
 def records_viewed_per_page(url):
     '''Takes a url and extracts the number of records viewed'''
@@ -63,35 +84,36 @@ def records_viewed_per_page(url):
 
 
 def get_urls(url):
-    '''takes the base url and returns a list of urls for all subsequent pages. The number of records is limited to 50 per page so each 
+    '''Takes the base url and returns a list of urls for all subsequetn pages. The number of records is limited to 50 per page so each
     collection will be spread over multiple pages (the numberOfRecords divided by 50 and rounded up one digit).'''
-    number_of_records = get_number_of_records(url) 
+    number_of_records = get_number_of_records(url)
     url = base_url_to_xml(url)
     number_records_per_page = int(records_viewed_per_page(url))
-    number_of_pages = ceil(int(number_of_records) / number_records_per_page)
+    number_of_pages = ceil(int(number_of_records) / number_records_per_page) - 1
+    next_record_position = get_next_record_position(url)
     urls = []
     urls.append(url)
     page_count = 1
     record_count = 0
-    for i in range(number_of_pages - 1):
-        next_url = url
-        next_url = next_url.replace('page=1', 'page=' + str(page_count + 1))
-        next_url = next_url.replace('startRecord=0', 'startRecord=' + str(record_count + number_records_per_page))
+    next_url = url
+    for i in range(number_of_pages):
+        next_record_position = get_next_record_position(next_url)
+        next_url = re.sub(r'page=\d*', 'page={}'.format(page_count), next_url)  
+        next_url = re.sub(r'startRecord=\d*', 'startRecord={}'.format(next_record_position), next_url)
         urls.append(next_url)
         page_count += 1
-        record_count += number_records_per_page 
-        
+        record_count += number_records_per_page
     return urls
 
 
 def main():
-    '''Reads in a dictionary of form 'file_name: base_url', passes base_url to get_urls, then iterates over the list of urls-one for 
-    each page of records–and saves the xml from each page to a file'''    
+    '''Reads in a dictionary of form 'file_name: base_url', passes base_url to get_urls, then iterates over the list of urls-one for
+    each page of records–and saves the xml from each page to a file'''
     for key, value in BnF_data.items():
         urls = get_urls(value)
         file_count = 1
 
-        # Get the xml surrounding the set of records 
+        # Get the xml surrounding the set of records
         base_file_contents = urllib.request.urlopen(urls[0]).read()
         base_file_name = 'base.xml'
         base_file = open(base_file_name, 'w')
@@ -105,15 +127,15 @@ def main():
         records = base_tree.find('srw:records', ns)
 
         # Debugging delete
-        print('{0}: {1} of {2} records'.format(key, len(records), number_of_records ))
+        print('{}: {} of {} records'.format(key, len(records), number_of_records))
 
         for url in urls[1:]:
             site = urllib.request.urlopen(url)
             temp_contents = site.read()
-            directory_name = '{0}/data/'.format(key) #'data/'+key+str(file_count)+'.xml'
+            directory_name = '{}/data/'.format(key)
             if not os.path.exists(directory_name):
                 os.makedirs(directory_name)
-            temp_file_name = '{0}{1}.xml'.format(key, str(file_count))
+            temp_file_name = '{}{}.xml'.format(key, str(file_count))
             temp_file = open(temp_file_name, 'w')
             temp_file.write(to_str(temp_contents))
             temp_file.close()
@@ -121,30 +143,29 @@ def main():
             temp_records = temp_tree.find('srw:records', ns)
             children = list(temp_records)
             for child in children:
-            	records.append(child)
+                records.append(child)
             os.remove(temp_file_name)
             file_count += 1
-            time.sleep(3)        
-        
+            time.sleep(3)
+
             # Debugging delete
-            print('{0}: {1} of {2} records'.format(key, len(records), number_of_records ))
+            print('{}: {} of {} records'.format(key, len(records), number_of_records))
 
-
-        out_file = '{0}/data/{1}.xml'.format(key, key) 
+        out_file = '{}/data/{}.xml'.format(key, key)
         with open(out_file, 'w') as f:
-        	f.write(etree.tostring(records, encoding='unicode', pretty_print=True))
+            f.write(etree.tostring(records, encoding='unicode', pretty_print=True))
         f.close()
         os.remove(base_file_name)
 
         # Quality Assurance Testing
-        stats = open('{0}/{1}_stats.txt'.format(key, key), 'w')
+        stats = open('{}/{}_stats.txt'.format(key, key), 'w')
         record_count = 0
         for record in records:
-        	record_count += 1 
-        if number_of_records == record_count:
-        	stats.write("Number of records = {0}".format(record_count))
+            record_count += 1
+        if int(number_of_records) == int(record_count):
+            stats.write("{} of {} records harvested".format(record_count, number_of_records))
         else:
-        	stats.write("Error: expected {0} records, read {1} records".format(number_of_records, record_count))
+            stats.write("Error: expected {} records, harvested {} records".format(number_of_records, record_count))
         stats.close()
 
 
