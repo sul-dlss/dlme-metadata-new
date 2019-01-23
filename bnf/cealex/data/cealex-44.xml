@@ -1,0 +1,33 @@
+<srw:record xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:ns7="http://gallica.bnf.fr/namespaces/gallica/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:onix_dc="http://bibnum.bnf.fr/NS/onix_dc/" xmlns:onix="http://www.editeur.org/onix/2.1/reference/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>19??</dc:date>
+                    <dc:description>Numérisé par le partenaire</dc:description>
+                    <dc:description>Numérisé par le partenaire</dc:description>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/cb327887638/date</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>français</dc:language>
+                    <dc:publisher>Maison d'édition Dar-el-Hilal (Le Caire)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb327887638</dc:relation>
+                    <dc:source>Centre d'Études Alexandrines (CEAlex)</dc:source>
+                    <dc:title>Images</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>texte</dc:type>
+                    <dc:type>publication en série imprimée</dc:type>
+                    <dc:type>printed serial</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>43</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile/>
+                <infoSupModifiable/>
+                <link>https://gallica.bnf.fr/ark:/12148/cb327887638/date </link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>bpt6k9106064v.thumbnail</thumbnail>
+                <typedoc>periodiques</typedoc>
+            </srw:extraRecordData>
+        </srw:record>
+        

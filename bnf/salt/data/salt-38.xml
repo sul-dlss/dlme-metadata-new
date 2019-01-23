@@ -1,0 +1,30 @@
+<srw:record xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:ns7="http://gallica.bnf.fr/namespaces/gallica/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:onix_dc="http://bibnum.bnf.fr/NS/onix_dc/" xmlns:onix="http://www.editeur.org/onix/2.1/reference/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+            <srw:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <oai_dc:dc>
+                    <dc:date>1915-01-01</dc:date>
+                    <dc:description>Politique, économique, financier, commercial.</dc:description>
+                    <dc:format>27-20 cm</dc:format>
+                    <dc:identifier>PFMOR915</dc:identifier>
+                    <dc:identifier>http://www.archives.saltresearch.org/R/?func=dbin-jump-full&amp;object_id=822286</dc:identifier>
+                    <dc:language>French</dc:language>
+                    <dc:publisher>Imp. Gérard Frères</dc:publisher>
+                    <dc:relation>vignette : http://www.archives.saltresearch.org/webclient/DeliveryManager?pid=848196</dc:relation>
+                    <dc:rights>Open Access</dc:rights>
+                    <dc:title>The Oriental Advertiser - Le Moniteur Oriental</dc:title>
+                    <dc:type>Newspaper</dc:type>
+                </oai_dc:dc>
+            </srw:recordData>
+            <srw:recordIdentifier>ark</srw:recordIdentifier>
+            <srw:recordPosition>37</srw:recordPosition>
+            <srw:extraRecordData>
+                <epubFile/>
+                <infoSupModifiable/>
+                <link>http://www.archives.saltresearch.org/R/?func=dbin-jump-full&amp;object_id=822286 </link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail> http://www.archives.saltresearch.org/webclient/DeliveryManager?pid=848196 </thumbnail>
+                <typedoc>periodiques</typedoc>
+            </srw:extraRecordData>
+        </srw:record>
+        
