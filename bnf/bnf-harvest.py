@@ -169,16 +169,16 @@ def main():
                 current_file.close()
         os.remove(out_file)
                
-        # Quality assurance testing
-        stats = open('{}/{}_stats.txt'.format(key, key), 'w')
-        record_count = 0
-        for record in records:
-            record_count += 1
-        if int(number_of_records) == int(record_count):
-            stats.write("{} of {} records harvested".format(record_count, number_of_records))
-        else:
-            stats.write("Error: expected {} records, harvested {} records".format(number_of_records, record_count))
-        stats.close()
+        # # Quality assurance testing
+        # stats = open('{}/{}_stats.txt'.format(key, key), 'w')
+        # record_count = 0
+        # for record in records:
+        #     record_count += 1
+        # if int(number_of_records) == int(record_count):
+        #     stats.write("{} of {} records harvested".format(record_count, number_of_records))
+        # else:
+        #     stats.write("Error: expected {} records, harvested {} records".format(number_of_records, record_count))
+        # stats.close()
 
 
 if __name__ == "__main__":
