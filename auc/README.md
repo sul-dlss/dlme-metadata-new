@@ -13,6 +13,13 @@
 * p1579coll11: Selections from the Rare Books and Special Collections Library | 13 of 13
 * p1579coll24: Qurna Hillside Oral History Project | 21 of 21
 * p1579coll19: Bint al-Nil | 168 of 168
+* p1579coll9: Alexandria Bombardment of 1882 Photograph Album
+* p1579coll16: Philip Maritz Collection of Émile Béchard's Photographs
+* p1579coll21: Egyptian Postcard Collection
+* p1579coll8: Underwood & Underwood Egypt Stereoviews
+* p1579coll12: Nicholas S. Hopkins Rural Egypt Photographs
+* p1579coll4: Iryan Moftah Coptic Language and Religion Manuscripts
+* p1579coll1: Kraus-Meyerhof Offprints
 
 
 ## Partially Approved/Unclear
@@ -22,15 +29,7 @@
 
 ## Pending Approval (hold off on harvesting)
 * p1579coll29: Al-Musawwar magazine Collection
-* p1579coll9: Alexandria Bombardment of 1882 Photograph Album
-* p1579coll16: Philip Maritz Collection of Émile Béchard's Photographs
-* p1579coll21: Egyptian Postcard Collection
-* p1579coll8: Underwood & Underwood Egypt Stereoviews
-* p1579coll12: Nicholas S. Hopkins Rural Egypt Photographs
 * p1579coll25: Ethnographic and Anthropological Films - Egypt and Beyond 
-* p1579coll4: Iryan Moftah Coptic Language and Religion Manuscripts
-* p1579coll1: Kraus-Meyerhof Offprints
-
 
 ## Needs Review by Curatorial Advisors
 * p1579coll31: Richard B. Parker Nile Watercraft Photographs

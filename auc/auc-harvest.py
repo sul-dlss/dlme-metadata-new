@@ -18,10 +18,7 @@ sets = sickle.ListSets()
 print("Sets created.") # status update
 
 # Do not harvest these sets; permission not yet granted
-do_not_harvest = ['p15795coll31', 'p15795coll32', 'p15795coll1', 'p15795coll4', 
-				 'p15795coll25', 'p15795coll12', 'p15795coll8', 'p15795coll21',
-				 'p15795coll16', 'p15795coll9', 'p15795coll29', 'p15795coll22', 
-				 'p15795coll7']
+do_not_harvest = ['p15795coll31', 'p15795coll32', 'p15795coll25', 'p15795coll29', 'p15795coll22', 'p15795coll7']
 
 set_number = 0
 for s in sets:
