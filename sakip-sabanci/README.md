@@ -1,6 +1,13 @@
 # Sakip Sabanci Museum Harvesting and Analysis Documentation
 
-## abidindino
+## Harvesting Notes
+- base url: http://cdm21044.contentdm.oclc.org/oai/oai.php
+- Sakip Sabanci Museum uses the OAI-PMH sets feature; there are four sets available
+- All content has been approved for harvesting; it has been harvested and can be found at `dlme-metadata/sakip-sabanci`
+
+## Analysis Results
+
+### abidindino
 {http://purl.org/dc/elements/1.1/}contributor: |                         |     82/2084 |   3% 
    {http://purl.org/dc/elements/1.1/}coverage: |=====                    |    482/2084 |  23% 
     {http://purl.org/dc/elements/1.1/}creator: |==================       |   1559/2084 |  74% 
@@ -14,8 +21,9 @@
     {http://purl.org/dc/elements/1.1/}subject: |                         |     30/2084 |   1% 
       {http://purl.org/dc/elements/1.1/}title: |=========================|   2084/2084 | 100% 
        {http://purl.org/dc/elements/1.1/}type: |=========================|   2084/2084 | 100% 
+   
        
-## emirgan
+### emirgan
    {http://purl.org/dc/elements/1.1/}coverage: |=                        |     11/258 |   4% 
        {http://purl.org/dc/elements/1.1/}date: |=============            |    139/258 |  53% 
 {http://purl.org/dc/elements/1.1/}description: |==================       |    186/258 |  72% 
@@ -28,7 +36,7 @@
        {http://purl.org/dc/elements/1.1/}type: |=========================|    258/258 | 100% 
 
 
-## Kitapvehat
+### Kitapvehat
 {http://purl.org/dc/elements/1.1/}contributor: |=====================    |    527/601 |  87% 
    {http://purl.org/dc/elements/1.1/}coverage: |                         |     17/601 |   2% 
     {http://purl.org/dc/elements/1.1/}creator: |                         |      1/601 |   0% 
@@ -44,7 +52,7 @@
        {http://purl.org/dc/elements/1.1/}type: |======================== |    594/601 |  98% 
 
 
-## ResimKlksyn
+### ResimKlksyn
     {http://purl.org/dc/elements/1.1/}creator: |=========================|    495/495 | 100% 
        {http://purl.org/dc/elements/1.1/}date: |====================     |    396/495 |  80% 
 {http://purl.org/dc/elements/1.1/}description: |                         |     17/495 |   3% 

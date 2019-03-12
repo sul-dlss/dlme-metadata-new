@@ -1,6 +1,14 @@
 # American University of Cairo
 
-## Approved Collections
+## Harvesting Notes
+- base url: http://cdm15795.contentdm.oclc.org/oai/oai.php
+- AUC uses the OAI-PMH set feature; there are 29 sets available
+- 19 sets have been fully approved; these have been harvested and can be found at `dlme-metadata/auc`
+- 2 sets have been partially approved but not harvested
+- 2 sets await review from the curatorial advisors
+- 4 sets were not deemed a priority by the curatorial advisors
+
+## Analysis Results
 ### p1579coll23: AUC Historical Videos | 17 of 17
    {http://purl.org/dc/elements/1.1/}coverage: |=========================|     17/17 | 100%
     {http://purl.org/dc/elements/1.1/}creator: |====                     |      3/17 |  17%
