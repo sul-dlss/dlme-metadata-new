@@ -1,8 +1,28 @@
 # DLME Metadata
 
-This repo contains records for the DLME based on stewarding institions and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. For some collections, the scripts that were used for processing the metadata are also included. 
+This repo contains records for the DLME organized by stewarding instition and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. If collections are not used, all records harvested from an institution will be in the same directory.
 
-Much of this data was included for the purposes of testing the prototype. Each collection may need to be reviewed by the curatorial advisors to determine if it should ultimately be included in the DLME.
+## American University in Cairo
+
+* Alexandria Bombardment of 1882 Photograph Album (p15795coll9)
+* AUC Historical Videos (p15795coll23)
+* AUC Student Newspapers (p15795coll26)
+* Bint al-Nil (p15795coll19)
+* Egyptian Postcard Collection (p15795coll21)
+* Hassan Fathy Collection (p15795coll13)
+* Historical Maps (p15795coll6)
+* Iryan Moftah Coptic Language and Religion Manuscripts (p15795coll4)
+* Islamic Art & Architecture Slides (p15795coll30)
+* K.A.C. Creswell Photographs of Islamic Architecture (p15795coll14)
+* Napoleonic Egypt (p15795coll2)
+* Kraus-Meyerhof Offprints (p15795coll1)
+* Nicholas S. Hopkins Rural Egypt Photographs (p15795coll12)
+* Philip Maritz Collection of Émile Béchard's Photographs (p15795coll16)
+* Ramses Wissa Wassef (p15795coll5)
+* Selections from the Rare Books and Special Collections Library (p15795coll11)
+* Taxiphote slides (p15795coll15)
+* Qurna Hillside Oral History Project (p15795coll24)
+* Underwood & Underwood Egypt Stereoviews (p15795coll8)
 
 ## Ancient Numismatic Society
 
@@ -15,37 +35,15 @@ Under the https://opendatacommons.org/licenses/odbl/ license
 ## BnF
 
 * Bibliothèque orientale (BO)
-	- 66 books
-	- priority: high
-
 * Centre d'études alexandrines (CEALEX)
-	- 270 images and serials (a serial with multiple issues is counted as a single records)
-	- priority: medium
-
 * École biblique et archéologique française de Jérusalem (EBAF)
-	- 199 books and maps
-	- priority: high
-
 * Institut Dominicain d’études orientales (IDEO)
-	- 60 books
-	- priority: high
-
 * Institut français d’archéologie orientale (IFAO)
-	- 277 books and images (mostly images)
-	- priority: high
-
 * Institut français d’études anatoliennes (IFEA)
-	- 415 images
-	- priority: medium
-
-* SALT
-	- 405 press and magazines
-	- priority: high
 
 ## Harvard
 
 * Islamic Manuscripts
-
 * Maps
 
 ## Met
@@ -55,18 +53,21 @@ Under the https://opendatacommons.org/licenses/odbl/ license
 ## Penn
 
 * Egyptian Museum
-
 * Marc records (not sure what kind of resources these describe)
-
 * Near Eastern
-
 * Schoenberg
 
 ## Princeton
 
 * Islamic Manuscripts
-
 * Movie Posters
+
+## Sakip Sabanci Museum
+
+* Abidindino
+* Emirgan
+* Kitapvehat
+* Resim Klksyn
 
 ## Stanford
 
@@ -75,8 +76,10 @@ Under the https://opendatacommons.org/licenses/odbl/ license
 ## Yale
 
 * 3d
-
 * Medical Manuscripts
-
 * Movie Posters
+
+## Qatar National Library (QNL)
+
+* British Library India Office
 
