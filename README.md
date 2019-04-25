@@ -1,6 +1,6 @@
 # DLME Metadata
 
-This repo contains records for the DLME organized by stewarding instition and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. If collections are not used, all records harvested from an institution will be in the same directory.
+This repo contains records for the DLME organized by stewarding institution and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. If collections are not used, all records harvested from an institution will be in the same directory.
 
 ## American University in Cairo
 
@@ -17,7 +17,7 @@ This repo contains records for the DLME organized by stewarding instition and co
 * Napoleonic Egypt (p15795coll2)
 * Kraus-Meyerhof Offprints (p15795coll1)
 * Nicholas S. Hopkins Rural Egypt Photographs (p15795coll12)
-* Philip Maritz Collection of Émile Béchard's Photographs (p15795coll16)
+* Philip Maritz Collection of Émile Béchard's Photographs (p15795coll16)
 * Ramses Wissa Wassef (p15795coll5)
 * Selections from the Rare Books and Special Collections Library (p15795coll11)
 * Taxiphote slides (p15795coll15)
