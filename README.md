@@ -4,6 +4,7 @@ This repo contains records for the DLME organized by stewarding institution and 
 
 ## American University in Cairo
 
+* Al-Musawwar magazine Collection (p15795coll29)
 * Alexandria Bombardment of 1882 Photograph Album (p15795coll9)
 * AUC Historical Videos (p15795coll23)
 * AUC Student Newspapers (p15795coll26)
@@ -19,6 +20,7 @@ This repo contains records for the DLME organized by stewarding institution and 
 * Nicholas S. Hopkins Rural Egypt Photographs (p15795coll12)
 * Philip Maritz Collection of Émile Béchard's Photographs (p15795coll16)
 * Ramses Wissa Wassef (p15795coll5)
+* Richard B. Parker Nile Watercraft Photographs (p15795coll31)
 * Selections from the Rare Books and Special Collections Library (p15795coll11)
 * Taxiphote slides (p15795coll15)
 * Qurna Hillside Oral History Project (p15795coll24)
