@@ -1,9 +1,10 @@
 # DLME Metadata
 
-This repo contains records for the DLME organized by stewarding instition and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. If collections are not used, all records harvested from an institution will be in the same directory.
+This repo contains records for the DLME organized by stewarding institution and collections. Institutions have their own directories with collections as sub directories when the concept of 'collection' is used as an organizing strategy. If collections are not used, all records harvested from an institution will be in the same directory.
 
 ## American University in Cairo
 
+* Al-Musawwar magazine Collection (p15795coll29)
 * Alexandria Bombardment of 1882 Photograph Album (p15795coll9)
 * AUC Historical Videos (p15795coll23)
 * AUC Student Newspapers (p15795coll26)
@@ -19,6 +20,7 @@ This repo contains records for the DLME organized by stewarding instition and co
 * Nicholas S. Hopkins Rural Egypt Photographs (p15795coll12)
 * Philip Maritz Collection of Émile Béchard's Photographs (p15795coll16)
 * Ramses Wissa Wassef (p15795coll5)
+* Richard B. Parker Nile Watercraft Photographs (p15795coll31)
 * Selections from the Rare Books and Special Collections Library (p15795coll11)
 * Taxiphote slides (p15795coll15)
 * Qurna Hillside Oral History Project (p15795coll24)
