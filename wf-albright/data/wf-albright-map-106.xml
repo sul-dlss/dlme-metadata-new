@@ -1,0 +1,63 @@
+<record>
+  <leader>01730nem a2200253 a 4500</leader>
+  <controlfield tag="001">991000096289702696</controlfield>
+  <controlfield tag="005">20170625070444.0</controlfield>
+  <controlfield tag="008">051118s1935    xx        c   r01   eng c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10229-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10229</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000009</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">British Admiralty</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Mediterranean Sea [Eastern Portion].</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scales vary.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">British Admiralty,</subfield>
+    <subfield code="c">1935-1939.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map in 8 sheets ;</subfield>
+    <subfield code="c">64 x 99 cm. or smaller, on 8 sheets 70 x 106 cm. or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Admiralty charts.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Sheets: 846 Plans on the Coast of Cyprus : South Coast Limassol/ Larnaca/ Paphos/ Dhekelia Road (1939) -- 847 Plans on the Coast of Cyprus : East Coast Famagusta Harbour/  North Coast Karavostasi/ North Coast Kyrenia/ East Coast Boghaz (1936) -- 2074 Cyprus (1939) -- 2188 Plans on the Coast of Syria : Latakia/ Ras-el-Fasori to Ras Ziaret/ Alexandretta Bay (1935) -- 2606 Crete to Alexandretta (1939) -- 2632 Coast of Syria Sheet 1, Gulf of Iskanderun to Markhab [inset: Bay of Bazit] (1939) -- 2633 Coast of Syria Sheet 2, Markhab to Tyre [inset: Juneh Bay] (1939) -- 2634 Coast of Palestine - Tyre to El Arish [inset: Athlith] (1939).</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Sheet sizes: 846, 103 x 70 cm.; 847, 102 x 70 cm.; 2074, 103 x 70 cm.; 2188, 102 x 70 cm.; 2606, 103 x 70 cm.; 2632, 102 x 70 cm.; 2633, 106 x 68 cm.; 2634, 102 x 70 cm.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Mediterranean Sea</subfield>
+    <subfield code="z">Eastern Mediterranean</subfield>
+    <subfield code="v">Maps</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">18</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 28-35-846,-847,-2074,-2188,-2606,-2632,-2633,-2634</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">13 (sheet 846), 12 (sheet 847), 11 (sheet 2074), 5 (sheet 2188), 7 (sheet 2606), 256 (sheet 2632), 8 (sheet 2633), 215 (sheet 2634).</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

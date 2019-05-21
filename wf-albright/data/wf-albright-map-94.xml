@@ -1,0 +1,66 @@
+<record>
+  <leader>01028nem a2200253 a 4500</leader>
+  <controlfield tag="001">991000096169702696</controlfield>
+  <controlfield tag="005">20170202120801.0</controlfield>
+  <controlfield tag="008">051118s1865    xx            001 0 eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10217-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10217</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000073</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wilson, Charles William,</subfield>
+    <subfield code="c">Sir,</subfield>
+    <subfield code="d">1836-1905.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Jerusalem 1:10,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:10,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1865-1868.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 1 sheet ;</subfield>
+    <subfield code="c">48 x 48 cm.</subfield>
+  </datafield>
+  <datafield tag="501" ind1=" " ind2=" ">
+    <subfield code="a">Haram Grounds, &amp;c. (47-2,47-3), Plan of the Church of the Holy Sepulchre (47-4), [Jerusalem : Floor plans of the Citadel, Dome of the Rock, &amp;c.] (47-5).</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Will require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Jerusalem</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="t">Ordnance Survey of Jerusalem,</subfield>
+    <subfield code="o">MAPS 25 (CM40.W692o: 46,47,48)</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://nrs.harvard.edu/urn-3:FHCL:1204737?buttons=y</subfield>
+    <subfield code="z">Digital version on Harvard University Map Collection website.</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">85</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 25 (vol.2, 47-1)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

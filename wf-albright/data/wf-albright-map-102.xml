@@ -1,0 +1,76 @@
+<record>
+  <leader>01694nem a2200277 a 4500</leader>
+  <controlfield tag="001">991000096249702696</controlfield>
+  <controlfield tag="005">20190116051734.0</controlfield>
+  <controlfield tag="008">051118s1915    xx            001 0 eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10225-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10225</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000013</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Mansell, F R</subfield>
+    <subfield code="e">, compiler</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Eastern Turkey in Asia 1:250,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:250,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">British War Office,</subfield>
+    <subfield code="c">1915.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map in 16 (of 48?) sheets ;</subfield>
+    <subfield code="c">69 x 85 cm. or smaller, on 16 sheets 71 x 92 cm. or smaller.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="8" ind2=" ">
+    <subfield code="a">Sheets: 14. Nakhichewan -- 21. Khoi-Julfa -- 28. Alexandretta -- 29. Meskene -- 30. Ras-Ul-Ain -- 31. Sinjar -- 35. Kirkuk -- 37. Kifri -- 40. Kerbela--42. Hit -- 43. Ana -- 44. Deir Es Zor -- 44a. Resafe -- 45. Mendali -- 46. Palmyra -- 48. Hatra.</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Will require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digitized versions of sheets are also available online on the AIAR website. See:</subfield>
+    <subfield code="u">http://www.aiar.org/wp-content/uploads/2015/01/Eastern_Turkey_in_Asia_1_250000.pdf</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Sheet sizes: Sheet 14, 71 x 63 cm. Sheet 21, 69 x 63 cm. Sheet 28, 84 x 64 cm. Sheet 29, 71 x 66 cm. Sheet 30, 71 x 66 cm. Sheet 31, 71 x 62 cm. Sheet 35, 79 x 63 cm. Sheet 37, 71 x 65 cm. Sheet 40, 92 x 60 cm. Sheet 42, 85 x 62 cm. Sheet 43, 79 x 62 cm. Sheet 44, 84 x 62 cm. Sheet 44a, 69 x 62 cm. Sheet 45, 69 x 61 cm. Sheet 46, 69 x 62 cm. Sheet 48, 92 x 63 cm.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Ottoman Empire</subfield>
+    <subfield code="z">Iraq</subfield>
+    <subfield code="v">Maps</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Ottoman Empire</subfield>
+    <subfield code="z">Lebanon</subfield>
+    <subfield code="v">Maps</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">22</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 32A: 35-15-14, -21, -28-31, -35, -37, -40, -42-46, -48</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">261 / 280 / 507 ?</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,59 @@
+<record>
+  <leader>00860nem a2200229 a 4500</leader>
+  <controlfield tag="001">991000097089702696</controlfield>
+  <controlfield tag="005">20170202120812.0</controlfield>
+  <controlfield tag="008">051118s1918    gw        a  or |   ger d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10309-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10309</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000113</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Reichsamt fuer Landesaufnahme</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Karte von Palaestina 1:25,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:25,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin :</subfield>
+    <subfield code="b">Reichskartenstelle,</subfield>
+    <subfield code="c">1918</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 7 sheets ;</subfield>
+    <subfield code="c">50 x 52 or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The map Palaestina 1:25,000 is bound together with Palaestina 1:50,000.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Sheets: 58N Muannis -- 59NW Sabje -- 59NO Azzun -- 59SW Wilhelma -- 59SO Rafat -- 60SW Abwen -- 60NW Kafr Haris.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Palestine</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">125</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS - Open Shelf Cabinet 43</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

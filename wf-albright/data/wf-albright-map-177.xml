@@ -1,0 +1,80 @@
+<record>
+  <leader>01420nem a2200289 a 4500</leader>
+  <controlfield tag="001">991000096999702696</controlfield>
+  <controlfield tag="005">20170202120808.0</controlfield>
+  <controlfield tag="008">051118s1934    xx            001 0 eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10300-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10300</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000088</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Ordnance Survey of Great Britain</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">International Map of the Roman Empire =</subfield>
+    <subfield code="b">Carte Internationale de l' Empire Romain 1:1,000,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:1,000,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[s.n.] :</subfield>
+    <subfield code="b">Ordnance Survey of Great Britain</subfield>
+    <subfield code="a">Giza :</subfield>
+    <subfield code="b">Survey of Egypt,</subfield>
+    <subfield code="c">1934.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 6 sheets ;</subfield>
+    <subfield code="c">46.5 x 64.5 cm. or smaller, on 6 sheets 63 x 80 cm. or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">All sheets are stamped with Clarence Fisher's stamp on verso.</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">Sheets: N.F.36 Wadi Halfa -- N.G.36 Aswan -- N.H.35 Alexandria -- N.H.36 Cairo -- N.N.30 Edinburgh -- N.O.30 Aberdeen.</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">May require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Sheet sizes: N.F.36, 80 x 63 cm.; N.G.36, 80 x 63 cm.; N.H.35, 80 x 63 cm.; N.H.36, 80 x 63 cm.; N.N.30, 68 x 54 cm.; N.O.30, 68 x 49 cm.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Europe</subfield>
+    <subfield code="z">Great Britain</subfield>
+    <subfield code="z">Scotland</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Africa</subfield>
+    <subfield code="z">Egypt</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2=" ">
+    <subfield code="b">Survey of Egypt</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">100</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="3">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 27A-F-36, -G-36, -H-35, -H-36, -N-30, -O-30</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">52 (N.F.36), 56 (N.G.36), 75 (N.H.35), 269 (N.H.36), 37 (N.N.30), 70 (N.O.30).</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

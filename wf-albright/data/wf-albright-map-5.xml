@@ -1,0 +1,80 @@
+<record>
+  <leader>02029nem a2200313 a 4500</leader>
+  <controlfield tag="001">991000097069702696</controlfield>
+  <controlfield tag="005">20170228155950.0</controlfield>
+  <controlfield tag="008">051118s1922    xx        b   r 1   eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10307-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10307</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000069</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Survey of Palestine</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Jerusalem 1:2,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:2,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">Survey of Palestine,</subfield>
+    <subfield code="c">1922-1927.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 12 sheets ;</subfield>
+    <subfield code="c">50 x 50 cm., on 12 sheets 62 x 58 cm. or smaller.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The sheets are numbered but untitled. Captions have been added in manuscript.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">All sheets are stamped with Clarence Fisher's stamp on verso.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Sheet numbers: V-D. [Monastery of the Cross]--V-E. [Montefiore]--V-F. [Old City, Jewish Quarter]--V-G. [Jewish Cemeteries]--VI-D. [Shaarei Hesed]--VI-E. [Russian Compound]--VI-F. [Old City, Moslem Quarter]--VI-G. [Mount of Olives]--VII-D. [Mahane Yehuda]--VII-E. [Mea Shearim]--VII-F. [American Colony]--VII-G. [Mt. Scopus]</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">Will require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digitized version, photography by Ardon Bar-Hama courtesy of George Blumenthal, available online on the AIAR website. See sheet links at:</subfield>
+    <subfield code="u">http://www.aiar.org/wp-content/uploads/2015/02/Jerusalem_1_2000.pdf</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digitized version also available from the Albright CD collection (GA1321.B3).</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Sheet sizes: V-D, 61 x 58 cm.; V-E, 58 x 55 cm.; V-F, 59 x 56 cm.; V-G, 59 x 56 cm.; VI-D, 61 x 56 cm.; VI-E, 58 x 55 cm.; VI-F, 58 x 56 cm.; VI-G, 55 x 58 cm.; VII-D, 62 x 57 cm.; VII-E, 61 x 57 cm.; VII-F, missing?; VII-G, 63 x 57 cm.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Jerusalem</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">81</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 25-27-5D - 25-27-7G</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">326 (V-D); 213 (V-E); 327 (V-F); 156 (V-G); 325 (VI-D); 105 (VI-E); 214 (VI-F); 328 (VI-G); 324 (VII-D); 106 (VII-E); 329 (VII-F); 107 (VII-G).</subfield>
+  </datafield>
+  <datafield tag="953" ind1=" " ind2=" ">
+    <subfield code="a">Sheet VII-F [American Colony] missing, Aug 2009, Feb 2015, Feb 2017.</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,65 @@
+<record>
+  <leader>00999nem a2200253 a 4500</leader>
+  <controlfield tag="001">991000096749702696</controlfield>
+  <controlfield tag="005">20170308215537.0</controlfield>
+  <controlfield tag="008">051118s1921    sy        a   r 1   fre c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10275-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10275</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000054</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">Bureau Topographique de A.F.L.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="1">
+    <subfield code="a">[Syria 1:500,000].</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:500,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">Bureau Topographique de A.F.L.,</subfield>
+    <subfield code="c">1921.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 3 sheets ;</subfield>
+    <subfield code="c">45 x 71 cm., on 3 sheets 57 x 80 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Sheets: Alep -- Hama -- Damas.</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">May require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digitized version of the Alep sheet available online on the Digital Library for International Research website:</subfield>
+    <subfield code="u">http://www.dlir.org/archive/orc-exhibit/items/show/collection/11/id/15906</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Syria</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">65</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 38-21-1,-2,-3</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">263 (Alep), 334 (Hama), 254 (Damas).</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

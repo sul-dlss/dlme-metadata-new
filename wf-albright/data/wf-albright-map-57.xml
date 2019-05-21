@@ -1,0 +1,41 @@
+<record>
+  <leader>00552nem a2200181   4500</leader>
+  <controlfield tag="001">991000118749702696</controlfield>
+  <controlfield tag="005">20161105044041.0</controlfield>
+  <controlfield tag="008">160508s                  a  |r |   eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)13307-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">13307</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Palestine</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:500,000</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 2 sheets.</subfield>
+    <subfield code="c">86 x 56.5 cm. on 2 sheets 101 x 65 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Sheets: West -- East.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Palestine</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 23C-08-1 (West); MAPS 23C-08-2 (East)</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">186a (West), 186b (East)</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

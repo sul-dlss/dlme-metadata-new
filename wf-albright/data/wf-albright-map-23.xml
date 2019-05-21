@@ -1,0 +1,74 @@
+<record>
+  <leader>01620nem a2200277 a 4500</leader>
+  <controlfield tag="001">991000097249702696</controlfield>
+  <controlfield tag="005">20170202120813.0</controlfield>
+  <controlfield tag="008">051118s1916    xx            001 0 eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10326-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10326</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000133</subfield>
+  </datafield>
+  <datafield tag="110" ind1="1" ind2=" ">
+    <subfield code="a">U.S. Army Map Service</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">World 1:1,000,000.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:1,000,000.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">U.S. Army Map Service,</subfield>
+    <subfield code="c">1916-1934.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map in 3 segments on 9 sheets ;</subfield>
+    <subfield code="c">46 x 100 cm., 46 x 100 cm., 46 x 250 cm. on sheets 46 x 50 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" ">
+    <subfield code="a">This map is in 3 sections. The sheets have been cut close and glued together in such a way that most of the sheet numbers are not visible. The three sections consist of: 1) a segment made up of 2 sheets stuck together horizontally, the left sheet is titled Rostov-na-Donu [NL37, 33-L-37], the right sheet is titled Elista [NL38, 33-L-38]; 2) [Greece], made up of 2 sheets stuck together vertically [33-JK-34]; and 3) [Turkey], i.e. Anatolia ('map of Anatolia' written on the back), made up of 5 sheets stuck together horizontally [33-KE-39].</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">May require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Segment sizes: 33-L-37 / 33-L-38, 97 x 48 cm. (2 sheets horizontal); 33-JK-34, 91 x 55 cm. (2 sheets vertical); 33-KE-39, 240 x 45 cm. (5 sheets horizontal).</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Europe</subfield>
+    <subfield code="z">Greece</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Europe</subfield>
+    <subfield code="z">Russia</subfield>
+    <subfield code="z">Southern</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Turkey</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">146</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 33-L-37, -38, -JK-34, -KE-39</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">503 (33-L-37 / 33-L-38); 504 top, 505 bottom (33-JK-34).</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>

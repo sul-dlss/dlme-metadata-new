@@ -1,0 +1,80 @@
+<record>
+  <leader>01345nem a2200301 a 4500</leader>
+  <controlfield tag="001">991000096579702696</controlfield>
+  <controlfield tag="005">20170607084259.0</controlfield>
+  <controlfield tag="008">051118s1904    xx        f   001   eng u</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(IL-JeALB)10258-972ai_inst</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">10258</subfield>
+    <subfield code="9">ExL</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">map00000061</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kuemmel, August</subfield>
+    <subfield code="e">, artist.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Karte der Materialien zur Topographie des Alten Jerusalem.</subfield>
+    <subfield code="h">[map]</subfield>
+  </datafield>
+  <datafield tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:2,500.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="b">Deutschen Verein zur Erforschung Palaestinas,</subfield>
+    <subfield code="c">1904.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map on 2 sheets ;</subfield>
+    <subfield code="c">102.5 x 72 cm. on 2 sheets 63 x 80 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">The two sheets are mounted on cloth-bound boards.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">[North sheet]--Südliches Blatt.</subfield>
+  </datafield>
+  <datafield tag="506" ind1=" " ind2=" ">
+    <subfield code="a">May require conservation work before use.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+    <subfield code="a">Digitized version, photography by Ardon Bar-Hama courtesy of George Blumenthal, also available from the Albright CD collection (GA1321.B3).</subfield>
+  </datafield>
+  <datafield tag="595" ind1=" " ind2=" ">
+    <subfield code="a">Sheet sizes: [North], 54 x 72 cm.; [South], 48.5 x 72 cm.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Asia</subfield>
+    <subfield code="z">Middle East</subfield>
+    <subfield code="z">Jerusalem</subfield>
+    <subfield code="v">Maps.</subfield>
+  </datafield>
+  <datafield tag="777" ind1="0" ind2=" ">
+    <subfield code="n">Item issued as part of monograph:</subfield>
+    <subfield code="t">Materialien zur Topographie des alten Jerusalem / von August Kuemmel,</subfield>
+    <subfield code="d">1906,</subfield>
+    <subfield code="o">DS109.K8</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="1">73</subfield>
+    <subfield code="2">Publisher</subfield>
+    <subfield code="5">Uncertain</subfield>
+    <subfield code="6">Full</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="a">MAPS 24-04-1 [North], 24-04-2 [South]</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">162 [North], 163 [South].</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">Inventory no. for map: 1299.</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="a">MAP</subfield>
+  </datafield>
+</record>
