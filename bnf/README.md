@@ -4,13 +4,10 @@
 * The API used is an SRU API
 * base urls: 
 	- IFEA: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Institut%20Fran%C3%A7ais%20d%E2%80%99%C3%89tudes%20Anatoliennes%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
-	- SALT: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=%28provenance%20adj%20%22saltresearch%22%29
 	- BO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Biblioth%C3%A8que%20Orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
 	- CEAlex: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22cealex%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
 	- IDEO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&collapsing=true&exactSearch=false&query=%28%28bibliotheque%20adj%20%22Institut%20dominicain%20d%27%C3%A9tudes%20orientales%22%29%29#resultat-id-3
 	- IFAO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Institut%20fran%C3%A7ais%20d%E2%80%99arch%C3%A9ologie%20orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
-* The SALT data is no longer resolvable
-* The data is in the public domain and we have explicit approval from BnF and IDEO. We have no contact with the other institutions.
 
 ## Analysis Results
 
@@ -131,27 +128,3 @@ srw:recordData/oai_dc:dc/dc:description: |=========================|    415/415 
                      srw:recordPosition: |=========================|    415/415 | 100%
                        srw:recordSchema: |=========================|    415/415 | 100%
                        
-### SALT
-srw:extraRecordData/link: |=========================|    404/404 | 100%
-           srw:extraRecordData/nqamoyen: |=========================|    404/404 | 100%
-          srw:extraRecordData/thumbnail: |=========================|    404/404 | 100%
-            srw:extraRecordData/typedoc: |=========================|    404/404 | 100%
-srw:recordData/oai_dc:dc/dc:contributor: |==================       |    303/404 |  75%
-   srw:recordData/oai_dc:dc/dc:coverage: |                         |      2/404 |   0%
-    srw:recordData/oai_dc:dc/dc:creator: |                         |      3/404 |   0%
-       srw:recordData/oai_dc:dc/dc:date: |======================== |    394/404 |  97%
-srw:recordData/oai_dc:dc/dc:description: |=================        |    290/404 |  71%
-     srw:recordData/oai_dc:dc/dc:format: |=======================  |    376/404 |  93%
- srw:recordData/oai_dc:dc/dc:identifier: |=========================|    404/404 | 100%
-   srw:recordData/oai_dc:dc/dc:language: |=========================|    404/404 | 100%
-  srw:recordData/oai_dc:dc/dc:publisher: |==================       |    296/404 |  73%
-   srw:recordData/oai_dc:dc/dc:relation: |=========================|    404/404 | 100%
-     srw:recordData/oai_dc:dc/dc:rights: |=========================|    404/404 | 100%
-     srw:recordData/oai_dc:dc/dc:source: |                         |     15/404 |   3%
-    srw:recordData/oai_dc:dc/dc:subject: |====                     |     66/404 |  16%
-      srw:recordData/oai_dc:dc/dc:title: |=========================|    404/404 | 100%
-       srw:recordData/oai_dc:dc/dc:type: |======================== |    403/404 |  99%
-                   srw:recordIdentifier: |=========================|    404/404 | 100%
-                      srw:recordPacking: |=========================|    404/404 | 100%
-                     srw:recordPosition: |=========================|    404/404 | 100%
-                       srw:recordSchema: |=========================|    404/404 | 100%
