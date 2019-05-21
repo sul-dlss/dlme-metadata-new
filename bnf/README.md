@@ -6,7 +6,6 @@
 	- IFEA: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Institut%20Fran%C3%A7ais%20d%E2%80%99%C3%89tudes%20Anatoliennes%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
 	- SALT: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=%28provenance%20adj%20%22saltresearch%22%29
 	- BO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Biblioth%C3%A8que%20Orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
-	- EBAF: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22%20Ecole%20biblique%20et%20arch%C3%A9ologique%20fran%C3%A7aise%20de%20J%C3%A9rusalem%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
 	- CEAlex: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22cealex%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
 	- IDEO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&collapsing=true&exactSearch=false&query=%28%28bibliotheque%20adj%20%22Institut%20dominicain%20d%27%C3%A9tudes%20orientales%22%29%29#resultat-id-3
 	- IFAO: https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=50&page=1&collapsing=true&exactSearch=false&query=dc.source%20all%20%22Institut%20fran%C3%A7ais%20d%E2%80%99arch%C3%A9ologie%20orientale%22%20%20and%20%28provenance%20adj%20%22bnf.fr%22%29
@@ -60,28 +59,6 @@ srw:recordData/oai_dc:dc/dc:description: |=========================|    272/272 
                       srw:recordPacking: |=========================|    272/272 | 100%
                      srw:recordPosition: |=========================|    272/272 | 100%
                        srw:recordSchema: |=========================|    272/272 | 100%
-
-### EBAF
-srw:extraRecordData/link: |=========================|    199/199 | 100%
-           srw:extraRecordData/nqamoyen: |=========================|    199/199 | 100%
-          srw:extraRecordData/thumbnail: |=========================|    199/199 | 100%
-            srw:extraRecordData/typedoc: |=========================|    199/199 | 100%
-    srw:recordData/oai_dc:dc/dc:creator: |==========               |     86/199 |  43%
-       srw:recordData/oai_dc:dc/dc:date: |======================== |    196/199 |  98%
-srw:recordData/oai_dc:dc/dc:description: |=========================|    199/199 | 100%
-     srw:recordData/oai_dc:dc/dc:format: |=========================|    199/199 | 100%
- srw:recordData/oai_dc:dc/dc:identifier: |=========================|    199/199 | 100%
-  srw:recordData/oai_dc:dc/dc:publisher: |=========================|    199/199 | 100%
-   srw:recordData/oai_dc:dc/dc:relation: |=========================|    199/199 | 100%
-     srw:recordData/oai_dc:dc/dc:rights: |=========================|    199/199 | 100%
-     srw:recordData/oai_dc:dc/dc:source: |=========================|    199/199 | 100%
-    srw:recordData/oai_dc:dc/dc:subject: |=========================|    199/199 | 100%
-      srw:recordData/oai_dc:dc/dc:title: |=========================|    199/199 | 100%
-       srw:recordData/oai_dc:dc/dc:type: |=========================|    199/199 | 100%
-                   srw:recordIdentifier: |=========================|    199/199 | 100%
-                      srw:recordPacking: |=========================|    199/199 | 100%
-                     srw:recordPosition: |=========================|    199/199 | 100%
-                       srw:recordSchema: |=========================|    199/199 | 100%
 
 ### IDEO
 srw:extraRecordData/link: |=========================|     60/60 | 100%
