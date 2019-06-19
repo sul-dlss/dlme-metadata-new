@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 312: ʻIr Siḥon</title>
+        <title>Description of University of Pennsylvania LJS 312: &#699;Ir Sih&#803;on</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5411100</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs312.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Mathematical work on basic calculations, including business or commercial arithmetic.</summary>
             <textLang>Hebrew</textLang>
             <msItem>
-              <title>ʻIr Siḥon</title>
+              <title>&#699;Ir Sih&#803;on</title>
               <author>Sarfati, Joseph ben Moses, fl. ca. 1400-1450</author>
               <respStmt>
                 <resp>former owner</resp>
@@ -60,7 +63,7 @@
                 </support>
                 <extent>58 leaves : 133 x 99 (101 x 65) mm. bound to 137 x 116 mm</extent>
                 <collation>
-                  <p>Paper, i (modern) + i (early) + 58 + i (modern); 1¹²(-1) 2-4¹²; [1-58], modern foliation in pencil, upper left recto.</p>
+                  <p>Paper, i (modern) + i (early) + 58 + i (modern); 1&#185;&#178;(-1) 2-4&#185;&#178;; [1-58], modern foliation in pencil, upper left recto.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -107,8 +110,8 @@
             </origin>
             <provenance>Formerly owned by Solomon Hirschel, first Chief Rabbi of London.</provenance>
             <provenance>Formerly held in the library of Jews' College (London; stamp, early flyleaf), no. 137 (inscription).</provenance>
-            <provenance>Formerly held in the library of the Bet din tsedeḳ London ṿeha-medinah (Ashkenazi rabbinical court, London), no. 133 (spine).</provenance>
-            <provenance>Sold at auction at Christie, Manson &amp; Woods as part of the collection of the Bet din tsedeḳ London ṿeha-medinah, 23 Jun. 1999, lot 100, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Formerly held in the library of the Bet din tsedek&#803; London v&#803;eha-medinah (Ashkenazi rabbinical court, London), no. 133 (spine).</provenance>
+            <provenance>Sold at auction at Christie, Manson &amp; Woods as part of the collection of the Bet din tsedek&#803; London v&#803;eha-medinah, 23 Jun. 1999, lot 100, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>
         </msDesc>

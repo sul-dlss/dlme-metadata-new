@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1899: Munshaʼāt-i Ḥaz̤rat-i Nābī Afandī</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1899: Munsha&#700;a&#772;t-i H&#803;az&#804;rat-i Na&#772;bi&#772; Afandi&#772;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1899: Munshaʼāt-i Ḥaz̤rat-i Nābī Afandī are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1899: Munshaʼāt-i Ḥaz̤rat-i Nābī Afandī. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1899: Munsha&#700;a&#772;t-i H&#803;az&#804;rat-i Na&#772;bi&#772; Afandi&#772; are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1899: Munsha&#700;a&#772;t-i H&#803;az&#804;rat-i Na&#772;bi&#772; Afandi&#772;. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,26 +29,29 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523179</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1899.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copies of official correspondence written by Nābī.</summary>
+            <summary>Copies of official correspondence written by Na&#772;bi&#772;.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Munshaʼāt-i Ḥaz̤rat-i Nābī Afandī</title>
-              <title type="vernacular">منشئات حضرت نابى افندى</title>
+              <title>Munsha&#700;a&#772;t-i H&#803;az&#804;rat-i Na&#772;bi&#772; Afandi&#772;</title>
+              <title type="vernacular">&#1605;&#1606;&#1588;&#1574;&#1575;&#1578; &#1581;&#1590;&#1585;&#1578; &#1606;&#1575;&#1576;&#1609; &#1575;&#1601;&#1606;&#1583;&#1609;</title>
               <author>
                 <persName type="authority">Nabi, 1641 or 1642-1712</persName>
-                <persName type="vernacular">نابی،</persName>
+                <persName type="vernacular">&#1606;&#1575;&#1576;&#1740;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Z̤amāqavī, Aḥmad Rifʻat ibn al-Ḥājj Muḥammad Fākhir</persName>
-                <persName type="vernacular">ضماقوى، احمد رفعت بن الحاج محمد فاخر.</persName>
+                <persName type="authority">Z&#804;ama&#772;qavi&#772;, Ah&#803;mad Rif&#699;at ibn al-H&#803;a&#772;jj Muh&#803;ammad Fa&#772;khir</persName>
+                <persName type="vernacular">&#1590;&#1605;&#1575;&#1602;&#1608;&#1609;&#1548; &#1575;&#1581;&#1605;&#1583; &#1585;&#1601;&#1593;&#1578; &#1576;&#1606; &#1575;&#1604;&#1581;&#1575;&#1580; &#1605;&#1581;&#1605;&#1583; &#1601;&#1575;&#1582;&#1585;.</persName>
               </respStmt>
               <respStmt>
                 <resp>patron</resp>
-                <persName type="authority">Ali Paşa, Damad, 1667?-1716</persName>
-                <persName type="vernacular">علي باشا،</persName>
+                <persName type="authority">Ali Pas&#807;a, Damad, 1667?-1716</persName>
+                <persName type="vernacular">&#1593;&#1604;&#1610; &#1576;&#1575;&#1588;&#1575;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -61,7 +64,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Munshaʼāt-i Ḥaz̤rat-i Nābī Afandī</title>
+              <title>Munsha&#700;a&#772;t-i H&#803;az&#804;rat-i Na&#772;bi&#772; Afandi&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -78,7 +81,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq using black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q using black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red; headings in red set off by gold rules. Illuminated headpiece in gold, purple and green on opening page (f. 1v); textblock border-ruled in gold and black, with an additional red rule on the first opening (f. 1v-2r).</decoNote>
@@ -97,7 +100,7 @@
               <origDate>A.H. 1124 (1712)</origDate>
               <origPlace>Turkey?</origPlace>
             </origin>
-            <provenance>Formerly owned by Aḥmad Rifʻat ibn al-Ḥājj Muḥammad Fākhir al-Z̤amāqavī, known as Ibn Aghū (?) (owner's note and stamp, f. 1r).</provenance>
+            <provenance>Formerly owned by Ah&#803;mad Rif&#699;at ibn al-H&#803;a&#772;jj Muh&#803;ammad Fa&#772;khir al-Z&#804;ama&#772;qavi&#772;, known as Ibn Aghu&#772; (?) (owner's note and stamp, f. 1r).</provenance>
             <provenance>Formerly owned by Swarthmore College, given to the University of Pennsylvania in 1967 (note in pencil inside front cover).</provenance>
           </history>
         </msDesc>

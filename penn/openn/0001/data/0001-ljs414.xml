@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,14 +39,17 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5145509</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs414.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of astronomical works, including 2 on the astrolabe (f. 1v-20v, 163r-168v), a treatise on a horoscope (f. 157v-160v) referring to Khawaja Haji Ghulām Ḥusayn and the date A.H. 1047 (1636, a date of birth?), and an illustrated work on Dhu al-Qarnayn, a Koranic figure later associated with legends of Alexander the Great (f. 137r-157r). Possibly copied by madrasah students, with some annotations.</summary>
+            <summary>Collection of astronomical works, including 2 on the astrolabe (f. 1v-20v, 163r-168v), a treatise on a horoscope (f. 157v-160v) referring to Khawaja Haji Ghula&#772;m H&#803;usayn and the date A.H. 1047 (1636, a date of birth?), and an illustrated work on Dhu al-Qarnayn, a Koranic figure later associated with legends of Alexander the Great (f. 137r-157r). Possibly copied by madrasah students, with some annotations.</summary>
             <textLang>Persian</textLang>
             <msItem>
               <title>Astrological compendium</title>
-              <author>Shīrāzī, Nāṣir ibn Ḥaydar ibn Muḥammad</author>
-              <author>Taqī Fārsī, Abū al-Khayr Muḥammad</author>
+              <author>Shi&#772;ra&#772;zi&#772;, Na&#772;s&#803;ir ibn H&#803;aydar ibn Muh&#803;ammad</author>
+              <author>Taqi&#772; Fa&#772;rsi&#772;, Abu&#772; al-Khayr Muh&#803;ammad</author>
               <respStmt>
                 <resp>former owner</resp>
                 <persName>Aga Khan, Sadruddin, Prince, 1933-</persName>
@@ -99,10 +102,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script by multiple hands.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script by multiple hands.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Ink drawings in the Dhakhīrat Iskandar Dhu al-Qarnayn of an animal, perhaps a jackal (f. 149v), 2 worms with pincers (f. 150v), hybrids of a snake with an animal's head and a person with a snake's tail (f. 151r), a scorpion (f. 151v), a crane (f. 152v), a youth with one hand on his head (f. 153r), and a rougher, sexual drawing of a man and a woman (f. 154v); tables in red and black (f. 41r-107r); significant words or phrases and headings in red throughout.</decoNote>
+              <decoNote>Ink drawings in the Dhakhi&#772;rat Iskandar Dhu al-Qarnayn of an animal, perhaps a jackal (f. 149v), 2 worms with pincers (f. 150v), hybrids of a snake with an animal's head and a person with a snake's tail (f. 151r), a scorpion (f. 151v), a crane (f. 152v), a youth with one hand on his head (f. 153r), and a rougher, sexual drawing of a man and a woman (f. 154v); tables in red and black (f. 41r-107r); significant words or phrases and headings in red throughout.</decoNote>
               <decoNote n="23v">Table, f. 23v</decoNote>
               <decoNote n="31r">Table, f. 31r</decoNote>
               <decoNote n="31v">Table, f. 31v</decoNote>
@@ -179,13 +182,13 @@
             </decoDesc>
             <bindingDesc>
               <binding>
-                <p>Morocco with painted gilt borders, stamped with medallions and the name Ibrāhīm ibn Muḥammad Bāqir; morocco doublures.</p>
+                <p>Morocco with painted gilt borders, stamped with medallions and the name Ibra&#772;hi&#772;m ibn Muh&#803;ammad Ba&#772;qir; morocco doublures.</p>
               </binding>
             </bindingDesc>
           </physDesc>
           <history>
             <origin>
-              <p>Written at the madrasah of ʻAlī Jāh Maḥmūd Beg Nāẓir, ca. 1670 (works dated on f. 136v, 157r, 168v), probably in Iṣfahān (f. 136v) in Persia, now Iran.</p>
+              <p>Written at the madrasah of &#699;Ali&#772; Ja&#772;h Mah&#803;mu&#772;d Beg Na&#772;z&#803;ir, ca. 1670 (works dated on f. 136v, 157r, 168v), probably in Is&#803;faha&#772;n (f. 136v) in Persia, now Iran.</p>
               <origDate>ca. 1670 (A.H. 1081)</origDate>
               <origPlace>Iran</origPlace>
             </origin>

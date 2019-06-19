@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 404: Jawāmīʻ al-ʻulam</title>
+        <title>Description of University of Pennsylvania LJS 404: Jawa&#772;mi&#772;&#699; al-&#699;ulam</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5762366</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs404.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Summary of the branches of knowledge, including the Koran, hadith, and history of Islam; grammar, rhetoric, and logic; medicine, anatomy, and pharmacology; gems and talismans; agriculture and veterinary science; geometry, geodesy, weight, arithmetic, and algebra; music; astronomy, astrology, and magic; theology, ethics, and political science. Marginal notes in a later hand.</summary>
             <textLang>Persian</textLang>
             <msItem>
-              <title>Jawāmīʻ al-ʻulam</title>
-              <author>Rāzī, Fakhr al-Dīn Muḥammad ibn ʻUmar, 1149 or 50-1210</author>
+              <title>Jawa&#772;mi&#772;&#699; al-&#699;ulam</title>
+              <author>Ra&#772;zi&#772;, Fakhr al-Di&#772;n Muh&#803;ammad ibn &#699;Umar, 1149 or 50-1210</author>
               <respStmt>
                 <resp>former owner</resp>
                 <persName>Aga Khan, Sadruddin, Prince, 1933-</persName>

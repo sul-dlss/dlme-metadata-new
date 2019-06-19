@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1895: Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1895: Kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1895: Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1895: Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1895: Kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1895: Kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
-        <note>Title from text: "aradtu an ajmaʻa minhā fī tilka al-risālah bi-iltimās baʻḍ al-ikhwān kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī" (f. 1v).</note>
+        <note>Title from text: "aradtu an ajma&#699;a minha&#772; fi&#772; tilka al-risa&#772;lah bi-iltima&#772;s ba&#699;d&#803; al-ikhwa&#772;n kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;" (f. 1v).</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -29,26 +29,29 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578439</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1895.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Dictionary of Arabic terms defined in Ottoman Turkish; introduction also in Arabic.</summary>
             <textLang mainLang="ara" otherLangs="ota">Arabic headwords, Ottoman definitions</textLang>
             <msItem>
-              <title>Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī.</title>
-              <title type="vernacular">كلمات عربية على ترتيب حروف التهجي</title>
+              <title>Kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;.</title>
+              <title type="vernacular">&#1603;&#1604;&#1605;&#1575;&#1578; &#1593;&#1585;&#1576;&#1610;&#1577; &#1593;&#1604;&#1609; &#1578;&#1585;&#1578;&#1610;&#1576; &#1581;&#1585;&#1608;&#1601; &#1575;&#1604;&#1578;&#1607;&#1580;&#1610;</title>
               <author>
-                <persName type="authority">Akhtarī, Muṣṭafá ibn Aḥmad, -1560 or 1561</persName>
-                <persName type="vernacular">اختري، مصطفى بن احمد</persName>
+                <persName type="authority">Akhtari&#772;, Mus&#803;t&#803;afa&#769; ibn Ah&#803;mad, -1560 or 1561</persName>
+                <persName type="vernacular">&#1575;&#1582;&#1578;&#1585;&#1610;&#1548; &#1605;&#1589;&#1591;&#1601;&#1609; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Ibn Barī Khān, ʻAbd al-Fattāḥ</persName>
-                <persName type="vernacular">ابن بري خان، عبد الفتاح.</persName>
+                <persName type="authority">Ibn Bari&#772; Kha&#772;n, &#699;Abd al-Fatta&#772;h&#803;</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1576;&#1585;&#1610; &#1582;&#1575;&#1606;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1601;&#1578;&#1575;&#1581;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kalimāt ʻarabīyah ʻalá tartīb ḥurūf al-tahajjī</title>
+              <title>Kalima&#772;t &#699;arabi&#772;yah &#699;ala&#769; tarti&#772;b h&#803;uru&#772;f al-tahajji&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -65,7 +68,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink. Marginal comments also in nastaʻliq.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink. Marginal comments also in nasta&#699;liq.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>
@@ -75,7 +78,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in A.H. 956 (1549) by ʻAbd al-Fattāḥ ibn Barī Khān (f. 203v); likely in Turkey.</p>
+              <p>Copied in A.H. 956 (1549) by &#699;Abd al-Fatta&#772;h&#803; ibn Bari&#772; Kha&#772;n (f. 203v); likely in Turkey.</p>
               <origDate>A.H. 956 (1549)</origDate>
               <origPlace>Turkey</origPlace>
             </origin>

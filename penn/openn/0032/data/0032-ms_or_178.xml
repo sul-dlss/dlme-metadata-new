@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13619027</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_178.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Book of prayers in memory of the Prophet Muḥammad (f. 1v-71v) followed by a section with names of the companions (asmāʼ al-ṣaḥābah) (f. 72v-86v).</summary>
+            <summary>Book of prayers in memory of the Prophet Muh&#803;ammad (f. 1v-71v) followed by a section with names of the companions (asma&#772;&#700; al-s&#803;ah&#803;a&#772;bah) (f. 72v-86v).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
               <title>Devotional book.</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Būsnawī, Ḥusayn</persName>
-                <persName type="vernacular">بوسنوي، حسين.</persName>
+                <persName type="authority">Bu&#772;snawi&#772;, H&#803;usayn</persName>
+                <persName type="vernacular">&#1576;&#1608;&#1587;&#1606;&#1608;&#1610;&#1548; &#1581;&#1587;&#1610;&#1606;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -76,30 +79,30 @@
               <decoNote n="1v">Illuminated frontispiece</decoNote>
               <decoNote n="7r">Example of polychrome heading</decoNote>
               <decoNote n="71v">Floral finispiece</decoNote>
-              <decoNote n="73v">List: companions (al-ṣaḥāba), alif</decoNote>
-              <decoNote n="74r">List: companions (al-ṣaḥāba), bā' and tā'</decoNote>
-              <decoNote n="74v">List: companions (al-ṣaḥāba), thā' and jīm</decoNote>
-              <decoNote n="75r">List: companions (al-ṣaḥāba), ḥā'</decoNote>
-              <decoNote n="75v">List: companions (al-ṣaḥāba), khā'</decoNote>
-              <decoNote n="76r">List: companions (al-ṣaḥāba), dhāl</decoNote>
-              <decoNote n="76v">List: companions (al-ṣaḥāba), rā'</decoNote>
-              <decoNote n="77r">List: companions (al-ṣaḥāba), zā' and sīn</decoNote>
-              <decoNote n="77v">List: companions (al-ṣaḥāba), sīn</decoNote>
-              <decoNote n="78r">List: companions (al-ṣaḥāba), sīn</decoNote>
-              <decoNote n="78v">List: companions (al-ṣaḥāba), shīn, ṣād, and ḍāḍ</decoNote>
-              <decoNote n="79r">List: companions (al-ṣaḥāba), ṭā' and 'aīn</decoNote>
-              <decoNote n="79v">List: companions (al-ṣaḥāba), 'aīn</decoNote>
-              <decoNote n="80r">List: companions (al-ṣaḥāba), 'aīn</decoNote>
-              <decoNote n="80v">List: companions (al-ṣaḥāba), 'aīn</decoNote>
-              <decoNote n="81r">List: companions (al-ṣaḥāba), 'aīn</decoNote>
-              <decoNote n="81v">List: companions (al-ṣaḥāba), 'aīn</decoNote>
-              <decoNote n="82r">List: companions (al-ṣaḥāba), ghaīn, fā', and qāf</decoNote>
-              <decoNote n="82v">List: companions (al-ṣaḥāba), kāf, lām, and mīm</decoNote>
-              <decoNote n="83r">Patronymics of the prophet's companions (al-ṣaḥāba)</decoNote>
-              <decoNote n="83v">Patronymics of the prophet's companions (al-ṣaḥāba)</decoNote>
-              <decoNote n="84r">List: companions (al-ṣaḥāba), nūn</decoNote>
-              <decoNote n="84v">List: companions (al-ṣaḥāba), hā' and wāw</decoNote>
-              <decoNote n="85r">Patronymics of the prophet's companions (al-ṣaḥāba)</decoNote>
+              <decoNote n="73v">List: companions (al-s&#803;ah&#803;a&#772;ba), alif</decoNote>
+              <decoNote n="74r">List: companions (al-s&#803;ah&#803;a&#772;ba), ba&#772;' and ta&#772;'</decoNote>
+              <decoNote n="74v">List: companions (al-s&#803;ah&#803;a&#772;ba), tha&#772;' and j&#299;m</decoNote>
+              <decoNote n="75r">List: companions (al-s&#803;ah&#803;a&#772;ba), h&#803;a&#772;'</decoNote>
+              <decoNote n="75v">List: companions (al-s&#803;ah&#803;a&#772;ba), kha&#772;'</decoNote>
+              <decoNote n="76r">List: companions (al-s&#803;ah&#803;a&#772;ba), dha&#772;l</decoNote>
+              <decoNote n="76v">List: companions (al-s&#803;ah&#803;a&#772;ba), ra&#772;'</decoNote>
+              <decoNote n="77r">List: companions (al-s&#803;ah&#803;a&#772;ba), za&#772;' and s&#299;n</decoNote>
+              <decoNote n="77v">List: companions (al-s&#803;ah&#803;a&#772;ba), s&#299;n</decoNote>
+              <decoNote n="78r">List: companions (al-s&#803;ah&#803;a&#772;ba), s&#299;n</decoNote>
+              <decoNote n="78v">List: companions (al-s&#803;ah&#803;a&#772;ba), sh&#299;n, s&#803;a&#772;d, and &#7693;a&#772;&#7693;</decoNote>
+              <decoNote n="79r">List: companions (al-s&#803;ah&#803;a&#772;ba), &#7789;a&#772;' and 'a&#299;n</decoNote>
+              <decoNote n="79v">List: companions (al-s&#803;ah&#803;a&#772;ba), 'a&#299;n</decoNote>
+              <decoNote n="80r">List: companions (al-s&#803;ah&#803;a&#772;ba), 'a&#299;n</decoNote>
+              <decoNote n="80v">List: companions (al-s&#803;ah&#803;a&#772;ba), 'a&#299;n</decoNote>
+              <decoNote n="81r">List: companions (al-s&#803;ah&#803;a&#772;ba), 'a&#299;n</decoNote>
+              <decoNote n="81v">List: companions (al-s&#803;ah&#803;a&#772;ba), 'a&#299;n</decoNote>
+              <decoNote n="82r">List: companions (al-s&#803;ah&#803;a&#772;ba), gha&#299;n, fa&#772;', and qa&#772;f</decoNote>
+              <decoNote n="82v">List: companions (al-s&#803;ah&#803;a&#772;ba), ka&#772;f, la&#772;m, and m&#299;m</decoNote>
+              <decoNote n="83r">Patronymics of the prophet's companions (al-s&#803;ah&#803;a&#772;ba)</decoNote>
+              <decoNote n="83v">Patronymics of the prophet's companions (al-s&#803;ah&#803;a&#772;ba)</decoNote>
+              <decoNote n="84r">List: companions (al-s&#803;ah&#803;a&#772;ba), n&#363;n</decoNote>
+              <decoNote n="84v">List: companions (al-s&#803;ah&#803;a&#772;ba), ha&#772;' and wa&#772;w</decoNote>
+              <decoNote n="85r">Patronymics of the prophet's companions (al-s&#803;ah&#803;a&#772;ba)</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>
@@ -109,7 +112,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in 1171 AH. by Ḥusayn al-Būsnawī, a student of al-Sayyid Sulaymān, known as Khaṭīb Muḥammad Pāshā (f. 71v).</p>
+              <p>Copy completed in 1171 AH. by H&#803;usayn al-Bu&#772;snawi&#772;, a student of al-Sayyid Sulayma&#772;n, known as Khat&#803;i&#772;b Muh&#803;ammad Pa&#772;sha&#772; (f. 71v).</p>
               <origDate>1757-58</origDate>
               <origPlace>Turkey or the Balkans?</origPlace>
             </origin>

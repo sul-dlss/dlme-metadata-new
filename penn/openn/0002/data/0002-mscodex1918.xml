@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1918: Sirr al-asrār fī ʻilm al-āthār ; Shamsīyah fī al-kashf ʻan mā awdaʻ fī al-Jadāwil al-zahrīyah.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1918: Sirr al-asra&#772;r fi&#772; &#699;ilm al-a&#772;tha&#772;r ; Shamsi&#772;yah fi&#772; al-kashf &#699;an ma&#772; awda&#699; fi&#772; al-Jada&#772;wil al-zahri&#772;yah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1918: Sirr al-asrār fī ʻilm al-āthār ; Shamsīyah fī al-kashf ʻan mā awdaʻ fī al-Jadāwil al-zahrīyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1918: Sirr al-asrār fī ʻilm al-āthār ; Shamsīyah fī al-kashf ʻan mā awdaʻ fī al-Jadāwil al-zahrīyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1918: Sirr al-asra&#772;r fi&#772; &#699;ilm al-a&#772;tha&#772;r ; Shamsi&#772;yah fi&#772; al-kashf &#699;an ma&#772; awda&#699; fi&#772; al-Jada&#772;wil al-zahri&#772;yah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1918: Sirr al-asra&#772;r fi&#772; &#699;ilm al-a&#772;tha&#772;r ; Shamsi&#772;yah fi&#772; al-kashf &#699;an ma&#772; awda&#699; fi&#772; al-Jada&#772;wil al-zahri&#772;yah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,24 +29,27 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578477</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1918.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Set of texts about geomancy. The second is a commentary and abridgement of a longer work on geomancy (ʻilm al-raml) by ʻUmar ibn Aḥmad ibn ʻAlī al-Khitāʼī.</summary>
+            <summary>Set of texts about geomancy. The second is a commentary and abridgement of a longer work on geomancy (&#699;ilm al-raml) by &#699;Umar ibn A&#7717;mad ibn &#699;Ali&#772; al-Khita&#772;&#700;i&#772;.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Sirr al-asrār fī ʻilm al-āthār ; Shamsīyah fī al-kashf ʻan mā awdaʻ fī al-Jadāwil al-zahrīyah.</title>
-              <title type="vernacular">سر الاسرار في علم الاثار ؛ شمسية في الكشف عن ما أودع في الجداول الزهرية</title>
+              <title>Sirr al-asra&#772;r fi&#772; &#699;ilm al-a&#772;tha&#772;r ; Shamsi&#772;yah fi&#772; al-kashf &#699;an ma&#772; awda&#699; fi&#772; al-Jada&#772;wil al-zahri&#772;yah.</title>
+              <title type="vernacular">&#1587;&#1585; &#1575;&#1604;&#1575;&#1587;&#1585;&#1575;&#1585; &#1601;&#1610; &#1593;&#1604;&#1605; &#1575;&#1604;&#1575;&#1579;&#1575;&#1585; &#1563; &#1588;&#1605;&#1587;&#1610;&#1577; &#1601;&#1610; &#1575;&#1604;&#1603;&#1588;&#1601; &#1593;&#1606; &#1605;&#1575; &#1571;&#1608;&#1583;&#1593; &#1601;&#1610; &#1575;&#1604;&#1580;&#1583;&#1575;&#1608;&#1604; &#1575;&#1604;&#1586;&#1607;&#1585;&#1610;&#1577;</title>
               <author>
-                <persName type="authority">Shāfiʻī, Shams al-Dīn</persName>
-                <persName type="vernacular">شافعي، شمس الدين</persName>
+                <persName type="authority">Sha&#772;fi&#699;i&#772;, Shams al-Di&#772;n</persName>
+                <persName type="vernacular">&#1588;&#1575;&#1601;&#1593;&#1610;&#1548; &#1588;&#1605;&#1587; &#1575;&#1604;&#1583;&#1610;&#1606;</persName>
               </author>
               <author>
-                <persName type="authority">Shāfiʻī, Shams al-Dīn</persName>
-                <persName type="vernacular">شافعي، شمس الدين،</persName>
+                <persName type="authority">Sha&#772;fi&#699;i&#772;, Shams al-Di&#772;n</persName>
+                <persName type="vernacular">&#1588;&#1575;&#1601;&#1593;&#1610;&#1548; &#1588;&#1605;&#1587; &#1575;&#1604;&#1583;&#1610;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Khiṭāʼī, ʻUmar ibn Aḥmad ibn ʻAlī, active in 1426</persName>
-                <persName type="vernacular">خطائي، عمر بن احمد بن علي</persName>
+                <persName type="authority">Khit&#803;a&#772;&#700;i&#772;, &#699;Umar ibn Ah&#803;mad ibn &#699;Ali&#772;, active in 1426</persName>
+                <persName type="vernacular">&#1582;&#1591;&#1575;&#1574;&#1610;&#1548; &#1593;&#1605;&#1585; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -55,11 +58,11 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Sirr al-asrār fī ʻilm al-āthār</title>
+              <title>Sirr al-asra&#772;r fi&#772; &#699;ilm al-a&#772;tha&#772;r</title>
             </msItem>
             <msItem n="37v">
               <locus>37v</locus>
-              <title>Shamsīyah fī al-kashf ʻan mā awdaʻ fī al-Jadāwil al-zahrīyah.</title>
+              <title>Shamsi&#772;yah fi&#772; al-kashf &#699;an ma&#772; awda&#699; fi&#772; al-Jada&#772;wil al-zahri&#772;yah.</title>
             </msItem>
           </msContents>
           <physDesc>

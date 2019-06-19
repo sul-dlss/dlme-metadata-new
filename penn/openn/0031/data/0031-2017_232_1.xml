@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Department of South Asian Art, 2017-232-1: al-Qurʼān. / القرآن</title>
+        <title>Description of Department of South Asian Art, 2017-232-1: al-Qur&#700;a&#772;n. / &#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
         <respStmt>
           <resp>contributor</resp>
           <persName>Kelly Tuttle</persName>
@@ -12,8 +12,8 @@
       <publicationStmt>
         <publisher>Department of South Asian Art</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Department of South Asian Art 2017-232-1: al-Qurʼān. / القرآن are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Philadelphia Museum of Art has waived all copyright and related or neighboring rights to this metadata about Department of South Asian Art 2017-232-1: al-Qurʼān. / القرآن. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Department of South Asian Art 2017-232-1: al-Qur&#700;a&#772;n. / &#1575;&#1604;&#1602;&#1585;&#1570;&#1606; are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Philadelphia Museum of Art has waived all copyright and related or neighboring rights to this metadata about Department of South Asian Art 2017-232-1: al-Qur&#700;a&#772;n. / &#1575;&#1604;&#1602;&#1585;&#1570;&#1606;. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -27,12 +27,15 @@
             <institution>Philadelphia Museum of Art</institution>
             <repository>Department of South Asian Art</repository>
             <idno type="call-number">2017-232-1</idno>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0031/html/2017_232_1.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qur'an preceeded by five leaves that include a one-page introduction followed by diagrams of the seven readings of the Qur'ān (f. 1v-5r): (1) Nāfiʿ (2) Ibn Kathīr (3) Ibn Amīr of Damascus (4) Abū ʿAmr b. Al-ʿAlāʾ (5) ʿAāṣim (6) Ḥamzah (7) Kisāʾī. Eight leaves have been replaced and rewritten in a different hand, style, and paper (f. 226-231, 534-536). Some marginalia was lost when pages were remounted.</summary>
+            <summary>Complete copy of the Qur'an preceeded by five leaves that include a one-page introduction followed by diagrams of the seven readings of the Qur'&#257;n (f. 1v-5r): (1) N&#257;fi&#703; (2) Ibn Kath&#299;r (3) Ibn Am&#299;r of Damascus (4) Ab&#363; &#703;Amr b. Al-&#703;Al&#257;&#702; (5) &#703;A&#257;&#7779;im (6) &#7716;amzah (7) Kis&#257;&#702;&#299;. Eight leaves have been replaced and rewritten in a different hand, style, and paper (f. 226-231, 534-536). Some marginalia was lost when pages were remounted.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān. / القرآن</title>
+              <title>al-Qur&#700;a&#772;n. / &#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
               <colophon>None</colophon>
             </msItem>
             <msItem n="1v">
@@ -41,7 +44,7 @@
             </msItem>
             <msItem n="5v">
               <locus target="#surface-2017-232-1-14">5v</locus>
-              <title>al-Qurʾān</title>
+              <title>al-Qur&#702;&#257;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -61,14 +64,14 @@
               <scriptNote>Bihari in heavy black ink; pointed and vocalized. Hadith quotes in thuluth. Replacement text in differently styled Bihari.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>31 polychrome dual page illuminations in blue, red, gold, green, and black. The illuminated frames hold Hadith quotations in thuluth script in white ink on gold background, written to be read across the page opening, rather than down the page. Seven diagrams of the readings of the Qurʾān in gold, red, and blue. Numerous other polychrome marginal medallions to mark text partitions. Sūrah headings in gold and blue. Floral roundels in gold, blue, red mark verse endings, sometimes simplified to gold enclosed in a blue circle. Readings in red. Marginalia in red and blue.</decoNote>
-              <decoNote n="2r"><locus target="#surface-2017-232-1-7">2r</locus>Diagram: Reading of Nāfiʿ</decoNote>
-              <decoNote n="2v"><locus target="#surface-2017-232-1-8">2v</locus>Diagram: Reading of Ibn Kathīr</decoNote>
-              <decoNote n="3r"><locus target="#surface-2017-232-1-9">3r</locus>Diagram: Reading of Ibn Amīr of Damascus</decoNote>
-              <decoNote n="3v"><locus target="#surface-2017-232-1-10">3v</locus>Diagram: Reading of Abū ʿAmr ibn al-ʿAlāʾ</decoNote>
-              <decoNote n="4r"><locus target="#surface-2017-232-1-11">4r</locus>Diagram: Reading of ʿAāṣim</decoNote>
-              <decoNote n="4v"><locus target="#surface-2017-232-1-12">4v</locus>Diagram: Reading of Ḥamzah</decoNote>
-              <decoNote n="5r"><locus target="#surface-2017-232-1-13">5r</locus>Diagram: Reading of Kisāʾī</decoNote>
+              <decoNote>31 polychrome dual page illuminations in blue, red, gold, green, and black. The illuminated frames hold Hadith quotations in thuluth script in white ink on gold background, written to be read across the page opening, rather than down the page. Seven diagrams of the readings of the Qur&#702;&#257;n in gold, red, and blue. Numerous other polychrome marginal medallions to mark text partitions. S&#363;rah headings in gold and blue. Floral roundels in gold, blue, red mark verse endings, sometimes simplified to gold enclosed in a blue circle. Readings in red. Marginalia in red and blue.</decoNote>
+              <decoNote n="2r"><locus target="#surface-2017-232-1-7">2r</locus>Diagram: Reading of N&#257;fi&#703;</decoNote>
+              <decoNote n="2v"><locus target="#surface-2017-232-1-8">2v</locus>Diagram: Reading of Ibn Kath&#299;r</decoNote>
+              <decoNote n="3r"><locus target="#surface-2017-232-1-9">3r</locus>Diagram: Reading of Ibn Am&#299;r of Damascus</decoNote>
+              <decoNote n="3v"><locus target="#surface-2017-232-1-10">3v</locus>Diagram: Reading of Ab&#363; &#703;Amr ibn al-&#703;Al&#257;&#702;</decoNote>
+              <decoNote n="4r"><locus target="#surface-2017-232-1-11">4r</locus>Diagram: Reading of &#703;A&#257;&#7779;im</decoNote>
+              <decoNote n="4v"><locus target="#surface-2017-232-1-12">4v</locus>Diagram: Reading of &#7716;amzah</decoNote>
+              <decoNote n="5r"><locus target="#surface-2017-232-1-13">5r</locus>Diagram: Reading of Kis&#257;&#702;&#299;</decoNote>
               <decoNote n="5v"><locus target="#surface-2017-232-1-14">5v</locus>Dual page illumination</decoNote>
               <decoNote n="6r"><locus target="#surface-2017-232-1-15">6r</locus>Dual page illumination</decoNote>
               <decoNote n="20v"><locus target="#surface-2017-232-1-44">20v</locus>Dual page illumination</decoNote>

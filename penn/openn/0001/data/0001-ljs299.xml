@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 299: Sefer ha-Ḳanon ... etc.</title>
+        <title>Description of University of Pennsylvania LJS 299: Sefer ha-K&#803;anon ... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5865187</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs299.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Hebrew translation of Avicenna's medical encyclopedia; its division into 4 books is customary for Hebrew translations, but it also has unusual additional sections on drugs, the liver and intestines, and heart diseases. Short medical works in Judeo-Arabic precede Avicenna's work, and a Judeo-Arabic commentary on Galen follows it; these were written by Saʻīd Danūkh, who also wrote marginal notes alongside the Avicenna.</summary>
+            <summary>Hebrew translation of Avicenna's medical encyclopedia; its division into 4 books is customary for Hebrew translations, but it also has unusual additional sections on drugs, the liver and intestines, and heart diseases. Short medical works in Judeo-Arabic precede Avicenna's work, and a Judeo-Arabic commentary on Galen follows it; these were written by Sa&#699;i&#772;d Danu&#772;kh, who also wrote marginal notes alongside the Avicenna.</summary>
             <textLang mainLang="heb" otherLangs="jrb">Predominant work in Hebrew (p. 19-234), with shorter works in Judeo-Arabic</textLang>
             <msItem>
-              <title>Sefer ha-Ḳanon ... etc.</title>
+              <title>Sefer ha-K&#803;anon ... etc.</title>
               <author>Avicenna, 980-1037</author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Danūkh, Saʻīd</persName>
+                <persName>Danu&#772;kh, Sa&#699;i&#772;d</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -84,7 +87,7 @@
                 </support>
                 <extent>147 leaves : 210 x 153 (142 x 100) mm. bound to 220 x 160 mm</extent>
                 <collation>
-                  <p>Paper, i + 147 + i; 1⁴ 2-5⁸ 6⁶ 7-15⁸ 16⁴ 17-19⁸ 20⁸(-3); [1-294], modern pagination in pencil, usually lower center.</p>
+                  <p>Paper, i + 147 + i; 1&#8308; 2-5&#8312; 6&#8310; 7-15&#8312; 16&#8308; 17-19&#8312; 20&#8312;(-3); [1-294], modern pagination in pencil, usually lower center.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -92,7 +95,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Predominant work written in 15th-century Yemeni semi-cursive Hebrew script with rubrics in square script (p. 19-234); Judeo-Arabic works written in a second 15th- or early 16th-century Yemeni semi-cursive Hebrew script in the hand of Saʻīd Danookh, with marginal notes by other hands as well.</scriptNote>
+              <scriptNote>Predominant work written in 15th-century Yemeni semi-cursive Hebrew script with rubrics in square script (p. 19-234); Judeo-Arabic works written in a second 15th- or early 16th-century Yemeni semi-cursive Hebrew script in the hand of Sa&#699;i&#772;d Danookh, with marginal notes by other hands as well.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>
@@ -106,7 +109,7 @@
               <origDate>ca. 1400-1525</origDate>
               <origPlace>Yemen</origPlace>
             </origin>
-            <provenance>Formerly owned by Saʻīd Danookh (signed glosses, p. 15-16).</provenance>
+            <provenance>Formerly owned by Sa&#699;i&#772;d Danookh (signed glosses, p. 15-16).</provenance>
             <provenance>Formerly owned by David Solomon Sassoon (Ms. 428, labels on spine and inside upper cover).</provenance>
             <provenance>Sold as part of the Sassoon collection at auction at Sotheby's, 21 Jun. 1994, lot 54.</provenance>
             <provenance>Appeared in Sam Fogg's cat. 16 (1995), no. 83; sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Apr. 1999.</provenance>

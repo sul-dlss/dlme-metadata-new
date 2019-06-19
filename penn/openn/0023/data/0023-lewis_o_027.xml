@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 27: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 27: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 27: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 27: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 27: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 27: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
         <note>Title from introduction (f. 2v).</note>
-        <note>Note pasted onto the back inside cover in French describes and attempts to identify the text based on d'Herbelot's Bibliothèque orientale.</note>
+        <note>Note pasted onto the back inside cover in French describes and attempts to identify the text based on d'Herbelot's Bibliothe&#768;que orientale.</note>
         <note>Title written on top edge.</note>
       </notesStmt>
       <sourceDesc>
@@ -34,16 +34,19 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2435297</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_027.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of prayers for the Prophet Muḥammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months.</summary>
+            <summary>Collection of prayers for the Prophet Muh&#803;ammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
-              <title type="vernacular">دلائل الخيرات و شوارق الانوار في ذكر الصلوات على النبي المختار</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
+              <title type="vernacular">&#1583;&#1604;&#1575;&#1574;&#1604; &#1575;&#1604;&#1582;&#1610;&#1585;&#1575;&#1578; &#1608; &#1588;&#1608;&#1575;&#1585;&#1602; &#1575;&#1604;&#1575;&#1606;&#1608;&#1575;&#1585; &#1601;&#1610; &#1584;&#1603;&#1585; &#1575;&#1604;&#1589;&#1604;&#1608;&#1575;&#1578; &#1593;&#1604;&#1609; &#1575;&#1604;&#1606;&#1576;&#1610; &#1575;&#1604;&#1605;&#1582;&#1578;&#1575;&#1585;</title>
               <author>
-                <persName type="authority">Jazūlī, Muḥammad ibn Sulaymān, -1465</persName>
-                <persName type="vernacular">جزولي، محمد بن سليمان، -</persName>
+                <persName type="authority">Jazu&#772;li&#772;, Muh&#803;ammad ibn Sulayma&#772;n, -1465</persName>
+                <persName type="vernacular">&#1580;&#1586;&#1608;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;&#1548; -</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
@@ -62,8 +65,8 @@
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Ibn Rasūl, Maḥmūd al-Kurdī</persName>
-                <persName type="vernacular">ابن رسول، محمود الكردي.</persName>
+                <persName type="authority">Ibn Rasu&#772;l, Mah&#803;mu&#772;d al-Kurdi&#772;</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1585;&#1587;&#1608;&#1604;&#1548; &#1605;&#1581;&#1605;&#1608;&#1583; &#1575;&#1604;&#1603;&#1585;&#1583;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>auctioneer</resp>
@@ -72,7 +75,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -107,7 +110,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed by Maḥmūd al-Kurdī Ibn Rasūl in A.H. 1196 (1782) according to the colophon (f. 97v).</p>
+              <p>Copy completed by Mah&#803;mu&#772;d al-Kurdi&#772; Ibn Rasu&#772;l in A.H. 1196 (1782) according to the colophon (f. 97v).</p>
               <origDate>A.H. 1196 (1782)</origDate>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>

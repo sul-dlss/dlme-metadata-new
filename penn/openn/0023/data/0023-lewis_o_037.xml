@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -33,9 +33,12 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441492</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_037.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Genealogical tables of the Prophets, followed by Eastern and Persian dynasties up to Fatḥ-ʻAlī Shah of the Qajar dynasty. The author says this work is based on an abridged Turkish translation he saw of a Persian text by Yūsuf ibn ʻAbd al-Laṭīf called Tavārīkh va siyar-i anbiyā va akhbār-i sulūk-i mulūk. Since the Persian had been lost, but the Turkish text was recognized as being a translation from Persian, it was decided to translate it back into Persian (f. 1v). The copy then seems to have been expanded to include up to the second Qajar ruler.</summary>
+            <summary>Genealogical tables of the Prophets, followed by Eastern and Persian dynasties up to Fath&#803;-&#699;Ali&#772; Shah of the Qajar dynasty. The author says this work is based on an abridged Turkish translation he saw of a Persian text by Yu&#772;suf ibn &#699;Abd al-Lat&#803;i&#772;f called Tava&#772;ri&#772;kh va siyar-i anbiya&#772; va akhba&#772;r-i sulu&#772;k-i mulu&#772;k. Since the Persian had been lost, but the Turkish text was recognized as being a translation from Persian, it was decided to translate it back into Persian (f. 1v). The copy then seems to have been expanded to include up to the second Qajar ruler.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
               <title>Genealogical tables.</title>
@@ -78,10 +81,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Each page-opening is frame-ruled in green. Rubrications in red. Circles are chiefly either blue or green, but also include orange and closer to the end of the work, red, silver, pink, and yellow. A few circles contain more than one color (f. 36rv-38r, for example). The colored portion of the circle is also sometimes decorated with gold zigzag patterns. Red lines connect the circles and extend over the page frame-rule. The last opening (f. 42v-43r) includes Fatḥ-ʻAlī Shah's name set into an elaborate gold and red circle with a crown on top, surrounded by the names of his sons, in silver, and grandsons in pink, and yellow circles.</decoNote>
+              <decoNote>Each page-opening is frame-ruled in green. Rubrications in red. Circles are chiefly either blue or green, but also include orange and closer to the end of the work, red, silver, pink, and yellow. A few circles contain more than one color (f. 36rv-38r, for example). The colored portion of the circle is also sometimes decorated with gold zigzag patterns. Red lines connect the circles and extend over the page frame-rule. The last opening (f. 42v-43r) includes Fath&#803;-&#699;Ali&#772; Shah's name set into an elaborate gold and red circle with a crown on top, surrounded by the names of his sons, in silver, and grandsons in pink, and yellow circles.</decoNote>
               <decoNote n="2v">Diagram [each diagram extends across the full page-opening]</decoNote>
               <decoNote n="3r">Diagram</decoNote>
               <decoNote n="3v">Diagram</decoNote>
@@ -175,7 +178,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>The item is undated, but likely made in Iran for the reign of Fatḥ-ʻAlī Shah and therefore produced sometime during his reign (1797-1834).</p>
+              <p>The item is undated, but likely made in Iran for the reign of Fath&#803;-&#699;Ali&#772; Shah and therefore produced sometime during his reign (1797-1834).</p>
               <origDate>between 1797 and 1834?</origDate>
               <origPlace>Iran</origPlace>
             </origin>

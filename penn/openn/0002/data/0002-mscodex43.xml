@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Oversize Ms. Codex 43: Manhaj al-ʻilm wa-al-bayān wa-nuzhat al-samʻ wa-al-aʻyān.</title>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 43: Manhaj al-&#699;ilm wa-al-baya&#772;n wa-nuzhat al-sam&#699; wa-al-a&#699;ya&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 43: Manhaj al-ʻilm wa-al-bayān wa-nuzhat al-samʻ wa-al-aʻyān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 43: Manhaj al-ʻilm wa-al-bayān wa-nuzhat al-samʻ wa-al-aʻyān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 43: Manhaj al-&#699;ilm wa-al-baya&#772;n wa-nuzhat al-sam&#699; wa-al-a&#699;ya&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 43: Manhaj al-&#699;ilm wa-al-baya&#772;n wa-nuzhat al-sam&#699; wa-al-a&#699;ya&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Title from introduction (p. 1).</note>
         <note>Copy of a poem and vocabulary sheet laid in. Calligraphic design in black ink and colored sketch of a tree in orange and yellow drawn into the back inside cover. Sketches of swords on back flyleaf.</note>
         <note>Letter dated 13 December 1907 from Dr. S.A. Sterrett Metheny to Dr. Morris Jastrow, Jr. was laid into the manuscript. Metheny indicates that the manuscript had been bought about twenty years earlier by Rev. Henry Easson, a Presbyterian missionary, from a Turkish soldier who said he had captured it in the house of a sheikh during a punitive expedition to the Ansyri mountains east of Latakia. This letter has been added to the Library's Miscellaneous Manuscripts collection and filed under Metheny, S. A photocopy of the letter is on file along with the notes on this manuscript.</note>
-        <note>Seal of Solomon written out (p. 329) and also a stamp with the name Sulaymā̄n appear in several places throughout (p. 1, 156, 329, for example).</note>
+        <note>Seal of Solomon written out (p. 329) and also a stamp with the name Sulayma&#772;&#772;n appear in several places throughout (p. 1, 156, 329, for example).</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -34,21 +34,24 @@
             <altIdentifier type="resource">
               <idno>http://dewey.library.upenn.edu/sceti/codex/public/PageLevel/index.cfm?WorkID=106 http://hdl.library.upenn.edu/1017/d/medren/9914696423503681</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex43.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Book on Shiʻī esoteric wisdom. Relates to the Alawī Ghulāt community. Concerning doctrines and beliefs.</summary>
+            <summary>Book on Shi&#699;i&#772; esoteric wisdom. Relates to the Alawi&#772; Ghula&#772;t community. Concerning doctrines and beliefs.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Manhaj al-ʻilm wa-al-bayān wa-nuzhat al-samʻ wa-al-aʻyān.</title>
-              <title type="vernacular">منهج العلم والبيان ونزهة السمع والعيان</title>
+              <title>Manhaj al-&#699;ilm wa-al-baya&#772;n wa-nuzhat al-sam&#699; wa-al-a&#699;ya&#772;n.</title>
+              <title type="vernacular">&#1605;&#1606;&#1607;&#1580; &#1575;&#1604;&#1593;&#1604;&#1605; &#1608;&#1575;&#1604;&#1576;&#1610;&#1575;&#1606; &#1608;&#1606;&#1586;&#1607;&#1577; &#1575;&#1604;&#1587;&#1605;&#1593; &#1608;&#1575;&#1604;&#1593;&#1610;&#1575;&#1606;</title>
               <author>
-                <persName type="authority">Ibn Kabūlakh, Muḥammad ibn ʻAlī ibn ʻĪsá</persName>
-                <persName type="vernacular">ابن كبولخ، محمد بن علي بن عيسى</persName>
+                <persName type="authority">Ibn Kabu&#772;lakh, Muh&#803;ammad ibn &#699;Ali&#772; ibn &#699;I&#772;sa&#769;</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1603;&#1576;&#1608;&#1604;&#1582;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610; &#1576;&#1606; &#1593;&#1610;&#1587;&#1609;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Sulaymān ibn Yūsuf ibn Sulaymān</persName>
-                <persName type="vernacular">سليمان بن يوسف بن سليمان.</persName>
+                <persName type="authority">Sulayma&#772;n ibn Yu&#772;suf ibn Sulayma&#772;n</persName>
+                <persName type="vernacular">&#1587;&#1604;&#1610;&#1605;&#1575;&#1606; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,11 +68,11 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Manhaj al-ʻilm wa-al-bayān wa-nuzhat al-samʻ wa-al-aʻyān</title>
+              <title>Manhaj al-&#699;ilm wa-al-baya&#772;n wa-nuzhat al-sam&#699; wa-al-a&#699;ya&#772;n</title>
             </msItem>
             <msItem n="Loose leaf 3 recto">
               <locus>Loose leaf 3 recto</locus>
-              <title>Qaṣīdah.</title>
+              <title>Qa&#7779;&#299;dah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -87,7 +90,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh with elements of other scripts (maghribi, ruqʻah) in black ink, with fairly consistent use of hāʼ musalsalah; pointed, unvocalized. Copied in at least two hands.</scriptNote>
+              <scriptNote>Written in naskh with elements of other scripts (maghribi, ruq&#699;ah) in black ink, with fairly consistent use of ha&#772;&#700; musalsalah; pointed, unvocalized. Copied in at least two hands.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Headers and guidewords are written larger, in a script similar to thuluth. Some chapter headings enclosed in decorative rectangles (p. [184], 329, for example). Other decorative florets appear around poetry and near chapter divisions. Between pages 208 and 215, there are rubrications in red.</decoNote>
@@ -106,7 +109,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy was completed on 20 Shawwal 1268 (August 7, 1852) by Sulaymān ibn al-Shaykh Yūsuf ibn al-Shaykh Sulaymān (p. [418]).</p>
+              <p>Copy was completed on 20 Shawwal 1268 (August 7, 1852) by Sulayma&#772;n ibn al-Shaykh Yu&#772;suf ibn al-Shaykh Sulayma&#772;n (p. [418]).</p>
               <origDate>A.H. 1268 (1852)</origDate>
               <origPlace>Syria?</origPlace>
             </origin>

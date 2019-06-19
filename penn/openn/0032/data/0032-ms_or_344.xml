@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 344: Rubāʻīyāt-i ʻUmar Khayyam.</title>
+        <title>Description of Columbia University. MS Or 344: Ruba&#772;&#699;i&#772;ya&#772;t-i &#699;Umar Khayyam.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 344: Rubāʻīyāt-i ʻUmar Khayyam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 344: Rubāʻīyāt-i ʻUmar Khayyam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 344: Ruba&#772;&#699;i&#772;ya&#772;t-i &#699;Umar Khayyam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 344: Ruba&#772;&#699;i&#772;ya&#772;t-i &#699;Umar Khayyam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,21 +36,24 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848487</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_344.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Collection of quatrains.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Rubāʻīyāt-i ʻUmar Khayyam.</title>
-              <title type="vernacular">رباعيات عمر خيام</title>
+              <title>Ruba&#772;&#699;i&#772;ya&#772;t-i &#699;Umar Khayyam.</title>
+              <title type="vernacular">&#1585;&#1576;&#1575;&#1593;&#1610;&#1575;&#1578; &#1593;&#1605;&#1585; &#1582;&#1610;&#1575;&#1605;</title>
               <author>
                 <persName type="authority">Omar Khayyam</persName>
-                <persName type="vernacular">عمر خيام</persName>
+                <persName type="vernacular">&#1593;&#1605;&#1585; &#1582;&#1610;&#1575;&#1605;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Muḥammad ʻAbd al-Subḥān, active 1688</persName>
-                <persName type="vernacular">محمد عبد السبحان،</persName>
+                <persName type="authority">Muh&#803;ammad &#699;Abd al-Subh&#803;a&#772;n, active 1688</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1593;&#1576;&#1583; &#1575;&#1604;&#1587;&#1576;&#1581;&#1575;&#1606;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -59,7 +62,7 @@
             </msItem>
             <msItem n="1">
               <locus>[1]</locus>
-              <title>Rubāʻīyāt-i ʻUmar Khayyam.</title>
+              <title>Ruba&#772;&#699;i&#772;ya&#772;t-i &#699;Umar Khayyam.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -75,7 +78,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated headpiece in gold, blue, red, green with border-rules in blue and gold and gold leaf motifs between the columns (p. [1]); the rest of the pages are border-ruled in gold and blue with red horizontal lines dividing the quatrains. Some leaves are gold speckled in the textblock area.</decoNote>
@@ -93,9 +96,9 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on 15 Muḥarram in the year 1100 A.H. (November 1688) by Muḥammad ʻAbd al-Subḥān, a resident of Iṣfahān (p. 78).</p>
+              <p>Copy completed on 15 Muh&#803;arram in the year 1100 A.H. (November 1688) by Muh&#803;ammad &#699;Abd al-Subh&#803;a&#772;n, a resident of Is&#803;faha&#772;n (p. 78).</p>
               <origDate>1688</origDate>
-              <origPlace>Iṣfahān</origPlace>
+              <origPlace>Is&#803;faha&#772;n</origPlace>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
             <provenance>Formerly owned by David Eugene Smith, "I bought this MS at a Persian dealer in Lahore, India, in December, 1907" (signed note in pencil, flyleaf 1 verso at front of book).</provenance>

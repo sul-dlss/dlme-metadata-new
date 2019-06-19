@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 372: Vaṣiyyet.</title>
+        <title>Description of Columbia University. MS Or 372: Vas&#803;iyyet.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 372: Vaṣiyyet. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 372: Vaṣiyyet.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 372: Vas&#803;iyyet. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 372: Vas&#803;iyyet.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -34,30 +34,33 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848506</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_372.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Treatise on the principle of the Islamic faith including divine attributes, Quranic revelation, the prophethood of Muhammad, the nature of angels, resurrection and the last days, correct ablution and acts of worship, and moral exhortation. Two supplications in Arabic added after the colophon (f. 56r - 57v).</summary>
             <textLang mainLang="ota" otherLangs="ara">Ottoman Turkish with two pages in Arabic</textLang>
             <msItem>
-              <title>Vaṣiyyet.</title>
-              <title type="vernacular">وصيت</title>
+              <title>Vas&#803;iyyet.</title>
+              <title type="vernacular">&#1608;&#1589;&#1610;&#1578;</title>
               <author>
-                <persName type="authority">Birgivî Mehmet Efendi, approximately 1522-1573</persName>
-                <persName type="vernacular">بركوي, محمد إفندي،</persName>
+                <persName type="authority">Birgivi&#770; Mehmet Efendi, approximately 1522-1573</persName>
+                <persName type="vernacular">&#1576;&#1585;&#1603;&#1608;&#1610;, &#1605;&#1581;&#1605;&#1583; &#1573;&#1601;&#1606;&#1583;&#1610;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Kâtip Boşnāḳ Ibrāhīm ibn Aḥmet, active 1726</persName>
-                <persName type="vernacular">كاتب بشناق ابراهيم ابن احمد،</persName>
+                <persName type="authority">Ka&#770;tip Bos&#807;na&#772;k&#803; Ibra&#772;hi&#772;m ibn Ah&#803;met, active 1726</persName>
+                <persName type="vernacular">&#1603;&#1575;&#1578;&#1576; &#1576;&#1588;&#1606;&#1575;&#1602; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1575;&#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Emîr Süleyman</persName>
+                <persName type="authority">Emi&#770;r Su&#776;leyman</persName>
               </respStmt>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Vaṣiyyet.</title>
+              <title>Vas&#803;iyyet.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -87,11 +90,11 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in Jumādá al-Ākhirah 1138 AH by Kâtip Boşnāḳ Ibrāhīm ibn Aḥmet (f. 56r).</p>
+              <p>Copy completed in Juma&#772;da&#769; al-A&#772;khirah 1138 AH by Ka&#770;tip Bos&#807;na&#772;k&#803; Ibra&#772;hi&#772;m ibn Ah&#803;met (f. 56r).</p>
               <origDate>1726</origDate>
               <origPlace>Turkey</origPlace>
             </origin>
-            <provenance>Formerly owned by Emîr Süleyman (note on f. 1r).</provenance>
+            <provenance>Formerly owned by Emi&#770;r Su&#776;leyman (note on f. 1r).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

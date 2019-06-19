@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 311: Sefer ha-Ḳanon ... etc.</title>
+        <title>Description of University of Pennsylvania LJS 311: Sefer ha-K&#803;anon ... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5410474</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs311.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Books 1-3 and the beginning of Book 4 of Avicenna's 11th-century comprehensive medical work, translated into Hebrew from Arabic. At the end of the volume is Maimonides's 12th-century treatise on poisons, a much shorter work, which is also lacking the end of the text and was also translated from Hebrew to Arabic, by Mosheh Ibn Tibon. Marginal notes in Hebrew, with at least one in Italian (f. 44v).</summary>
             <textLang mainLang="heb">Hebrew</textLang>
             <msItem>
-              <title>Sefer ha-Ḳanon ... etc.</title>
+              <title>Sefer ha-K&#803;anon ... etc.</title>
               <author>Avicenna, 980-1037</author>
               <author>Maimonides, Moses, 1135-1204</author>
               <respStmt>
@@ -73,7 +76,7 @@
                 </support>
                 <extent>131 leaves : 195 x 126 (126 x 95) mm. bound to 204 x 148 mm</extent>
                 <collation>
-                  <p>Paper, iii (modern) + i (early) + 131 + ii (modern); 1¹²(-1) 2-8¹² 9¹⁴ 10¹² 11¹⁰; gatherings 1-9 signed with the first through ninth letters of the Hebrew alphabet, lower left corner last verso; [1-131], modern foliation in pencil, upper left recto. Catchwords on last verso of each gathering, lower left verso.</p>
+                  <p>Paper, iii (modern) + i (early) + 131 + ii (modern); 1&#185;&#178;(-1) 2-8&#185;&#178; 9&#185;&#8308; 10&#185;&#178; 11&#185;&#8304;; gatherings 1-9 signed with the first through ninth letters of the Hebrew alphabet, lower left corner last verso; [1-131], modern foliation in pencil, upper left recto. Catchwords on last verso of each gathering, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -115,8 +118,8 @@
             </origin>
             <provenance>Formerly owned by Solomon Hirschel, first Chief Rabbi of London.</provenance>
             <provenance>Formerly held in the library of Jews' College (London; stamp, early flyleaf), no. 118 (inscription).</provenance>
-            <provenance>Formerly held in the library of the Bet din tsedeḳ London ṿeha-medinah (Ashkenazi rabbinical court, London), no. 139 (spine).</provenance>
-            <provenance>Sold at auction at Christie, Manson &amp; Woods as part of the collection of the Bet din tsedeḳ London ṿeha-medinah, 23 Jun. 1999, lot 15, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Formerly held in the library of the Bet din tsedek&#803; London v&#803;eha-medinah (Ashkenazi rabbinical court, London), no. 139 (spine).</provenance>
+            <provenance>Sold at auction at Christie, Manson &amp; Woods as part of the collection of the Bet din tsedek&#803; London v&#803;eha-medinah, 23 Jun. 1999, lot 15, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>
         </msDesc>

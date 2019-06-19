@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1904: al-Qurʼān</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1904: al-Qur&#700;a&#772;n</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1904: al-Qurʼān are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1904: al-Qurʼān. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1904: al-Qur&#700;a&#772;n are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1904: al-Qur&#700;a&#772;n. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
         <note>Title supplied by cataloger.</note>
         <note>A number of leaves have been repaired.</note>
-        <note>Formerly housed in a box labeled "al-Qurʻān Arabic MS. in Kufic III Century A.H." with "7 Cent. A.D." added in pencil.</note>
+        <note>Formerly housed in a box labeled "al-Qur&#699;a&#772;n Arabic MS. in Kufic III Century A.H." with "7 Cent. A.D." added in pencil.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -31,17 +31,20 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578491</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1904.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of the Qur'ān; missing first folio, begins with Sūrat al-Baqarah (The Cow) 1 (2:1). Instructions for how much to read from the Qur'ān every day of the week written in modern script in pink ink on lined paper pasted onto f. 238v and the inside back cover.</summary>
+            <summary>Copy of the Qur'a&#772;n; missing first folio, begins with Su&#772;rat al-Baqarah (The Cow) 1 (2:1). Instructions for how much to read from the Qur'a&#772;n every day of the week written in modern script in pink ink on lined paper pasted onto f. 238v and the inside back cover.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Fāsī, Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir</persName>
-                <persName type="vernacular">فاسي، محمد بن عبد الواحد بن عبد القادر.</persName>
+                <persName type="authority">Fa&#772;si&#772;, Muh&#803;ammad ibn &#699;Abd al-Wa&#772;h&#803;id ibn &#699;Abd al-Qa&#772;dir</persName>
+                <persName type="vernacular">&#1601;&#1575;&#1587;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1608;&#1575;&#1581;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1602;&#1575;&#1583;&#1585;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -50,7 +53,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>al-Qurʾān.</title>
+              <title>al-Qur&#702;&#257;n.</title>
             </msItem>
             <msItem n="238r">
               <locus>238r</locus>
@@ -74,9 +77,9 @@
               <scriptNote>Written in maghribi using brown ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Polychrome decoration in red, yellow, blue; sūrah titles in flaking gold over yellow with outside margin medallion in gold and red or blue; yellow roundels at end of each verse; vocalizations marked in red; other small dots of yellow, red, and blue throughout the text; text divisions marked in red in the margin, sometimes with gold flake decoration. Two polychrome decorative headers (f. 50r, 172v). Colophon framed in red and yellow border with braided pattern and marginal medallion (f. 238r).</decoNote>
-              <decoNote n="13r">Example of gold and red sūrah heading</decoNote>
-              <decoNote n="50r">Example of illuminated sūrah heading</decoNote>
+              <decoNote>Polychrome decoration in red, yellow, blue; su&#772;rah titles in flaking gold over yellow with outside margin medallion in gold and red or blue; yellow roundels at end of each verse; vocalizations marked in red; other small dots of yellow, red, and blue throughout the text; text divisions marked in red in the margin, sometimes with gold flake decoration. Two polychrome decorative headers (f. 50r, 172v). Colophon framed in red and yellow border with braided pattern and marginal medallion (f. 238r).</decoNote>
+              <decoNote n="13r">Example of gold and red s&#363;rah heading</decoNote>
+              <decoNote n="50r">Example of illuminated s&#363;rah heading</decoNote>
               <decoNote n="238r">Decorative frame</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -87,7 +90,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied by Muḥammad ibn ʻAbd al-Wāḥid ibn ʻAbd al-Qādir al-Fāsī and completed on 16 Muḥarram 1065 A.H (November 26, 1654) on Malta (f. 238r).</p>
+              <p>Copied by Muh&#803;ammad ibn &#699;Abd al-Wa&#772;h&#803;id ibn &#699;Abd al-Qa&#772;dir al-Fa&#772;si&#772; and completed on 16 Muh&#803;arram 1065 A.H (November 26, 1654) on Malta (f. 238r).</p>
               <origDate>A.H. 1065 (1654)</origDate>
               <origPlace>Malta</origPlace>
             </origin>
@@ -101,7 +104,7 @@
         <keywords n="form/genre">
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Manuscripts, Arabic--17th century</term>
         </keywords>
       </textClass>

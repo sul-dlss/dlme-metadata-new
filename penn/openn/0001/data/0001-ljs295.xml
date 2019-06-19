@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 295: Risālah al-sharafīyah fī al-nisab al-taʼlīfīyah</title>
+        <title>Description of University of Pennsylvania LJS 295: Risa&#772;lah al-sharafi&#772;yah fi&#772; al-nisab al-ta&#700;li&#772;fi&#772;yah</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5057421</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs295.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Treatise on the theory of music whose title translates as the Sharafian treatise on musical proportion. Written in 5 discourses with subjects including acoustics and sound, intervals, consonance and dissonance, the Arabic transcription of the 15 Greek names for notes, rhythm, and performance. The treatise is followed by an anonymous commentary (f. 41-56).</summary>
             <textLang>Persian</textLang>
             <msItem>
-              <title>Risālah al-sharafīyah fī al-nisab al-taʼlīfīyah</title>
-              <author>Urmawī, ʻAbd al-Muʼmin ibn Yūsuf, ca. 1216-1294</author>
+              <title>Risa&#772;lah al-sharafi&#772;yah fi&#772; al-nisab al-ta&#700;li&#772;fi&#772;yah</title>
+              <author>Urmawi&#772;, &#699;Abd al-Mu&#700;min ibn Yu&#772;suf, ca. 1216-1294</author>
             </msItem>
           </msContents>
           <physDesc>
@@ -56,7 +59,7 @@
                 </support>
                 <extent>61 leaves : 148 x 88 (118 x 50-52) mm. bound to 151 x 92 mm</extent>
                 <collation>
-                  <p>Paper, 61 + ii; 1⁶ 2¹⁴ 3⁶ 4¹⁴ 5-6⁸ 7⁴(+1); [1-75], modern pagination in eastern arabic numerals in ink (f. 1v-38v), upper outer corners. Catchwords on each leaf of treatise (f. 1-37), some trimmed away, lower left verso.</p>
+                  <p>Paper, 61 + ii; 1&#8310; 2&#185;&#8308; 3&#8310; 4&#185;&#8308; 5-6&#8312; 7&#8308;(+1); [1-75], modern pagination in eastern arabic numerals in ink (f. 1v-38v), upper outer corners. Catchwords on each leaf of treatise (f. 1-37), some trimmed away, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -64,7 +67,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script by 2 hands (treatise f. 1-38, commentary f. 41-56), with treatise headings in thuluth script.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script by 2 hands (treatise f. 1-38, commentary f. 41-56), with treatise headings in thuluth script.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated headpiece (f. 1v); thuluth headings in gold, diagrams and tables in red and black, and selected characters and words in red ink throughout treatise; tables in red and black and numerals and selected words in red in commentary.</decoNote>

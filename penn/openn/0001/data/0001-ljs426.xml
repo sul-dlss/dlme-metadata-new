@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 426: al-Kullīyāt</title>
+        <title>Description of University of Pennsylvania LJS 426: al-Kulli&#772;ya&#772;t</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5861714</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs426.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>First book of Avicenna's medical encyclopedia, comprising an introduction to general knowledge of medicine, anatomy, temperament, and the effect of environment on health and disease. Frequent marginal annotations, some affected by trimming.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>al-Kullīyāt</title>
+              <title>al-Kulli&#772;ya&#772;t</title>
               <author>Avicenna, 980-1037</author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Muṣṭafá Shāh ʻAlāʼī</persName>
+                <persName>Mus&#803;t&#803;afa&#769; Sha&#772;h &#699;Ala&#772;&#700;i&#772;</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -80,7 +83,7 @@
               <origDate>between 1375 and 1399?</origDate>
               <origPlace>Persia</origPlace>
             </origin>
-            <provenance>Ownership stamps, probably 19th century, with Persian characters:  a rectangle in purple ink with the name Muṣṭafá Shāh ʻAlāʼī and the title Qānūn added by hand (f. 1r), and a ring in red ink, possibly connected with a member of a ruling family (f. 1r, 109r, 228r, 278r, 321r).</provenance>
+            <provenance>Ownership stamps, probably 19th century, with Persian characters:  a rectangle in purple ink with the name Mus&#803;t&#803;afa&#769; Sha&#772;h &#699;Ala&#772;&#700;i&#772; and the title Qa&#772;nu&#772;n added by hand (f. 1r), and a ring in red ink, possibly connected with a member of a ruling family (f. 1r, 109r, 228r, 278r, 321r).</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Oct. 2001.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
           </history>

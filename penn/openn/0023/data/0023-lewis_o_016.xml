@@ -1,23 +1,23 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 16: al-Qurʼān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 16: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 16: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 16: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 16: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 16: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
-        <note>Title from sūrah heading (f. 1v).</note>
-        <note>Newspaper clipping with headline, "A Book Worth $125,000," about a different copy of the Qurʼān, a gift from the Amir ʻAbd al-Raḥmān of Afghanistan, pasted onto the upper corner of flyleaf 1 recto at the front of the copy.</note>
-        <note>A page from another Qurʼān (210 x 103 mm) pasted sideways onto back cover pastedown with a note in pencil recording the name of the previous owner, Pandit Gobindpurshad in English, Sanskrit and Perso-Arabic script. The note also says, "His Signature in the three languages" and is signed J. E. B.</note>
-        <note>A note beginning, "hādhā al-kitāb" and signed Fahda Jabaly upside down on the first flyleaf recto.</note>
+        <note>Title from su&#772;rah heading (f. 1v).</note>
+        <note>Newspaper clipping with headline, "A Book Worth $125,000," about a different copy of the Qur&#700;a&#772;n, a gift from the Amir &#699;Abd al-Rah&#803;ma&#772;n of Afghanistan, pasted onto the upper corner of flyleaf 1 recto at the front of the copy.</note>
+        <note>A page from another Qur&#700;a&#772;n (210 x 103 mm) pasted sideways onto back cover pastedown with a note in pencil recording the name of the previous owner, Pandit Gobindpurshad in English, Sanskrit and Perso-Arabic script. The note also says, "His Signature in the three languages" and is signed J. E. B.</note>
+        <note>A note beginning, "ha&#772;dha&#772; al-kita&#772;b" and signed Fahda Jabaly upside down on the first flyleaf recto.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450064</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_016.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān with Persian interlinear translation and marginal notations. Two pages concerning istikhārah follow the text of the Qurʼān (f. 221r-221v), but are incomplete. First two pages remounted and several pages have had their edges evened.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n with Persian interlinear translation and marginal notations. Two pages concerning istikha&#772;rah follow the text of the Qur&#700;a&#772;n (f. 221r-221v), but are incomplete. First two pages remounted and several pages have had their edges evened.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic and Persian</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">القرآن</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
@@ -68,7 +71,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Qurʼān.</title>
+              <title>al-Qur&#700;a&#772;n.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -85,10 +88,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink, pointed and vocalized; Persian written in nastaʻlīq in red for translation and black for marginalia; pointed.</scriptNote>
+              <scriptNote>Written in naskh in black ink, pointed and vocalized; Persian written in nasta&#699;li&#772;q in red for translation and black for marginalia; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Dual page illuminated first opening in gold and blue (f. 1v-2r). Textblock is border-ruled in gold. Gold roundels with a red center mark verse endings. Sūrah titles in red set off by gold rules. Rubrications in red, including text divisions markers in the margins.</decoNote>
+              <decoNote>Dual page illuminated first opening in gold and blue (f. 1v-2r). Textblock is border-ruled in gold. Gold roundels with a red center mark verse endings. Su&#772;rah titles in red set off by gold rules. Rubrications in red, including text divisions markers in the margins.</decoNote>
               <decoNote n="Flyleaf 1 recto">Notations</decoNote>
               <decoNote n="Flyleaf 1 recto">Newspaper clipping</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
@@ -107,7 +110,7 @@
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>
             <provenance>Formerly owned by Pandit Gobindpurshad, a priest in Delhi, India with the remark, "Mohamadan Kurran or Bible with its translation in Persian" (inscription upside down on first flyleaf recto).</provenance>
-            <provenance>Formerly owned by John E. Burton (clipping from sale of his collection pasted onto front pastedown; his initials on Qurʼān leaf pasted onto back cover pastedown).</provenance>
+            <provenance>Formerly owned by John E. Burton (clipping from sale of his collection pasted onto front pastedown; his initials on Qur&#700;a&#772;n leaf pasted onto back cover pastedown).</provenance>
             <provenance>Sold in the John E. Burton sale at Anderson Galleries, November 17, 1915, lot 1487 (Catalog entry for the sale pasted onto the front pastedown with added note in pencil dated 11/17/1915).</provenance>
             <provenance>Formerly owned by John Frederick Lewis.</provenance>
           </history>
@@ -126,7 +129,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Islamic bindings (Binding)</term>
           <term>Full covers</term>
           <term>Envelope flaps (features)</term>

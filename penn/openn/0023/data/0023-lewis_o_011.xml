@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 11: al-Qurʼān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 11: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 11: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 11: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 11: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 11: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -31,13 +31,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2435288</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_011.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān, with additional prayers at the end and Persian marginal commentary.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n, with additional prayers at the end and Persian marginal commentary.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic with Persian commentary and end pages</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
@@ -52,7 +55,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
             <msItem n="746r">
               <locus>746r</locus>
@@ -77,10 +80,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink, pointed and vocalized. Commentary in nastaʻliq in black ink, pointed.</scriptNote>
+              <scriptNote>Written in naskh in black ink, pointed and vocalized. Commentary in nasta&#699;liq in black ink, pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Polychrome using black, blue, green, white, and gold inks. Dual page illumination on first opening (f. 1v-2r) in gold, blue, red, and green with text in cloudbands. Textblock rule-bordered in gold and black; page openings ruled in gold and black; sūrah titles and readings in red; gold roundels mark verse ends. Polychrome medallions in the margins indicate sections and red letter ʻayn in the margins mark rukūʻ.</decoNote>
+              <decoNote>Polychrome using black, blue, green, white, and gold inks. Dual page illumination on first opening (f. 1v-2r) in gold, blue, red, and green with text in cloudbands. Textblock rule-bordered in gold and black; page openings ruled in gold and black; su&#772;rah titles and readings in red; gold roundels mark verse ends. Polychrome medallions in the margins indicate sections and red letter &#699;ayn in the margins mark ruku&#772;&#699;.</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
             </decoDesc>
@@ -111,7 +114,7 @@
           <term>Commentaries</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
         </keywords>
       </textClass>
     </profileDesc>

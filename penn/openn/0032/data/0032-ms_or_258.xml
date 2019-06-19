@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 258: al-Juzʼ al-ʻishrūn.</title>
+        <title>Description of Columbia University. MS Or 258: al-Juz&#700; al-&#699;ishru&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 258: al-Juzʼ al-ʻishrūn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 258: al-Juzʼ al-ʻishrūn.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 258: al-Juz&#700; al-&#699;ishru&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 258: al-Juz&#700; al-&#699;ishru&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Manuscript codex.</note>
         <note>Title from title page illumination (f. 1r).</note>
         <note>Arabic.</note>
-        <note>One volume of a Qur'ān set, of which RBML holds 3 volumes under separate shelfmarks; See also MSS Or. 256 and 257. This volume is bound in a different style and lacks the same waqf inscription found in the other two volumes.</note>
+        <note>One volume of a Qur'a&#772;n set, of which RBML holds 3 volumes under separate shelfmarks; See also MSS Or. 256 and 257. This volume is bound in a different style and lacks the same waqf inscription found in the other two volumes.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -37,13 +37,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13680014</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_258.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete section of the Qurʼān, containing the first word of 27:56 to the final word of 29:45. Lines and partial lines have been rewritten on paper and pasted onto the page, see for example, f. 9r-14r, inclusive.</summary>
+            <summary>Complete section of the Qur&#700;a&#772;n, containing the first word of 27:56 to the final word of 29:45. Lines and partial lines have been rewritten on paper and pasted onto the page, see for example, f. 9r-14r, inclusive.</summary>
             <textLang mainLang="ara">Layout: 5 long lines</textLang>
             <msItem>
-              <title>al-Juzʼ al-ʻishrūn.</title>
-              <title type="vernacular">الجزء العشرون</title>
+              <title>al-Juz&#700; al-&#699;ishru&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1580;&#1586;&#1569; &#1575;&#1604;&#1593;&#1588;&#1585;&#1608;&#1606;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -51,15 +54,15 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Juzʼ al-ʻishrūn.</title>
+              <title>al-Juz&#700; al-&#699;ishru&#772;n.</title>
             </msItem>
             <msItem n="7r">
               <locus>7r</locus>
-              <title>Qaṣaṣ</title>
+              <title>Qa&#7779;a&#7779;</title>
             </msItem>
             <msItem n="28r">
               <locus>28r</locus>
-              <title>ʿAnkabūt</title>
+              <title>&#703;Ankab&#363;t</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -75,10 +78,10 @@
               <scriptNote>Written in mamluk style naskh in black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Gold and blue illuminated title (f. 1r). Gold eight petal rosettes with pink centers, lined in pink and blue dots mark verse endings. Sūrah titles in gold outlined in black.</decoNote>
+              <decoNote>Gold and blue illuminated title (f. 1r). Gold eight petal rosettes with pink centers, lined in pink and blue dots mark verse endings. Su&#772;rah titles in gold outlined in black.</decoNote>
               <decoNote n="1r">Illuminated title page</decoNote>
-              <decoNote n="7r">Gold sūrah heading</decoNote>
-              <decoNote n="28r">Gold sūrah heading</decoNote>
+              <decoNote n="7r">Gold s&#363;rah heading</decoNote>
+              <decoNote n="28r">Gold s&#363;rah heading</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>
@@ -104,7 +107,7 @@
         </keywords>
         <keywords n="form/genre">
           <term>Early works to 1800</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Codices</term>
           <term>Illuminations</term>
           <term>Islamic bindings (Binding)</term>

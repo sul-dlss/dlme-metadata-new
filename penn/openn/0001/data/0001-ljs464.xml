@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 464: Taḥṣīl al-mūna fī sharḥ Talkhīṣ Ibn al-Bannāʼ</title>
+        <title>Description of University of Pennsylvania LJS 464: Tah&#803;s&#803;i&#772;l al-mu&#772;na fi&#772; sharh&#803; Talkhi&#772;s&#803; Ibn al-Banna&#772;&#700;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4830464</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs464.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary on the Talkhīṣ aʻmāl al-ḥisāb, a treatise on mathematical operations by Aḥmad ibn Muḥammad Ibn al-Bannāʼ, with particular focus on calculations involving fractions and square roots. According to the notes of Mahdi Abdeljaouad and Jeffrey Oaks, the manuscript includes excerpts from 3 other treatises by Ibn al-Bannāʼ: Rafʻ al-ḥijāb ʻan wujūh aʻmāl al-ḥisāb (his own commentary on the Talkhīṣ); Maqālāt fī ʻilm al-ḥisāb; and Kitāb al-jabr wa-al-muqābalah (a treatise on algebra). 5 computational tables (f. 27r, 34v, 35r, 46v, 49v). Includes corrections of text and calculations.</summary>
+            <summary>Commentary on the Talkhi&#772;s&#803; a&#699;ma&#772;l al-h&#803;isa&#772;b, a treatise on mathematical operations by Ah&#803;mad ibn Muh&#803;ammad Ibn al-Banna&#772;&#700;, with particular focus on calculations involving fractions and square roots. According to the notes of Mahdi Abdeljaouad and Jeffrey Oaks, the manuscript includes excerpts from 3 other treatises by Ibn al-Banna&#772;&#700;: Raf&#699; al-h&#803;ija&#772;b &#699;an wuju&#772;h a&#699;ma&#772;l al-h&#803;isa&#772;b (his own commentary on the Talkhi&#772;s&#803;); Maqa&#772;la&#772;t fi&#772; &#699;ilm al-h&#803;isa&#772;b; and Kita&#772;b al-jabr wa-al-muqa&#772;balah (a treatise on algebra). 5 computational tables (f. 27r, 34v, 35r, 46v, 49v). Includes corrections of text and calculations.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Taḥṣīl al-mūna fī sharḥ Talkhīṣ Ibn al-Bannāʼ</title>
-              <author>Mawāhīdi, Abū ʻAbd al-Raḥmān Yaʻqūb ibn Ayyūb, fl. 1350-1389</author>
+              <title>Tah&#803;s&#803;i&#772;l al-mu&#772;na fi&#772; sharh&#803; Talkhi&#772;s&#803; Ibn al-Banna&#772;&#700;</title>
+              <author>Mawa&#772;hi&#772;di, Abu&#772; &#699;Abd al-Rah&#803;ma&#772;n Ya&#699;qu&#772;b ibn Ayyu&#772;b, fl. 1350-1389</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Bin al-Husn, Ibrāhīm</persName>
+                <persName>Bin al-Husn, Ibra&#772;hi&#772;m</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in maghrebi script in the hand of Ibrāhīm bin al-Husn.</scriptNote>
+              <scriptNote>Written in maghrebi script in the hand of Ibra&#772;hi&#772;m bin al-Husn.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Numbers mostly written in red ink; colophon in red ink.</decoNote>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1964: Questions and answers on Shiʻī religious philosophy and practice.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1964: Questions and answers on Shi&#699;i&#772; religious philosophy and practice.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1964: Questions and answers on Shiʻī religious philosophy and practice. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1964: Questions and answers on Shiʻī religious philosophy and practice.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1964: Questions and answers on Shi&#699;i&#772; religious philosophy and practice. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1964: Questions and answers on Shi&#699;i&#772; religious philosophy and practice.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,19 +29,22 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523453</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1964.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of a series of branching questions and answers about religious philosophy and practice, divided into chapters by topic. This copy begins and ends abruptly. The first complete chapter is kitāb-i tawḥīd (beginning f. 2r) and the last, incomplete, chapter is kitāb-i qaz̤ā (beginning f. 155r).</summary>
+            <summary>Copy of a series of branching questions and answers about religious philosophy and practice, divided into chapters by topic. This copy begins and ends abruptly. The first complete chapter is kita&#772;b-i tawh&#803;i&#772;d (beginning f. 2r) and the last, incomplete, chapter is kita&#772;b-i qaz&#804;a&#772; (beginning f. 155r).</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Questions and answers on Shiʻī religious philosophy and practice.</title>
+              <title>Questions and answers on Shi&#699;i&#772; religious philosophy and practice.</title>
               <author>
                 <name type="authority">Alumni and Friends Memorial Book Fund</name>
               </author>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[Questions and answers on Shiʻī religious philosophy and practice].</title>
+              <title>[Questions and answers on Shi&#699;i&#772; religious philosophy and practice].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -80,11 +83,11 @@
     <profileDesc>
       <textClass>
         <keywords n="subjects">
-          <term>Religious life--Shīʻah--Early works to 1800</term>
+          <term>Religious life--Shi&#772;&#699;ah--Early works to 1800</term>
           <term>Islam--Customs and practices--Early works to 1800</term>
-          <term>Shīʻah--Customs and practices--Early works to 1800</term>
-          <term>Shīʻah--Miscellanea--Early works to 1800</term>
-          <term>Shīʻah--Doctrines--Early works to 1800</term>
+          <term>Shi&#772;&#699;ah--Customs and practices--Early works to 1800</term>
+          <term>Shi&#772;&#699;ah--Miscellanea--Early works to 1800</term>
+          <term>Shi&#772;&#699;ah--Doctrines--Early works to 1800</term>
         </keywords>
         <keywords n="form/genre">
           <term>Codices (bound manuscripts)</term>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 254: Jāmiʻ al-ṣaḥīḥ.</title>
+        <title>Description of Columbia University. MS Or 254: Ja&#772;mi&#699; al-s&#803;ah&#803;i&#772;h&#803;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 254: Jāmiʻ al-ṣaḥīḥ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 254: Jāmiʻ al-ṣaḥīḥ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 254: Ja&#772;mi&#699; al-s&#803;ah&#803;i&#772;h&#803;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 254: Ja&#772;mi&#699; al-s&#803;ah&#803;i&#772;h&#803;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848507</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_254.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>A volume of the ḥadīth collection of al-Bukhārī; contains from the beginning of "Kāf-hā-yā-ʻayn-ṣād" through the end of "Kitāb al-aḍāḥī"; some marginalia.</summary>
+            <summary>A volume of the h&#803;adi&#772;th collection of al-Bukha&#772;ri&#772;; contains from the beginning of "Ka&#772;f-ha&#772;-ya&#772;-&#699;ayn-s&#803;a&#772;d" through the end of "Kita&#772;b al-ad&#803;a&#772;h&#803;i&#772;"; some marginalia.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Jāmiʻ al-ṣaḥīḥ.</title>
-              <title type="vernacular">[جامع الصحيح]</title>
+              <title>Ja&#772;mi&#699; al-s&#803;ah&#803;i&#772;h&#803;.</title>
+              <title type="vernacular">[&#1580;&#1575;&#1605;&#1593; &#1575;&#1604;&#1589;&#1581;&#1610;&#1581;]</title>
               <author>
-                <persName type="authority">Bukhārī, Muḥammad ibn Ismāʻīl, 810-870</persName>
-                <persName type="vernacular">بخاري، محمد بن اسماعيل،</persName>
+                <persName type="authority">Bukha&#772;ri&#772;, Muh&#803;ammad ibn Isma&#772;&#699;i&#772;l, 810-870</persName>
+                <persName type="vernacular">&#1576;&#1582;&#1575;&#1585;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[Jāmiʻ al-ṣaḥīḥ].</title>
+              <title>[Ja&#772;mi&#699; al-s&#803;ah&#803;i&#772;h&#803;].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -69,7 +72,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in maghribī in dark brown ink; pointed, partially vocalized.</scriptNote>
+              <scriptNote>Written in maghribi&#772; in dark brown ink; pointed, partially vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated chapter title frame for the first chapter in gold, blue, and red in a mosaic pattern with illuminated roundel in the margin (f. 1v); slightly smaller marginal roundel in the same colors at end (f. 176r). Rubrications in red, blue and gold.</decoNote>

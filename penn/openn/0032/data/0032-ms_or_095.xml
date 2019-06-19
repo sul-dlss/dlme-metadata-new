@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 95: Sharḥ Qaṭr al-nadā wa-ball al-ṣadā.</title>
+        <title>Description of Columbia University. MS Or 95: Sharh&#803; Qat&#803;r al-nada&#772; wa-ball al-s&#803;ada&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 95: Sharḥ Qaṭr al-nadā wa-ball al-ṣadā. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 95: Sharḥ Qaṭr al-nadā wa-ball al-ṣadā.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 95: Sharh&#803; Qat&#803;r al-nada&#772; wa-ball al-s&#803;ada&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 95: Sharh&#803; Qat&#803;r al-nada&#772; wa-ball al-s&#803;ada&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,21 +35,24 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13554144</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_095.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Commentary on Arabic grammar with the source-text in red ink and the commentary in black; source-text and commentary by the same author. Ends abruptly.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Sharḥ Qaṭr al-nadā wa-ball al-ṣadā.</title>
-              <title type="vernacular">شرح قطر الندا وبل الصدا</title>
+              <title>Sharh&#803; Qat&#803;r al-nada&#772; wa-ball al-s&#803;ada&#772;.</title>
+              <title type="vernacular">&#1588;&#1585;&#1581; &#1602;&#1591;&#1585; &#1575;&#1604;&#1606;&#1583;&#1575; &#1608;&#1576;&#1604; &#1575;&#1604;&#1589;&#1583;&#1575;</title>
               <author>
-                <persName type="authority">Ibn Hishām, ʻAbd Allāh ibn Yūsuf, 1309-1360</persName>
-                <persName type="vernacular">ابن هشام، عبد الله بن يوسف</persName>
+                <persName type="authority">Ibn Hisha&#772;m, &#699;Abd Alla&#772;h ibn Yu&#772;suf, 1309-1360</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1607;&#1588;&#1575;&#1605;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Rajbānī, Muṣṭafā ibn Salīm ibn ʻAbd al-Qādir</persName>
-                <persName type="vernacular">رجباني، مصطفا بن سليم بن عبد القادر.</persName>
+                <persName type="authority">Rajba&#772;ni&#772;, Mus&#803;t&#803;afa&#772; ibn Sali&#772;m ibn &#699;Abd al-Qa&#772;dir</persName>
+                <persName type="vernacular">&#1585;&#1580;&#1576;&#1575;&#1606;&#1610;&#1548; &#1605;&#1589;&#1591;&#1601;&#1575; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1602;&#1575;&#1583;&#1585;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -58,7 +61,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Sharḥ Qaṭr al-nadā wa-ball al-ṣadā</title>
+              <title>Sharh&#803; Qat&#803;r al-nada&#772; wa-ball al-s&#803;ada&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -88,7 +91,7 @@
               <origDate>between 1600 and 1672?</origDate>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
-            <provenance>Formerly owned by Muṣṭafā ibn Salīm ibn ʻAbd al-Qādir al-Rajbānī al-Ḥanbalī, 1082 AH (1672) (owner's statement on f. 1r).</provenance>
+            <provenance>Formerly owned by Mus&#803;t&#803;afa&#772; ibn Sali&#772;m ibn &#699;Abd al-Qa&#772;dir al-Rajba&#772;ni&#772; al-H&#803;anbali&#772;, 1082 AH (1672) (owner's statement on f. 1r).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

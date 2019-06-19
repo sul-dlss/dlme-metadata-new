@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 293: Kitāb al-Bayān wa al-tidhkār fī sanʻat ʻamal al-ghubār</title>
+        <title>Description of University of Pennsylvania LJS 293: Kita&#772;b al-Baya&#772;n wa al-tidhka&#772;r fi&#772; san&#699;at &#699;amal al-ghuba&#772;r</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,20 +39,23 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4819340</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs293.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Near-contemporary copy of the first volume of a 12th-century treatise on arithmetic and algebra, with some marginal notes.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Bayān wa al-tidhkār fī sanʻat ʻamal al-ghubār</title>
-              <author>Hassar, Abū Bakr</author>
+              <title>Kita&#772;b al-Baya&#772;n wa al-tidhka&#772;r fi&#772; san&#699;at &#699;amal al-ghuba&#772;r</title>
+              <author>Hassar, Abu&#772; Bakr</author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274</persName>
+                <persName>T&#803;u&#772;si&#772;, Nas&#803;i&#772;r al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad, 1201-1274</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Sāʻāti, Alī ibn Taghlib</persName>
+                <persName>Sa&#772;&#699;a&#772;ti, Ali&#772; ibn Taghlib</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -64,7 +67,7 @@
                 </support>
                 <extent>86 leaves : 232 x 165 (164 x 114) mm. bound to 234 x 175 mm</extent>
                 <collation>
-                  <p>Paper, i + 86 + i; 1⁸ 2¹² 3⁸ 4¹² 5⁸ 6¹² 7⁸ 8¹² 9⁶. Catchwords on each leaf, lower left verso.</p>
+                  <p>Paper, i + 86 + i; 1&#8312; 2&#185;&#178; 3&#8312; 4&#185;&#178; 5&#8312; 6&#185;&#178; 7&#8312; 8&#185;&#178; 9&#8310;. Catchwords on each leaf, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -72,7 +75,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh script in the hand of Muḥammad ibn Abd Allāh ibn al-Mujill al-Baghdādī (Mehmet Arikan).</scriptNote>
+              <scriptNote>Written in naskh script in the hand of Muh&#803;ammad ibn Abd Alla&#772;h ibn al-Mujill al-Baghda&#772;di&#772; (Mehmet Arikan).</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>
@@ -86,9 +89,9 @@
               <origDate>A.H. 590 (1194)</origDate>
               <origPlace>Baghdad</origPlace>
             </origin>
-            <provenance>Copied by Muḥammad ibn Abd Allāh ibn al-Mujill al-Baghdādī at Madrasah al-Niẓāmīyah in Baghdad, completed A.H. Safar 590 (Jan.-Feb. 1194, f. 86r); ownership inscriptions (f. 1r).</provenance>
-            <provenance>Formerly owned by Naṣīr al-Dīn Muḥammad ibn Muḥammad al-Ṭūsī, 13th century (Mehmet Arikan).</provenance>
-            <provenance>Formerly owned by Alī ibn Taghlib al-Sāʻāti al-Baghdādī, 13th century (Mehmet Arikan).̄</provenance>
+            <provenance>Copied by Muh&#803;ammad ibn Abd Alla&#772;h ibn al-Mujill al-Baghda&#772;di&#772; at Madrasah al-Niz&#803;a&#772;mi&#772;yah in Baghdad, completed A.H. Safar 590 (Jan.-Feb. 1194, f. 86r); ownership inscriptions (f. 1r).</provenance>
+            <provenance>Formerly owned by Nas&#803;i&#772;r al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad al-T&#803;u&#772;si&#772;, 13th century (Mehmet Arikan).</provenance>
+            <provenance>Formerly owned by Ali&#772; ibn Taghlib al-Sa&#772;&#699;a&#772;ti al-Baghda&#772;di&#772;, 13th century (Mehmet Arikan).&#772;</provenance>
             <provenance>Sold at auction at Christie's, 20 Apr. 1999, lot 320, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>

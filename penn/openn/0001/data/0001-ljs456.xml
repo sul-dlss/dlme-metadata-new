@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 456: Kitāb al-Siyāsah fī tadbīr al-riyāsah</title>
+        <title>Description of University of Pennsylvania LJS 456: Kita&#772;b al-Siya&#772;sah fi&#772; tadbi&#772;r al-riya&#772;sah</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5844667</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs456.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Popular treatise presented as a letter from Aristotle to Alexander the Great on statecraft, astronomy, astrology, magic, and medicine.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Siyāsah fī tadbīr al-riyāsah</title>
+              <title>Kita&#772;b al-Siya&#772;sah fi&#772; tadbi&#772;r al-riya&#772;sah</title>
               <respStmt>
                 <resp>attributed name</resp>
                 <persName>Aristotle</persName>

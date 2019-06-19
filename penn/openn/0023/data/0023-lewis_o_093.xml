@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 93: Tārīkh-i Salānīkī.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 93: Ta&#772;ri&#772;kh-i Sala&#772;ni&#772;ki&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 93: Tārīkh-i Salānīkī. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 93: Tārīkh-i Salānīkī.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 93: Ta&#772;ri&#772;kh-i Sala&#772;ni&#772;ki&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 93: Ta&#772;ri&#772;kh-i Sala&#772;ni&#772;ki&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,24 +32,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450063</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_093.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of a history of the years 971 to 1008 A.H. (1563-1599 C.E.) in Turkey, covering the end of the reign of Süleyman I, the entire reigns of Selim II and Murad III, and the first five years of Mehmed III.</summary>
+            <summary>Copy of a history of the years 971 to 1008 A.H. (1563-1599 C.E.) in Turkey, covering the end of the reign of Su&#776;leyman I, the entire reigns of Selim II and Murad III, and the first five years of Mehmed III.</summary>
             <textLang mainLang="ota">Ottoman Turkish</textLang>
             <msItem>
-              <title>Tārīkh-i Salānīkī.</title>
-              <title type="vernacular">تاريخ سلانيکى</title>
+              <title>Ta&#772;ri&#772;kh-i Sala&#772;ni&#772;ki&#772;.</title>
+              <title type="vernacular">&#1578;&#1575;&#1585;&#1610;&#1582; &#1587;&#1604;&#1575;&#1606;&#1610;&#1705;&#1609;</title>
               <author>
-                <persName type="authority">Selânikî Mustafa Efendi, -1600?</persName>
-                <persName type="vernacular">سلانيكى، مصطفى افندى،</persName>
+                <persName type="authority">Sela&#770;niki&#770; Mustafa Efendi, -1600?</persName>
+                <persName type="vernacular">&#1587;&#1604;&#1575;&#1606;&#1610;&#1603;&#1609;&#1548; &#1605;&#1589;&#1591;&#1601;&#1609; &#1575;&#1601;&#1606;&#1583;&#1609;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Muḥammad ibn ʻAbd Allāh, active 1722</persName>
-                <persName type="vernacular">محمد بن عبد الله،</persName>
+                <persName type="authority">Muh&#803;ammad ibn &#699;Abd Alla&#772;h, active 1722</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -74,7 +77,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Tārīkh-i Salānīkī.</title>
+              <title>Ta&#772;ri&#772;kh-i Sala&#772;ni&#772;ki&#772;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -91,7 +94,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in neat nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in neat nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated six-pointed star inside gold medallion (f. 1r); illuminated headpiece in gold, blue and red (f. 1v, 401v); illuminated text dividers (f. 158v, 221r); fill of pink flowers in empty, ruled textblock (f. 401v-402r). Textblock border-ruled in gold and black; headings centered and framed in gold rules; rubrications in red and gold.</decoNote>
@@ -116,7 +119,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in Rabīʻ al-Ākhir 1134 A.H. (1722) by Muḥammad ibn ʻAbd Allāh on the order of Ibrāhīm Pashā, the son-in-law and grand vizier of Sulṭān Aḥmet III (f. 401r)</p>
+              <p>Copied in Rabi&#772;&#699; al-A&#772;khir 1134 A.H. (1722) by Muh&#803;ammad ibn &#699;Abd Alla&#772;h on the order of Ibra&#772;hi&#772;m Pasha&#772;, the son-in-law and grand vizier of Sult&#803;a&#772;n Ah&#803;met III (f. 401r)</p>
               <origDate>1134 A.H. (1722)</origDate>
               <origPlace>Turkey</origPlace>
             </origin>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 486: Kitāb al-Ghāz fī al-lughah al-ʻArabīyah</title>
+        <title>Description of University of Pennsylvania LJS 486: Kita&#772;b al-Gha&#772;z fi&#772; al-lughah al-&#699;Arabi&#772;yah</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,15 +39,18 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5809263</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs486.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Compilation of riddles drawn from early Islamic and pre-Islamic poetry, arranged in alphabetical order by their answers.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Ghāz fī al-lughah al-ʻArabīyah</title>
+              <title>Kita&#772;b al-Gha&#772;z fi&#772; al-lughah al-&#699;Arabi&#772;yah</title>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Bin Nāṣir, Maḥmūd</persName>
+                <persName>Bin Na&#772;s&#803;ir, Mah&#803;mu&#772;d</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -59,7 +62,7 @@
                 </support>
                 <extent>93 leaves : 280 x 180 (196 x 115) mm. bound to 280 x 184 mm</extent>
                 <collation>
-                  <p>Paper, 93; 1¹⁴ 2⁶ 3¹⁴ 4⁶ 5¹⁴ 6⁶ 7¹⁴ 8⁶ 9¹⁴(-1); [1-93], modern foliation in pencil, upper left recto.</p>
+                  <p>Paper, 93; 1&#185;&#8308; 2&#8310; 3&#185;&#8308; 4&#8310; 5&#185;&#8308; 6&#8310; 7&#185;&#8308; 8&#8310; 9&#185;&#8308;(-1); [1-93], modern foliation in pencil, upper left recto.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -88,8 +91,8 @@
               <origDate>A.H. 720 (1320)</origDate>
               <origPlace>Egypt</origPlace>
             </origin>
-            <provenance>Formerly owned by Sayyid Maḥmūd bin Nāṣir (inscription in Maghribi hand recording purchase in Egypt in A.H. 1065 (1654-1655), f. 1r?).</provenance>
-            <provenance>Formerly in the library of the al-Zāwiyah al-Nāṣiriyah at Tamegroute, Morocco, founded by the Bin Nāṣir family in the 17th century (stamped seals, f. 2r, 3r).</provenance>
+            <provenance>Formerly owned by Sayyid Mah&#803;mu&#772;d bin Na&#772;s&#803;ir (inscription in Maghribi hand recording purchase in Egypt in A.H. 1065 (1654-1655), f. 1r?).</provenance>
+            <provenance>Formerly in the library of the al-Za&#772;wiyah al-Na&#772;s&#803;iriyah at Tamegroute, Morocco, founded by the Bin Na&#772;s&#803;ir family in the 17th century (stamped seals, f. 2r, 3r).</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Jul. 2007.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
           </history>

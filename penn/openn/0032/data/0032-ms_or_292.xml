@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 292: Kitāb Nasīm al-ṣabā ...</title>
+        <title>Description of Columbia University. MS Or 292: Kita&#772;b Nasi&#772;m al-s&#803;aba&#772; ...</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 292: Kitāb Nasīm al-ṣabā ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 292: Kitāb Nasīm al-ṣabā .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 292: Kita&#772;b Nasi&#772;m al-s&#803;aba&#772; ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 292: Kita&#772;b Nasi&#772;m al-s&#803;aba&#772; .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -34,16 +34,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720582</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_292.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of Nasīm al-ṣabā, a collection of poetry segments and couplets on a variety of topics, followed by a section of blurbs about the writings of six well-known authors, and finishing with a collection of poetry with short introductions.</summary>
+            <summary>Copy of Nasi&#772;m al-s&#803;aba&#772;, a collection of poetry segments and couplets on a variety of topics, followed by a section of blurbs about the writings of six well-known authors, and finishing with a collection of poetry with short introductions.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Kitāb Nasīm al-ṣabā ...</title>
-              <title type="vernacular">كتاب نسيم الصبا</title>
+              <title>Kita&#772;b Nasi&#772;m al-s&#803;aba&#772; ...</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1606;&#1587;&#1610;&#1605; &#1575;&#1604;&#1589;&#1576;&#1575;</title>
               <author>
-                <persName type="authority">Ibn Ḥabīb al-Ḥalabī, Badr al-Dīn al-Ḥasan ibn ʻUmar, 1310-1377</persName>
-                <persName type="vernacular">ابن حبيب الحلبي، بدر الدين الحسن بن عمر،</persName>
+                <persName type="authority">Ibn H&#803;abi&#772;b al-H&#803;alabi&#772;, Badr al-Di&#772;n al-H&#803;asan ibn &#699;Umar, 1310-1377</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1581;&#1576;&#1610;&#1576; &#1575;&#1604;&#1581;&#1604;&#1576;&#1610;&#1548; &#1576;&#1583;&#1585; &#1575;&#1604;&#1583;&#1610;&#1606; &#1575;&#1604;&#1581;&#1587;&#1606; &#1576;&#1606; &#1593;&#1605;&#1585;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -52,11 +55,11 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kitāb nasīm āl-ṣabā</title>
+              <title>Kit&#257;b nas&#299;m &#257;l-&#7779;ab&#257;</title>
             </msItem>
             <msItem n="56r">
               <locus>56r</locus>
-              <title>Taqrīẓāt badīʿah</title>
+              <title>Taqr&#299;&#7827;&#257;t bad&#299;&#703;ah</title>
             </msItem>
             <msItem n="62v">
               <locus>62v</locus>

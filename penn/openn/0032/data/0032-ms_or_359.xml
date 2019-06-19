@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -36,6 +36,9 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848476</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_359.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Collection of works, mostly selections from larger works, in Arabic and Persian, on Arabic grammar; copied in the same hand. A table of contents was written in at the front (f. 1r). The last three works are in Persian, of those, the two shorter works (5, 6) are in the form of questions and answers.</summary>
@@ -43,16 +46,16 @@
             <msItem>
               <title>Collection of works on Arabic grammar.</title>
               <author>
-                <persName type="authority">Ibn al-Ḥājib, ʻUthmān ibn ʻUmar, 1175-1249</persName>
-                <persName type="vernacular">ابن الحاجب، عثمان بن عمر،</persName>
+                <persName type="authority">Ibn al-H&#803;a&#772;jib, &#699;Uthma&#772;n ibn &#699;Umar, 1175-1249</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1581;&#1575;&#1580;&#1576;&#1548; &#1593;&#1579;&#1605;&#1575;&#1606; &#1576;&#1606; &#1593;&#1605;&#1585;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Jurjānī, ʻAbd al-Qāhir ibn ʻAbd al-Raḥmān, -1078?</persName>
-                <persName type="vernacular">جرجاني، عبد القاهر بن عبد الرحمن،</persName>
+                <persName type="authority">Jurja&#772;ni&#772;, &#699;Abd al-Qa&#772;hir ibn &#699;Abd al-Rah&#803;ma&#772;n, -1078?</persName>
+                <persName type="vernacular">&#1580;&#1585;&#1580;&#1575;&#1606;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1602;&#1575;&#1607;&#1585; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1585;&#1581;&#1605;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Zanjānī, ʻAbd al-Wahhāb ibn Ibrāhīm, active 1257</persName>
-                <persName type="vernacular">زنجاني، عبد الوهاب بن ابراهيم،</persName>
+                <persName type="authority">Zanja&#772;ni&#772;, &#699;Abd al-Wahha&#772;b ibn Ibra&#772;hi&#772;m, active 1257</persName>
+                <persName type="vernacular">&#1586;&#1606;&#1580;&#1575;&#1606;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1608;&#1607;&#1575;&#1576; &#1576;&#1606; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,31 +68,31 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kāfiyah / Ibn al-Ḥājib</title>
+              <title>Ka&#772;fiyah / Ibn al-H&#803;a&#772;jib</title>
             </msItem>
             <msItem n="51v">
               <locus>51v</locus>
-              <title>Fī al-ḥurūf allatī tajurru al-asmāʼ faqaṭ</title>
+              <title>Fi&#772; al-h&#803;uru&#772;f allati&#772; tajurru al-asma&#772;&#700; faqat&#803;</title>
             </msItem>
             <msItem n="61r">
               <locus>61r</locus>
-              <title>ʻAwāmil fī al-naḥw / ʻAbd Qāhir ibn ʻAbd al-Rahmān Jurjānī</title>
+              <title>&#699;Awa&#772;mil fi&#772; al-nah&#803;w / &#699;Abd Qa&#772;hir ibn &#699;Abd al-Rahma&#772;n Jurja&#772;ni&#772;</title>
             </msItem>
             <msItem n="71r">
               <locus>71r</locus>
-              <title>Taṣrīf al-ʻIzzī</title>
+              <title>Tas&#803;ri&#772;f al-&#699;Izzi&#772;</title>
             </msItem>
             <msItem n="81v">
               <locus>81v</locus>
-              <title>Asʼilah fī al-naḥw</title>
+              <title>As&#700;ilah fi&#772; al-nah&#803;w</title>
             </msItem>
             <msItem n="87r">
               <locus>87r</locus>
-              <title>Asʼilah fī al-ṣarf</title>
+              <title>As&#700;ilah fi&#772; al-s&#803;arf</title>
             </msItem>
             <msItem n="90v">
               <locus>90v</locus>
-              <title>Kitab al-mukhtaṣarāt</title>
+              <title>Kitab al-mukhtas&#803;ara&#772;t</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -105,7 +108,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red.</decoNote>

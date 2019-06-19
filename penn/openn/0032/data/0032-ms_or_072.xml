@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 72: Dīwān Tāj al-ʻārifīn wa-sulṭān al-ʻāshiqīn min al-shuʻarāʼ bi-lā muʻāriḍ ʻUmar ibn Fāriḍ.</title>
+        <title>Description of Columbia University. MS Or 72: Di&#772;wa&#772;n Ta&#772;j al-&#699;a&#772;rifi&#772;n wa-sult&#803;a&#772;n al-&#699;a&#772;shiqi&#772;n min al-shu&#699;ara&#772;&#700; bi-la&#772; mu&#699;a&#772;rid&#803; &#699;Umar ibn Fa&#772;rid&#803;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 72: Dīwān Tāj al-ʻārifīn wa-sulṭān al-ʻāshiqīn min al-shuʻarāʼ bi-lā muʻāriḍ ʻUmar ibn Fāriḍ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 72: Dīwān Tāj al-ʻārifīn wa-sulṭān al-ʻāshiqīn min al-shuʻarāʼ bi-lā muʻāriḍ ʻUmar ibn Fāriḍ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 72: Di&#772;wa&#772;n Ta&#772;j al-&#699;a&#772;rifi&#772;n wa-sult&#803;a&#772;n al-&#699;a&#772;shiqi&#772;n min al-shu&#699;ara&#772;&#700; bi-la&#772; mu&#699;a&#772;rid&#803; &#699;Umar ibn Fa&#772;rid&#803;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 72: Di&#772;wa&#772;n Ta&#772;j al-&#699;a&#772;rifi&#772;n wa-sult&#803;a&#772;n al-&#699;a&#772;shiqi&#772;n min al-shu&#699;ara&#772;&#700; bi-la&#772; mu&#699;a&#772;rid&#803; &#699;Umar ibn Fa&#772;rid&#803;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Manuscript codex.</note>
-        <note>Title from headpiece (sarlawḥ) (f. 1v).</note>
+        <note>Title from headpiece (sarlawh&#803;) (f. 1v).</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13554140</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_072.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Poetry collection of Ibn al-Fāriḍ copied onto embossed paper.</summary>
+            <summary>Poetry collection of Ibn al-Fa&#772;rid&#803; copied onto embossed paper.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Dīwān Tāj al-ʻārifīn wa-sulṭān al-ʻāshiqīn min al-shuʻarāʼ bi-lā muʻāriḍ ʻUmar ibn Fāriḍ.</title>
-              <title type="vernacular">ديوان تاج العارفين وسلطان العاشقين من الشعراء بلا معارض عمر بن فارض</title>
+              <title>Di&#772;wa&#772;n Ta&#772;j al-&#699;a&#772;rifi&#772;n wa-sult&#803;a&#772;n al-&#699;a&#772;shiqi&#772;n min al-shu&#699;ara&#772;&#700; bi-la&#772; mu&#699;a&#772;rid&#803; &#699;Umar ibn Fa&#772;rid&#803;.</title>
+              <title type="vernacular">&#1583;&#1610;&#1608;&#1575;&#1606; &#1578;&#1575;&#1580; &#1575;&#1604;&#1593;&#1575;&#1585;&#1601;&#1610;&#1606; &#1608;&#1587;&#1604;&#1591;&#1575;&#1606; &#1575;&#1604;&#1593;&#1575;&#1588;&#1602;&#1610;&#1606; &#1605;&#1606; &#1575;&#1604;&#1588;&#1593;&#1585;&#1575;&#1569; &#1576;&#1604;&#1575; &#1605;&#1593;&#1575;&#1585;&#1590; &#1593;&#1605;&#1585; &#1576;&#1606; &#1601;&#1575;&#1585;&#1590;</title>
               <author>
-                <persName type="authority">Ibn al-Fāriḍ, ʻUmar ibn ʻAlī, 1181 or 1182-1235</persName>
-                <persName type="vernacular">ابن الفارض، عمر بن علي</persName>
+                <persName type="authority">Ibn al-Fa&#772;rid&#803;, &#699;Umar ibn &#699;Ali&#772;, 1181 or 1182-1235</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1601;&#1575;&#1585;&#1590;&#1548; &#1593;&#1605;&#1585; &#1576;&#1606; &#1593;&#1604;&#1610;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Dīwān</title>
+              <title>Di&#772;wa&#772;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -65,7 +68,7 @@
                 <extent>2 + 47 foliated leaves + 1 : 194 x 132 (130 x 80) mm, bound to 194 x 132 mm</extent>
               </supportDesc>
               <layoutDesc>
-                <layout>Two columns with five pairs of half-lines (miṣrāʻ) down each page.</layout>
+                <layout>Two columns with five pairs of half-lines (mis&#803;ra&#772;&#699;) down each page.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>

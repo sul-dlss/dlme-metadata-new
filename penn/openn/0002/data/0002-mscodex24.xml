@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 24: al-Juzʼ al-thalāthūn.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 24: al-Juz&#700; al-thala&#772;thu&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 24: al-Juzʼ al-thalāthūn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 24: al-Juzʼ al-thalāthūn.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 24: al-Juz&#700; al-thala&#772;thu&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 24: al-Juz&#700; al-thala&#772;thu&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Title from margin of opening page (f. 1v).</note>
-        <note>Inside front cover is the following note, signed by Morris Jastrow, Jr. and dated Feb. 1890 in Philadelphia: "It was used by a Turkish soldier during the recent Russo-Turkish War (187- ) &amp; upon his death in battle fell into the hands of a physician of Austrian origin. Presented to me by Dr. Adolf Brecher of Olmütz (Moravia) in 1888."</note>
+        <note>Inside front cover is the following note, signed by Morris Jastrow, Jr. and dated Feb. 1890 in Philadelphia: "It was used by a Turkish soldier during the recent Russo-Turkish War (187- ) &amp; upon his death in battle fell into the hands of a physician of Austrian origin. Presented to me by Dr. Adolf Brecher of Olmu&#776;tz (Moravia) in 1888."</note>
         <note>On the page facing the above note by Dr. Jastrow is the (Roman) alphabet in German cursive script capitals, written in pencil and upside down in relation to the book.</note>
       </notesStmt>
       <sourceDesc>
@@ -30,13 +30,16 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/86167193</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex24.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of part 30 of the Qurʼān, from al-Nabāʼ (78) to the end.</summary>
+            <summary>Complete copy of part 30 of the Qur&#700;a&#772;n, from al-Naba&#772;&#700; (78) to the end.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Juzʼ al-thalāthūn.</title>
-              <title type="vernacular">الجزء الثلاثون</title>
+              <title>al-Juz&#700; al-thala&#772;thu&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1580;&#1586;&#1569; &#1575;&#1604;&#1579;&#1604;&#1575;&#1579;&#1608;&#1606;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Brecher, Adolf</persName>
@@ -48,7 +51,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Juzʼ al-thalāthūn.</title>
+              <title>al-Juz&#700; al-thala&#772;thu&#772;n.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -91,7 +94,7 @@
           <term>Manuscripts, Arabic--18th century</term>
           <term>Manuscripts, Arabic--19th century</term>
           <term>Codices</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Blind tooled (decoration)</term>
           <term>Envelope flaps (features)</term>
         </keywords>

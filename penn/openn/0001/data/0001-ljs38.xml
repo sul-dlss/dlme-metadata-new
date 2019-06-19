@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,6 +39,9 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5816416</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs38.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Collection of prayers in Arabic, each preceded by a commentary in Ottoman Turkish, with a diagram (f. 217v) and information at the end for calculating the direction of Mecca from different latitudes. Sections of copious marginal notes at the end of the manuscript (f. 185r-186r, 192r-201v, 208r-209v, 216v-220r). Later notes and pen trials in naskh script on front flyleaf.</summary>
@@ -47,7 +50,7 @@
               <title>Prayers and commentary</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah</persName>
+                <persName>Ilya&#772;s ibn Khamzah &#699;Ali&#772; Niyat &#699;Ali&#772; ibn Khamzah</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -71,7 +74,7 @@
                 </support>
                 <extent>221 leaves : 140 x 100 (83 x 62) mm. bound to 140 x 112 mm</extent>
                 <collation>
-                  <p>Paper, i + 221; 1⁶ 2¹² 3⁸ 4¹² 5⁸ 6¹² 7⁸ 8¹²(-2) 9⁸ 10⁷ 11-12⁶ 13-15¹⁰ 16⁸ 17-19¹⁰ 20¹² 21⁸ 22² 23⁸ 24² 25⁸ 26¹⁰; 1-108, [i], 109-220, later European foliation in ink, upper left recto. Catchwords on each leaf, lower left verso.</p>
+                  <p>Paper, i + 221; 1&#8310; 2&#185;&#178; 3&#8312; 4&#185;&#178; 5&#8312; 6&#185;&#178; 7&#8312; 8&#185;&#178;(-2) 9&#8312; 10&#8311; 11-12&#8310; 13-15&#185;&#8304; 16&#8312; 17-19&#185;&#8304; 20&#185;&#178; 21&#8312; 22&#178; 23&#8312; 24&#178; 25&#8312; 26&#185;&#8304;; 1-108, [i], 109-220, later European foliation in ink, upper left recto. Catchwords on each leaf, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -79,7 +82,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh script by Ilyās ibn Khamzah ʻAlī Niyat ʻAlī ibn Khamzah (colophon, f. 220r).</scriptNote>
+              <scriptNote>Written in naskh script by Ilya&#772;s ibn Khamzah &#699;Ali&#772; Niyat &#699;Ali&#772; ibn Khamzah (colophon, f. 220r).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Black or red woodcut fillet border on each page; headings and significant words or phrases in red or green ink; some leaves stained yellow or red.</decoNote>
@@ -98,7 +101,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Written in Turkey, Ṣafar A.H. 889 (March 1484; colophon, f. 220r).</p>
+              <p>Written in Turkey, S&#803;afar A.H. 889 (March 1484; colophon, f. 220r).</p>
               <origDate>A.H. 889 (1484)</origDate>
               <origPlace>Turkey</origPlace>
             </origin>

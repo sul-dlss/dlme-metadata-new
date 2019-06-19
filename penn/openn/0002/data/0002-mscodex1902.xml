@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -16,7 +16,7 @@
         <note>Ms. codex.</note>
         <note>Title supplied by cataloger.</note>
         <note>Paper: Different types of paper make up the volume, including machine-made Ottoman.</note>
-        <note>Funeral announcement for Ḥusayn Rushdī Pasha (1863-1928), prime minister of Egypt (1914-1919), laid in.</note>
+        <note>Funeral announcement for H&#803;usayn Rushdi&#772; Pasha (1863-1928), prime minister of Egypt (1914-1919), laid in.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -31,6 +31,9 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578218</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1902.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Devotional book containing selections from the Qur'an followed by prayers; several full page illuminations in polychrome and gold.</summary>
@@ -39,8 +42,8 @@
               <title>Devotional book.</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Ḥāfiẓ al-Qurʼan, Aḥmad</persName>
-                <persName type="vernacular">حافظ القرأن، احمد.</persName>
+                <persName type="authority">H&#803;a&#772;fiz&#803; al-Qur&#700;an, Ah&#803;mad</persName>
+                <persName type="vernacular">&#1581;&#1575;&#1601;&#1592; &#1575;&#1604;&#1602;&#1585;&#1571;&#1606;&#1548; &#1575;&#1581;&#1605;&#1583;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -69,12 +72,12 @@
               <scriptNote>Written in clear naskh using black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Titles in white ink, framed in gold and floriated designs; textblock ruled in gold, red, black; gold roundels with red, blue, and green dots punctuate the text; polychrome and gold medallions in the margins; double page illuminations in polychrome and gold with text on cloudbands (f. 1v-2r, 5v-6,); full page illuminations of the name Allāh (f. 97v) and Muḥammad (f. 98r), two seals: muhr nubbūt (f. 98v), muhr Sulaymān (f. 99r) and a dual page illumination that includes the names of the first four Caliphs and Ḥusayn and Ḥasan (f. 99v-100r).</decoNote>
+              <decoNote>Titles in white ink, framed in gold and floriated designs; textblock ruled in gold, red, black; gold roundels with red, blue, and green dots punctuate the text; polychrome and gold medallions in the margins; double page illuminations in polychrome and gold with text on cloudbands (f. 1v-2r, 5v-6,); full page illuminations of the name Alla&#772;h (f. 97v) and Muh&#803;ammad (f. 98r), two seals: muhr nubbu&#772;t (f. 98v), muhr Sulayma&#772;n (f. 99r) and a dual page illumination that includes the names of the first four Caliphs and H&#803;usayn and H&#803;asan (f. 99v-100r).</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
               <decoNote n="5v">Headpiece and cloudbands</decoNote>
-              <decoNote n="97v">Illuminated name: Allāh</decoNote>
-              <decoNote n="98r">Illuminated name: Muḥammad</decoNote>
+              <decoNote n="97v">Illuminated name: All&#257;h</decoNote>
+              <decoNote n="98r">Illuminated name: Mu&#7717;ammad</decoNote>
               <decoNote n="98v">Illuminated seal</decoNote>
               <decoNote n="99r">Illuminated seal</decoNote>
               <decoNote n="99v">Dual page illumination</decoNote>
@@ -88,7 +91,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied by Aḥmad al-Maʻarūf bi-Ḥāfiẓ al-Qurʼan (f. 97r), likely in the mid to late 1800s.</p>
+              <p>Copied by Ah&#803;mad al-Ma&#699;aru&#772;f bi-H&#803;a&#772;fiz&#803; al-Qur&#700;an (f. 97r), likely in the mid to late 1800s.</p>
               <origDate>between 1830 and 1899?</origDate>
             </origin>
             <provenance>Formerly owned by Mrs. William McClenahan, likely Jean P., wife of Dr. William U. McClenahan, given to the libraries in 1969 (note in pencil on back flyleaf 1v).</provenance>

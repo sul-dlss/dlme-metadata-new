@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 287: Kitāb al-ukar.</title>
+        <title>Description of Columbia University. MS Or 287: Kita&#772;b al-ukar.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 287: Kitāb al-ukar. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 287: Kitāb al-ukar.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 287: Kita&#772;b al-ukar. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 287: Kita&#772;b al-ukar.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,25 +36,28 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720580</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_287.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>On spheres and their geometrical qualities. Copied in a lined copybook with 14 blank leaves at the end. Further note in Persian about the copy by the scribe at the end of the text (f. 27r).</summary>
             <textLang mainLang="ara" otherLangs="">Arabic</textLang>
             <msItem>
-              <title>Kitāb al-ukar.</title>
-              <title type="vernacular">كتاب الأكر</title>
+              <title>Kita&#772;b al-ukar.</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1571;&#1603;&#1585;</title>
               <author>
                 <persName type="authority">Theodosius, active 1st century B.C</persName>
               </author>
               <respStmt>
                 <resp>translator</resp>
-                <persName type="authority">Qusṭā ibn Lūqā, approximately 820-approximately 912</persName>
-                <persName type="vernacular">قسطا بن لوقا،</persName>
+                <persName type="authority">Qust&#803;a&#772; ibn Lu&#772;qa&#772;, approximately 820-approximately 912</persName>
+                <persName type="vernacular">&#1602;&#1587;&#1591;&#1575; &#1576;&#1606; &#1604;&#1608;&#1602;&#1575;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Tabrīzī, Muḥammad ʻAlī</persName>
-                <persName type="vernacular">تبريزي، محمد علي.</persName>
+                <persName type="authority">Tabri&#772;zi&#772;, Muh&#803;ammad &#699;Ali&#772;</persName>
+                <persName type="vernacular">&#1578;&#1576;&#1585;&#1610;&#1586;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1593;&#1604;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -64,7 +67,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kitāb al-ukar.</title>
+              <title>Kit&#257;b al-ukar.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -80,12 +83,12 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red; numerous diagrams (nearly every page).</decoNote>
               <decoNote n="Inside Front Cover">Bookplate: "George A. Plimpton"</decoNote>
-              <decoNote n="1r">Owner's stamp: Kitābkhānah-i Tarbiyat, 1898</decoNote>
+              <decoNote n="1r">Owner's stamp: Kit&#257;bkh&#257;nah-i Tarbiyat, 1898</decoNote>
               <decoNote n="2r">Diagram</decoNote>
               <decoNote n="2v">Diagram</decoNote>
               <decoNote n="2v">Diagram</decoNote>
@@ -158,18 +161,18 @@
             </decoDesc>
             <bindingDesc>
               <binding>
-                <p>Bound in black leather over card with blind tooled frame. Cover from 1311 (1893) printed copy of Tuḥfat al-amthāl, printed in Istanbul, used as pastedown.</p>
+                <p>Bound in black leather over card with blind tooled frame. Cover from 1311 (1893) printed copy of Tuh&#803;fat al-amtha&#772;l, printed in Istanbul, used as pastedown.</p>
               </binding>
             </bindingDesc>
           </physDesc>
           <history>
             <origin>
-              <p>The copy was finished in Rajab 1312 AH by Muḥammad ʻAlī al-Tabrīzī.</p>
+              <p>The copy was finished in Rajab 1312 AH by Muh&#803;ammad &#699;Ali&#772; al-Tabri&#772;zi&#772;.</p>
               <origDate>1895</origDate>
               <origPlace>Tabriz?</origPlace>
             </origin>
             <provenance>Gift of George Arthur Plimpton, 1936.</provenance>
-            <provenance>Formerly owned by Kitābkhānah-i Tarbiyat in Tabriz, Iran (Owner's stamp dated 1898, f. 1r).</provenance>
+            <provenance>Formerly owned by Kita&#772;bkha&#772;nah-i Tarbiyat in Tabriz, Iran (Owner's stamp dated 1898, f. 1r).</provenance>
             <provenance>Formerly owned by George A. Plimpton (bookplate inside front cover).</provenance>
           </history>
         </msDesc>

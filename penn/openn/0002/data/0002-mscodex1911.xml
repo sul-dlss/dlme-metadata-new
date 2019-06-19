@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1911: al-Ḥawḍ. Baḥr al-dumūʻ.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1911: al-H&#803;awd&#803;. Bah&#803;r al-dumu&#772;&#699;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1911: al-Ḥawḍ. Baḥr al-dumūʻ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1911: al-Ḥawḍ. Baḥr al-dumūʻ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1911: al-H&#803;awd&#803;. Bah&#803;r al-dumu&#772;&#699;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1911: al-H&#803;awd&#803;. Bah&#803;r al-dumu&#772;&#699;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -30,24 +30,27 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1096281769</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1911.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Copy of a set of works on Islamic theology and ritual practice written in Tashelhit (Shilha) in Arabic letters. Several leaves of the first work have been rewritten by a different copyist on smaller paper; the last work is missing the conclusion and the last few lines of the chapter. The works were composed in the early 18th century, between 1707 and 1714.</summary>
             <textLang mainLang="ber">Tashelhit / Shilha</textLang>
             <msItem>
-              <title>al-Ḥawḍ. Baḥr al-dumūʻ.</title>
-              <title type="vernacular">الحوض. بحر الدموع</title>
+              <title>al-H&#803;awd&#803;. Bah&#803;r al-dumu&#772;&#699;.</title>
+              <title type="vernacular">&#1575;&#1604;&#1581;&#1608;&#1590;. &#1576;&#1581;&#1585; &#1575;&#1604;&#1583;&#1605;&#1608;&#1593;</title>
               <author>
-                <persName type="authority">Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749</persName>
-                <persName type="vernacular">هوزالي، محمد بن علي،</persName>
+                <persName type="authority">Hawza&#772;li&#772;, Muh&#803;ammad ibn &#699;Ali&#772;, -1748 or 1749</persName>
+                <persName type="vernacular">&#1607;&#1608;&#1586;&#1575;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749</persName>
-                <persName type="vernacular">هوزالي، محمد بن علي،</persName>
+                <persName type="authority">Hawza&#772;li&#772;, Muh&#803;ammad ibn &#699;Ali&#772;, -1748 or 1749</persName>
+                <persName type="vernacular">&#1607;&#1608;&#1586;&#1575;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Hawzālī, Muḥammad ibn ʻAlī, -1748 or 1749</persName>
-                <persName type="vernacular">هوزالي، محمد بن علي،</persName>
+                <persName type="authority">Hawza&#772;li&#772;, Muh&#803;ammad ibn &#699;Ali&#772;, -1748 or 1749</persName>
+                <persName type="vernacular">&#1607;&#1608;&#1586;&#1575;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -56,11 +59,11 @@
             </msItem>
             <msItem n="p1">
               <locus>p1</locus>
-              <title>al-Ḥawḍ</title>
+              <title>al-H&#803;awd&#803;</title>
             </msItem>
             <msItem n="133r">
               <locus>[133]r</locus>
-              <title>Baḥr al-dumūʻ</title>
+              <title>Bah&#803;r al-dumu&#772;&#699;</title>
             </msItem>
             <msItem n="Loose leaf 4 recto">
               <locus>Loose leaf 4 recto</locus>

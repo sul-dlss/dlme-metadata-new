@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 169 - FOLIO: al-Qurʼān.</title>
+        <title>Description of Columbia University. MS Or 169 - FOLIO: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 169 - FOLIO: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 169 - FOLIO: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 169 - FOLIO: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 169 - FOLIO: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,13 +36,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13673000</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_169.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Incomplete copy of the Qurʼān with interlinear Persian translation containing the last four words of 16:126 to the end (114:6). A few leaves have been replaced and rewritten in two different hands (f. 5, f. 243-247). Most leaves have been repaired along the outside edges, obscuring some marginal notations.</summary>
+            <summary>Incomplete copy of the Qur&#700;a&#772;n with interlinear Persian translation containing the last four words of 16:126 to the end (114:6). A few leaves have been replaced and rewritten in two different hands (f. 5, f. 243-247). Most leaves have been repaired along the outside edges, obscuring some marginal notations.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic with translation in Persian</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -50,7 +53,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -67,10 +70,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written chiefly in muḥaqqaq with titles in thuluth; replacement pages in naskh with Persian translation in nastaʻliq.</scriptNote>
+              <scriptNote>Written chiefly in muh&#803;aqqaq with titles in thuluth; replacement pages in naskh with Persian translation in nasta&#699;liq.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Rubrications and translation in red. Red and white, or sometimes red and green knot motif marginal medallions. Red open circles mark verse ends. Sūrah titles in green, except in the replacement pages where they are red.</decoNote>
+              <decoNote>Rubrications and translation in red. Red and white, or sometimes red and green knot motif marginal medallions. Red open circles mark verse ends. Su&#772;rah titles in green, except in the replacement pages where they are red.</decoNote>
               <decoNote n="Flyleaf 1 recto">Library note in English</decoNote>
               <decoNote n="Flyleaf 1 recto">Owner's stamp</decoNote>
               <decoNote n="2r">Example of knot motif marginal medallion</decoNote>
@@ -101,7 +104,7 @@
           <term>Manuscripts, Persian</term>
         </keywords>
         <keywords n="form/genre">
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Codices</term>
           <term>Blind tooled (decoration)</term>
           <term>Stamps (Provenance)</term>

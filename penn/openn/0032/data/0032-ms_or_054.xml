@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 54: Līlāvatī.</title>
+        <title>Description of Columbia University. MS Or 54: Li&#772;la&#772;vati&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 54: Līlāvatī. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 54: Līlāvatī.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 54: Li&#772;la&#772;vati&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 54: Li&#772;la&#772;vati&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,21 +35,24 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13615968</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_054.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Translation by Abū al-Fayz̤ ibn Mubārak Fayz̤ī of a famous work in Sanskrit on geometry and arithmetic.</summary>
+            <summary>Translation by Abu&#772; al-Fayz&#804; ibn Muba&#772;rak Fayz&#804;i&#772; of a famous work in Sanskrit on geometry and arithmetic.</summary>
             <textLang mainLang="per" otherLangs="">Persian</textLang>
             <msItem>
-              <title>Līlāvatī.</title>
-              <title type="vernacular">لیلاوتى</title>
+              <title>Li&#772;la&#772;vati&#772;.</title>
+              <title type="vernacular">&#1604;&#1740;&#1604;&#1575;&#1608;&#1578;&#1609;</title>
               <author>
-                <persName type="authority">Bhāskarācārya, 1114-</persName>
-                <persName type="vernacular">باسكراكاريا، -</persName>
+                <persName type="authority">Bha&#772;skara&#772;ca&#772;rya, 1114-</persName>
+                <persName type="vernacular">&#1576;&#1575;&#1587;&#1603;&#1585;&#1575;&#1603;&#1575;&#1585;&#1610;&#1575;&#1548; -</persName>
               </author>
               <respStmt>
                 <resp>translator</resp>
-                <persName type="authority">Fayz̤ī, Abū al-Fayz̤ ibn Mubārak, 1547 or 1548-1595</persName>
-                <persName type="vernacular">فیضى، ابو الفیض بن مبارک،</persName>
+                <persName type="authority">Fayz&#804;i&#772;, Abu&#772; al-Fayz&#804; ibn Muba&#772;rak, 1547 or 1548-1595</persName>
+                <persName type="vernacular">&#1601;&#1740;&#1590;&#1609;&#1548; &#1575;&#1576;&#1608; &#1575;&#1604;&#1601;&#1740;&#1590; &#1576;&#1606; &#1605;&#1576;&#1575;&#1585;&#1705;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -58,7 +61,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Līlāvatī</title>
+              <title>L&#299;l&#257;vat&#299;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -74,7 +77,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in taʻliq in black ink, pointed.</scriptNote>
+              <scriptNote>Written in ta&#699;liq in black ink, pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Some geometrical figures (f. 52r-52v, 55r, 58v, 59r-60v, 61r, 62r-62v, 63v, 68r, 69r-71v) and tables (f. 7v-9r) in red.</decoNote>

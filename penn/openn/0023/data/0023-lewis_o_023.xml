@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia RBD Lewis O 23: Mukhtaṣar Anwār al-tanzīl wa-asrār al-taʼwīl.</title>
+        <title>Description of Free Library of Philadelphia RBD Lewis O 23: Mukhtas&#803;ar Anwa&#772;r al-tanzi&#772;l wa-asra&#772;r al-ta&#700;wi&#772;l.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department RBD Lewis O 23: Mukhtaṣar Anwār al-tanzīl wa-asrār al-taʼwīl. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department RBD Lewis O 23: Mukhtaṣar Anwār al-tanzīl wa-asrār al-taʼwīl.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department RBD Lewis O 23: Mukhtas&#803;ar Anwa&#772;r al-tanzi&#772;l wa-asra&#772;r al-ta&#700;wi&#772;l. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department RBD Lewis O 23: Mukhtas&#803;ar Anwa&#772;r al-tanzi&#772;l wa-asra&#772;r al-ta&#700;wi&#772;l.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
         <note>Title supplied by cataloger based on introduction (f. 1v).</note>
-        <note>An inscription is dated 22 Dhū al-Qaʻdah 1285 (March 6, 1869) (f. 1r).</note>
+        <note>An inscription is dated 22 Dhu&#772; al-Qa&#699;dah 1285 (March 6, 1869) (f. 1r).</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -33,20 +33,23 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2438125</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_023.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Autograph copy of the first volume of an abridgment of al-Bayḍāwī's Anwār al-tanzīl wa asrār al-taʼwīl, a commentary on the Qurʼān. The writer states that he wished he could have taken that book along with him on his trip to Mecca and so wrote a shorter version more conducive to travel (f. 1v). This copy contains through verse 110 of al-Kahf (18:110). The last leaf is adhered to the back board.</summary>
+            <summary>Autograph copy of the first volume of an abridgment of al-Bayd&#803;a&#772;wi&#772;'s Anwa&#772;r al-tanzi&#772;l wa asra&#772;r al-ta&#700;wi&#772;l, a commentary on the Qur&#700;a&#772;n. The writer states that he wished he could have taken that book along with him on his trip to Mecca and so wrote a shorter version more conducive to travel (f. 1v). This copy contains through verse 110 of al-Kahf (18:110). The last leaf is adhered to the back board.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Mukhtaṣar Anwār al-tanzīl wa-asrār al-taʼwīl.</title>
-              <title type="vernacular">[مختصر أنوار التنزيل وأسرار التأويل]</title>
+              <title>Mukhtas&#803;ar Anwa&#772;r al-tanzi&#772;l wa-asra&#772;r al-ta&#700;wi&#772;l.</title>
+              <title type="vernacular">[&#1605;&#1582;&#1578;&#1589;&#1585; &#1571;&#1606;&#1608;&#1575;&#1585; &#1575;&#1604;&#1578;&#1606;&#1586;&#1610;&#1604; &#1608;&#1571;&#1587;&#1585;&#1575;&#1585; &#1575;&#1604;&#1578;&#1571;&#1608;&#1610;&#1604;]</title>
               <author>
-                <persName type="authority">Ibn al-ʻImād, Muḥammad ibn Muḥammad, 1422-1482</persName>
-                <persName type="vernacular">ابن العماد، محمد بن محمد،</persName>
+                <persName type="authority">Ibn al-&#699;Ima&#772;d, Muh&#803;ammad ibn Muh&#803;ammad, 1422-1482</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1593;&#1605;&#1575;&#1583;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Bayḍāwī, ʻAbd Allāh ibn ʻUmar, -1286?</persName>
-                <persName type="vernacular">بيضاوي، عبد الله بن عمر،</persName>
+                <persName type="authority">Bayd&#803;a&#772;wi&#772;, &#699;Abd Alla&#772;h ibn &#699;Umar, -1286?</persName>
+                <persName type="vernacular">&#1576;&#1610;&#1590;&#1575;&#1608;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1593;&#1605;&#1585;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
@@ -62,7 +65,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[Mukhtaṣar Anwār al-tanzīl wa-asrār al-taʼwīl].</title>
+              <title>[Mukhtas&#803;ar Anwa&#772;r al-tanzi&#772;l wa-asra&#772;r al-ta&#700;wi&#772;l].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -75,7 +78,7 @@
                 <foliation>Modern foliation added in pencil upper left recto, 1-86 [=85], 86-121, 121[a]-172; catchwords every verso, lower left.</foliation>
               </supportDesc>
               <layoutDesc>
-                <layout>29 long lines; frame ruled with a misṭarah. Some marginal headers and notes.</layout>
+                <layout>29 long lines; frame ruled with a mist&#803;arah. Some marginal headers and notes.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
@@ -95,7 +98,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy complete in A.H. 880 (1475) by Muḥammad ibn Muḥammad ibn ʻAlī ibn Muḥammad Ibn al-ʻImād, with permission from Shaykh al-Imām Abū al-ʻAbbās Aḥmad ibn Abū ʻAbd Allāh Muḥammad al-ʻUmar al-Wāsiṭī (f. 172r). The colophon states that this is the end of first volume of al-ʻImādī (ākhir al-juzʼ al-awwal min al-ʻImādī) (f. 172r).</p>
+              <p>Copy complete in A.H. 880 (1475) by Muh&#803;ammad ibn Muh&#803;ammad ibn &#699;Ali&#772; ibn Muh&#803;ammad Ibn al-&#699;Ima&#772;d, with permission from Shaykh al-Ima&#772;m Abu&#772; al-&#699;Abba&#772;s Ah&#803;mad ibn Abu&#772; &#699;Abd Alla&#772;h Muh&#803;ammad al-&#699;Umar al-Wa&#772;sit&#803;i&#772; (f. 172r). The colophon states that this is the end of first volume of al-&#699;Ima&#772;di&#772; (a&#772;khir al-juz&#700; al-awwal min al-&#699;Ima&#772;di&#772;) (f. 172r).</p>
               <origDate>A.H. 880 (1475)</origDate>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>

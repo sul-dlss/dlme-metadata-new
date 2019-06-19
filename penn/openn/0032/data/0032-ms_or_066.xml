@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 66: Majmūʻah.</title>
+        <title>Description of Columbia University. MS Or 66: Majmu&#772;&#699;ah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 66: Majmūʻah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 66: Majmūʻah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 66: Majmu&#772;&#699;ah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 66: Majmu&#772;&#699;ah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Manuscript codex.</note>
         <note>Title supplied by cataloger.</note>
         <note>Support: Non-European laid paper.</note>
-        <note>Accompanying material: Contains a tipped-in note between following f. 30v-31r, dated 1318/1900-01, with the seal of a certain ʻAlī-Rizā Khān.</note>
+        <note>Accompanying material: Contains a tipped-in note between following f. 30v-31r, dated 1318/1900-01, with the seal of a certain &#699;Ali&#772;-Riza&#772; Kha&#772;n.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -37,13 +37,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13554139</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_066.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Anthology of classical and contemporary Persian poetry containing the work of at least three dozen poets. The frequency of the nisba Isfahānī suggests production in that city. Arranged alphabetically by rhyme syllable, the text is in two parts: the first (f. 1r-66r), missing its initial folios, begins with poems ending in the letter "bāʼ"; the second (f. 67v-161v), complete from "alif" to "yāʼ", consists of ghazals.</summary>
+            <summary>Anthology of classical and contemporary Persian poetry containing the work of at least three dozen poets. The frequency of the nisba Isfaha&#772;ni&#772; suggests production in that city. Arranged alphabetically by rhyme syllable, the text is in two parts: the first (f. 1r-66r), missing its initial folios, begins with poems ending in the letter "ba&#772;&#700;"; the second (f. 67v-161v), complete from "alif" to "ya&#772;&#700;", consists of ghazals.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Majmūʻah.</title>
-              <title type="vernacular">[مجموعه]</title>
+              <title>Majmu&#772;&#699;ah.</title>
+              <title type="vernacular">[&#1605;&#1580;&#1605;&#1608;&#1593;&#1607;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -51,7 +54,7 @@
             </msItem>
             <msItem n="1r">
               <locus>[1r]</locus>
-              <title>[Majmūʿah].</title>
+              <title>[Majmu&#772;&#703;ah].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -77,9 +80,9 @@
           </physDesc>
           <history>
             <origin>
-              <p>Muḥarram 1189 AH.</p>
+              <p>Muh&#803;arram 1189 AH.</p>
               <origDate>1775</origDate>
-              <origPlace>Iṣfahān?</origPlace>
+              <origPlace>Is&#803;faha&#772;n?</origPlace>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
             <provenance>Three effaced ownership seals (f. 161v): customs stamp dated 1312/1894-95 (f. 1r, 161v) ; Mottahedeh Resht (dealer) ; David Eugene Smith (donor).</provenance>

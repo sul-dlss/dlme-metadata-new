@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Oversize Ms. Codex 42: Kāfiyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī. Fatḥ al-mannān ʻalá naẓm mawrid al-ẓamʼān.</title>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 42: Ka&#772;fiyat al-t&#803;a&#772;lib al-rabba&#772;ni&#772; li-Risa&#772;lat Ibn Abi&#772; Zayd al-Qayrawa&#772;ni&#772;. Fath&#803; al-manna&#772;n &#699;ala&#769; naz&#803;m mawrid al-z&#803;am&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library Oversize Ms. Codex 42: Kāfiyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī. Fatḥ al-mannān ʻalá naẓm mawrid al-ẓamʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Rare Book &amp; Manuscript Library Oversize Ms. Codex 42: Kāfiyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī. Fatḥ al-mannān ʻalá naẓm mawrid al-ẓamʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book &amp; Manuscript Library Oversize Ms. Codex 42: Ka&#772;fiyat al-t&#803;a&#772;lib al-rabba&#772;ni&#772; li-Risa&#772;lat Ibn Abi&#772; Zayd al-Qayrawa&#772;ni&#772;. Fath&#803; al-manna&#772;n &#699;ala&#769; naz&#803;m mawrid al-z&#803;am&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Rare Book &amp; Manuscript Library Oversize Ms. Codex 42: Ka&#772;fiyat al-t&#803;a&#772;lib al-rabba&#772;ni&#772; li-Risa&#772;lat Ibn Abi&#772; Zayd al-Qayrawa&#772;ni&#772;. Fath&#803; al-manna&#772;n &#699;ala&#769; naz&#803;m mawrid al-z&#803;am&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -28,25 +28,28 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/122470176</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex42.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Two commentaries with the source-text in red and the commentary in brown. The first is on law and the Maliki madhhab and the second is on the orthography and readings of the Qurʼān.</summary>
+            <summary>Two commentaries with the source-text in red and the commentary in brown. The first is on law and the Maliki madhhab and the second is on the orthography and readings of the Qur&#700;a&#772;n.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Kāfiyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī. Fatḥ al-mannān ʻalá naẓm mawrid al-ẓamʼān.</title>
-              <title type="vernacular">كافية الطالب الرباني لرسالة ابن ابي زيد القيرواني. فتح المنان على نظم مورد الظمآن</title>
+              <title>Ka&#772;fiyat al-t&#803;a&#772;lib al-rabba&#772;ni&#772; li-Risa&#772;lat Ibn Abi&#772; Zayd al-Qayrawa&#772;ni&#772;. Fath&#803; al-manna&#772;n &#699;ala&#769; naz&#803;m mawrid al-z&#803;am&#700;a&#772;n.</title>
+              <title type="vernacular">&#1603;&#1575;&#1601;&#1610;&#1577; &#1575;&#1604;&#1591;&#1575;&#1604;&#1576; &#1575;&#1604;&#1585;&#1576;&#1575;&#1606;&#1610; &#1604;&#1585;&#1587;&#1575;&#1604;&#1577; &#1575;&#1576;&#1606; &#1575;&#1576;&#1610; &#1586;&#1610;&#1583; &#1575;&#1604;&#1602;&#1610;&#1585;&#1608;&#1575;&#1606;&#1610;. &#1601;&#1578;&#1581; &#1575;&#1604;&#1605;&#1606;&#1575;&#1606; &#1593;&#1604;&#1609; &#1606;&#1592;&#1605; &#1605;&#1608;&#1585;&#1583; &#1575;&#1604;&#1592;&#1605;&#1570;&#1606;</title>
               <author>
-                <persName type="authority">Ibn Khalaf, ʻAlī ibn Muḥammad, 1453-1532</persName>
-                <persName type="vernacular">ابن خلف، علي بن محمد،</persName>
+                <persName type="authority">Ibn Khalaf, &#699;Ali&#772; ibn Muh&#803;ammad, 1453-1532</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1582;&#1604;&#1601;&#1548; &#1593;&#1604;&#1610; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn ʻĀshir, ʻAbd al-Wāḥid ibn Aḥmad, 1582 or 1583-1630 or 1631</persName>
-                <persName type="vernacular">ابن عاشر، عبد الواحد بن احمد،</persName>
+                <persName type="authority">Ibn &#699;A&#772;shir, &#699;Abd al-Wa&#772;h&#803;id ibn Ah&#803;mad, 1582 or 1583-1630 or 1631</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1593;&#1575;&#1588;&#1585;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1608;&#1575;&#1581;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Khamsī, Muḥammad ibn ʻAbd Allāh</persName>
-                <persName type="vernacular">خمسي، محمد بن عبد الله.</persName>
+                <persName type="authority">Khamsi&#772;, Muh&#803;ammad ibn &#699;Abd Alla&#772;h</persName>
+                <persName type="vernacular">&#1582;&#1605;&#1587;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -59,11 +62,11 @@
             </msItem>
             <msItem n="p1">
               <locus>p[1]</locus>
-              <title>Kāfiyat al-ṭālib al-rabbānī li-Risālat Ibn Abī Zayd al-Qayrawānī</title>
+              <title>Ka&#772;fiyat al-t&#803;a&#772;lib al-rabba&#772;ni&#772; li-Risa&#772;lat Ibn Abi&#772; Zayd al-Qayrawa&#772;ni&#772;</title>
             </msItem>
             <msItem n="p1">
               <locus>p[1]</locus>
-              <title>Fatḥ al-mannān ʻalá naẓm Mawrid al-ẓamʼān</title>
+              <title>Fath&#803; al-manna&#772;n &#699;ala&#769; naz&#803;m Mawrid al-z&#803;am&#700;a&#772;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -109,7 +112,7 @@
         <keywords n="form/genre">
           <term>Manuscripts, Arabic--17th century</term>
           <term>Codices (bound manuscripts)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Commentaries</term>
         </keywords>
       </textClass>

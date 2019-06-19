@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 24: Hādhihi muqaddimah fīmā ʻalá qāriʼih.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 24: Ha&#772;dhihi muqaddimah fi&#772;ma&#772; &#699;ala&#769; qa&#772;ri&#700;ih.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 24: Hādhihi muqaddimah fīmā ʻalá qāriʼih. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 24: Hādhihi muqaddimah fīmā ʻalá qāriʼih.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 24: Ha&#772;dhihi muqaddimah fi&#772;ma&#772; &#699;ala&#769; qa&#772;ri&#700;ih. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 24: Ha&#772;dhihi muqaddimah fi&#772;ma&#772; &#699;ala&#769; qa&#772;ri&#700;ih.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,24 +32,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2435294</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_024.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of al-Jazari's poem about Qurʼān recitation. This copy includes extensive marginalia in the same hand.</summary>
+            <summary>Copy of al-Jazari's poem about Qur&#700;a&#772;n recitation. This copy includes extensive marginalia in the same hand.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Hādhihi muqaddimah fīmā ʻalá qāriʼih.</title>
-              <title type="vernacular">هذه مقدمة فيما على قارئه</title>
+              <title>Ha&#772;dhihi muqaddimah fi&#772;ma&#772; &#699;ala&#769; qa&#772;ri&#700;ih.</title>
+              <title type="vernacular">&#1607;&#1584;&#1607; &#1605;&#1602;&#1583;&#1605;&#1577; &#1601;&#1610;&#1605;&#1575; &#1593;&#1604;&#1609; &#1602;&#1575;&#1585;&#1574;&#1607;</title>
               <author>
-                <persName type="authority">Ibn al-Jazarī, Muḥammad ibn Muḥammad, 1350-1429</persName>
-                <persName type="vernacular">ابن الجزري، محمد بن محمد،</persName>
+                <persName type="authority">Ibn al-Jazari&#772;, Muh&#803;ammad ibn Muh&#803;ammad, 1350-1429</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1580;&#1586;&#1585;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Abū Bakr ibn Sulaymān</persName>
-                <persName type="vernacular">أبو بكر بن سليمان.</persName>
+                <persName type="authority">Abu&#772; Bakr ibn Sulayma&#772;n</persName>
+                <persName type="vernacular">&#1571;&#1576;&#1608; &#1576;&#1603;&#1585; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;.</persName>
               </respStmt>
               <respStmt>
                 <resp>donor</resp>
@@ -62,7 +65,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Muqaddimah al-Jazarīyah fī al-tajwīd.</title>
+              <title>Muqaddimah al-Jazari&#772;yah fi&#772; al-tajwi&#772;d.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -95,7 +98,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy complete on A.H. 20 Muharram 1240 (14 September 1824) by Abū Bakr ibn Sulaymān.</p>
+              <p>Copy complete on A.H. 20 Muharram 1240 (14 September 1824) by Abu&#772; Bakr ibn Sulayma&#772;n.</p>
               <origDate>A.H. 1240 (1824)</origDate>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>

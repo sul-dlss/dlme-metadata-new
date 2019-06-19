@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 36: Badīʻ al-ḥisāb.</title>
+        <title>Description of Columbia University. MS Or 36: Badi&#772;&#699; al-h&#803;isa&#772;b.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 36: Badīʻ al-ḥisāb. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 36: Badīʻ al-ḥisāb.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 36: Badi&#772;&#699; al-h&#803;isa&#772;b. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 36: Badi&#772;&#699; al-h&#803;isa&#772;b.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,16 +36,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13535814</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_036.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Manual of arithmetic and geometry for merchants' use including how to calculate the area of a ship. According to the compiler, the work includes excerpts from the following texts: Muntakhab al-ḥisāb, Līlāvatī, and Dastūr al-ʻamal.</summary>
+            <summary>Manual of arithmetic and geometry for merchants' use including how to calculate the area of a ship. According to the compiler, the work includes excerpts from the following texts: Muntakhab al-h&#803;isa&#772;b, Li&#772;la&#772;vati&#772;, and Dastu&#772;r al-&#699;amal.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Badīʻ al-ḥisāb.</title>
-              <title type="vernacular">بدیع الحساب</title>
+              <title>Badi&#772;&#699; al-h&#803;isa&#772;b.</title>
+              <title type="vernacular">&#1576;&#1583;&#1740;&#1593; &#1575;&#1604;&#1581;&#1587;&#1575;&#1576;</title>
               <author>
-                <persName type="authority">Rajab ʻAlī Beg</persName>
-                <persName type="vernacular">رجب علی بیگ</persName>
+                <persName type="authority">Rajab &#699;Ali&#772; Beg</persName>
+                <persName type="vernacular">&#1585;&#1580;&#1576; &#1593;&#1604;&#1740; &#1576;&#1740;&#1711;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -54,7 +57,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Badīʿ al-ḥisāb</title>
+              <title>Bad&#299;&#703; al-&#7717;is&#257;b</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -70,7 +73,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in rapid nastaʻliq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in rapid nasta&#699;liq in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Overlines, headings, and textual divisions in red. Geometrical diagrams in black.</decoNote>

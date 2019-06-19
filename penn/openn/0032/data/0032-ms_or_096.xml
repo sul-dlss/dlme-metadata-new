@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 96: Qurʼān selections and prayers.</title>
+        <title>Description of Columbia University. MS Or 96: Qur&#700;a&#772;n selections and prayers.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 96: Qurʼān selections and prayers. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 96: Qurʼān selections and prayers.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 96: Qur&#700;a&#772;n selections and prayers. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 96: Qur&#700;a&#772;n selections and prayers.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,12 +35,15 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13554145</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_096.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Excerpts from the Qurʼān and short prayers; likely a practice copy as script spacing, word divisions, and verse ending decorations are not regular.</summary>
+            <summary>Excerpts from the Qur&#700;a&#772;n and short prayers; likely a practice copy as script spacing, word divisions, and verse ending decorations are not regular.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Qurʼān selections and prayers.</title>
+              <title>Qur&#700;a&#772;n selections and prayers.</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -48,7 +51,7 @@
             </msItem>
             <msItem n="2r">
               <locus>2r</locus>
-              <title>[Qurʼān selections and prayers].</title>
+              <title>[Qur&#700;a&#772;n selections and prayers].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -68,7 +71,7 @@
               <scriptNote>Bihari in black ink; pointed and vocalized; often cramped on the left margin or a word is split and continues on the following line.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Illumination includes a sequence of border frames, mostly unwritten, and incomplete, in red, black, blue, and green (f. 1v-4r), two in-text foliate banners in pale yellow (f. 20r, f. 118r), and a full-page finispiece (f. 139r), lobed roudels in red, yellow, and green often mark verse ends, but sometimes merely decorate the verses (see for example, f. 39r), or appear mid-verse (f. 67r, 69r, for example). Infill of red or yellow dots in some bismallāh headers (f. 79r, 81r, 90r, 128v).</decoNote>
+              <decoNote>Illumination includes a sequence of border frames, mostly unwritten, and incomplete, in red, black, blue, and green (f. 1v-4r), two in-text foliate banners in pale yellow (f. 20r, f. 118r), and a full-page finispiece (f. 139r), lobed roudels in red, yellow, and green often mark verse ends, but sometimes merely decorate the verses (see for example, f. 39r), or appear mid-verse (f. 67r, 69r, for example). Infill of red or yellow dots in some bismalla&#772;h headers (f. 79r, 81r, 90r, 128v).</decoNote>
               <decoNote n="Flyleaf 2 recto">Inscription</decoNote>
               <decoNote n="Flyleaf 2 verso">Decorative frame</decoNote>
               <decoNote n="Flyleaf 3 recto">Decorative frame</decoNote>
@@ -76,7 +79,7 @@
               <decoNote n="Flyleaf 4 recto">Decorative frame</decoNote>
               <decoNote n="Flyleaf 4 verso">Decorative frame</decoNote>
               <decoNote n="1r">Decorative frame</decoNote>
-              <decoNote n="1v">Decorative frame with bismallāh</decoNote>
+              <decoNote n="1v">Decorative frame with bismall&#257;h</decoNote>
               <decoNote n="139r">Illumination</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -92,7 +95,7 @@
               <origPlace>India?</origPlace>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
-            <provenance>Name of previous owner (ṣāḥibah) has been pasted over (f. 1r).</provenance>
+            <provenance>Name of previous owner (s&#803;a&#772;h&#803;ibah) has been pasted over (f. 1r).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

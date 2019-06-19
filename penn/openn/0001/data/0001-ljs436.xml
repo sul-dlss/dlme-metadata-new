@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 436: Ḍawʼ al-sirāj</title>
+        <title>Description of University of Pennsylvania LJS 436: D&#803;aw&#700; al-sira&#772;j</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5445696</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs436.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>14th-century copy of a late 13th-century manual on the mathematics of the Islamic law of inheritance, in the form of a paragraph by paragraph commentary on the Farāʼiḍ al-Sirājīyah of 12th-century legal and mathematical scholar Sirāj al-Dīn Muḥammad ibn Muḥammad al-Sajāwandī.</summary>
+            <summary>14th-century copy of a late 13th-century manual on the mathematics of the Islamic law of inheritance, in the form of a paragraph by paragraph commentary on the Fara&#772;&#700;id&#803; al-Sira&#772;ji&#772;yah of 12th-century legal and mathematical scholar Sira&#772;j al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad al-Saja&#772;wandi&#772;.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Ḍawʼ al-sirāj</title>
-              <author>Faraḍī, Maḥmūd ibn Abī Bakr, 1246 or 7-1300</author>
+              <title>D&#803;aw&#700; al-sira&#772;j</title>
+              <author>Farad&#803;i&#772;, Mah&#803;mu&#772;d ibn Abi&#772; Bakr, 1246 or 7-1300</author>
             </msItem>
           </msContents>
           <physDesc>
@@ -109,7 +112,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Written in the Middle East, in Ramaḍān A.H. 747 (December 1346-January 1347).</p>
+              <p>Written in the Middle East, in Ramad&#803;a&#772;n A.H. 747 (December 1346-January 1347).</p>
               <origDate>A.H. 747 (1346-1347)</origDate>
               <origPlace>Middle East</origPlace>
             </origin>

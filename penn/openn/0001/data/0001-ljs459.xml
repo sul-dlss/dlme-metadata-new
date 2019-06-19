@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 459: Sirr al-asrār</title>
+        <title>Description of University of Pennsylvania LJS 459: Sirr al-asra&#772;r</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,19 +39,22 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5803344</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs459.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Early copy of the long form of this popular treatise presented as a letter from Aristotle to Alexander the Great on statecraft, astronomy, astrology, magic, and medicine. The ending of the manuscript is missing; the text breaks off during a discussion of magical alphabets.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Sirr al-asrār</title>
+              <title>Sirr al-asra&#772;r</title>
               <respStmt>
                 <resp>attributed name</resp>
                 <persName>Aristotle</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Nūr al-Dīn Arslān Shah</persName>
+                <persName>Nu&#772;r al-Di&#772;n Arsla&#772;n Shah</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -72,7 +75,7 @@
               <scriptNote>Written in naskh script, with headings in a larger naskh script and the basmalah in eastern cufic script (f. 1v); occasional marginal notes in a later hand.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Illuminated name and titles of Nūr al-Dīn Arslān Shah (f. 1r); basmalah in blue ink outlined in red (f. 1v); open octagon in gold, red, and blue, with text running around the edge (f. 80r); geometric illustration in black, gold, and red (f. 108v); tables outlined in red ink with headings in red and green ink (f. 114v-117r); names of the planets in colored inks (f. 124r); significant words, phrases, and punctuation in red ink.</decoNote>
+              <decoNote>Illuminated name and titles of Nu&#772;r al-Di&#772;n Arsla&#772;n Shah (f. 1r); basmalah in blue ink outlined in red (f. 1v); open octagon in gold, red, and blue, with text running around the edge (f. 80r); geometric illustration in black, gold, and red (f. 108v); tables outlined in red ink with headings in red and green ink (f. 114v-117r); names of the planets in colored inks (f. 124r); significant words, phrases, and punctuation in red ink.</decoNote>
               <decoNote n="1r">Illuminated ownership inscription, f. 1r</decoNote>
               <decoNote n="1v">Decorated basmalah, f. 1v</decoNote>
               <decoNote n="7r">Illuminated text, f. 7r</decoNote>
@@ -98,7 +101,7 @@
               <origDate>between 1193 and 1211</origDate>
               <origPlace>Mosul?, Iraq</origPlace>
             </origin>
-            <provenance>Formerly owned by Nūr al-Dīn Arslān Shah, Turkmen ruler of Mosul, 1193-1211 (illuminated name, f. 1r).</provenance>
+            <provenance>Formerly owned by Nu&#772;r al-Di&#772;n Arsla&#772;n Shah, Turkmen ruler of Mosul, 1193-1211 (illuminated name, f. 1r).</provenance>
             <provenance>Sold by Sam Fogg Ltd., Islamic Calligraphy catalog (2003), no. 25, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
           </history>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 298: Risālah dar hayʼat. Sharḥ-i Risālah dar hayʼat.</title>
+        <title>Description of Columbia University. MS Or 298: Risa&#772;lah dar hay&#700;at. Sharh&#803;-i Risa&#772;lah dar hay&#700;at.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 298: Risālah dar hayʼat. Sharḥ-i Risālah dar hayʼat. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 298: Risālah dar hayʼat. Sharḥ-i Risālah dar hayʼat.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 298: Risa&#772;lah dar hay&#700;at. Sharh&#803;-i Risa&#772;lah dar hay&#700;at. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 298: Risa&#772;lah dar hay&#700;at. Sharh&#803;-i Risa&#772;lah dar hay&#700;at.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,20 +35,23 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720584</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_298.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>An astronomical treatise by al-Qūshjī and a commentary on it by Muṣliḥ al-Dīn al-Lārī, copied together. A leaf (f. [23]) may have been removed. In the commentary, source-text is overlined in red.</summary>
+            <summary>An astronomical treatise by al-Qu&#772;shji&#772; and a commentary on it by Mus&#803;lih&#803; al-Di&#772;n al-La&#772;ri&#772;, copied together. A leaf (f. [23]) may have been removed. In the commentary, source-text is overlined in red.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Risālah dar hayʼat. Sharḥ-i Risālah dar hayʼat.</title>
-              <title type="vernacular">رساله در هيئت. ]شرح رساله در هيئت[</title>
+              <title>Risa&#772;lah dar hay&#700;at. Sharh&#803;-i Risa&#772;lah dar hay&#700;at.</title>
+              <title type="vernacular">&#1585;&#1587;&#1575;&#1604;&#1607; &#1583;&#1585; &#1607;&#1610;&#1574;&#1578;. ]&#1588;&#1585;&#1581; &#1585;&#1587;&#1575;&#1604;&#1607; &#1583;&#1585; &#1607;&#1610;&#1574;&#1578;[</title>
               <author>
-                <persName type="authority">Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475</persName>
-                <persName type="vernacular">قوشجي، علي بن محمد،</persName>
+                <persName type="authority">Qu&#772;shji&#772;, &#699;Ali&#772; ibn Muh&#803;ammad, -1474 or 1475</persName>
+                <persName type="vernacular">&#1602;&#1608;&#1588;&#1580;&#1610;&#1548; &#1593;&#1604;&#1610; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Muṣliḥ al-Dīn al-Lārī, Muḥammad ibn Ṣalāḥ, -1571 or 1572</persName>
-                <persName type="vernacular">مصلح الدين اللارى، محمد بن صلاح، 1571- يا 1572</persName>
+                <persName type="authority">Mus&#803;lih&#803; al-Di&#772;n al-La&#772;ri&#772;, Muh&#803;ammad ibn S&#803;ala&#772;h&#803;, -1571 or 1572</persName>
+                <persName type="vernacular">&#1605;&#1589;&#1604;&#1581; &#1575;&#1604;&#1583;&#1610;&#1606; &#1575;&#1604;&#1604;&#1575;&#1585;&#1609;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1589;&#1604;&#1575;&#1581;&#1548; 1571- &#1610;&#1575; 1572</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -57,11 +60,11 @@
             </msItem>
             <msItem n="1v">
               <locus>[1v]</locus>
-              <title>Risālah dar hayʼat.</title>
+              <title>Risa&#772;lah dar hay&#700;at.</title>
             </msItem>
             <msItem n="22v">
               <locus>[22v]</locus>
-              <title>[Sharḥ-i Risālah dar hayʼat].</title>
+              <title>[Sharh&#803;-i Risa&#772;lah dar hay&#700;at].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -77,13 +80,13 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Astronomical diagrams in red and black.</decoNote>
               <decoNote n="Inside Front Cover">Bookplate: "George A. Plimpton"</decoNote>
-              <decoNote n="1r">Owner's stamp and notation: al-Sayyid Muḥammad ʿAṭāʾ Allah</decoNote>
-              <decoNote n="1r">Owner's stamp: al-Sayyid Aḥmad Ḥasan</decoNote>
+              <decoNote n="1r">Owner's stamp and notation: al-Sayyid Mu&#7717;ammad &#703;A&#7789;&#257;&#702; Allah</decoNote>
+              <decoNote n="1r">Owner's stamp: al-Sayyid A&#7717;mad &#7716;asan</decoNote>
               <decoNote n="1v">Diagrams</decoNote>
               <decoNote n="2r">Diagrams</decoNote>
               <decoNote n="3r">Diagram: planetary orbits</decoNote>

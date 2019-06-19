@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University MS Or 19: Panjāh bāb-i sulṭānī bi-ʻilm-i usṭurlāb.</title>
+        <title>Description of Columbia University MS Or 19: Panja&#772;h ba&#772;b-i sult&#803;a&#772;ni&#772; bi-&#699;ilm-i ust&#803;urla&#772;b.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 19: Panjāh bāb-i sulṭānī bi-ʻilm-i usṭurlāb. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 19: Panjāh bāb-i sulṭānī bi-ʻilm-i usṭurlāb.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 19: Panja&#772;h ba&#772;b-i sult&#803;a&#772;ni&#772; bi-&#699;ilm-i ust&#803;urla&#772;b. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 19: Panja&#772;h ba&#772;b-i sult&#803;a&#772;ni&#772; bi-&#699;ilm-i ust&#803;urla&#772;b.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13554124</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_019.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>On the use of the astrolabe in calendar making and astrology; ends abruptly; no colophon.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Panjāh bāb-i sulṭānī bi-ʻilm-i usṭurlāb.</title>
-              <title type="vernacular">پنجاه باب سلطانى بعلم اسطرلاب</title>
+              <title>Panja&#772;h ba&#772;b-i sult&#803;a&#772;ni&#772; bi-&#699;ilm-i ust&#803;urla&#772;b.</title>
+              <title type="vernacular">&#1662;&#1606;&#1580;&#1575;&#1607; &#1576;&#1575;&#1576; &#1587;&#1604;&#1591;&#1575;&#1606;&#1609; &#1576;&#1593;&#1604;&#1605; &#1575;&#1587;&#1591;&#1585;&#1604;&#1575;&#1576;</title>
               <author>
-                <persName type="authority">Āmulī, Rukn ibn Sharaf al-Dīn, active 1456</persName>
-                <persName type="vernacular">آملى، رکن بن شرف الدىن</persName>
+                <persName type="authority">A&#772;muli&#772;, Rukn ibn Sharaf al-Di&#772;n, active 1456</persName>
+                <persName type="vernacular">&#1570;&#1605;&#1604;&#1609;&#1548; &#1585;&#1705;&#1606; &#1576;&#1606; &#1588;&#1585;&#1601; &#1575;&#1604;&#1583;&#1609;&#1606;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -52,12 +55,12 @@
               </respStmt>
               <respStmt>
                 <resp>dedicatee</resp>
-                <persName type="authority">Abū al-Qāsim Bābur Mīrzā</persName>
+                <persName type="authority">Abu&#772; al-Qa&#772;sim Ba&#772;bur Mi&#772;rza&#772;</persName>
               </respStmt>
             </msItem>
             <msItem n="2">
               <locus>2</locus>
-              <title>Panjāh bāb-i sulṭānī bi ʻilm-i usṭurlāb</title>
+              <title>Panj&#257;h b&#257;b-i sul&#7789;&#257;n&#299; bi &#699;ilm-i us&#7789;url&#257;b</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -74,7 +77,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Section headers and overlines in red. Includes 7 tables: pp. [24], [32], 35, [36], 43, [54], [60], and 4 diagrams: pp. 25, [26], 27, 63.</decoNote>

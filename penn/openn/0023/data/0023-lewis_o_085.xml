@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 85: Dīvān-i Viṣāl.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 85: Di&#772;va&#772;n-i Vis&#803;a&#772;l.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 85: Dīvān-i Viṣāl. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 85: Dīvān-i Viṣāl.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 85: Di&#772;va&#772;n-i Vis&#803;a&#772;l. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 85: Di&#772;va&#772;n-i Vis&#803;a&#772;l.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,16 +32,19 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450061</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_085.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of some of the poetry of Viṣāl, including short poems and the beginning of Bazm-i Viṣāl; five leaves have been ruled but left unwritten.</summary>
+            <summary>Copy of some of the poetry of Vis&#803;a&#772;l, including short poems and the beginning of Bazm-i Vis&#803;a&#772;l; five leaves have been ruled but left unwritten.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Dīvān-i Viṣāl.</title>
-              <title type="vernacular">[ديوان وصال]</title>
+              <title>Di&#772;va&#772;n-i Vis&#803;a&#772;l.</title>
+              <title type="vernacular">[&#1583;&#1610;&#1608;&#1575;&#1606; &#1608;&#1589;&#1575;&#1604;]</title>
               <author>
-                <persName type="authority">Viṣāl Shīrāzī, Muḥammad Shafīʻ ibn Muḥammad Ismāʻīl, 1782 or 1783-1845 or 1846</persName>
-                <persName type="vernacular">وصال شيرازى، محمد شفيع بن محمد اسماعيل،</persName>
+                <persName type="authority">Vis&#803;a&#772;l Shi&#772;ra&#772;zi&#772;, Muh&#803;ammad Shafi&#772;&#699; ibn Muh&#803;ammad Isma&#772;&#699;i&#772;l, 1782 or 1783-1845 or 1846</persName>
+                <persName type="vernacular">&#1608;&#1589;&#1575;&#1604; &#1588;&#1610;&#1585;&#1575;&#1586;&#1609;&#1548; &#1605;&#1581;&#1605;&#1583; &#1588;&#1601;&#1610;&#1593; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
@@ -57,11 +60,11 @@
             </msItem>
             <msItem n="4v">
               <locus>4v</locus>
-              <title>[Dīvān-i Viṣāl].</title>
+              <title>[Di&#772;va&#772;n-i Vis&#803;a&#772;l].</title>
             </msItem>
             <msItem n="61v">
               <locus>61v</locus>
-              <title>Bazm-i Viṣāl</title>
+              <title>Bazm-i Vis&#803;a&#772;l</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -74,11 +77,11 @@
                 <foliation>Modern foliation added in pencil, upper left recto; catchwords every verso, lower left.</foliation>
               </supportDesc>
               <layoutDesc>
-                <layout>Two layouts: for the short poetry section (f. 4v-59r), 17 lines in two columns, often with a centered couplet and 26 marginal lines on two sides, written at angles; for the Bazm-i Viṣāl section (f. 61v-130v), 15 lines in two columns, with 10 lines in the fore-edge column written at an angle; rules between all columns and around textblock</layout>
+                <layout>Two layouts: for the short poetry section (f. 4v-59r), 17 lines in two columns, often with a centered couplet and 26 marginal lines on two sides, written at angles; for the Bazm-i Vis&#803;a&#772;l section (f. 61v-130v), 15 lines in two columns, with 10 lines in the fore-edge column written at an angle; rules between all columns and around textblock</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Two illuminated headpieces chiefly in gold and blue with the text on the full page-opening written on cloudbands (f. 4v-5r, 61v-62r). Rules in gold around the textblock, between the columns, and along the angled marginal lines; page-opening also framed with a gold rule.</decoNote>

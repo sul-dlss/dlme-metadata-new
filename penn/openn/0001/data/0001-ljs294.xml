@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 294: Kitāb al-Adwār</title>
+        <title>Description of University of Pennsylvania LJS 294: Kita&#772;b al-Adwa&#772;r</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5890176</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs294.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Treatise on the theory of music, including division of frets, ratio of intervals, consonance and dissonance, cycles, rhythmic and melodic modes, and the 5-string oud or lute.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Adwār</title>
-              <author>Urmawī, ʻAbd al-Muʼmin ibn Yūsuf, ca. 1216-1294</author>
+              <title>Kita&#772;b al-Adwa&#772;r</title>
+              <author>Urmawi&#772;, &#699;Abd al-Mu&#700;min ibn Yu&#772;suf, ca. 1216-1294</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Masʻūd ibn Ḥusayn al-Mūsīqī al-Musalī</persName>
+                <persName>Mas&#699;u&#772;d ibn H&#803;usayn al-Mu&#772;si&#772;qi&#772; al-Musali&#772;</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in a naskh script by Masʻūd ibn Ḥusayn al-Mūsīqī al-Musalī (colophon, p. 51).</scriptNote>
+              <scriptNote>Written in a naskh script by Mas&#699;u&#772;d ibn H&#803;usayn al-Mu&#772;si&#772;qi&#772; al-Musali&#772; (colophon, p. 51).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Diagrams and selected characters and words in red ink throughout.</decoNote>
@@ -116,7 +119,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Written in Mosul, Iraq, dated 7 Dhū al-Qaʻdah A.H. 1103 (22 Jul. 1692; colophon, p. 51).</p>
+              <p>Written in Mosul, Iraq, dated 7 Dhu&#772; al-Qa&#699;dah A.H. 1103 (22 Jul. 1692; colophon, p. 51).</p>
               <origDate>A.H. 1103 (1692)</origDate>
               <origPlace>Mosul</origPlace>
             </origin>

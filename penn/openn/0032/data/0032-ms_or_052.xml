@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 52: Kitāb al-kurah al-mutaḥarrikah /</title>
+        <title>Description of Columbia University. MS Or 52: Kita&#772;b al-kurah al-mutah&#803;arrikah /</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 52: Kitāb al-kurah al-mutaḥarrikah / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 52: Kitāb al-kurah al-mutaḥarrikah /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 52: Kita&#772;b al-kurah al-mutah&#803;arrikah / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 52: Kita&#772;b al-kurah al-mutah&#803;arrikah /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13615965</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_052.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Arabic translation of Autolycus' treatise on moving spheres.</summary>
             <textLang mainLang="ara" otherLangs="">Arabic</textLang>
             <msItem>
-              <title>Kitāb al-kurah al-mutaḥarrikah /</title>
-              <title type="vernacular">كتاب الكرة المتحركة</title>
+              <title>Kita&#772;b al-kurah al-mutah&#803;arrikah /</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1603;&#1585;&#1577; &#1575;&#1604;&#1605;&#1578;&#1581;&#1585;&#1603;&#1577;</title>
               <author>
                 <persName type="authority">Autolycus, active 2nd century</persName>
-                <persName type="vernacular">اوطولوقس</persName>
+                <persName type="vernacular">&#1575;&#1608;&#1591;&#1608;&#1604;&#1608;&#1602;&#1587;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1v">
               <locus>[1v]</locus>
-              <title>Kitāb al-kurah al-mutaḥarrikah</title>
+              <title>Kit&#257;b al-kurah al-muta&#7717;arrikah</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -69,7 +72,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Textblock border-ruled in gold. Rubrications and diagrams in red.</decoNote>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 69: al-Mujallad al-rābiʻ min al-mathnawī al-maʻnawī al-hādī ilá ṣirāṭ al-sawī</title>
+        <title>Description of Columbia University. MS Or 69: al-Mujallad al-ra&#772;bi&#699; min al-mathnawi&#772; al-ma&#699;nawi&#772; al-ha&#772;di&#772; ila&#769; s&#803;ira&#772;t&#803; al-sawi&#772;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 69: al-Mujallad al-rābiʻ min al-mathnawī al-maʻnawī al-hādī ilá ṣirāṭ al-sawī are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 69: al-Mujallad al-rābiʻ min al-mathnawī al-maʻnawī al-hādī ilá ṣirāṭ al-sawī. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 69: al-Mujallad al-ra&#772;bi&#699; min al-mathnawi&#772; al-ma&#699;nawi&#772; al-ha&#772;di&#772; ila&#769; s&#803;ira&#772;t&#803; al-sawi&#772; are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 69: al-Mujallad al-ra&#772;bi&#699; min al-mathnawi&#772; al-ma&#699;nawi&#772; al-ha&#772;di&#772; ila&#769; s&#803;ira&#772;t&#803; al-sawi&#772;. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,21 +35,24 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13615974</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_069.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of sections four to six of the poetry collection Mas̲navī-i maʻnavī. Two pages in Arabic at the beginning.</summary>
+            <summary>Copy of sections four to six of the poetry collection Mas&#818;navi&#772;-i ma&#699;navi&#772;. Two pages in Arabic at the beginning.</summary>
             <textLang mainLang="per">Persian with two pages in Arabic (f. 1v-2r)</textLang>
             <msItem>
-              <title>al-Mujallad al-rābiʻ min al-mathnawī al-maʻnawī al-hādī ilá ṣirāṭ al-sawī</title>
-              <title type="vernacular">المجلّد الرابع من المثنوي المعنوي الهادي الى صراط السوي</title>
+              <title>al-Mujallad al-ra&#772;bi&#699; min al-mathnawi&#772; al-ma&#699;nawi&#772; al-ha&#772;di&#772; ila&#769; s&#803;ira&#772;t&#803; al-sawi&#772;</title>
+              <title type="vernacular">&#1575;&#1604;&#1605;&#1580;&#1604;&#1617;&#1583; &#1575;&#1604;&#1585;&#1575;&#1576;&#1593; &#1605;&#1606; &#1575;&#1604;&#1605;&#1579;&#1606;&#1608;&#1610; &#1575;&#1604;&#1605;&#1593;&#1606;&#1608;&#1610; &#1575;&#1604;&#1607;&#1575;&#1583;&#1610; &#1575;&#1604;&#1609; &#1589;&#1585;&#1575;&#1591; &#1575;&#1604;&#1587;&#1608;&#1610;</title>
               <author>
-                <persName type="authority">Jalāl al-Dīn Rūmī, Maulana, 1207-1273</persName>
-                <persName type="vernacular">جلال الدین رومى،</persName>
+                <persName type="authority">Jala&#772;l al-Di&#772;n Ru&#772;mi&#772;, Maulana, 1207-1273</persName>
+                <persName type="vernacular">&#1580;&#1604;&#1575;&#1604; &#1575;&#1604;&#1583;&#1740;&#1606; &#1585;&#1608;&#1605;&#1609;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">ʻAbd al-Laṭīf Qalandar Ibn ʻAbd Allāh ibn Khaz̤r Sabzavārī</persName>
-                <persName type="vernacular">عبد اللطیف قلندر ابن عبد الله بن خضر سبزوارى.</persName>
+                <persName type="authority">&#699;Abd al-Lat&#803;i&#772;f Qalandar Ibn &#699;Abd Alla&#772;h ibn Khaz&#804;r Sabzava&#772;ri&#772;</persName>
+                <persName type="vernacular">&#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1591;&#1740;&#1601; &#1602;&#1604;&#1606;&#1583;&#1585; &#1575;&#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1582;&#1590;&#1585; &#1587;&#1576;&#1586;&#1608;&#1575;&#1585;&#1609;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -58,7 +61,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Mujallad al-rābiʻ min al-mathnawī al-maʻnawī al-hādī ilá ṣirāṭ al-sawī</title>
+              <title>al-Mujallad al-ra&#772;bi&#699; min al-mathnawi&#772; al-ma&#699;nawi&#772; al-ha&#772;di&#772; ila&#769; s&#803;ira&#772;t&#803; al-sawi&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -85,7 +88,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on 23 Shaʻbān 900 AH (May 28, 1495) (f. 247[a]v).</p>
+              <p>Copy completed on 23 Sha&#699;ba&#772;n 900 AH (May 28, 1495) (f. 247[a]v).</p>
               <origDate>1495</origDate>
               <origPlace>Iran</origPlace>
             </origin>

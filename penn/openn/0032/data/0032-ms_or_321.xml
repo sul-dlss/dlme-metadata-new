@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 321 - FOLIO: Āghāz-i kitāb-i Vīsparad bā maʻnī-i Fārsī tarjumah kardah mīnavīsam.</title>
+        <title>Description of Columbia University. MS Or 321 - FOLIO: A&#772;gha&#772;z-i kita&#772;b-i Vi&#772;sparad ba&#772; ma&#699;ni&#772;-i Fa&#772;rsi&#772; tarjumah kardah mi&#772;navi&#772;sam.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 321 - FOLIO: Āghāz-i kitāb-i Vīsparad bā maʻnī-i Fārsī tarjumah kardah mīnavīsam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 321 - FOLIO: Āghāz-i kitāb-i Vīsparad bā maʻnī-i Fārsī tarjumah kardah mīnavīsam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 321 - FOLIO: A&#772;gha&#772;z-i kita&#772;b-i Vi&#772;sparad ba&#772; ma&#699;ni&#772;-i Fa&#772;rsi&#772; tarjumah kardah mi&#772;navi&#772;sam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 321 - FOLIO: A&#772;gha&#772;z-i kita&#772;b-i Vi&#772;sparad ba&#772; ma&#699;ni&#772;-i Fa&#772;rsi&#772; tarjumah kardah mi&#772;navi&#772;sam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848515</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_321.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Supplemental text to the Yasna; divided into sections; in Pahlavi with Persian translation.</summary>
             <textLang mainLang="pal" otherLangs="per">Pahlavi and Persian</textLang>
             <msItem>
-              <title>Āghāz-i kitāb-i Vīsparad bā maʻnī-i Fārsī tarjumah kardah mīnavīsam.</title>
-              <title type="vernacular">آغاز کتاب ويسپرد با معنى فارسى ترجمه کرده مينويسم</title>
+              <title>A&#772;gha&#772;z-i kita&#772;b-i Vi&#772;sparad ba&#772; ma&#699;ni&#772;-i Fa&#772;rsi&#772; tarjumah kardah mi&#772;navi&#772;sam.</title>
+              <title type="vernacular">&#1570;&#1594;&#1575;&#1586; &#1705;&#1578;&#1575;&#1576; &#1608;&#1610;&#1587;&#1662;&#1585;&#1583; &#1576;&#1575; &#1605;&#1593;&#1606;&#1609; &#1601;&#1575;&#1585;&#1587;&#1609; &#1578;&#1585;&#1580;&#1605;&#1607; &#1705;&#1585;&#1583;&#1607; &#1605;&#1610;&#1606;&#1608;&#1610;&#1587;&#1605;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Modi, Jivanji Jamshedji, Sir, 1854-1933</persName>
@@ -52,13 +55,13 @@
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Mūbid Jamshīd Pashūtan Hurmazdʹyār Jāmāsp Sanjānah</persName>
-                <persName type="vernacular">موبد جمشيد پشوتن هرمزديار جاماسپ سنجانه.</persName>
+                <persName type="authority">Mu&#772;bid Jamshi&#772;d Pashu&#772;tan Hurmazd&#697;ya&#772;r Ja&#772;ma&#772;sp Sanja&#772;nah</persName>
+                <persName type="vernacular">&#1605;&#1608;&#1576;&#1583; &#1580;&#1605;&#1588;&#1610;&#1583; &#1662;&#1588;&#1608;&#1578;&#1606; &#1607;&#1585;&#1605;&#1586;&#1583;&#1610;&#1575;&#1585; &#1580;&#1575;&#1605;&#1575;&#1587;&#1662; &#1587;&#1606;&#1580;&#1575;&#1606;&#1607;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Āghāz-i kitāb-i Vīsparad bā maʻnī-i Fārsī tarjumah kardah mīnavīsam</title>
+              <title>A&#772;gha&#772;z-i kita&#772;b-i Vi&#772;sparad ba&#772; ma&#699;ni&#772;-i Fa&#772;rsi&#772; tarjumah kardah mi&#772;navi&#772;sam</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -74,7 +77,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in Avestan, Pahlavi, and Persian (nastaʻlīq).</scriptNote>
+              <scriptNote>Written in Avestan, Pahlavi, and Persian (nasta&#699;li&#772;q).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red.</decoNote>
@@ -103,9 +106,9 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in 1224 AY (Anno Yazdegirdi) by Mūbid Jamshīd Pashūtan Hurmazdʹyār Jāmāsp Sanjānah (f. 74v).</p>
+              <p>Copy completed in 1224 AY (Anno Yazdegirdi) by Mu&#772;bid Jamshi&#772;d Pashu&#772;tan Hurmazd&#697;ya&#772;r Ja&#772;ma&#772;sp Sanja&#772;nah (f. 74v).</p>
               <origDate>1855</origDate>
-              <origPlace>Balsār</origPlace>
+              <origPlace>Balsa&#772;r</origPlace>
             </origin>
             <provenance>Gift of Jivanji Jamshedji Modi, December 4, 1911.</provenance>
             <provenance>Formerly owned by Manookjee Sorabjee Ashburner (numerous stamps).</provenance>

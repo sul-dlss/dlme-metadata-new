@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 434: Taqwīm</title>
+        <title>Description of University of Pennsylvania LJS 434: Taqwi&#772;m</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4828727</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs434.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Tables of ikhtiyārāt (elections) used in an astrological technique for determining auspicious times for carrying out various activities. Also includes geographical illustrations and diagrams and half of a horoscope diagram for a location in northern Afghanistan dated Friday, 27 Shawwāl 912 (12 March 1507).</summary>
+            <summary>Tables of ikhtiya&#772;ra&#772;t (elections) used in an astrological technique for determining auspicious times for carrying out various activities. Also includes geographical illustrations and diagrams and half of a horoscope diagram for a location in northern Afghanistan dated Friday, 27 Shawwa&#772;l 912 (12 March 1507).</summary>
             <textLang>Persian</textLang>
             <msItem>
-              <title>Taqwīm</title>
+              <title>Taqwi&#772;m</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -61,10 +64,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script, with headings in naskh script.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script, with headings in naskh script.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>6 colored diagrams (eastern half of a double-page world map, f. 1r; structure and arrangement of seven climatic zones, f. 2v; geographical relationship of various cities to Mecca, f. 3r; rainbow predictions, f. 4v; setting and rising of the moon, f. 5r; half of a double-page horoscope diagram, f. 7v) and 8 decorated tables (ikhtiyārāt for the days of the solar month, f. 1v-2r; ikhtiyārāt for the lunar mansions, f. 3v-4r; ikhtiyārāt for the moon in one of the zodiacal signs, f. 5v-6r); marginal ruling in gold; significant words or numbers in red or green ink.</decoNote>
+              <decoNote>6 colored diagrams (eastern half of a double-page world map, f. 1r; structure and arrangement of seven climatic zones, f. 2v; geographical relationship of various cities to Mecca, f. 3r; rainbow predictions, f. 4v; setting and rising of the moon, f. 5r; half of a double-page horoscope diagram, f. 7v) and 8 decorated tables (ikhtiya&#772;ra&#772;t for the days of the solar month, f. 1v-2r; ikhtiya&#772;ra&#772;t for the lunar mansions, f. 3v-4r; ikhtiya&#772;ra&#772;t for the moon in one of the zodiacal signs, f. 5v-6r); marginal ruling in gold; significant words or numbers in red or green ink.</decoNote>
               <decoNote n="1r">Diagram, Eastern half of world map, f. 1r</decoNote>
               <decoNote n="2v">Diagram, Seven climatic zones, f. 2v</decoNote>
               <decoNote n="3r">Diagram, Geographical relationship of various cities to Mecca, f. 3r</decoNote>

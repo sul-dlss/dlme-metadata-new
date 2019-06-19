@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1900: al-Tuḥfah al-shāhīyah fī al-hayʼah.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1900: al-Tuh&#803;fah al-sha&#772;hi&#772;yah fi&#772; al-hay&#700;ah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1900: al-Tuḥfah al-shāhīyah fī al-hayʼah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1900: al-Tuḥfah al-shāhīyah fī al-hayʼah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1900: al-Tuh&#803;fah al-sha&#772;hi&#772;yah fi&#772; al-hay&#700;ah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1900: al-Tuh&#803;fah al-sha&#772;hi&#772;yah fi&#772; al-hay&#700;ah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,31 +29,34 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523100</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1900.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Treatise on astronomy in four chapters, written for the wazīr Amīr Shāh Muḥammad ibn al-Ṣadr al-Saʻīd Tāj al-Dīn Muʻtazz ibn Ṭāhir (Kashf al-ẓunūn, ed. Fluegel, vol. 2, p. 229, with the title of each of the four chapters).</summary>
+            <summary>Treatise on astronomy in four chapters, written for the wazi&#772;r Ami&#772;r Sha&#772;h Muh&#803;ammad ibn al-S&#803;adr al-Sa&#699;i&#772;d Ta&#772;j al-Di&#772;n Mu&#699;tazz ibn T&#803;a&#772;hir (Kashf al-z&#803;unu&#772;n, ed. Fluegel, vol. 2, p. 229, with the title of each of the four chapters).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Tuḥfah al-shāhīyah fī al-hayʼah.</title>
-              <title type="vernacular">التحفة الشاهية في الهيئة</title>
+              <title>al-Tuh&#803;fah al-sha&#772;hi&#772;yah fi&#772; al-hay&#700;ah.</title>
+              <title type="vernacular">&#1575;&#1604;&#1578;&#1581;&#1601;&#1577; &#1575;&#1604;&#1588;&#1575;&#1607;&#1610;&#1577; &#1601;&#1610; &#1575;&#1604;&#1607;&#1610;&#1574;&#1577;</title>
               <author>
-                <persName type="authority">Quṭb al-Shīrāzī, Maḥmūd ibn Masʻūd, 1236 or 1237-1310 or 1311</persName>
-                <persName type="vernacular">قطب الشيرازي، محمود بن مسعود،</persName>
+                <persName type="authority">Qut&#803;b al-Shi&#772;ra&#772;zi&#772;, Mah&#803;mu&#772;d ibn Mas&#699;u&#772;d, 1236 or 1237-1310 or 1311</persName>
+                <persName type="vernacular">&#1602;&#1591;&#1576; &#1575;&#1604;&#1588;&#1610;&#1585;&#1575;&#1586;&#1610;&#1548; &#1605;&#1581;&#1605;&#1608;&#1583; &#1576;&#1606; &#1605;&#1587;&#1593;&#1608;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Iṣfahānī, Ṣ̣adr al-Dīn Muḥammad ibn Kamāl al-Dīn</persName>
-                <persName type="vernacular">اصفهاني، صدر الدين محمد بن كمال الدين.</persName>
+                <persName type="authority">Is&#803;faha&#772;ni&#772;, S&#803;&#803;adr al-Di&#772;n Muh&#803;ammad ibn Kama&#772;l al-Di&#772;n</persName>
+                <persName type="vernacular">&#1575;&#1589;&#1601;&#1607;&#1575;&#1606;&#1610;&#1548; &#1589;&#1583;&#1585; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1603;&#1605;&#1575;&#1604; &#1575;&#1604;&#1583;&#1610;&#1606;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Īrawānī, Qāsim</persName>
-                <persName type="vernacular">ايرواني، قاسم.</persName>
+                <persName type="authority">I&#772;rawa&#772;ni&#772;, Qa&#772;sim</persName>
+                <persName type="vernacular">&#1575;&#1610;&#1585;&#1608;&#1575;&#1606;&#1610;&#1548; &#1602;&#1575;&#1587;&#1605;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Tuḥfah al-shāhīyah fī al-hayʼah.</title>
+              <title>al-Tuh&#803;fah al-sha&#772;hi&#772;yah fi&#772; al-hay&#700;ah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -70,7 +73,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Numerous diagrams in red and black (f. 3r, 4v, 7r, 8r-8v, 14r, 22v, 25v, 26v, 31v, 33v, 34v, 35v, 36v, 37v-38v, 40v, 42v, 44r, 52v, 56v-57r, 62v, 65r, 70r, 70v-71v, 73r, 74r-74v, 75v, 79v, 81v, 83v, 87r-87v, 92v-93r [diagram across full opening], 93v, 99r, 101v-102r, 103v, 104v, 106r-107r, 124r, 127r-128r, 133v, 135r, 144v, 147v, 151r-152r, 153r-153v, 159r).</decoNote>
@@ -149,11 +152,11 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on A.H. 25 Rabīʻ al-Ākhir 960 (20 April 1553) by Ṣ̣adr al-Dīn Muḥammad ibn Kamāl al-Dīn al-Iṣfahānī (f. 164r).</p>
+              <p>Copy completed on A.H. 25 Rabi&#772;&#699; al-A&#772;khir 960 (20 April 1553) by S&#803;&#803;adr al-Di&#772;n Muh&#803;ammad ibn Kama&#772;l al-Di&#772;n al-Is&#803;faha&#772;ni&#772; (f. 164r).</p>
               <origDate>A.H. 960 (1553)</origDate>
               <origPlace>Iran?</origPlace>
             </origin>
-            <provenance>Formerly owned by Qāsim al-Īrawānī (owner's note and stamp, f. 1r).</provenance>
+            <provenance>Formerly owned by Qa&#772;sim al-I&#772;rawa&#772;ni&#772; (owner's note and stamp, f. 1r).</provenance>
             <provenance>Forms part of: Edgar F. Smith Memorial Collection.</provenance>
           </history>
         </msDesc>

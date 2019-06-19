@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 410: Sharḥ mulakhkhaṣ fī al-hayʼah</title>
+        <title>Description of University of Pennsylvania LJS 410: Sharh&#803; mulakhkhas&#803; fi&#772; al-hay&#700;ah</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5089400</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs410.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary on Maḥmūd ibn Muḥammad al-Jighmīnī's Mulakhkhaṣ fī al-hayʼah (Epitome of astronomy or Quintessence of astronomy) with extensive marginal commentary.</summary>
+            <summary>Commentary on Mah&#803;mu&#772;d ibn Muh&#803;ammad al-Jighmi&#772;ni&#772;'s Mulakhkhas&#803; fi&#772; al-hay&#700;ah (Epitome of astronomy or Quintessence of astronomy) with extensive marginal commentary.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Sharḥ mulakhkhaṣ fī al-hayʼah</title>
+              <title>Sharh&#803; mulakhkhas&#803; fi&#772; al-hay&#700;ah</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName>Aga Khan, Sadruddin, Prince, 1933-</persName>
@@ -65,7 +68,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script, with marginal notes in many different hands.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script, with marginal notes in many different hands.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Numerous diagrams in text in red; some diagrams in black ink in marginal notes; overlining and selected words in red.</decoNote>

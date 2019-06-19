@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 48: Bīst bāb dar ʻilm-i usṭurlāb.</title>
+        <title>Description of Columbia University. MS Or 48: Bi&#772;st ba&#772;b dar &#699;ilm-i ust&#803;urla&#772;b.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 48: Bīst bāb dar ʻilm-i usṭurlāb. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 48: Bīst bāb dar ʻilm-i usṭurlāb.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 48: Bi&#772;st ba&#772;b dar &#699;ilm-i ust&#803;urla&#772;b. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 48: Bi&#772;st ba&#772;b dar &#699;ilm-i ust&#803;urla&#772;b.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13560681</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_048.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Treatise on astrolabes. Likely an abridgement of Bīst bāb dar maʻrifat-i usṭurlāb by Naṣīr al-Dīn Ṭūsī (d. 1274). Attribution is uncertain.</summary>
+            <summary>Treatise on astrolabes. Likely an abridgement of Bi&#772;st ba&#772;b dar ma&#699;rifat-i ust&#803;urla&#772;b by Nas&#803;i&#772;r al-Di&#772;n T&#803;u&#772;si&#772; (d. 1274). Attribution is uncertain.</summary>
             <textLang mainLang="per">Persian with two pages in Arabic (f. 23r/v)</textLang>
             <msItem>
-              <title>Bīst bāb dar ʻilm-i usṭurlāb.</title>
-              <title type="vernacular">بیست باب در علم اسطرلاب</title>
+              <title>Bi&#772;st ba&#772;b dar &#699;ilm-i ust&#803;urla&#772;b.</title>
+              <title type="vernacular">&#1576;&#1740;&#1587;&#1578; &#1576;&#1575;&#1576; &#1583;&#1585; &#1593;&#1604;&#1605; &#1575;&#1587;&#1591;&#1585;&#1604;&#1575;&#1576;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -49,7 +52,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Bīst bāb dar īlm-i usṭurlāb</title>
+              <title>B&#299;st b&#257;b dar &#299;lm-i us&#7789;url&#257;b</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications; 11 drawings and tables (f. 4r-5r, Insert r/v, 24r, 25r, 26r-27r).</decoNote>

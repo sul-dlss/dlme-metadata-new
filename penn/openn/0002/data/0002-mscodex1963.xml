@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1963: Ḥall al-ṭilsam wa-kashf al-sirr al-mubham</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1963: H&#803;all al-t&#803;ilsam wa-kashf al-sirr al-mubham</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1963: Ḥall al-ṭilsam wa-kashf al-sirr al-mubham are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1963: Ḥall al-ṭilsam wa-kashf al-sirr al-mubham. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1963: H&#803;all al-t&#803;ilsam wa-kashf al-sirr al-mubham are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1963: H&#803;all al-t&#803;ilsam wa-kashf al-sirr al-mubham. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,16 +29,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523370</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1963.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Work on alchemy.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Ḥall al-ṭilsam wa-kashf al-sirr al-mubham</title>
-              <title type="vernacular">حل الطلسم وكشف السر المبهم</title>
+              <title>H&#803;all al-t&#803;ilsam wa-kashf al-sirr al-mubham</title>
+              <title type="vernacular">&#1581;&#1604; &#1575;&#1604;&#1591;&#1604;&#1587;&#1605; &#1608;&#1603;&#1588;&#1601; &#1575;&#1604;&#1587;&#1585; &#1575;&#1604;&#1605;&#1576;&#1607;&#1605;</title>
               <author>
-                <persName type="authority">Ghamrī, Aḥmad ibn Muḥammad, -1499 or 1500</persName>
-                <persName type="vernacular">غمري، احمد بن محمد،</persName>
+                <persName type="authority">Ghamri&#772;, Ah&#803;mad ibn Muh&#803;ammad, -1499 or 1500</persName>
+                <persName type="vernacular">&#1594;&#1605;&#1585;&#1610;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Alumni and Friends Memorial Book Fund</name>
@@ -46,7 +49,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Ḥall al-ṭilsam wa-kashf al-sirr al-mubham</title>
+              <title>H&#803;all al-t&#803;ilsam wa-kashf al-sirr al-mubham</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -93,7 +96,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>The copy was finished on 18 Shaʻbān 1186 (13 November 1772).</p>
+              <p>The copy was finished on 18 Sha&#699;ba&#772;n 1186 (13 November 1772).</p>
               <origDate>A.H. 1186 (1772)</origDate>
             </origin>
             <provenance>Acquired in 2014.</provenance>

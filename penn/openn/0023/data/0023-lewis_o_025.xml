@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -33,9 +33,12 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2435295</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_025.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of selections from the Qurʼān and prayers, with many leaves of illustrations and illuminations.</summary>
+            <summary>Collection of selections from the Qur&#700;a&#772;n and prayers, with many leaves of illustrations and illuminations.</summary>
             <textLang mainLang="ara" otherLangs="ota">Arabic with some headers in Ottoman Turkish</textLang>
             <msItem>
               <title>Devotional Book.</title>
@@ -44,8 +47,8 @@
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Ḥamīdī, Ibrāhīm Bahjat</persName>
-                <persName type="vernacular">حميدي، ابراهيم بهجت.</persName>
+                <persName type="authority">H&#803;ami&#772;di&#772;, Ibra&#772;hi&#772;m Bahjat</persName>
+                <persName type="vernacular">&#1581;&#1605;&#1610;&#1583;&#1610;&#1548; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1576;&#1607;&#1580;&#1578;.</persName>
               </respStmt>
               <respStmt>
                 <resp>donor</resp>
@@ -151,7 +154,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in 1189 A.H. (1783) by Ibrāhīm al-Ḥamīdī, known as Bahjat (f. 155r).</p>
+              <p>Copy completed in 1189 A.H. (1783) by Ibra&#772;hi&#772;m al-H&#803;ami&#772;di&#772;, known as Bahjat (f. 155r).</p>
               <origDate>A.H. 1198 (1783)</origDate>
               <origPlace>Turkey? ;</origPlace>
             </origin>

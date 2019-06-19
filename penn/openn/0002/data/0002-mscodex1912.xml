@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1912: Bhāgavatapurāṇa.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1912: Bha&#772;gavatapura&#772;n&#803;a.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1912: Bhāgavatapurāṇa. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1912: Bhāgavatapurāṇa.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1912: Bha&#772;gavatapura&#772;n&#803;a. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1912: Bha&#772;gavatapura&#772;n&#803;a.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,17 +29,20 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083522980</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1912.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Selections from the Bhāgavatapurāṇa. Text begins with invocation to Krishna and Ganesha in Sanskrit transliterated into Persian. Some pages are missing.</summary>
+            <summary>Selections from the Bha&#772;gavatapura&#772;n&#803;a. Text begins with invocation to Krishna and Ganesha in Sanskrit transliterated into Persian. Some pages are missing.</summary>
             <textLang mainLang="per" otherLangs="">Persian</textLang>
             <msItem>
-              <title>Bhāgavatapurāṇa.</title>
-              <title type="vernacular">[بهگوت پوران]</title>
+              <title>Bha&#772;gavatapura&#772;n&#803;a.</title>
+              <title type="vernacular">[&#1576;&#1607;&#1711;&#1608;&#1578; &#1662;&#1608;&#1585;&#1575;&#1606;]</title>
             </msItem>
             <msItem n="2r">
               <locus>2r</locus>
-              <title>[Bhāgavatapurāṇa].</title>
+              <title>[Bha&#772;gavatapura&#772;n&#803;a].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -56,7 +59,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in at least two hands in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in at least two hands in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red.</decoNote>

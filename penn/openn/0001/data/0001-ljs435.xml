@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 435: Maqālah fī al-ʻamal bi-al-yad</title>
+        <title>Description of University of Pennsylvania LJS 435: Maqa&#772;lah fi&#772; al-&#699;amal bi-al-yad</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4828896</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs435.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Treatise on surgery. Parts of the second chapter and all of the third chapter of the 3-chapter treatise, which is the last of the 30 treatises in the Taṣrīf li-man ʻajiza ʻan al-taʼlīf, a larger work by al-Zahrawi. Topics in the manuscript include incision, perforation, blood-letting, wounds, bone-setting, dislocations, and sprains. Contemporary corrections in margins; additional notes in a Maghrebi hand also in margins.</summary>
+            <summary>Treatise on surgery. Parts of the second chapter and all of the third chapter of the 3-chapter treatise, which is the last of the 30 treatises in the Tas&#803;ri&#772;f li-man &#699;ajiza &#699;an al-ta&#700;li&#772;f, a larger work by al-Zahrawi. Topics in the manuscript include incision, perforation, blood-letting, wounds, bone-setting, dislocations, and sprains. Contemporary corrections in margins; additional notes in a Maghrebi hand also in margins.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Maqālah fī al-ʻamal bi-al-yad</title>
-              <author>Abū al-Qāsim Khalaf ibn ʻAbbās al-Zahrāwī, d. 1013?</author>
+              <title>Maqa&#772;lah fi&#772; al-&#699;amal bi-al-yad</title>
+              <author>Abu&#772; al-Qa&#772;sim Khalaf ibn &#699;Abba&#772;s al-Zahra&#772;wi&#772;, d. 1013?</author>
             </msItem>
           </msContents>
           <physDesc>
@@ -56,7 +59,7 @@
                 </support>
                 <extent>108 leaves : 177 x 125 (135 x 90) mm. bound to 177 x 140 mm</extent>
                 <collation>
-                  <p>Paper, 108; 1¹² 2⁸ 3¹² 4⁴ 5⁸ 6¹² 7⁸ 8¹² 9⁸ 10-11¹²; [1-85, i, 86-107]; modern foliation in pencil, upper center recto. Catchword on each leaf, lower left verso.</p>
+                  <p>Paper, 108; 1&#185;&#178; 2&#8312; 3&#185;&#178; 4&#8308; 5&#8312; 6&#185;&#178; 7&#8312; 8&#185;&#178; 9&#8312; 10-11&#185;&#178;; [1-85, i, 86-107]; modern foliation in pencil, upper center recto. Catchword on each leaf, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>

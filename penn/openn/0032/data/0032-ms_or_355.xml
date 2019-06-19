@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 355: Kitāb nafīs yufṣaḥu fīhi ʻan al-lughah al-Turkīyah.</title>
+        <title>Description of Columbia University. MS Or 355: Kita&#772;b nafi&#772;s yufs&#803;ah&#803;u fi&#772;hi &#699;an al-lughah al-Turki&#772;yah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 355: Kitāb nafīs yufṣaḥu fīhi ʻan al-lughah al-Turkīyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 355: Kitāb nafīs yufṣaḥu fīhi ʻan al-lughah al-Turkīyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 355: Kita&#772;b nafi&#772;s yufs&#803;ah&#803;u fi&#772;hi &#699;an al-lughah al-Turki&#772;yah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 355: Kita&#772;b nafi&#772;s yufs&#803;ah&#803;u fi&#772;hi &#699;an al-lughah al-Turki&#772;yah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -37,13 +37,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13556554</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_355.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Turkish grammar explained in Arabic, covering the imperative (al-amr), negative imperative (al-nahī), simple past and past perfect (al-māḍī), present tense (al-muḍāriʻ), and verbal nouns (ism al-fāʻil), before proceeding to the construction of simple sentences and additional suffixes.</summary>
+            <summary>Turkish grammar explained in Arabic, covering the imperative (al-amr), negative imperative (al-nahi&#772;), simple past and past perfect (al-ma&#772;d&#803;i&#772;), present tense (al-mud&#803;a&#772;ri&#699;), and verbal nouns (ism al-fa&#772;&#699;il), before proceeding to the construction of simple sentences and additional suffixes.</summary>
             <textLang mainLang="ara" otherLangs="tur">Arabic and Turkish</textLang>
             <msItem>
-              <title>Kitāb nafīs yufṣaḥu fīhi ʻan al-lughah al-Turkīyah.</title>
-              <title type="vernacular">كتاب نفيس يفصح فيه عن اللغة التركية</title>
+              <title>Kita&#772;b nafi&#772;s yufs&#803;ah&#803;u fi&#772;hi &#699;an al-lughah al-Turki&#772;yah.</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1606;&#1601;&#1610;&#1587; &#1610;&#1601;&#1589;&#1581; &#1601;&#1610;&#1607; &#1593;&#1606; &#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1578;&#1585;&#1603;&#1610;&#1577;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -51,7 +54,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Kitāb nafīs yufṣaḥu fīhi ʿan al-lughah al-Turkīyah</title>
+              <title>Kita&#772;b nafi&#772;s yufs&#803;ah&#803;u fi&#772;hi &#703;an al-lughah al-Turki&#772;yah</title>
             </msItem>
           </msContents>
           <physDesc>

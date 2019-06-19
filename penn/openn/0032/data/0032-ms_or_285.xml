@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -16,7 +16,7 @@
         <note>Manuscript codex.</note>
         <note>Collective title supplied by cataloger; titles for individual works from caption titles, except for work 3, which was supplied by cataloger.</note>
         <note>Three loose leaves belonging to this manuscript were formerly inserted in MS Or 278, and have been returned to this volume.</note>
-        <note>The copyist for most of the works in this collection consistently spells asṭurlāb with an extra tāʼ before the ṭāʼ.</note>
+        <note>The copyist for most of the works in this collection consistently spells ast&#803;urla&#772;b with an extra ta&#772;&#700; before the t&#803;a&#772;&#700;.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -37,31 +37,34 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848508</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_285.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of works on astronomy and astronomical instruments in Arabic and Ottoman Turkish copied in the same hand and bound together; the Turkish work (3) is missing the first leaf; f. 84v-98v are all excerpts from (naqala min) the same book with no attribution, Miṣbāḥ al-ẓalām.</summary>
+            <summary>Collection of works on astronomy and astronomical instruments in Arabic and Ottoman Turkish copied in the same hand and bound together; the Turkish work (3) is missing the first leaf; f. 84v-98v are all excerpts from (naqala min) the same book with no attribution, Mis&#803;ba&#772;h&#803; al-z&#803;ala&#772;m.</summary>
             <textLang mainLang="ara" otherLangs="ota">Arabic and Ottoman Turkish</textLang>
             <msItem>
               <title>Collection of works on astronomy and astronomical instruments</title>
               <author>
-                <persName type="authority">Qusṭā ibn Lūqā, approximately 820-approximately 912</persName>
-                <persName type="vernacular">قسطا بن لوقا،</persName>
+                <persName type="authority">Qust&#803;a&#772; ibn Lu&#772;qa&#772;, approximately 820-approximately 912</persName>
+                <persName type="vernacular">&#1602;&#1587;&#1591;&#1575; &#1576;&#1606; &#1604;&#1608;&#1602;&#1575;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Marrākushī, Abū al-Ḥasan ʻAlī, active 13th century</persName>
-                <persName type="vernacular">مراكشي، ابو الحسن علي،</persName>
+                <persName type="authority">Marra&#772;kushi&#772;, Abu&#772; al-H&#803;asan &#699;Ali&#772;, active 13th century</persName>
+                <persName type="vernacular">&#1605;&#1585;&#1575;&#1603;&#1588;&#1610;&#1548; &#1575;&#1576;&#1608; &#1575;&#1604;&#1581;&#1587;&#1606; &#1593;&#1604;&#1610;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Mūsá ibn Ibrāhīm</persName>
-                <persName type="vernacular">موسى بن ابراهيم</persName>
+                <persName type="authority">Mu&#772;sa&#769; ibn Ibra&#772;hi&#772;m</persName>
+                <persName type="vernacular">&#1605;&#1608;&#1587;&#1609; &#1576;&#1606; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605;</persName>
               </author>
               <author>
-                <persName type="authority">Sibṭ al-Māridīnī, Badr al-Dīn Muḥammad ibn Muḥammad, 1423-</persName>
-                <persName type="vernacular">سبط المارديني، بدر الدين محمد بن محمد،</persName>
+                <persName type="authority">Sibt&#803; al-Ma&#772;ridi&#772;ni&#772;, Badr al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad, 1423-</persName>
+                <persName type="vernacular">&#1587;&#1576;&#1591; &#1575;&#1604;&#1605;&#1575;&#1585;&#1583;&#1610;&#1606;&#1610;&#1548; &#1576;&#1583;&#1585; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Muwaqqit, Muḥammad ibn Kātib Sinān</persName>
-                <persName type="vernacular">موقت، محمد بن كاتب سنان</persName>
+                <persName type="authority">Muwaqqit, Muh&#803;ammad ibn Ka&#772;tib Sina&#772;n</persName>
+                <persName type="vernacular">&#1605;&#1608;&#1602;&#1578;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1603;&#1575;&#1578;&#1576; &#1587;&#1606;&#1575;&#1606;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -69,8 +72,8 @@
               </respStmt>
               <respStmt>
                 <resp>editor</resp>
-                <persName type="authority">Dajānī, Yūnus ibn Aḥmad</persName>
-                <persName type="vernacular">دجاني، يونس بن احمد.</persName>
+                <persName type="authority">Daja&#772;ni&#772;, Yu&#772;nus ibn Ah&#803;mad</persName>
+                <persName type="vernacular">&#1583;&#1580;&#1575;&#1606;&#1610;&#1548; &#1610;&#1608;&#1606;&#1587; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1r">
@@ -79,11 +82,11 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Risālah laṭīfah fī al-ʻamal bi-al-kurah al-musammá bi-Dhāt al-kursī / Qusṭā ibn Lūqā</title>
+              <title>Risa&#772;lah lat&#803;i&#772;fah fi&#772; al-&#699;amal bi-al-kurah al-musamma&#769; bi-Dha&#772;t al-kursi&#772; / Qust&#803;a&#772; ibn Lu&#772;qa&#772;</title>
             </msItem>
             <msItem n="17r">
               <locus>17r</locus>
-              <title>Risālat al-ʻamal bi-al-kurah / Abū ʻAlī al-Marrākushī</title>
+              <title>Risa&#772;lat al-&#699;amal bi-al-kurah / Abu&#772; &#699;Ali&#772; al-Marra&#772;kushi&#772;</title>
             </msItem>
             <msItem n="26r">
               <locus>26r</locus>
@@ -91,63 +94,63 @@
             </msItem>
             <msItem n="38r">
               <locus>38r</locus>
-              <title>Jadwal maṭāliʻ al-burūj</title>
+              <title>Jadwal mat&#803;a&#772;li&#699; al-buru&#772;j</title>
             </msItem>
             <msItem n="49v">
               <locus>49v</locus>
-              <title>Risālah fī al-astaṭurlạb / Mūsá ibn Ibrāhīm</title>
+              <title>Risa&#772;lah fi&#772; al-astat&#803;urla&#803;b / Mu&#772;sa&#769; ibn Ibra&#772;hi&#772;m</title>
             </msItem>
             <msItem n="57v">
               <locus>57v</locus>
-              <title>Risālah fī al-ʻamal bi-al-rubʻ al-mujayyab / Sibṭ al-Māridīnī</title>
+              <title>Risa&#772;lah fi&#772; al-&#699;amal bi-al-rub&#699; al-mujayyab / Sibt&#803; al-Ma&#772;ridi&#772;ni&#772;</title>
             </msItem>
             <msItem n="70v">
               <locus>70v</locus>
-              <title>Mūḍiḥ al-awqāt / Muḥammad ibn Sinān al-Muwaqqit</title>
+              <title>Mu&#772;d&#803;ih&#803; al-awqa&#772;t / Muh&#803;ammad ibn Sina&#772;n al-Muwaqqit</title>
             </msItem>
             <msItem n="77v">
               <locus>77v</locus>
-              <title>Fī bayān aḥkām al-kawākib al-ʻalawiyah fī al-burūj al-ithná ʻashar</title>
+              <title>Fi&#772; baya&#772;n ah&#803;ka&#772;m al-kawa&#772;kib al-&#699;alawiyah fi&#772; al-buru&#772;j al-ithna&#769; &#699;ashar</title>
             </msItem>
             <msItem n="84v">
               <locus>84v</locus>
-              <title>Masʼalah fī maʻrifat ṣafḥat al-astaṭurlāb</title>
+              <title>Mas&#700;alah fi&#772; ma&#699;rifat s&#803;afh&#803;at al-astat&#803;urla&#772;b</title>
             </msItem>
             <msItem n="84v">
               <locus>84v</locus>
-              <title>Fī bayān maʻrifat ṭulūʻ al-manāzil min awwal al-layl ilá ākhirih</title>
+              <title>Fi&#772; baya&#772;n ma&#699;rifat t&#803;ulu&#772;&#699; al-mana&#772;zil min awwal al-layl ila&#769; a&#772;khirih</title>
             </msItem>
             <msItem n="94r">
               <locus>94r</locus>
-              <title>Fī bayān tasyīr al-darajah ilá darajah ukhrá aw kawkab ilá ukhrá</title>
+              <title>Fi&#772; baya&#772;n tasyi&#772;r al-darajah ila&#769; darajah ukhra&#769; aw kawkab ila&#769; ukhra&#769;</title>
             </msItem>
             <msItem n="95v">
               <locus>95v</locus>
-              <title>Fī bayān taḥṣīl inẓār al-kawākib min al-tathlīth wa-al-tarbīʻ</title>
+              <title>Fi&#772; baya&#772;n tah&#803;s&#803;i&#772;l inz&#803;a&#772;r al-kawa&#772;kib min al-tathli&#772;th wa-al-tarbi&#772;&#699;</title>
             </msItem>
             <msItem n="96v">
               <locus>96v</locus>
-              <title>Fī maʻrifat aṭwal al-buldān wa-ʻurūḍihā</title>
+              <title>Fi&#772; ma&#699;rifat at&#803;wal al-bulda&#772;n wa-&#699;uru&#772;d&#803;iha&#772;</title>
             </msItem>
             <msItem n="97v">
               <locus>97v</locus>
-              <title>Fī bayān ʻarḍ al-ufuq al-ḥādith</title>
+              <title>Fi&#772; baya&#772;n &#699;ard&#803; al-ufuq al-h&#803;a&#772;dith</title>
             </msItem>
             <msItem n="98r">
               <locus>98r</locus>
-              <title>Fī maʻrifat al-maṭāliʻ al-baladīyah</title>
+              <title>Fi&#772; ma&#699;rifat al-mat&#803;a&#772;li&#699; al-baladi&#772;yah</title>
             </msItem>
             <msItem n="98v">
               <locus>98v</locus>
-              <title>Fī maʻrifat irtifāʻ al-kawkab</title>
+              <title>Fi&#772; ma&#699;rifat irtifa&#772;&#699; al-kawkab</title>
             </msItem>
             <msItem n="99r">
               <locus>99r</locus>
-              <title>Fāʼidah jalīlah fī maʻrifat ṭulūʻ al-qamr wa-fāʼidah ukhrá ayḍan</title>
+              <title>Fa&#772;&#700;idah jali&#772;lah fi&#772; ma&#699;rifat t&#803;ulu&#772;&#699; al-qamr wa-fa&#772;&#700;idah ukhra&#769; ayd&#803;an</title>
             </msItem>
             <msItem n="99v">
               <locus>99v</locus>
-              <title>Hādhā jadwal fī maʻrifat kawkab</title>
+              <title>Ha&#772;dha&#772; jadwal fi&#772; ma&#699;rifat kawkab</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -211,7 +214,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Some items in the collection (1, 2, 3, 6, 7) are dated and were copied between 1106 and 1107 AH (1695-1696 CE) (f. 16v, 25v, 36v, 69r, 76v). The last work says that the collection was gathered by Yūnus ibn Aḥmad al-Dajānī (f. 101v).</p>
+              <p>Some items in the collection (1, 2, 3, 6, 7) are dated and were copied between 1106 and 1107 AH (1695-1696 CE) (f. 16v, 25v, 36v, 69r, 76v). The last work says that the collection was gathered by Yu&#772;nus ibn Ah&#803;mad al-Daja&#772;ni&#772; (f. 101v).</p>
               <origDate>between 1694 and 1799?</origDate>
               <origPlace>Turkey?</origPlace>
             </origin>

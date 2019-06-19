@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 123: Sharḥ-i Nahj al-balāghah.</title>
+        <title>Description of Columbia University. MS Or 123: Sharh&#803;-i Nahj al-bala&#772;ghah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 123: Sharḥ-i Nahj al-balāghah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 123: Sharḥ-i Nahj al-balāghah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 123: Sharh&#803;-i Nahj al-bala&#772;ghah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 123: Sharh&#803;-i Nahj al-bala&#772;ghah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,22 +35,25 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616607</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_123.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Persian translation and commentary of selections from Nahj al-balāghah. Arabic source-text is overlined and written in a different style to distinguish it.</summary>
+            <summary>Persian translation and commentary of selections from Nahj al-bala&#772;ghah. Arabic source-text is overlined and written in a different style to distinguish it.</summary>
             <textLang mainLang="per" otherLangs="">Persian with Arabic source-text</textLang>
             <msItem>
-              <title>Sharḥ-i Nahj al-balāghah.</title>
-              <title type="vernacular">[شرح فارسى نهج البلاغه]</title>
+              <title>Sharh&#803;-i Nahj al-bala&#772;ghah.</title>
+              <title type="vernacular">[&#1588;&#1585;&#1581; &#1601;&#1575;&#1585;&#1587;&#1609; &#1606;&#1607;&#1580; &#1575;&#1604;&#1576;&#1604;&#1575;&#1594;&#1607;]</title>
               <author>
-                <persName type="authority">Rawghanī, Muḥammad Ṣāliḥ ibn Muḥammad Bāqir, -1632 or 1633</persName>
-                <persName type="vernacular">روغنى، محمد صالح بن محمد باقر، -</persName>
+                <persName type="authority">Rawghani&#772;, Muh&#803;ammad S&#803;a&#772;lih&#803; ibn Muh&#803;ammad Ba&#772;qir, -1632 or 1633</persName>
+                <persName type="vernacular">&#1585;&#1608;&#1594;&#1606;&#1609;&#1548; &#1605;&#1581;&#1605;&#1583; &#1589;&#1575;&#1604;&#1581; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1575;&#1602;&#1585;&#1548; -</persName>
               </author>
               <author>
-                <persName type="authority">Sharīf al-Raḍī, Muḥammad ibn al-Ḥusayn, 969 or 970-1016</persName>
+                <persName type="authority">Shari&#772;f al-Rad&#803;i&#772;, Muh&#803;ammad ibn al-H&#803;usayn, 969 or 970-1016</persName>
               </author>
               <author>
-                <persName type="authority">Sharīf al-Raḍī, Muḥammad ibn al-Ḥusayn, 969 or 970-1016</persName>
+                <persName type="authority">Shari&#772;f al-Rad&#803;i&#772;, Muh&#803;ammad ibn al-H&#803;usayn, 969 or 970-1016</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -59,7 +62,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[Sharḥ-i Nahj al-balāghah].</title>
+              <title>[Sharh&#803;-i Nahj al-bala&#772;ghah].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -76,7 +79,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Persian in nastaʻliq; Arabic in naskh.</scriptNote>
+              <scriptNote>Persian in nasta&#699;liq; Arabic in naskh.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Headpiece in blue and gold (f. 1v) with text on cloudbands in the first opening (f. 1v-2r) with gold, black, red and blue border-rules. Textblock on all other pages is border-ruled in black, gold, blue. Arabic source-text is overlined in gold and written in naskh to distinguish it from the translation. Gold, floriated tailpiece (f. 126r).</decoNote>

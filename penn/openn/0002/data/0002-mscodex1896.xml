@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Oversize Ms. Codex 1896: Kanz al-daqāʼiq.</title>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 1896: Kanz al-daqa&#772;&#700;iq.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1896: Kanz al-daqāʼiq. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1896: Kanz al-daqāʼiq.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1896: Kanz al-daqa&#772;&#700;iq. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1896: Kanz al-daqa&#772;&#700;iq.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,21 +29,24 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083522904</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1896.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of a compendium of Ḥanafī jurisprudence. Neatly written with pages in good condition. Extensive marginalia on some pages, mostly near the beginning.</summary>
+            <summary>Copy of a compendium of H&#803;anafi&#772; jurisprudence. Neatly written with pages in good condition. Extensive marginalia on some pages, mostly near the beginning.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Kanz al-daqāʼiq.</title>
-              <title type="vernacular">كنز الدقائق</title>
+              <title>Kanz al-daqa&#772;&#700;iq.</title>
+              <title type="vernacular">&#1603;&#1606;&#1586; &#1575;&#1604;&#1583;&#1602;&#1575;&#1574;&#1602;</title>
               <author>
-                <persName type="authority">Nasafī, ʻAbd Allāh ibn Aḥmad, -1310</persName>
-                <persName type="vernacular">نسفي، عبد الله بن احمد،</persName>
+                <persName type="authority">Nasafi&#772;, &#699;Abd Alla&#772;h ibn Ah&#803;mad, -1310</persName>
+                <persName type="vernacular">&#1606;&#1587;&#1601;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kanz al-daqāʼiq.</title>
+              <title>Kanz al-daqa&#772;&#700;iq.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -57,7 +60,7 @@
                 <foliation>Modern foliation added in pencil, upper left recto; catchwords every verso, lower left.</foliation>
               </supportDesc>
               <layoutDesc>
-                <layout>11 long lines; border-ruled and frame ruled with misṭarah.</layout>
+                <layout>11 long lines; border-ruled and frame ruled with mist&#803;arah.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
@@ -75,7 +78,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on the 5th of Dhū al-Qaʻdah in the year A.H. 1015 (March 4, 1607) (f. 174v).</p>
+              <p>Copy completed on the 5th of Dhu&#772; al-Qa&#699;dah in the year A.H. 1015 (March 4, 1607) (f. 174v).</p>
               <origDate>A.H. 1015 (1607)</origDate>
             </origin>
             <provenance>Acquired for the libraries from Luzac and Co. (London, England), 1910.</provenance>

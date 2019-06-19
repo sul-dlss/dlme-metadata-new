@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5081494</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs403.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Working notes of an alchemist, who signs himself as the compiler and composer of the manuscript (f. 127v). Lacking at least one leaf at the beginning, if not more (early pagination begins at 2, f. 1r), with repairs on extant first and last leaves. Includes a commentary on an unknown text and references to the concept of balance found in the work of 8th-century alchemist Jābir ibn Ḥayyān and to Pythagoras. Many marginal notes.</summary>
+            <summary>Working notes of an alchemist, who signs himself as the compiler and composer of the manuscript (f. 127v). Lacking at least one leaf at the beginning, if not more (early pagination begins at 2, f. 1r), with repairs on extant first and last leaves. Includes a commentary on an unknown text and references to the concept of balance found in the work of 8th-century alchemist Ja&#772;bir ibn H&#803;ayya&#772;n and to Pythagoras. Many marginal notes.</summary>
             <textLang>Arabic</textLang>
             <msItem>
               <title>Alchemical compendium</title>
-              <author>Ḥusaynī, Ibrāhīm</author>
+              <author>H&#803;usayni&#772;, Ibra&#772;hi&#772;m</author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Mūsawī, Abdul Razak</persName>
+                <persName>Mu&#772;sawi&#772;, Abdul Razak</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script by Ibrāhīm al-Ḥusaynī.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script by Ibra&#772;hi&#772;m al-H&#803;usayni&#772;.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>
@@ -80,7 +83,7 @@
               <origDate>A.H. 901-904 (1496-1499)</origDate>
               <origPlace>Herat, Afghanistan</origPlace>
             </origin>
-            <provenance>Formerly owned by Abdul Razak al-Mūsawī (stamp, f. 6v).</provenance>
+            <provenance>Formerly owned by Abdul Razak al-Mu&#772;sawi&#772; (stamp, f. 6v).</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Feb. 2001.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>

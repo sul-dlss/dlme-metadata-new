@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 122: Junnat al-amān al-wāqiyah wa-junnat al-īmān al-bāqiyah.</title>
+        <title>Description of Columbia University. MS Or 122: Junnat al-ama&#772;n al-wa&#772;qiyah wa-junnat al-i&#772;ma&#772;n al-ba&#772;qiyah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 122: Junnat al-amān al-wāqiyah wa-junnat al-īmān al-bāqiyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 122: Junnat al-amān al-wāqiyah wa-junnat al-īmān al-bāqiyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 122: Junnat al-ama&#772;n al-wa&#772;qiyah wa-junnat al-i&#772;ma&#772;n al-ba&#772;qiyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 122: Junnat al-ama&#772;n al-wa&#772;qiyah wa-junnat al-i&#772;ma&#772;n al-ba&#772;qiyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,31 +35,34 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616810</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_122.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of a treatise on Shiʻite rituals and customs. This copy has extensive marginal commentary that creates different shapes on three sides.</summary>
+            <summary>Copy of a treatise on Shi&#699;ite rituals and customs. This copy has extensive marginal commentary that creates different shapes on three sides.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Junnat al-amān al-wāqiyah wa-junnat al-īmān al-bāqiyah.</title>
-              <title type="vernacular">جنة الأمان الواقية وجنة الايمان الباقية</title>
+              <title>Junnat al-ama&#772;n al-wa&#772;qiyah wa-junnat al-i&#772;ma&#772;n al-ba&#772;qiyah.</title>
+              <title type="vernacular">&#1580;&#1606;&#1577; &#1575;&#1604;&#1571;&#1605;&#1575;&#1606; &#1575;&#1604;&#1608;&#1575;&#1602;&#1610;&#1577; &#1608;&#1580;&#1606;&#1577; &#1575;&#1604;&#1575;&#1610;&#1605;&#1575;&#1606; &#1575;&#1604;&#1576;&#1575;&#1602;&#1610;&#1577;</title>
               <author>
-                <persName type="authority">Kafʻamī, Ibrāhīm ibn ʻAlī, 1436 or 1437-1499 or 1500</persName>
-                <persName type="vernacular">كفعمي، ابراهيم بن علي،</persName>
+                <persName type="authority">Kaf&#699;ami&#772;, Ibra&#772;hi&#772;m ibn &#699;Ali&#772;, 1436 or 1437-1499 or 1500</persName>
+                <persName type="vernacular">&#1603;&#1601;&#1593;&#1605;&#1610;&#1548; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1576;&#1606; &#1593;&#1604;&#1610;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>dedicatee</resp>
-                <persName type="authority">Ismāʻīl ibn Muḥammad ibn Aḥmad ibn Amīr al-Muʼminīn al-Manṣūr billāh ibn Muḥammad ibn ʻAlī</persName>
-                <persName type="vernacular">اسماعيل بن محمد بن احمد بن امير المؤمنين المنصور بالله بن محمد بن علي.</persName>
+                <persName type="authority">Isma&#772;&#699;i&#772;l ibn Muh&#803;ammad ibn Ah&#803;mad ibn Ami&#772;r al-Mu&#700;mini&#772;n al-Mans&#803;u&#772;r billa&#772;h ibn Muh&#803;ammad ibn &#699;Ali&#772;</persName>
+                <persName type="vernacular">&#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1605;&#1610;&#1585; &#1575;&#1604;&#1605;&#1572;&#1605;&#1606;&#1610;&#1606; &#1575;&#1604;&#1605;&#1606;&#1589;&#1608;&#1585; &#1576;&#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1604;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Muḥammad Hādī ibn Mīrzā ʻArab al-Shīrāzī</persName>
-                <persName type="vernacular">محمد هادي بن ميرزا عرب الشيرازي.</persName>
+                <persName type="authority">Muh&#803;ammad Ha&#772;di&#772; ibn Mi&#772;rza&#772; &#699;Arab al-Shi&#772;ra&#772;zi&#772;</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1607;&#1575;&#1583;&#1610; &#1576;&#1606; &#1605;&#1610;&#1585;&#1586;&#1575; &#1593;&#1585;&#1576; &#1575;&#1604;&#1588;&#1610;&#1585;&#1575;&#1586;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Mullā ʻAbbās Zīvarī, -1898</persName>
-                <persName type="vernacular">ملا عباس زيوري،</persName>
+                <persName type="authority">Mulla&#772; &#699;Abba&#772;s Zi&#772;vari&#772;, -1898</persName>
+                <persName type="vernacular">&#1605;&#1604;&#1575; &#1593;&#1576;&#1575;&#1587; &#1586;&#1610;&#1608;&#1585;&#1610;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -68,7 +71,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Junnat al-amān al-wāqiya wa jannat al-imān al-bāqiya</title>
+              <title>Junnat al-am&#257;n al-w&#257;qiya wa jannat al-im&#257;n al-b&#257;qiya</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -108,7 +111,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>This copy was completed five years after the scribe returned from the pilgrimage to Mekka (Ḥajj), though no date is recorded (f. 361r).</p>
+              <p>This copy was completed five years after the scribe returned from the pilgrimage to Mekka (H&#803;ajj), though no date is recorded (f. 361r).</p>
               <origDate>between 1725 and 1825?</origDate>
               <origPlace>Iran?</origPlace>
             </origin>
@@ -121,7 +124,7 @@
     <profileDesc>
       <textClass>
         <keywords n="subjects">
-          <term>Shīʻah--Customs and practices</term>
+          <term>Shi&#772;&#699;ah--Customs and practices</term>
           <term>Manuscripts, Arabic</term>
         </keywords>
         <keywords n="form/genre">

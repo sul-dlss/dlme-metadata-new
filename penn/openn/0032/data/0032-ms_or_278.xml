@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -36,17 +36,20 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720579</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_278.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Book illustrating how to write the Arabic alphabet. The majority of the leaves contain grids showing letters in their isolated and connected forms (f. 1v-16r). The final leaves contain short, model sentences (f. 16v-18r).</summary>
             <textLang mainLang="ara" otherLangs="">Arabic with one line in Ottoman Turkish</textLang>
             <msItem>
               <title>al-Abjad.</title>
-              <title type="vernacular">[الأبجد]</title>
+              <title type="vernacular">[&#1575;&#1604;&#1571;&#1576;&#1580;&#1583;]</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">ʻAlawī, ʻAlī</persName>
-                <persName type="vernacular">علوى، على.</persName>
+                <persName type="authority">&#699;Alawi&#772;, &#699;Ali&#772;</persName>
+                <persName type="vernacular">&#1593;&#1604;&#1608;&#1609;&#1548; &#1593;&#1604;&#1609;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -82,34 +85,34 @@
               <decoNote n="2r">Illuminated headpiece</decoNote>
               <decoNote n="2r">Foliate frame</decoNote>
               <decoNote n="2r">Letter grid: 5x6, independent forms with vowels</decoNote>
-              <decoNote n="2v">Letter grid: 5x6, independent forms with tanwīn</decoNote>
-              <decoNote n="3r">Letter grid: 5x6, joined with bāʼ with vowels</decoNote>
-              <decoNote n="3v">Letter grid: 5x6, joined with tāʼ with vowels</decoNote>
-              <decoNote n="4r">Letter grid: 5x6, joined with thāʼ with vowels</decoNote>
-              <decoNote n="4v">Letter grid: 5x6, joined with jīm with vowels</decoNote>
-              <decoNote n="5r">Letter grid: 5x6, joined with ḥāʾ with vowels</decoNote>
-              <decoNote n="5v">Letter grid: 5x6, joined with khāʼ with vowels</decoNote>
-              <decoNote n="6r">Letter grid: 5x6, joined with dāl with vowels, partially scrubbed</decoNote>
-              <decoNote n="6v">Letter grid: 5x6, joined with dhāl with vowels</decoNote>
-              <decoNote n="7r">Letter grid: 5x6, joined with rāʼ with vowels</decoNote>
-              <decoNote n="7v">Letter grid: 5x6, joined with zāʼ with vowels</decoNote>
-              <decoNote n="8r">Letter grid: 5x6, joined with sīn with vowels</decoNote>
-              <decoNote n="8v">Letter grid: 5x6, joined with shīn with vowels</decoNote>
-              <decoNote n="9r">Letter grid: 5x6, joined with ṣād with vowels</decoNote>
-              <decoNote n="9v">Letter grid: 5x6, joined with ḍād with vowels</decoNote>
-              <decoNote n="10r">Letter grid: 5x6, joined with ṭāʼ with vowels</decoNote>
-              <decoNote n="10v">Letter grid: 5x6, joined with ẓāʼ with vowels</decoNote>
-              <decoNote n="11r">Letter grid: 5x6, joined with ʿayn with vowels</decoNote>
+              <decoNote n="2v">Letter grid: 5x6, independent forms with tanw&#299;n</decoNote>
+              <decoNote n="3r">Letter grid: 5x6, joined with ba&#772;&#700; with vowels</decoNote>
+              <decoNote n="3v">Letter grid: 5x6, joined with ta&#772;&#700; with vowels</decoNote>
+              <decoNote n="4r">Letter grid: 5x6, joined with tha&#772;&#700; with vowels</decoNote>
+              <decoNote n="4v">Letter grid: 5x6, joined with j&#299;m with vowels</decoNote>
+              <decoNote n="5r">Letter grid: 5x6, joined with &#7717;&#257;&#702; with vowels</decoNote>
+              <decoNote n="5v">Letter grid: 5x6, joined with kha&#772;&#700; with vowels</decoNote>
+              <decoNote n="6r">Letter grid: 5x6, joined with da&#772;l with vowels, partially scrubbed</decoNote>
+              <decoNote n="6v">Letter grid: 5x6, joined with dha&#772;l with vowels</decoNote>
+              <decoNote n="7r">Letter grid: 5x6, joined with ra&#772;&#700; with vowels</decoNote>
+              <decoNote n="7v">Letter grid: 5x6, joined with za&#772;&#700; with vowels</decoNote>
+              <decoNote n="8r">Letter grid: 5x6, joined with s&#299;n with vowels</decoNote>
+              <decoNote n="8v">Letter grid: 5x6, joined with sh&#299;n with vowels</decoNote>
+              <decoNote n="9r">Letter grid: 5x6, joined with &#7779;&#257;d with vowels</decoNote>
+              <decoNote n="9v">Letter grid: 5x6, joined with &#7693;&#257;d with vowels</decoNote>
+              <decoNote n="10r">Letter grid: 5x6, joined with &#7789;a&#772;&#700; with vowels</decoNote>
+              <decoNote n="10v">Letter grid: 5x6, joined with &#7827;a&#772;&#700; with vowels</decoNote>
+              <decoNote n="11r">Letter grid: 5x6, joined with &#703;ayn with vowels</decoNote>
               <decoNote n="11v">Letter grid: 5x6, joined with ghayn with vowels</decoNote>
-              <decoNote n="12r">Letter grid: 5x6, joined with fāʼ with vowels</decoNote>
-              <decoNote n="12v">Letter grid: 5x6, joined with qāf with vowels</decoNote>
-              <decoNote n="13r">Letter grid: 5x6, joined with kāf with vowels</decoNote>
-              <decoNote n="13v">Letter grid: 5x6, joined with lām with vowels</decoNote>
-              <decoNote n="14r">Letter grid: 5x6, joined with mīm with vowels</decoNote>
-              <decoNote n="14v">Letter grid: 5x6, joined with nūn with vowels</decoNote>
-              <decoNote n="15r">Letter grid: 5x6, joined with wāw with vowels</decoNote>
-              <decoNote n="15v">Letter grid: 5x6, joined with hāʼ with vowels</decoNote>
-              <decoNote n="16r">Letter grid: 5x6, joined with yāʼ with vowels</decoNote>
+              <decoNote n="12r">Letter grid: 5x6, joined with fa&#772;&#700; with vowels</decoNote>
+              <decoNote n="12v">Letter grid: 5x6, joined with q&#257;f with vowels</decoNote>
+              <decoNote n="13r">Letter grid: 5x6, joined with k&#257;f with vowels</decoNote>
+              <decoNote n="13v">Letter grid: 5x6, joined with l&#257;m with vowels</decoNote>
+              <decoNote n="14r">Letter grid: 5x6, joined with m&#299;m with vowels</decoNote>
+              <decoNote n="14v">Letter grid: 5x6, joined with n&#363;n with vowels</decoNote>
+              <decoNote n="15r">Letter grid: 5x6, joined with w&#257;w with vowels</decoNote>
+              <decoNote n="15v">Letter grid: 5x6, joined with ha&#772;&#700; with vowels</decoNote>
+              <decoNote n="16r">Letter grid: 5x6, joined with ya&#772;&#700; with vowels</decoNote>
               <decoNote n="16v">Illuminated example</decoNote>
               <decoNote n="16v">Foliate frame</decoNote>
               <decoNote n="17r">Illuminated example</decoNote>
@@ -127,7 +130,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Item is dated 1261 AH and was copied by ʻAlī al-ʻAlawī, a student of al-Ḥājj Muṣṭafá, Khawājah-yi Mashq-i Sarāy-i Humāyūn (f. 18r).</p>
+              <p>Item is dated 1261 AH and was copied by &#699;Ali&#772; al-&#699;Alawi&#772;, a student of al-H&#803;a&#772;jj Mus&#803;t&#803;afa&#769;, Khawa&#772;jah-yi Mashq-i Sara&#772;y-i Huma&#772;yu&#772;n (f. 18r).</p>
               <origDate>1845</origDate>
               <origPlace>Turkey?</origPlace>
             </origin>

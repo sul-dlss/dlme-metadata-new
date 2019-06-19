@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfīyat Ibn Mālik.</title>
+        <title>Description of University of Pennsylvania Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfi&#772;yat Ibn Ma&#772;lik.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfīyat Ibn Mālik. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfīyat Ibn Mālik.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfi&#772;yat Ibn Ma&#772;lik. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Misc Mss Box 24 Folder 3 Box 24 Folder 3: Selections from commentaries on Alfi&#772;yat Ibn Ma&#772;lik.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,20 +29,23 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083529123</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/misc_mss_box24_fldr3.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Three leaves containing sections of two commentaries on the Alfīyah of Ibn Mālik, the leaves do not read continuously. One commentary is in the main textblock and the other is in the margin.</summary>
+            <summary>Three leaves containing sections of two commentaries on the Alfi&#772;yah of Ibn Ma&#772;lik, the leaves do not read continuously. One commentary is in the main textblock and the other is in the margin.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Selections from commentaries on Alfīyat Ibn Mālik.</title>
+              <title>Selections from commentaries on Alfi&#772;yat Ibn Ma&#772;lik.</title>
               <author>
-                <persName type="authority">Ibn Mālik, Muḥammad ibn ʻAbd Allāh, -1274</persName>
-                <persName type="vernacular">ابن مالك، محمد بن عبد الله،</persName>
+                <persName type="authority">Ibn Ma&#772;lik, Muh&#803;ammad ibn &#699;Abd Alla&#772;h, -1274</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1605;&#1575;&#1604;&#1603;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </author>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[Selections from commentaries on Alfīyat Ibn Mālik].</title>
+              <title>[Selections from commentaries on Alfi&#772;yat Ibn Ma&#772;lik].</title>
             </msItem>
           </msContents>
           <physDesc>

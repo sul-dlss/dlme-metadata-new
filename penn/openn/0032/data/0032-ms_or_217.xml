@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 217: Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār ... .</title>
+        <title>Description of Columbia University. MS Or 217: Dala&#772;&#700;il al-khayra&#772;t wa-shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r ... .</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 217: Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār ... . are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 217: Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār ... .. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 217: Dala&#772;&#700;il al-khayra&#772;t wa-shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r ... . are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 217: Dala&#772;&#700;il al-khayra&#772;t wa-shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r ... .. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,20 +35,23 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13619035</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_217.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>This is a collection of four works bound together, with Dalāʼil al-khayrāt as the longest text. There are several different types of paper present in the volume with a few blank pages around each text.</summary>
+            <summary>This is a collection of four works bound together, with Dala&#772;&#700;il al-khayra&#772;t as the longest text. There are several different types of paper present in the volume with a few blank pages around each text.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Dalāʼil al-khayrāt wa-shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār ... .</title>
-              <title type="vernacular">دلائل الخيرات و شوارق الانوار في ذكر الصلاة على النبي المختار</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa-shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r ... .</title>
+              <title type="vernacular">&#1583;&#1604;&#1575;&#1574;&#1604; &#1575;&#1604;&#1582;&#1610;&#1585;&#1575;&#1578; &#1608; &#1588;&#1608;&#1575;&#1585;&#1602; &#1575;&#1604;&#1575;&#1606;&#1608;&#1575;&#1585; &#1601;&#1610; &#1584;&#1603;&#1585; &#1575;&#1604;&#1589;&#1604;&#1575;&#1577; &#1593;&#1604;&#1609; &#1575;&#1604;&#1606;&#1576;&#1610; &#1575;&#1604;&#1605;&#1582;&#1578;&#1575;&#1585;</title>
               <author>
-                <persName type="authority">Jazūlī, Muḥammad ibn Sulaymān, -1465</persName>
-                <persName type="vernacular">جزولي، محمد بن سليمان،</persName>
+                <persName type="authority">Jazu&#772;li&#772;, Muh&#803;ammad ibn Sulayma&#772;n, -1465</persName>
+                <persName type="vernacular">&#1580;&#1586;&#1608;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd, 1213?-1296</persName>
-                <persName type="vernacular">بوصيري، شرف الدين محمد بن سعيد،</persName>
+                <persName type="authority">Bu&#772;s&#803;i&#772;ri&#772;, Sharaf al-Di&#772;n Muh&#803;ammad ibn Sa&#699;i&#772;d, 1213?-1296</persName>
+                <persName type="vernacular">&#1576;&#1608;&#1589;&#1610;&#1585;&#1610;&#1548; &#1588;&#1585;&#1601; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1593;&#1610;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -57,7 +60,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Ḥizb al-murḍī</title>
+              <title>&#7716;izb al-mur&#7693;i&#772;</title>
             </msItem>
             <msItem n="8r">
               <locus>8r</locus>
@@ -65,11 +68,11 @@
             </msItem>
             <msItem n="11v">
               <locus>11v</locus>
-              <title>Dalāʾil al-Khayrāt</title>
+              <title>Dala&#772;&#702;il al-Khayra&#772;t</title>
             </msItem>
             <msItem n="138r">
               <locus>138r</locus>
-              <title>Hādhihi al-Ṣalāh al-mansūbah ilá al-Shaykh al-Būṣīrī.</title>
+              <title>Ha&#772;dhihi al-S&#803;ala&#772;h al-mansu&#772;bah ila&#769; al-Shaykh al-Bu&#772;s&#803;i&#772;ri&#772;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -89,11 +92,11 @@
               <scriptNote>Written in naskh in black ink; several different hands; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>The decorations are not uniform across all four works, though all are border-ruled and all have rubrications in red. Work 1: Border-ruled in gold and black; headers set off by rules and gold roundels with red dots; the same roundels punctuate the text (f. 1v-6r). Work 2: Border-ruled in double red and blue ( f. 8r-10v). Work 3: Dual page illuminated opening (f. 11v-12r) with headpiece in gold, blue, red, black with marginal in-fill of a foliate design in gold; a portion of the fore-edge margin has been repaired and filled with a slightly different pattern in a darker ink. The textblock has double gold rules, the page opening framed by a gold rule and lines are divided by gold rules above and below each line. Text is written on gold-sprinkled background between the rules; gold roundels with blue outlining dots and a central red dot punctuate the text. Painting depicting the Rawḍah at Medina covering the full page-opening, wide yellow frame, of polychrome [pink, blue, yellow, green, red] and gold (f. 29v-30r). Work 4: Border-ruled in double red and blue (f. 138r-151v).</decoNote>
+              <decoNote>The decorations are not uniform across all four works, though all are border-ruled and all have rubrications in red. Work 1: Border-ruled in gold and black; headers set off by rules and gold roundels with red dots; the same roundels punctuate the text (f. 1v-6r). Work 2: Border-ruled in double red and blue ( f. 8r-10v). Work 3: Dual page illuminated opening (f. 11v-12r) with headpiece in gold, blue, red, black with marginal in-fill of a foliate design in gold; a portion of the fore-edge margin has been repaired and filled with a slightly different pattern in a darker ink. The textblock has double gold rules, the page opening framed by a gold rule and lines are divided by gold rules above and below each line. Text is written on gold-sprinkled background between the rules; gold roundels with blue outlining dots and a central red dot punctuate the text. Painting depicting the Rawd&#803;ah at Medina covering the full page-opening, wide yellow frame, of polychrome [pink, blue, yellow, green, red] and gold (f. 29v-30r). Work 4: Border-ruled in double red and blue (f. 138r-151v).</decoNote>
               <decoNote n="11v">Dual page illumination</decoNote>
               <decoNote n="12r">Dual page illumination</decoNote>
-              <decoNote n="29v">Full page-opening illustration of the Rawḍah at Medina.</decoNote>
-              <decoNote n="30r">Full page-opening illustration of the Rawḍah at Medina.</decoNote>
+              <decoNote n="29v">Full page-opening illustration of the Raw&#7693;ah at Medina.</decoNote>
+              <decoNote n="30r">Full page-opening illustration of the Raw&#7693;ah at Medina.</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>

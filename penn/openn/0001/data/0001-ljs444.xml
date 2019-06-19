@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 444: Ḥall al-Mūjiz</title>
+        <title>Description of University of Pennsylvania LJS 444: H&#803;all al-Mu&#772;jiz</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,32 +39,35 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5903165</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs444.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary on the epitome (Mūjiz) by Ibn al-Nafīs of Avicenna's Canon on medicine (Qānūn fī al-ṭibb). Notes laid in after f. 142, 222</summary>
+            <summary>Commentary on the epitome (Mu&#772;jiz) by Ibn al-Nafi&#772;s of Avicenna's Canon on medicine (Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb). Notes laid in after f. 142, 222</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Ḥall al-Mūjiz</title>
-              <author>Aqsarāʼī, Muḥammad ibn Muḥammad, 14th cent</author>
+              <title>H&#803;all al-Mu&#772;jiz</title>
+              <author>Aqsara&#772;&#700;i&#772;, Muh&#803;ammad ibn Muh&#803;ammad, 14th cent</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Astarābādī, Kamāl al-Dīn Maḥmūd</persName>
+                <persName>Astara&#772;ba&#772;di&#772;, Kama&#772;l al-Di&#772;n Mah&#803;mu&#772;d</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>ʻAbd al-Fattāḥ al-Qāṭin</persName>
+                <persName>&#699;Abd al-Fatta&#772;h&#803; al-Qa&#772;t&#803;in</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā</persName>
+                <persName>Isma&#772;&#699;i&#772;l ibn al-H&#803;a&#772;jj &#699;I&#772;sa&#769; Jurayj al-Muhanna&#772;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh Efendi al-Asṭawānī</persName>
+                <persName>al-H&#803;a&#772;jj &#699;Abd al-Qa&#772;dir ibn al-Sayyid &#699;Abd Alla&#772;h Efendi al-Ast&#803;awa&#772;ni&#772;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>ʻAbd Allāh Efendi al-Asṭawānī</persName>
+                <persName>&#699;Abd Alla&#772;h Efendi al-Ast&#803;awa&#772;ni&#772;</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -82,7 +85,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh script by Kamāl al-Dīn Maḥmūd al-Astarābādī.</scriptNote>
+              <scriptNote>Written in naskh script by Kama&#772;l al-Di&#772;n Mah&#803;mu&#772;d al-Astara&#772;ba&#772;di&#772;.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>
@@ -92,13 +95,13 @@
           </physDesc>
           <history>
             <origin>
-              <p>Dated 22 Shawwāl A.H. 884 (6 January 1480), with replacement leaves added in the 18th century.</p>
+              <p>Dated 22 Shawwa&#772;l A.H. 884 (6 January 1480), with replacement leaves added in the 18th century.</p>
               <origDate>A.H. 884 (1480)</origDate>
             </origin>
-            <provenance>Formerly owned by ʻAbd al-Fattāḥ al-Qāṭin, Tabriz, Persia.</provenance>
-            <provenance>Formerly owned by Ismāʻīl ibn al-Ḥājj ʻĪsá Jurayj al-Muhannā, Rabi II A.H.  1195 (March-April 1781, inscription on front pastedown).</provenance>
-            <provenance>Formerly owned by al-Ḥājj ʻAbd al-Qādir ibn al-Sayyid ʻAbd Allāh Efendi al-Asṭawānī.</provenance>
-            <provenance>Formerly owned by ʻAbd Allāh Efendi al-Asṭawānī, A.H. 1239 (1823 or 1824).</provenance>
+            <provenance>Formerly owned by &#699;Abd al-Fatta&#772;h&#803; al-Qa&#772;t&#803;in, Tabriz, Persia.</provenance>
+            <provenance>Formerly owned by Isma&#772;&#699;i&#772;l ibn al-H&#803;a&#772;jj &#699;I&#772;sa&#769; Jurayj al-Muhanna&#772;, Rabi II A.H.  1195 (March-April 1781, inscription on front pastedown).</provenance>
+            <provenance>Formerly owned by al-H&#803;a&#772;jj &#699;Abd al-Qa&#772;dir ibn al-Sayyid &#699;Abd Alla&#772;h Efendi al-Ast&#803;awa&#772;ni&#772;.</provenance>
+            <provenance>Formerly owned by &#699;Abd Alla&#772;h Efendi al-Ast&#803;awa&#772;ni&#772;, A.H. 1239 (1823 or 1824).</provenance>
             <provenance>Sold at auction at Bonhams &amp; Butterfields, 14 Nov. 2002, lot 3001, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
           </history>

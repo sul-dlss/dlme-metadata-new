@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 441: Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm al-miftāḥ fī al-ḥikmah al-Ilāhīyah wa-al-ṣināʻah al-falsafīyah wa al-nātijah al-ʻalīyah ... etc.</title>
+        <title>Description of University of Pennsylvania LJS 441: Kita&#772;b al-Mis&#803;ba&#772;h&#803; wa-nuz&#697;hat al-arwa&#772;h&#803; fi&#772; &#699;ilm al-mifta&#772;h&#803; fi&#772; al-h&#803;ikmah al-Ila&#772;hi&#772;yah wa-al-s&#803;ina&#772;&#699;ah al-falsafi&#772;yah wa al-na&#772;tijah al-&#699;ali&#772;yah ... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,20 +39,23 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5050786</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs441.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>14th-century treatise on alchemy based on the work of the 8th-century alchemist and chemist Jābir ibn Ḥayyān, copied in A.H. 970 (1562), followed by a pseudo-Platonic work on alchemy with commentary (tafsīr) attributed to Jābir ibn Ḥayyān. Some marginal notes.</summary>
+            <summary>14th-century treatise on alchemy based on the work of the 8th-century alchemist and chemist Ja&#772;bir ibn H&#803;ayya&#772;n, copied in A.H. 970 (1562), followed by a pseudo-Platonic work on alchemy with commentary (tafsi&#772;r) attributed to Ja&#772;bir ibn H&#803;ayya&#772;n. Some marginal notes.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Miṣbāḥ wa-nuzʹhat al-arwāḥ fī ʻilm al-miftāḥ fī al-ḥikmah al-Ilāhīyah wa-al-ṣināʻah al-falsafīyah wa al-nātijah al-ʻalīyah ... etc.</title>
-              <author>Jaldakī, Aydamar ibn ʻAbd Allāh, fl. 1349-1361</author>
+              <title>Kita&#772;b al-Mis&#803;ba&#772;h&#803; wa-nuz&#697;hat al-arwa&#772;h&#803; fi&#772; &#699;ilm al-mifta&#772;h&#803; fi&#772; al-h&#803;ikmah al-Ila&#772;hi&#772;yah wa-al-s&#803;ina&#772;&#699;ah al-falsafi&#772;yah wa al-na&#772;tijah al-&#699;ali&#772;yah ... etc.</title>
+              <author>Jaldaki&#772;, Aydamar ibn &#699;Abd Alla&#772;h, fl. 1349-1361</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Shams al-Dīn ibn ʻAbbās</persName>
+                <persName>Shams al-Di&#772;n ibn &#699;Abba&#772;s</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Tūqātī, ʻUbayd Allāh Bektāsh</persName>
+                <persName>Tu&#772;qa&#772;ti&#772;, &#699;Ubayd Alla&#772;h Bekta&#772;sh</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -74,7 +77,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in a naskh script in the hand of Shams al-Dīn ibn ʻAbbās of Aleppo (f. 1-92) and a second hand (f. 93-128).</scriptNote>
+              <scriptNote>Written in a naskh script in the hand of Shams al-Di&#772;n ibn &#699;Abba&#772;s of Aleppo (f. 1-92) and a second hand (f. 93-128).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>3 drawings of plants in red ink (f. 91r-91v), with green coloring added to one of them; penwork in black and red ink around colophon of first work (f. 92v); 2 circular diagrams inside upper cover; some words and sentences written or underlined in red ink, more frequently in the first work (f. 1-92).</decoNote>
@@ -96,7 +99,7 @@
               <origDate>ca. 1562</origDate>
               <origPlace>Aleppo?, Syria</origPlace>
             </origin>
-            <provenance>Formerly owned by Bektāsh al-Tūqātī and then held in the library of Sultan Selim II (inscription, transcribed by Nicholas Harris, f. 93r).</provenance>
+            <provenance>Formerly owned by Bekta&#772;sh al-Tu&#772;qa&#772;ti&#772; and then held in the library of Sultan Selim II (inscription, transcribed by Nicholas Harris, f. 93r).</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London), Nov. 2002.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>

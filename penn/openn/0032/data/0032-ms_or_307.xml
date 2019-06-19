@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 307: Kitāb fī sharḥ al-Mulakhkhaṣ ...</title>
+        <title>Description of Columbia University. MS Or 307: Kita&#772;b fi&#772; sharh&#803; al-Mulakhkhas&#803; ...</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 307: Kitāb fī sharḥ al-Mulakhkhaṣ ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 307: Kitāb fī sharḥ al-Mulakhkhaṣ .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 307: Kita&#772;b fi&#772; sharh&#803; al-Mulakhkhas&#803; ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 307: Kita&#772;b fi&#772; sharh&#803; al-Mulakhkhas&#803; .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,32 +35,35 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13806437</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_307.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Set of works on mathematics and astronomy copied together in what appears to be the same hand. The second work has a supercommentary copied in the margins. Several leaves of calculations and notations tipped or laid in; two tipped in pages have been foliated along with the leaves (f. 26, 33). Also includes one page in Ottoman Turkish (f.94v).</summary>
             <textLang mainLang="ara">Arabic with one page in Ottoman Turkish</textLang>
             <msItem>
-              <title>Kitāb fī sharḥ al-Mulakhkhaṣ ...</title>
-              <title type="vernacular">كتاب في شرح الملخص</title>
+              <title>Kita&#772;b fi&#772; sharh&#803; al-Mulakhkhas&#803; ...</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1601;&#1610; &#1588;&#1585;&#1581; &#1575;&#1604;&#1605;&#1604;&#1582;&#1589;</title>
               <author>
-                <persName type="authority">Baghdādī, Jamāl al-Dīn ibn Maḥfūẓ, active 13th century?</persName>
-                <persName type="vernacular">بغدادي، جمال الدين بن محفوظ،</persName>
+                <persName type="authority">Baghda&#772;di&#772;, Jama&#772;l al-Di&#772;n ibn Mah&#803;fu&#772;z&#803;, active 13th century?</persName>
+                <persName type="vernacular">&#1576;&#1594;&#1583;&#1575;&#1583;&#1610;&#1548; &#1580;&#1605;&#1575;&#1604; &#1575;&#1604;&#1583;&#1610;&#1606; &#1576;&#1606; &#1605;&#1581;&#1601;&#1608;&#1592;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Qāḍīʹzādah, Mūsá ibn Muḥammad, -approximately 1436</persName>
-                <persName type="vernacular">قاضي‌زاده، موسى بن محمد،</persName>
+                <persName type="authority">Qa&#772;d&#803;i&#772;&#697;za&#772;dah, Mu&#772;sa&#769; ibn Muh&#803;ammad, -approximately 1436</persName>
+                <persName type="vernacular">&#1602;&#1575;&#1590;&#1610;&#8204;&#1586;&#1575;&#1583;&#1607;&#1548; &#1605;&#1608;&#1587;&#1609; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Birjandī, ʻAbd al-ʻAlī ibn Muḥammad ibn Ḥusayn, active 16th century</persName>
-                <persName type="vernacular">برجندي، عبد العلي بن محمد بن حسين،</persName>
+                <persName type="authority">Birjandi&#772;, &#699;Abd al-&#699;Ali&#772; ibn Muh&#803;ammad ibn H&#803;usayn, active 16th century</persName>
+                <persName type="vernacular">&#1576;&#1585;&#1580;&#1606;&#1583;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1593;&#1604;&#1610; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1581;&#1587;&#1610;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">ʻImādī, Aḥmad ibn Aḥmad, -1703 or 1704</persName>
-                <persName type="vernacular">عمادي، احمد بن احمد. -1703 أو 1704،</persName>
+                <persName type="authority">&#699;Ima&#772;di&#772;, Ah&#803;mad ibn Ah&#803;mad, -1703 or 1704</persName>
+                <persName type="vernacular">&#1593;&#1605;&#1575;&#1583;&#1610;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;. -1703 &#1571;&#1608; 1704&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Qāḍīʹzādah, Mūsá ibn Muḥammad, -approximately 1436</persName>
-                <persName type="vernacular">قاضي‌زادة، موسى بن محمد،</persName>
+                <persName type="authority">Qa&#772;d&#803;i&#772;&#697;za&#772;dah, Mu&#772;sa&#769; ibn Muh&#803;ammad, -approximately 1436</persName>
+                <persName type="vernacular">&#1602;&#1575;&#1590;&#1610;&#8204;&#1586;&#1575;&#1583;&#1577;&#1548; &#1605;&#1608;&#1587;&#1609; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -69,19 +72,19 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kitāb fī ʻilm al-asṭurlāb</title>
+              <title>Kita&#772;b fi&#772; &#699;ilm al-ast&#803;urla&#772;b</title>
             </msItem>
             <msItem n="21v">
               <locus>21v</locus>
-              <title>Sharḥ al-Mulakhkhaṣ</title>
+              <title>Sharh&#803; al-Mulakhkhas&#803;</title>
             </msItem>
             <msItem n="21v">
               <locus>21v</locus>
-              <title>Margins: [Ḥāshiyat al-Birjandī ʻalá Sharḥ Qāḍīʹzādah al-Rūmī ʻalá al-Mulakhkhaṣ]</title>
+              <title>Margins: [H&#803;a&#772;shiyat al-Birjandi&#772; &#699;ala&#769; Sharh&#803; Qa&#772;d&#803;i&#772;&#697;za&#772;dah al-Ru&#772;mi&#772; &#699;ala&#769; al-Mulakhkhas&#803;]</title>
             </msItem>
             <msItem n="89v">
               <locus>89v</locus>
-              <title>[Ḥāshiyah ʻalá Baḥth al-Shaʻīrāt fī Sharḥ al-Mulakhkhaṣ]</title>
+              <title>[H&#803;a&#772;shiyah &#699;ala&#769; Bah&#803;th al-Sha&#699;i&#772;ra&#772;t fi&#772; Sharh&#803; al-Mulakhkhas&#803;]</title>
             </msItem>
             <msItem n="94v">
               <locus>94v</locus>
@@ -89,7 +92,7 @@
             </msItem>
             <msItem n="97v">
               <locus>97v</locus>
-              <title>Sharḥ Ashkāl al-taʼsīs</title>
+              <title>Sharh&#803; Ashka&#772;l al-ta&#700;si&#772;s</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -105,7 +108,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red including terms, overlining, diagrams. Numerous geometrical diagrams throughout.</decoNote>
@@ -199,7 +202,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in Turkey, parts of the manuscript are dated from Ṣafar 1081 AH (f. 86v) to Ramaḍān 1082 AH (f. 119v).</p>
+              <p>Copied in Turkey, parts of the manuscript are dated from S&#803;afar 1081 AH (f. 86v) to Ramad&#803;a&#772;n 1082 AH (f. 119v).</p>
               <origDate>1670-1672</origDate>
               <origPlace>Turkey</origPlace>
             </origin>

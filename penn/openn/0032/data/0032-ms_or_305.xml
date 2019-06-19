@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 305: Hādhihi risālah fī al-ḥisāb ...</title>
+        <title>Description of Columbia University. MS Or 305: Ha&#772;dhihi risa&#772;lah fi&#772; al-h&#803;isa&#772;b ...</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 305: Hādhihi risālah fī al-ḥisāb ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 305: Hādhihi risālah fī al-ḥisāb .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 305: Ha&#772;dhihi risa&#772;lah fi&#772; al-h&#803;isa&#772;b ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 305: Ha&#772;dhihi risa&#772;lah fi&#772; al-h&#803;isa&#772;b .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,28 +35,31 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720586</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_305.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Three treatises in different hands, bound together. The first is an abridgement of Ibn al-Bannāʼ's Talkhīṣ by Ibn al-Hāʼim. The second is a short work on astrolabe terminology and use. The third appears to be an autograph of Sharḥ mukhtaṣar al-Tuffāḥah fī ʻilm al-misāḥah by ʻAbd al-Laṭīf ibn Aḥmad al-Dimashqī.</summary>
+            <summary>Three treatises in different hands, bound together. The first is an abridgement of Ibn al-Banna&#772;&#700;'s Talkhi&#772;s&#803; by Ibn al-Ha&#772;&#700;im. The second is a short work on astrolabe terminology and use. The third appears to be an autograph of Sharh&#803; mukhtas&#803;ar al-Tuffa&#772;h&#803;ah fi&#772; &#699;ilm al-misa&#772;h&#803;ah by &#699;Abd al-Lat&#803;i&#772;f ibn Ah&#803;mad al-Dimashqi&#772;.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Hādhihi risālah fī al-ḥisāb ...</title>
-              <title type="vernacular">هذه رسالة في الحساب</title>
+              <title>Ha&#772;dhihi risa&#772;lah fi&#772; al-h&#803;isa&#772;b ...</title>
+              <title type="vernacular">&#1607;&#1584;&#1607; &#1585;&#1587;&#1575;&#1604;&#1577; &#1601;&#1610; &#1575;&#1604;&#1581;&#1587;&#1575;&#1576;</title>
               <author>
-                <persName type="authority">Ibn al-Hāʼim, Aḥmad ibn Muḥammad, -1412</persName>
-                <persName type="vernacular">ابن الهائم، احمد بن محمد،</persName>
+                <persName type="authority">Ibn al-Ha&#772;&#700;im, Ah&#803;mad ibn Muh&#803;ammad, -1412</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1607;&#1575;&#1574;&#1605;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn al-Bannāʼ, Aḥmad ibn Muḥammad, 1256?-1321?</persName>
-                <persName type="vernacular">ابن البناء، احمد بن محمد،</persName>
+                <persName type="authority">Ibn al-Banna&#772;&#700;, Ah&#803;mad ibn Muh&#803;ammad, 1256?-1321?</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1576;&#1606;&#1575;&#1569;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Dimashqī, ʻAbd al-Laṭīf ibn Aḥmad</persName>
-                <persName type="vernacular">دمشقي، عبد اللطيف بن احمد</persName>
+                <persName type="authority">Dimashqi&#772;, &#699;Abd al-Lat&#803;i&#772;f ibn Ah&#803;mad</persName>
+                <persName type="vernacular">&#1583;&#1605;&#1588;&#1602;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1591;&#1610;&#1601; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;</persName>
               </author>
               <author>
-                <persName type="authority">Ashʻarī, Aḥmad ibn Muḥammad, active 11th century-12th century</persName>
-                <persName type="vernacular">اشعري، احمد بن محمد،</persName>
+                <persName type="authority">Ash&#699;ari&#772;, Ah&#803;mad ibn Muh&#803;ammad, active 11th century-12th century</persName>
+                <persName type="vernacular">&#1575;&#1588;&#1593;&#1585;&#1610;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,19 +68,19 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Hādhihi risālah fī al-ḥisāb …</title>
+              <title>Ha&#772;dhihi risa&#772;lah fi&#772; al-h&#803;isa&#772;b &#8230;</title>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Mukhtaṣar ḥāwin li-mā bi-Talkhīṣ Ibn al-Bannāʼ / Ibn al-Hāʼim</title>
+              <title>Mukhtas&#803;ar h&#803;a&#772;win li-ma&#772; bi-Talkhi&#772;s&#803; Ibn al-Banna&#772;&#700; / Ibn al-Ha&#772;&#700;im</title>
             </msItem>
             <msItem n="10v">
               <locus>10v</locus>
-              <title>Risālah mukhtaṣarah adhkuru fī-hā asmāʼ al-rusūm al-marsūmah ʻalá al-ālah al-musammāh bi-al-asṭurlāb al-shamālī dhāt ṣafāʼiḥ wa-baʻḍ aʻmālihā.</title>
+              <title>Risa&#772;lah mukhtas&#803;arah adhkuru fi&#772;-ha&#772; asma&#772;&#700; al-rusu&#772;m al-marsu&#772;mah &#699;ala&#769; al-a&#772;lah al-musamma&#772;h bi-al-ast&#803;urla&#772;b al-shama&#772;li&#772; dha&#772;t s&#803;afa&#772;&#700;ih&#803; wa-ba&#699;d&#803; a&#699;ma&#772;liha&#772;.</title>
             </msItem>
             <msItem n="20v">
               <locus>20v</locus>
-              <title>Sharḥ mukhtaṣar al-Tuffāḥah fī ʻilm al-misāḥah.</title>
+              <title>Sharh&#803; mukhtas&#803;ar al-Tuffa&#772;h&#803;ah fi&#772; &#699;ilm al-misa&#772;h&#803;ah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -93,7 +96,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Naskh and nastaʻlīq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Naskh and nasta&#699;li&#772;q in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red, including source-text. Diagrams and calculations in the margins, several tables. Floral decoration on title page of third work (f. 20r).</decoNote>

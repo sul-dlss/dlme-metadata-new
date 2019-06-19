@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 30: Multaqá al-abḥur.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 30: Multaqa&#769; al-abh&#803;ur.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 30: Multaqá al-abḥur. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 30: Multaqá al-abḥur.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 30: Multaqa&#769; al-abh&#803;ur. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 30: Multaqa&#769; al-abh&#803;ur.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -33,24 +33,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441499</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_030.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Clear copy of Ḥanafī law text in good condition with table of contents.</summary>
+            <summary>Clear copy of H&#803;anafi&#772; law text in good condition with table of contents.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Multaqá al-abḥur.</title>
-              <title type="vernacular">ملتقى الأبحر</title>
+              <title>Multaqa&#769; al-abh&#803;ur.</title>
+              <title type="vernacular">&#1605;&#1604;&#1578;&#1602;&#1609; &#1575;&#1604;&#1571;&#1576;&#1581;&#1585;</title>
               <author>
-                <persName type="authority">Ḥalabī, Ibrāhīm ibn Muḥammad, -1549 or 1550</persName>
-                <persName type="vernacular">حلبي، ابراهيم بن محمد،</persName>
+                <persName type="authority">H&#803;alabi&#772;, Ibra&#772;hi&#772;m ibn Muh&#803;ammad, -1549 or 1550</persName>
+                <persName type="vernacular">&#1581;&#1604;&#1576;&#1610;&#1548; &#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Pîrîzâde, Sayyid ʻAbd Allāh, Shaykh al-Islām</persName>
-                <persName type="vernacular">پيرى‌زاده، سيد عبد الله،</persName>
+                <persName type="authority">Pi&#770;ri&#770;za&#770;de, Sayyid &#699;Abd Alla&#772;h, Shaykh al-Isla&#772;m</persName>
+                <persName type="vernacular">&#1662;&#1610;&#1585;&#1609;&#8204;&#1586;&#1575;&#1583;&#1607;&#1548; &#1587;&#1610;&#1583; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>associated name</resp>
@@ -67,7 +70,7 @@
             </msItem>
             <msItem n="3v">
               <locus>3v</locus>
-              <title>Multaqá al-abḥur.</title>
+              <title>Multaqa&#769; al-abh&#803;ur.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -80,17 +83,17 @@
                 <foliation>Contemporary foliation in Hindu-Arabic numerals in red and black, upper left recto; catchwords lower left verso. Modern foliation in pencil added, top left recto. References in the record are to the modern foliation.</foliation>
               </supportDesc>
               <layoutDesc>
-                <layout>15 long lines; border-ruled. Frame-ruled with misṭarah. Three pages ruled in 12 x 6 grid in red and black for table of contents (f. 1v-2v).</layout>
+                <layout>15 long lines; border-ruled. Frame-ruled with mist&#803;arah. Three pages ruled in 12 x 6 grid in red and black for table of contents (f. 1v-2v).</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in clear nastaʻlīq, pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in clear nasta&#699;li&#772;q, pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Textblock border-ruled in gold. Opening page is ruled as if for headpiece decoration (f. 3v)</decoNote>
               <decoNote n="Flyleaf 1 recto">Notations</decoNote>
               <decoNote n="Flyleaf 1 verso">Notations</decoNote>
-              <decoNote n="1r">Owner's name: "Sayyid ʻAbd Allāh, Shaykh al-Islām, Pîrîzâde"</decoNote>
+              <decoNote n="1r">Owner's name: "Sayyid &#699;Abd Alla&#772;h, Shaykh al-Isla&#772;m, Pi&#770;ri&#770;za&#770;de"</decoNote>
               <decoNote n="1v">Fihrist</decoNote>
               <decoNote n="2r">Fihrist</decoNote>
               <decoNote n="2v">Fihrist</decoNote>
@@ -109,12 +112,12 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in Ramaḍān 1102 A.H (f. 266v).</p>
+              <p>Copied in Ramad&#803;a&#772;n 1102 A.H (f. 266v).</p>
               <origDate>1691</origDate>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>
-            <provenance>Formerly owned by Sayyid ʻAbd Allāh, Shaykh al-Islām, known as Pîrîzâde (note on f. 1r).</provenance>
-            <provenance>Sold at the auction of the Grand Vizier Ḥusayn Pāshā's property (note in pencil, f. [268]v).</provenance>
+            <provenance>Formerly owned by Sayyid &#699;Abd Alla&#772;h, Shaykh al-Isla&#772;m, known as Pi&#770;ri&#770;za&#770;de (note on f. 1r).</provenance>
+            <provenance>Sold at the auction of the Grand Vizier H&#803;usayn Pa&#772;sha&#772;'s property (note in pencil, f. [268]v).</provenance>
             <provenance>Formerly owned by John Frederick Lewis.</provenance>
           </history>
         </msDesc>

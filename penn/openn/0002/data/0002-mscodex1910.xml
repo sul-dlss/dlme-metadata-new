@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1910: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1910: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1910: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1910: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1910: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1910: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,20 +29,23 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1066739247</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1910.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of prayers for the Prophet Muḥammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months. This copy is preceded and followed by 91 lines from Būṣīrī's poem known as al-Burdah (f. 1v-5r, 126v-130v) copied in nastaʻliq. Includes a few marginal notes in Persian.</summary>
+            <summary>Collection of prayers for the Prophet Muh&#803;ammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months. This copy is preceded and followed by 91 lines from Bu&#772;s&#803;i&#772;ri&#772;'s poem known as al-Burdah (f. 1v-5r, 126v-130v) copied in nasta&#699;liq. Includes a few marginal notes in Persian.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic with some marginalia in Persian</textLang>
             <msItem>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār.</title>
-              <title type="vernacular">دلائل الخيرات و شوارق الانوار في ذكر الصلوة على النبي المختار</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
+              <title type="vernacular">&#1583;&#1604;&#1575;&#1574;&#1604; &#1575;&#1604;&#1582;&#1610;&#1585;&#1575;&#1578; &#1608; &#1588;&#1608;&#1575;&#1585;&#1602; &#1575;&#1604;&#1575;&#1606;&#1608;&#1575;&#1585; &#1601;&#1610; &#1584;&#1603;&#1585; &#1575;&#1604;&#1589;&#1604;&#1608;&#1577; &#1593;&#1604;&#1609; &#1575;&#1604;&#1606;&#1576;&#1610; &#1575;&#1604;&#1605;&#1582;&#1578;&#1575;&#1585;</title>
               <author>
-                <persName type="authority">Jazūlī, Muḥammad ibn Sulaymān, -1465</persName>
-                <persName type="vernacular">جزولي، محمد بن سليمان،</persName>
+                <persName type="authority">Jazu&#772;li&#772;, Muh&#803;ammad ibn Sulayma&#772;n, -1465</persName>
+                <persName type="vernacular">&#1580;&#1586;&#1608;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Būṣīrī, Sharaf al-Dīn Muḥammad ibn Saʻīd, 1213?-1296?</persName>
-                <persName type="vernacular">بوصيري، شرف الدين محمد بن سعيد،</persName>
+                <persName type="authority">Bu&#772;s&#803;i&#772;ri&#772;, Sharaf al-Di&#772;n Muh&#803;ammad ibn Sa&#699;i&#772;d, 1213?-1296?</persName>
+                <persName type="vernacular">&#1576;&#1608;&#1589;&#1610;&#1585;&#1610;&#1548; &#1588;&#1585;&#1601; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1593;&#1610;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -51,7 +54,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalāh ʻalá al-nabī al-mukhtār.</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;ala&#772;h &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -68,10 +71,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink; pointed and vocalized. Burdah selections in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in naskh in black ink; pointed and vocalized. Burdah selections in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Polychrome headpieces in blue, yellow, gold, red, and green over text on first opening (f. 5v-6r); full page polychrome illustrations of the mosque at Mecca (f. 17v) and the Rawḍah at Medina (f.18r); textblock is gold sprinkled and bordered in blue, red, and gold rules; gold roundels punctuate text. Rubrications in red. Page-opening ruled in blue and gold.</decoNote>
+              <decoNote>Polychrome headpieces in blue, yellow, gold, red, and green over text on first opening (f. 5v-6r); full page polychrome illustrations of the mosque at Mecca (f. 17v) and the Rawd&#803;ah at Medina (f.18r); textblock is gold sprinkled and bordered in blue, red, and gold rules; gold roundels punctuate text. Rubrications in red. Page-opening ruled in blue and gold.</decoNote>
               <decoNote n="5v">Illuminated headpiece</decoNote>
               <decoNote n="5v">Marginal medallion</decoNote>
               <decoNote n="6r">Illuminated headpiece</decoNote>
@@ -109,7 +112,7 @@
             </decoDesc>
             <bindingDesc>
               <binding>
-                <p>Lacquered red paper over pasteboard (Type III) with gilt paper inlays on a central medallion and two pendants on the vertical axis, with a blind stamped frame. The central medallion is embossed with the binder's name and a formula of humility: al-ʻabd al-ḥaqīr Hakīm Mullā Khawājah Saḥḥāf. Marbled paper doublure. Green leather spine.</p>
+                <p>Lacquered red paper over pasteboard (Type III) with gilt paper inlays on a central medallion and two pendants on the vertical axis, with a blind stamped frame. The central medallion is embossed with the binder's name and a formula of humility: al-&#699;abd al-h&#803;aqi&#772;r Haki&#772;m Mulla&#772; Khawa&#772;jah Sah&#803;h&#803;a&#772;f. Marbled paper doublure. Green leather spine.</p>
               </binding>
             </bindingDesc>
           </physDesc>

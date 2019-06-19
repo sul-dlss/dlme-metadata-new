@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -29,16 +29,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523300</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1952.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of the collection of five poems known as Panj ganj or the Khamsah by Niẓāmī.</summary>
+            <summary>Copy of the collection of five poems known as Panj ganj or the Khamsah by Niz&#803;a&#772;mi&#772;.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
               <title>Khamsah.</title>
-              <title type="vernacular">[خمسه]</title>
+              <title type="vernacular">[&#1582;&#1605;&#1587;&#1607;]</title>
               <author>
-                <persName type="authority">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persName>
-                <persName type="vernacular">نظامى گنجوى،</persName>
+                <persName type="authority">Niz&#803;a&#772;mi&#772; Ganjavi&#772;, 1140 or 1141-1202 or 1203</persName>
+                <persName type="vernacular">&#1606;&#1592;&#1575;&#1605;&#1609; &#1711;&#1606;&#1580;&#1608;&#1609;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -51,7 +54,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Makhzān al-asrār</title>
+              <title>Makhza&#772;n al-asra&#772;r</title>
             </msItem>
             <msItem n="27v">
               <locus>27v</locus>
@@ -59,15 +62,15 @@
             </msItem>
             <msItem n="88v">
               <locus>88v</locus>
-              <title>Iskandarʹnāmah</title>
+              <title>Iskandar&#697;na&#772;mah</title>
             </msItem>
             <msItem n="167v">
               <locus>167v</locus>
-              <title>Khusraw va Shīrīn</title>
+              <title>Khusraw va Shi&#772;ri&#772;n</title>
             </msItem>
             <msItem n="237v">
               <locus>237v</locus>
-              <title>Laylī va Majnūn</title>
+              <title>Layli&#772; va Majnu&#772;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -84,7 +87,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Textblock border-ruled in green, beige, black, and red with double black rules between the columns of text; page-opening framed by a black rule; polychrome illuminated headpieces in red, pink, blue, beige and green (f. 1v, 27v, 88v, 167v, 237v).</decoNote>
@@ -108,7 +111,7 @@
               <origDate>between 1750 and 1825?</origDate>
               <origPlace>India?</origPlace>
             </origin>
-            <provenance>Formerly owned by Theodore W. J. Wylie (bookplate inside back cover). Inscription: "Presented to The Rev. T. W. J. Wylie Professor of Theology in Philadelphia by J. R. Campbell Saharanpur, India, Oct. 20th 1856" (Flyleaf 1r, front of book) with further inscription: "Sháh Námah or The History of the Persian Kings by Molavi Nizámí all handsomely written by hand" (Flyleaf 2r, front of book).</provenance>
+            <provenance>Formerly owned by Theodore W. J. Wylie (bookplate inside back cover). Inscription: "Presented to The Rev. T. W. J. Wylie Professor of Theology in Philadelphia by J. R. Campbell Saharanpur, India, Oct. 20th 1856" (Flyleaf 1r, front of book) with further inscription: "Sha&#769;h Na&#769;mah or The History of the Persian Kings by Molavi Niza&#769;mi&#769; all handsomely written by hand" (Flyleaf 2r, front of book).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

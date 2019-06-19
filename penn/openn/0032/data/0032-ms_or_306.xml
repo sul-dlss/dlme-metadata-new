@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 306: Kitāb al-mutawassiṭāt.</title>
+        <title>Description of Columbia University. MS Or 306: Kita&#772;b al-mutawassit&#803;a&#772;t.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 306: Kitāb al-mutawassiṭāt. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 306: Kitāb al-mutawassiṭāt.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 306: Kita&#772;b al-mutawassit&#803;a&#772;t. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 306: Kita&#772;b al-mutawassit&#803;a&#772;t.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,13 +36,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848480</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_306.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>17 works, chiefly Arabic translations of Greek treatises and responses to them concerning geometry and astronomy, given a collective title that signifies that these works were to be read after Euclid's Elements in preparation for Ptolemy's Almagest (note on flyleaf 3r, at front of book). Four works (12, 13, 16, 17) are not translations, one (9) is qualified as revised by al-Kindī, one (16) is copied in a different style, and one (17) is on music. A table of contents is included (flyleaf 1 verso, at front of book), and the colophon of work 15 (f. 160v) says that Kitāb al-mutawassiṭāt is complete before listing the next two works that will follow.</summary>
+            <summary>17 works, chiefly Arabic translations of Greek treatises and responses to them concerning geometry and astronomy, given a collective title that signifies that these works were to be read after Euclid's Elements in preparation for Ptolemy's Almagest (note on flyleaf 3r, at front of book). Four works (12, 13, 16, 17) are not translations, one (9) is qualified as revised by al-Kindi&#772;, one (16) is copied in a different style, and one (17) is on music. A table of contents is included (flyleaf 1 verso, at front of book), and the colophon of work 15 (f. 160v) says that Kita&#772;b al-mutawassit&#803;a&#772;t is complete before listing the next two works that will follow.</summary>
             <textLang mainLang="ara" otherLangs="">Arabic</textLang>
             <msItem>
-              <title>Kitāb al-mutawassiṭāt.</title>
-              <title type="vernacular">كتاب المتوسطات</title>
+              <title>Kita&#772;b al-mutawassit&#803;a&#772;t.</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1605;&#1578;&#1608;&#1587;&#1591;&#1575;&#1578;</title>
               <author>
                 <persName type="authority">Euclid</persName>
               </author>
@@ -77,60 +80,60 @@
                 <persName type="authority">Archimedes</persName>
               </author>
               <author>
-                <persName type="authority">Thābit ibn Qurrah al-Ḥarrānī, -901</persName>
-                <persName type="vernacular">ثابت بن قرة الحراني،</persName>
+                <persName type="authority">Tha&#772;bit ibn Qurrah al-H&#803;arra&#772;ni&#772;, -901</persName>
+                <persName type="vernacular">&#1579;&#1575;&#1576;&#1578; &#1576;&#1606; &#1602;&#1585;&#1577; &#1575;&#1604;&#1581;&#1585;&#1575;&#1606;&#1610;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn Shākir, Muḥammad ibn Mūsá, -873</persName>
-                <persName type="vernacular">ابن شاكر، محمد بن موسى،</persName>
+                <persName type="authority">Ibn Sha&#772;kir, Muh&#803;ammad ibn Mu&#772;sa&#769;, -873</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1588;&#1575;&#1603;&#1585;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1608;&#1587;&#1609;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn Shākir, Aḥmad ibn Mūsá, -873</persName>
-                <persName type="vernacular">ابن شاكر، احمد بن موسى،</persName>
+                <persName type="authority">Ibn Sha&#772;kir, Ah&#803;mad ibn Mu&#772;sa&#769;, -873</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1588;&#1575;&#1603;&#1585;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1608;&#1587;&#1609;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn Shākir, Ḥasan ibn Mūsá, active 9th century</persName>
-                <persName type="vernacular">ابن شاكر، حسن بن موسى،</persName>
-              </author>
-              <author>
-                <persName type="authority">Archimedes</persName>
+                <persName type="authority">Ibn Sha&#772;kir, H&#803;asan ibn Mu&#772;sa&#769;, active 9th century</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1588;&#1575;&#1603;&#1585;&#1548; &#1581;&#1587;&#1606; &#1576;&#1606; &#1605;&#1608;&#1587;&#1609;&#1548;</persName>
               </author>
               <author>
                 <persName type="authority">Archimedes</persName>
               </author>
               <author>
-                <persName type="authority">Urmawī, ʻAbd al-Muʼmin ibn Yūsuf, approximately 1216-1294</persName>
-                <persName type="vernacular">ارموي، عبد المؤمن بن يوسف،</persName>
+                <persName type="authority">Archimedes</persName>
+              </author>
+              <author>
+                <persName type="authority">Urmawi&#772;, &#699;Abd al-Mu&#700;min ibn Yu&#772;suf, approximately 1216-1294</persName>
+                <persName type="vernacular">&#1575;&#1585;&#1605;&#1608;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1605;&#1572;&#1605;&#1606; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>translator</resp>
-                <persName type="authority">Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274</persName>
-                <persName type="vernacular">طوسي، نصير الدين محمد بن محمد،</persName>
+                <persName type="authority">T&#803;u&#772;si&#772;, Nas&#803;i&#772;r al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad, 1201-1274</persName>
+                <persName type="vernacular">&#1591;&#1608;&#1587;&#1610;&#1548; &#1606;&#1589;&#1610;&#1585; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Kāzarūnī, Muḥammad ibn Shadīd</persName>
-                <persName type="vernacular">كازروني، محمد بن شديد.</persName>
+                <persName type="authority">Ka&#772;zaru&#772;ni&#772;, Muh&#803;ammad ibn Shadi&#772;d</persName>
+                <persName type="vernacular">&#1603;&#1575;&#1586;&#1585;&#1608;&#1606;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1588;&#1583;&#1610;&#1583;.</persName>
               </respStmt>
               <respStmt>
                 <resp>editor</resp>
-                <persName type="authority">Nasawī, Muḥammad ibn Aḥmad, -1241 or 1242</persName>
-                <persName type="vernacular">نسوي، محمد بن احمد،</persName>
+                <persName type="authority">Nasawi&#772;, Muh&#803;ammad ibn Ah&#803;mad, -1241 or 1242</persName>
+                <persName type="vernacular">&#1606;&#1587;&#1608;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Aḥmad ibn Muṣṭafá</persName>
-                <persName type="vernacular">احمد بن مصطفى.</persName>
+                <persName type="authority">Ah&#803;mad ibn Mus&#803;t&#803;afa&#769;</persName>
+                <persName type="vernacular">&#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1589;&#1591;&#1601;&#1609;.</persName>
               </respStmt>
               <respStmt>
                 <resp>borrower</resp>
-                <persName type="authority">Muḥammad Saʻīd ibn Ḥarīrīʹzādah</persName>
-                <persName type="vernacular">محمد سعيد بن حريرى‌زاده.</persName>
+                <persName type="authority">Muh&#803;ammad Sa&#699;i&#772;d ibn H&#803;ari&#772;ri&#772;&#697;za&#772;dah</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1587;&#1593;&#1610;&#1583; &#1576;&#1606; &#1581;&#1585;&#1610;&#1585;&#1609;&#8204;&#1586;&#1575;&#1583;&#1607;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Muḥammad ʻĀrif Bīr Miʻmārān</persName>
-                <persName type="vernacular">محمد عارف بير معماران.</persName>
+                <persName type="authority">Muh&#803;ammad &#699;A&#772;rif Bi&#772;r Mi&#699;ma&#772;ra&#772;n</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1593;&#1575;&#1585;&#1601; &#1576;&#1610;&#1585; &#1605;&#1593;&#1605;&#1575;&#1585;&#1575;&#1606;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -139,75 +142,75 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Kitāb al-mutawassiṭāt.</title>
+              <title>Kita&#772;b al-mutawassit&#803;a&#772;t.</title>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Taḥrīr kitāb al-muʻṭīyāt / Uqlīdis</title>
+              <title>Tah&#803;ri&#772;r kita&#772;b al-mu&#699;t&#803;i&#772;ya&#772;t / Uqli&#772;dis</title>
             </msItem>
             <msItem n="11v">
               <locus>11v</locus>
-              <title>Kitāb al-ukar / Thāwudhūsīyus</title>
+              <title>Kita&#772;b al-ukar / Tha&#772;wudhu&#772;si&#772;yus</title>
             </msItem>
             <msItem n="25r">
               <locus>25r</locus>
-              <title>Taḥrīr kitāb al-kurah al-mutaḥarrikah / Awtūlūqūs</title>
+              <title>Tah&#803;ri&#772;r kita&#772;b al-kurah al-mutah&#803;arrikah / Awtu&#772;lu&#772;qu&#772;s</title>
             </msItem>
             <msItem n="27v">
               <locus>27v</locus>
-              <title>Taḥrīr kitāb Mānālāwus fī al-ashkāl al-kurīyah / Mānālāwus</title>
+              <title>Tah&#803;ri&#772;r kita&#772;b Ma&#772;na&#772;la&#772;wus fi&#772; al-ashka&#772;l al-kuri&#772;yah / Ma&#772;na&#772;la&#772;wus</title>
             </msItem>
             <msItem n="65v">
               <locus>65v</locus>
-              <title>Taḥrīr al-manāẓir / Uqlīdis</title>
+              <title>Tah&#803;ri&#772;r al-mana&#772;z&#803;ir / Uqli&#772;dis</title>
             </msItem>
             <msItem n="73r">
               <locus>73r</locus>
-              <title>Kitāb ẓāhirat al-falak / Uqlīdis</title>
+              <title>Kita&#772;b z&#803;a&#772;hirat al-falak / Uqli&#772;dis</title>
             </msItem>
             <msItem n="83r">
               <locus>83r</locus>
-              <title>Kitāb Thāwudhūsīyus fī al-ayyām wa-al-layālī / Thāwudhūsīyus</title>
+              <title>Kita&#772;b Tha&#772;wudhu&#772;si&#772;yus fi&#772; al-ayya&#772;m wa-al-laya&#772;li&#772; / Tha&#772;wudhu&#772;si&#772;yus</title>
             </msItem>
             <msItem n="92v">
               <locus>92v</locus>
-              <title>Kitāb Awtūlūqūs fī al-ṭulūʻ wa-al-ghurūb / Awtūlūqūs</title>
+              <title>Kita&#772;b Awtu&#772;lu&#772;qu&#772;s fi&#772; al-t&#803;ulu&#772;&#699; wa-al-ghuru&#772;b / Awtu&#772;lu&#772;qu&#772;s</title>
             </msItem>
             <msItem n="100v">
               <locus>100v</locus>
-              <title>Kitāb Isqilawus fī al-maṭāliʻ mimmā aṣlaḥahu al-Kindī / Isqilawus</title>
+              <title>Kita&#772;b Isqilawus fi&#772; al-mat&#803;a&#772;li&#699; mimma&#772; as&#803;lah&#803;ahu al-Kindi&#772; / Isqilawus</title>
             </msItem>
             <msItem n="102r">
               <locus>102r</locus>
-              <title>Kitāb Aristarkhus fī jirmay al-nayyirayn wa-buʻdayhimā / Aristarkhus</title>
+              <title>Kita&#772;b Aristarkhus fi&#772; jirmay al-nayyirayn wa-bu&#699;dayhima&#772; / Aristarkhus</title>
             </msItem>
             <msItem n="107v">
               <locus>107v</locus>
-              <title>Taḥrīr kitāb al-maʼkhūdhāt / Arshimīdas</title>
+              <title>Tah&#803;ri&#772;r kita&#772;b al-ma&#700;khu&#772;dha&#772;t / Arshimi&#772;das</title>
             </msItem>
             <msItem n="112r">
               <locus>112r</locus>
-              <title>Taḥrīr kitāb al-mafrūḍāt / Thābit ibn Qurrah al-Ḥarrānī</title>
+              <title>Tah&#803;ri&#772;r kita&#772;b al-mafru&#772;d&#803;a&#772;t / Tha&#772;bit ibn Qurrah al-H&#803;arra&#772;ni&#772;</title>
             </msItem>
             <msItem n="116r">
               <locus>116r</locus>
-              <title>Kitāb maʻrifat masāḥat al-ashkāl al-basīṭah wa-al-kurīyah / Banī Mūsá Muḥammad wa-al-Ḥasan wa-Aḥmad</title>
+              <title>Kita&#772;b ma&#699;rifat masa&#772;h&#803;at al-ashka&#772;l al-basi&#772;t&#803;ah wa-al-kuri&#772;yah / Bani&#772; Mu&#772;sa&#769; Muh&#803;ammad wa-al-H&#803;asan wa-Ah&#803;mad</title>
             </msItem>
             <msItem n="123r">
               <locus>123r</locus>
-              <title>Kurah wa-al-usṭuwānah / Arshimīdas</title>
+              <title>Kurah wa-al-ust&#803;uwa&#772;nah / Arshimi&#772;das</title>
             </msItem>
             <msItem n="159r">
               <locus>159r</locus>
-              <title>Maqālat Arshimīdas fī taksīr al-dāʼirah / Arshimīdas</title>
+              <title>Maqa&#772;lat Arshimi&#772;das fi&#772; taksi&#772;r al-da&#772;&#700;irah / Arshimi&#772;das</title>
             </msItem>
             <msItem n="161r">
               <locus>161r</locus>
-              <title>Risālah fī ʻamāl al-asṭurlāb / ḥarrarahā Muḥammad ibn Shadīd al-Ṭabīb al-Kāzarūnī</title>
+              <title>Risa&#772;lah fi&#772; &#699;ama&#772;l al-ast&#803;urla&#772;b / h&#803;arraraha&#772; Muh&#803;ammad ibn Shadi&#772;d al-T&#803;abi&#772;b al-Ka&#772;zaru&#772;ni&#772;</title>
             </msItem>
             <msItem n="164r">
               <locus>164r</locus>
-              <title>Kitāb al-adwār fī al-mūsīqá / ʻAbd al-Muʼmin ibn Yūsuf al-Urmawī</title>
+              <title>Kita&#772;b al-adwa&#772;r fi&#772; al-mu&#772;si&#772;qa&#769; / &#699;Abd al-Mu&#700;min ibn Yu&#772;suf al-Urmawi&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -223,7 +226,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written chiefly in naskh in black ink; partially pointed; one work copied in nastaʻlīq in black ink; pointed.</scriptNote>
+              <scriptNote>Written chiefly in naskh in black ink; partially pointed; one work copied in nasta&#699;li&#772;q in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red and heavier black; numerous diagrams in red and black; tables in red and black.</decoNote>
@@ -556,12 +559,12 @@
           </physDesc>
           <history>
             <origin>
-              <p>The third work is dated 663? A.H. (f. 64r) and the 16th work is dated 773 A.H. and was copied by Muḥammad ibn Shadīd al-Ṭabīb al-Kāzarūnī (f. 163v).</p>
+              <p>The third work is dated 663? A.H. (f. 64r) and the 16th work is dated 773 A.H. and was copied by Muh&#803;ammad ibn Shadi&#772;d al-T&#803;abi&#772;b al-Ka&#772;zaru&#772;ni&#772; (f. 163v).</p>
               <origDate>1265-1371?</origDate>
             </origin>
             <provenance>Gift of George Arthur Plimpton, 1936.</provenance>
-            <provenance>Formerly owned by Aḥmad ibn Muṣṭafá; loaned to Muḥammad Saʻīd ibn Ḥarīrīʹzādah (note f. 1r).</provenance>
-            <provenance>Formerly owned by Muḥammad ʻĀrif Bīr Miʻmārān (note f. 1r)</provenance>
+            <provenance>Formerly owned by Ah&#803;mad ibn Mus&#803;t&#803;afa&#769;; loaned to Muh&#803;ammad Sa&#699;i&#772;d ibn H&#803;ari&#772;ri&#772;&#697;za&#772;dah (note f. 1r).</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad &#699;A&#772;rif Bi&#772;r Mi&#699;ma&#772;ra&#772;n (note f. 1r)</provenance>
             <provenance>Formerly owned by George Arthur Plimpton (bookplate inside back cover).</provenance>
           </history>
         </msDesc>

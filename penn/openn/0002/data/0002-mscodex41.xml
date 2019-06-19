@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 41: Taḥrīr al-qawāʻid al-manṭiqīyah fī sharḥ al-Risālah al-Shamsīyah.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 41: Tah&#803;ri&#772;r al-qawa&#772;&#699;id al-mant&#803;iqi&#772;yah fi&#772; sharh&#803; al-Risa&#772;lah al-Shamsi&#772;yah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 41: Taḥrīr al-qawāʻid al-manṭiqīyah fī sharḥ al-Risālah al-Shamsīyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 41: Taḥrīr al-qawāʻid al-manṭiqīyah fī sharḥ al-Risālah al-Shamsīyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 41: Tah&#803;ri&#772;r al-qawa&#772;&#699;id al-mant&#803;iqi&#772;yah fi&#772; sharh&#803; al-Risa&#772;lah al-Shamsi&#772;yah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 41: Tah&#803;ri&#772;r al-qawa&#772;&#699;id al-mant&#803;iqi&#772;yah fi&#772; sharh&#803; al-Risa&#772;lah al-Shamsi&#772;yah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -31,30 +31,33 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/122584655</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex41.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary on the Shamsīyah of Najm al-Dīn ʻUmar ibn ʻAlī Kātibī Qazwīnī with numerous marginal glosses taken from other commentaries on the Shamsīyah. Text begins abruptly, missing approximately 4 pages from the beginning. Leaves 5-7 have been rebound into the text upside down and out of order. Three inserts have been taped to leaves (taped to f. 105v, 107r, 110r).</summary>
+            <summary>Commentary on the Shamsi&#772;yah of Najm al-Di&#772;n &#699;Umar ibn &#699;Ali&#772; Ka&#772;tibi&#772; Qazwi&#772;ni&#772; with numerous marginal glosses taken from other commentaries on the Shamsi&#772;yah. Text begins abruptly, missing approximately 4 pages from the beginning. Leaves 5-7 have been rebound into the text upside down and out of order. Three inserts have been taped to leaves (taped to f. 105v, 107r, 110r).</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic; some notes in Persian</textLang>
             <msItem>
-              <title>Taḥrīr al-qawāʻid al-manṭiqīyah fī sharḥ al-Risālah al-Shamsīyah.</title>
-              <title type="vernacular">[تحرير القواعد المنطقية في شرح الرسالة الشمسية]</title>
+              <title>Tah&#803;ri&#772;r al-qawa&#772;&#699;id al-mant&#803;iqi&#772;yah fi&#772; sharh&#803; al-Risa&#772;lah al-Shamsi&#772;yah.</title>
+              <title type="vernacular">[&#1578;&#1581;&#1585;&#1610;&#1585; &#1575;&#1604;&#1602;&#1608;&#1575;&#1593;&#1583; &#1575;&#1604;&#1605;&#1606;&#1591;&#1602;&#1610;&#1577; &#1601;&#1610; &#1588;&#1585;&#1581; &#1575;&#1604;&#1585;&#1587;&#1575;&#1604;&#1577; &#1575;&#1604;&#1588;&#1605;&#1587;&#1610;&#1577;]</title>
               <author>
-                <persName type="authority">Quṭb al-Taḥtānī, Muḥammad ibn Muḥammad, 1294 or 1295-1364 or 1365</persName>
-                <persName type="vernacular">قطب التحتاني، محمد بن محمد،</persName>
+                <persName type="authority">Qut&#803;b al-Tah&#803;ta&#772;ni&#772;, Muh&#803;ammad ibn Muh&#803;ammad, 1294 or 1295-1364 or 1365</persName>
+                <persName type="vernacular">&#1602;&#1591;&#1576; &#1575;&#1604;&#1578;&#1581;&#1578;&#1575;&#1606;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Qazwīnī, ʻAlī ibn ʻUmar, 1203 or 1204-1276 or 1277</persName>
-                <persName type="vernacular">قزويني، علي بن عمر،</persName>
+                <persName type="authority">Qazwi&#772;ni&#772;, &#699;Ali&#772; ibn &#699;Umar, 1203 or 1204-1276 or 1277</persName>
+                <persName type="vernacular">&#1602;&#1586;&#1608;&#1610;&#1606;&#1610;&#1548; &#1593;&#1604;&#1610; &#1576;&#1606; &#1593;&#1605;&#1585;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf</persName>
-                <persName type="vernacular">ابراهيم بن قاسم بن علي بن يوسف.</persName>
+                <persName type="authority">Ibra&#772;hi&#772;m ibn Qa&#772;sim ibn &#699;Ali&#772; ibn Yu&#772;suf</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1576;&#1606; &#1602;&#1575;&#1587;&#1605; &#1576;&#1606; &#1593;&#1604;&#1610; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">ʻAbbāsī, Ḥājī ʻIzz al-Dīn Shīr Bīk</persName>
-                <persName type="vernacular">عباسي، حاجي عاز الدين شير بيك.</persName>
+                <persName type="authority">&#699;Abba&#772;si&#772;, H&#803;a&#772;ji&#772; &#699;Izz al-Di&#772;n Shi&#772;r Bi&#772;k</persName>
+                <persName type="vernacular">&#1593;&#1576;&#1575;&#1587;&#1610;&#1548; &#1581;&#1575;&#1580;&#1610; &#1593;&#1575;&#1586; &#1575;&#1604;&#1583;&#1610;&#1606; &#1588;&#1610;&#1585; &#1576;&#1610;&#1603;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -63,7 +66,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[Taḥrīr al-qawāʻid al-manṭiqīyah fī sharḥ al-Risālah al-Shamsīyah].</title>
+              <title>[Tah&#803;ri&#772;r al-qawa&#772;&#699;id al-mant&#803;iqi&#772;yah fi&#772; sharh&#803; al-Risa&#772;lah al-Shamsi&#772;yah].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -80,7 +83,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh with some marginal notations in nastaʻliq.</scriptNote>
+              <scriptNote>Written in naskh with some marginal notations in nasta&#699;liq.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red, some now faded to brown; tables in red and black (f. 85r, 106r, 107r, 110r, 113-114r), simple geometrical diagrams in black (126r-127r).</decoNote>
@@ -104,10 +107,10 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied completed on 4 Rajab 986 A.H. (September 16, 1578) by Ibrāhīm ibn Qāsim ibn ʻAlī ibn Yūsuf.</p>
+              <p>Copied completed on 4 Rajab 986 A.H. (September 16, 1578) by Ibra&#772;hi&#772;m ibn Qa&#772;sim ibn &#699;Ali&#772; ibn Yu&#772;suf.</p>
               <origDate>A.H. 986 (1578)</origDate>
             </origin>
-            <provenance>Formerly owned by Ḥājī ʻIzz al-Dīn Shīr Bīk al-ʻAbbāsī and donated to his school (note on f. 127v).</provenance>
+            <provenance>Formerly owned by H&#803;a&#772;ji&#772; &#699;Izz al-Di&#772;n Shi&#772;r Bi&#772;k al-&#699;Abba&#772;si&#772; and donated to his school (note on f. 127v).</provenance>
             <provenance>Formerly owned by Edgar F. Smith.</provenance>
           </history>
         </msDesc>

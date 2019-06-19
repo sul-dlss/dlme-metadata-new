@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 10: al-Qurʼān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 10: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 10: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 10: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 10: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 10: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -31,13 +31,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2427673</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_010.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Mostly complete copy of the Qurʼān; leaf with beginning of Sūrat al-Baqarah (The Cow) missing, chapter starts with verse 30 (2:30).</summary>
+            <summary>Mostly complete copy of the Qur&#700;a&#772;n; leaf with beginning of Su&#772;rat al-Baqarah (The Cow) missing, chapter starts with verse 30 (2:30).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
@@ -55,13 +58,13 @@
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Muḥammad ibn al-Ḥājj Aḥmad</persName>
-                <persName type="vernacular">محمد بن الحاج احمد،</persName>
+                <persName type="authority">Muh&#803;ammad ibn al-H&#803;a&#772;jj Ah&#803;mad</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1604;&#1581;&#1575;&#1580; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </respStmt>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
             <msItem n="294r">
               <locus>294r</locus>
@@ -85,11 +88,11 @@
               <scriptNote>Written in naskh in black ink, text is pointed and vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Polychrome using black, pink, blue, green, white, and gold inks. Text of the first chapter, al-Fātiḥah (The Opening) in cloudbands (f. 1v-2r); page is right half of what would have been a dual opening with illuminated border (f. 1v). Polychrome rule-border (gold, black, red) around textblock. Readings in red; sūrah titles in white. Medallions and words in gold indicate sections and rukūʻ; gold roundels at end of each verse. Gilt stamped edges.</decoNote>
+              <decoNote>Polychrome using black, pink, blue, green, white, and gold inks. Text of the first chapter, al-Fa&#772;tih&#803;ah (The Opening) in cloudbands (f. 1v-2r); page is right half of what would have been a dual opening with illuminated border (f. 1v). Polychrome rule-border (gold, black, red) around textblock. Readings in red; su&#772;rah titles in white. Medallions and words in gold indicate sections and ruku&#772;&#699;; gold roundels at end of each verse. Gilt stamped edges.</decoNote>
               <decoNote n="2v">Example of text division marker</decoNote>
               <decoNote n="3r">Example of text division marker</decoNote>
               <decoNote n="12v">Example of text division marker</decoNote>
-              <decoNote n="271v">Missing sūrah title.</decoNote>
+              <decoNote n="271v">Missing s&#363;rah title.</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>
@@ -99,7 +102,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in Kaisaria (Turkey) in 1172 A.H. (1758) by Muḥammad ibn al-Ḥājj Aḥmad for the mosque of Shaykh ʻUmar, according to the colophon (f. 294r).</p>
+              <p>Copied in Kaisaria (Turkey) in 1172 A.H. (1758) by Muh&#803;ammad ibn al-H&#803;a&#772;jj Ah&#803;mad for the mosque of Shaykh &#699;Umar, according to the colophon (f. 294r).</p>
               <origDate>A.H. 1172 (1758)</origDate>
               <origPlace>Kaisaria ;</origPlace>
             </origin>
@@ -122,7 +125,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
         </keywords>
       </textClass>
     </profileDesc>

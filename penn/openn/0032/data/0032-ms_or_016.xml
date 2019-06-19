@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -35,9 +35,12 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13617618</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_016.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>On charms, talismans, supernatural protective abilities of different Qur'ānic verses. The copy is written in several different hands and has a number of blank leaves in the middle.</summary>
+            <summary>On charms, talismans, supernatural protective abilities of different Qur'a&#772;nic verses. The copy is written in several different hands and has a number of blank leaves in the middle.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
               <title>On charms and talismans.</title>
@@ -47,8 +50,8 @@
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">ʻAṭṭār, Muḥammad Amīn</persName>
-                <persName type="vernacular">عطار، محمد امين.</persName>
+                <persName type="authority">&#699;At&#803;t&#803;a&#772;r, Muh&#803;ammad Ami&#772;n</persName>
+                <persName type="vernacular">&#1593;&#1591;&#1575;&#1585;&#1548; &#1605;&#1581;&#1605;&#1583; &#1575;&#1605;&#1610;&#1606;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1r">
@@ -137,7 +140,7 @@
               <origDate>approximately 1813</origDate>
             </origin>
             <provenance>Presumed to be a gift of David Eugene Smith, 1931-1934.</provenance>
-            <provenance>Formerly owned by Muḥammad Amīn al-ʻAṭṭār (note on inside front cover).</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad Ami&#772;n al-&#699;At&#803;t&#803;a&#772;r (note on inside front cover).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

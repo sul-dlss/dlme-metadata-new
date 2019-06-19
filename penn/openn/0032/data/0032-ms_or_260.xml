@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 260: Taʻlīq al-durrah al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah fī ʻilm al-ʻArabīyah.</title>
+        <title>Description of Columbia University. MS Or 260: Ta&#699;li&#772;q al-durrah al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah fi&#772; &#699;ilm al-&#699;Arabi&#772;yah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 260: Taʻlīq al-durrah al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah fī ʻilm al-ʻArabīyah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 260: Taʻlīq al-durrah al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah fī ʻilm al-ʻArabīyah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 260: Ta&#699;li&#772;q al-durrah al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah fi&#772; &#699;ilm al-&#699;Arabi&#772;yah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 260: Ta&#699;li&#772;q al-durrah al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah fi&#772; &#699;ilm al-&#699;Arabi&#772;yah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,28 +35,31 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13682293</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_260.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Abridged version of Shanawānī's longer commentary, called al-Fawāʼid al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah, on Khālid al-Azharī's commentary on the Ajurrūmīyah.</summary>
+            <summary>Abridged version of Shanawa&#772;ni&#772;'s longer commentary, called al-Fawa&#772;&#700;id al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah, on Kha&#772;lid al-Azhari&#772;'s commentary on the Ajurru&#772;mi&#772;yah.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Taʻlīq al-durrah al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah fī ʻilm al-ʻArabīyah.</title>
-              <title type="vernacular">تعليق الدرة الشنوانية على شرح الاجرومية في علم العربية</title>
+              <title>Ta&#699;li&#772;q al-durrah al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah fi&#772; &#699;ilm al-&#699;Arabi&#772;yah.</title>
+              <title type="vernacular">&#1578;&#1593;&#1604;&#1610;&#1602; &#1575;&#1604;&#1583;&#1585;&#1577; &#1575;&#1604;&#1588;&#1606;&#1608;&#1575;&#1606;&#1610;&#1577; &#1593;&#1604;&#1609; &#1588;&#1585;&#1581; &#1575;&#1604;&#1575;&#1580;&#1585;&#1608;&#1605;&#1610;&#1577; &#1601;&#1610; &#1593;&#1604;&#1605; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;</title>
               <author>
-                <persName type="authority">Shanawānī, Abū Bakr ibn Ismāʻīl, 1551 or 1552-1610 or 1611</persName>
-                <persName type="vernacular">شنواني، ابو بكر بن اسماعيل،</persName>
+                <persName type="authority">Shanawa&#772;ni&#772;, Abu&#772; Bakr ibn Isma&#772;&#699;i&#772;l, 1551 or 1552-1610 or 1611</persName>
+                <persName type="vernacular">&#1588;&#1606;&#1608;&#1575;&#1606;&#1610;&#1548; &#1575;&#1576;&#1608; &#1576;&#1603;&#1585; &#1576;&#1606; &#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Shanawānī, Abū Bakr ibn Ismāʻīl, 1551 or 1552-1610 or 1611</persName>
-                <persName type="vernacular">شنواني، ابو بكر بن اسماعيل،</persName>
+                <persName type="authority">Shanawa&#772;ni&#772;, Abu&#772; Bakr ibn Isma&#772;&#699;i&#772;l, 1551 or 1552-1610 or 1611</persName>
+                <persName type="vernacular">&#1588;&#1606;&#1608;&#1575;&#1606;&#1610;&#1548; &#1575;&#1576;&#1608; &#1576;&#1603;&#1585; &#1576;&#1606; &#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ibn Ājurrūm, Muḥammad ibn Muḥammad, 1273 or 1274-1323</persName>
-                <persName type="vernacular">ابن آجروم، محمد بن محمد،</persName>
+                <persName type="authority">Ibn A&#772;jurru&#772;m, Muh&#803;ammad ibn Muh&#803;ammad, 1273 or 1274-1323</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1570;&#1580;&#1585;&#1608;&#1605;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Azharī, Khālid ibn ʻAbd Allāh, -1499</persName>
-                <persName type="vernacular">أزهري، خالد بن عبد الله،</persName>
+                <persName type="authority">Azhari&#772;, Kha&#772;lid ibn &#699;Abd Alla&#772;h, -1499</persName>
+                <persName type="vernacular">&#1571;&#1586;&#1607;&#1585;&#1610;&#1548; &#1582;&#1575;&#1604;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,7 +68,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Taʻlīq al-durrah al-Shanawānīyah ʻalá Sharḥ al-Ajurrūmīyah fī ʻilm al-ʻArabīyah.</title>
+              <title>Ta&#699;li&#772;q al-durrah al-Shanawa&#772;ni&#772;yah &#699;ala&#769; Sharh&#803; al-Ajurru&#772;mi&#772;yah fi&#772; &#699;ilm al-&#699;Arabi&#772;yah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -95,7 +98,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Item is dated 14 Dhū al-Qaʻdah 1046 AH (f. 130r).</p>
+              <p>Item is dated 14 Dhu&#772; al-Qa&#699;dah 1046 AH (f. 130r).</p>
               <origDate>1637</origDate>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>

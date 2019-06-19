@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1903: al-Qurʼān.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1903: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1903: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1903: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1903: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1903: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
         <note>Title supplied by cataloger.</note>
-        <note>Errata sheet laid in ("hādhā al-muṣḥaf mukhālif li-al-rasm al-ʻuthmānī").</note>
+        <note>Errata sheet laid in ("ha&#772;dha&#772; al-mus&#803;h&#803;af mukha&#772;lif li-al-rasm al-&#699;uthma&#772;ni&#772;").</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -30,17 +30,20 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578293</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1903.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qur'ān. This copy also includes a prayer to be said upon completion of the Qur'ān (f. 303v).</summary>
+            <summary>Complete copy of the Qur'a&#772;n. This copy also includes a prayer to be said upon completion of the Qur'a&#772;n (f. 303v).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Lārndawī, ʻAbd Allāh al-Ḥusnī ibn al-Ḥājj ʻAbdī</persName>
-                <persName type="vernacular">لارندوي، عبد الله الحسني بن الحاج عبدي.</persName>
+                <persName type="authority">La&#772;rndawi&#772;, &#699;Abd Alla&#772;h al-H&#803;usni&#772; ibn al-H&#803;a&#772;jj &#699;Abdi&#772;</persName>
+                <persName type="vernacular">&#1604;&#1575;&#1585;&#1606;&#1583;&#1608;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1581;&#1587;&#1606;&#1610; &#1576;&#1606; &#1575;&#1604;&#1581;&#1575;&#1580; &#1593;&#1576;&#1583;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -49,7 +52,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Qurʾān.</title>
+              <title>al-Qur&#702;&#257;n.</title>
             </msItem>
             <msItem n="304r">
               <locus>304r</locus>
@@ -73,7 +76,7 @@
               <scriptNote>Written in naskh using black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Sūrah titles in white ink, framed in gold and floriated designs; textblock ruled in gold and black; gold roundels with red and blue dots at end of each verse; readings marked in red; text partitions (ḥizb) marked in the margins by polychrome and gold medallions; double page illumination in gold, blue, and red with text on cloudbands in first opening (f. 1v-2r); tailpiece of gold floral design under colophon, which is written on incomplete cloudbands (f. 304r).</decoNote>
+              <decoNote>Su&#772;rah titles in white ink, framed in gold and floriated designs; textblock ruled in gold and black; gold roundels with red and blue dots at end of each verse; readings marked in red; text partitions (h&#803;izb) marked in the margins by polychrome and gold medallions; double page illumination in gold, blue, and red with text on cloudbands in first opening (f. 1v-2r); tailpiece of gold floral design under colophon, which is written on incomplete cloudbands (f. 304r).</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
             </decoDesc>
@@ -85,7 +88,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in A.H. 1119 (1708) by ʻAbd Allāh al-Ḥusnī ibn al-Ḥājj ʻAbdī al-Lārndawī (f. 304r).</p>
+              <p>Copied in A.H. 1119 (1708) by &#699;Abd Alla&#772;h al-H&#803;usni&#772; ibn al-H&#803;a&#772;jj &#699;Abdi&#772; al-La&#772;rndawi&#772; (f. 304r).</p>
               <origDate>A.H. 1119 (1708)</origDate>
               <origPlace>Turkey?</origPlace>
             </origin>
@@ -99,7 +102,7 @@
         <keywords n="form/genre">
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Manuscripts, Arabic--18th century</term>
         </keywords>
       </textClass>

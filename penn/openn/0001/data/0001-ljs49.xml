@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 49: Rawḍat al-adhhān fī maʻrifat tashrīḥ badan al-insān</title>
+        <title>Description of University of Pennsylvania LJS 49: Rawd&#803;at al-adhha&#772;n fi&#772; ma&#699;rifat tashri&#772;h&#803; badan al-insa&#772;n</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4805876</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs49.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Later copy, probably in the hand of the author, of an anatomy treatise originally written in 1396, with chapters on bones, nerves, veins, arteries and muscles, and complex organs. Some marginal notes.</summary>
             <textLang mainLang="per" otherLangs="ara">Persian and Arabic</textLang>
             <msItem>
-              <title>Rawḍat al-adhhān fī maʻrifat tashrīḥ badan al-insān</title>
-              <author>Manṣūr ibn Muḥammad ibn Aḥmad, 14th cent</author>
+              <title>Rawd&#803;at al-adhha&#772;n fi&#772; ma&#699;rifat tashri&#772;h&#803; badan al-insa&#772;n</title>
+              <author>Mans&#803;u&#772;r ibn Muh&#803;ammad ibn Ah&#803;mad, 14th cent</author>
             </msItem>
           </msContents>
           <physDesc>
@@ -89,7 +92,7 @@
               <origDate>A.H. 813 (1411)</origDate>
               <origPlace>Persia</origPlace>
             </origin>
-            <provenance>Formerly owned by Muhammad Reza and the Sultan's Hospital in Iṣfahān, Iran.</provenance>
+            <provenance>Formerly owned by Muhammad Reza and the Sultan's Hospital in Is&#803;faha&#772;n, Iran.</provenance>
             <provenance>Sold at Sotheby's, 18 Oct. 1995, lot 51.</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London), June 1996, to Lawrence J. Schoenberg.</provenance>
           </history>

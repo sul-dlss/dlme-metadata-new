@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 311: Hādhā kitāb Tuḥfah-ʼi Vahbī Sünbülʹzade.</title>
+        <title>Description of Columbia University. MS Or 311: Ha&#772;dha&#772; kita&#772;b Tuh&#803;fah-&#700;i Vahbi&#772; Su&#776;nbu&#776;l&#697;zade.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 311: Hādhā kitāb Tuḥfah-ʼi Vahbī Sünbülʹzade. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 311: Hādhā kitāb Tuḥfah-ʼi Vahbī Sünbülʹzade.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 311: Ha&#772;dha&#772; kita&#772;b Tuh&#803;fah-&#700;i Vahbi&#772; Su&#776;nbu&#776;l&#697;zade. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 311: Ha&#772;dha&#772; kita&#772;b Tuh&#803;fah-&#700;i Vahbi&#772; Su&#776;nbu&#776;l&#697;zade.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -34,21 +34,24 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13720587</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_311.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Persian-Turkish vocabulary, in verse.</summary>
             <textLang mainLang="ota">Ottoman Turkish</textLang>
             <msItem>
-              <title>Hādhā kitāb Tuḥfah-ʼi Vahbī Sünbülʹzade.</title>
-              <title type="vernacular">هذا کتاب تحفۀ وهبى سنبل‌زاده</title>
+              <title>Ha&#772;dha&#772; kita&#772;b Tuh&#803;fah-&#700;i Vahbi&#772; Su&#776;nbu&#776;l&#697;zade.</title>
+              <title type="vernacular">&#1607;&#1584;&#1575; &#1705;&#1578;&#1575;&#1576; &#1578;&#1581;&#1601;&#1728; &#1608;&#1607;&#1576;&#1609; &#1587;&#1606;&#1576;&#1604;&#8204;&#1586;&#1575;&#1583;&#1607;</title>
               <author>
                 <persName type="authority">Vehbi, approximately 1719-1809</persName>
-                <persName type="vernacular">وهبي،</persName>
+                <persName type="vernacular">&#1608;&#1607;&#1576;&#1610;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">ʻAlī ʻĀs̜iḳ Ṣāfī</persName>
-                <persName type="vernacular">علي عاشق صافي.</persName>
+                <persName type="authority">&#699;Ali&#772; &#699;A&#772;s&#796;ik&#803; S&#803;a&#772;fi&#772;</persName>
+                <persName type="vernacular">&#1593;&#1604;&#1610; &#1593;&#1575;&#1588;&#1602; &#1589;&#1575;&#1601;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -57,7 +60,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Hādhā kitāb Tuḥfah-ʼi Vahbī Sünbülʹzade.</title>
+              <title>Ha&#772;dha&#772; kita&#772;b Tuh&#803;fah-&#700;i Vahbi&#772; Su&#776;nbu&#776;l&#697;zade.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -84,7 +87,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Item is not dated, but probably copied in the late 18th or 19th century by ʻAlī ʻĀs̜iḳ Ṣāfī (f. 52r).</p>
+              <p>Item is not dated, but probably copied in the late 18th or 19th century by &#699;Ali&#772; &#699;A&#772;s&#796;ik&#803; S&#803;a&#772;fi&#772; (f. 52r).</p>
               <origDate>between 1775 and 1850?</origDate>
               <origPlace>Turkey?</origPlace>
             </origin>

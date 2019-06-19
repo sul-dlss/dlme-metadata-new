@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 369: al-ʻĀqibah fī dhikr al-mawt.</title>
+        <title>Description of Columbia University. MS Or 369: al-&#699;A&#772;qibah fi&#772; dhikr al-mawt.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 369: al-ʻĀqibah fī dhikr al-mawt. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 369: al-ʻĀqibah fī dhikr al-mawt.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 369: al-&#699;A&#772;qibah fi&#772; dhikr al-mawt. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 369: al-&#699;A&#772;qibah fi&#772; dhikr al-mawt.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,16 +36,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848469</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_369.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Lacunose copy of a work on Islamic eschatology; missing large portions of the text from the middle and from the end.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-ʻĀqibah fī dhikr al-mawt.</title>
-              <title type="vernacular">[العاقبة في ذكر الموت]</title>
+              <title>al-&#699;A&#772;qibah fi&#772; dhikr al-mawt.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1593;&#1575;&#1602;&#1576;&#1577; &#1601;&#1610; &#1584;&#1603;&#1585; &#1575;&#1604;&#1605;&#1608;&#1578;]</title>
               <author>
-                <persName type="authority">Ibn al-Kharrāṭ, ʻAbd al-Ḥaqq ibn ʻAbd al-Raḥmān, 1116 or 1117-1185</persName>
-                <persName type="vernacular">ابن الخراط، عبد الحق بن عبد الرحمن،</persName>
+                <persName type="authority">Ibn al-Kharra&#772;t&#803;, &#699;Abd al-H&#803;aqq ibn &#699;Abd al-Rah&#803;ma&#772;n, 1116 or 1117-1185</persName>
+                <persName type="vernacular">&#1575;&#1576;&#1606; &#1575;&#1604;&#1582;&#1585;&#1575;&#1591;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1581;&#1602; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1585;&#1581;&#1605;&#1606;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -58,7 +61,7 @@
             </msItem>
             <msItem n="1">
               <locus>1</locus>
-              <title>[al-ʻĀqibah fī dhikr al-mawt].</title>
+              <title>[al-&#699;A&#772;qibah fi&#772; dhikr al-mawt].</title>
             </msItem>
           </msContents>
           <physDesc>

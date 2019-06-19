@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 60: Baḥr al-ʻUyūn.</title>
+        <title>Description of Columbia University. MS Or 60: Bah&#803;r al-&#699;Uyu&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 60: Baḥr al-ʻUyūn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 60: Baḥr al-ʻUyūn.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 60: Bah&#803;r al-&#699;Uyu&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 60: Bah&#803;r al-&#699;Uyu&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13615971</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_060.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>On magic, including sīmiyā and rīmiyā. This work closely resembles Kāshifī's Asrār-i Qāsimī, also called Siḥr al-ʻUyūn.</summary>
+            <summary>On magic, including si&#772;miya&#772; and ri&#772;miya&#772;. This work closely resembles Ka&#772;shifi&#772;'s Asra&#772;r-i Qa&#772;simi&#772;, also called Sih&#803;r al-&#699;Uyu&#772;n.</summary>
             <textLang mainLang="per" otherLangs="">Persian</textLang>
             <msItem>
-              <title>Baḥr al-ʻUyūn.</title>
-              <title type="vernacular">بحر العیون</title>
+              <title>Bah&#803;r al-&#699;Uyu&#772;n.</title>
+              <title type="vernacular">&#1576;&#1581;&#1585; &#1575;&#1604;&#1593;&#1740;&#1608;&#1606;</title>
               <author>
-                <persName type="authority">Kāshifī, Ḥusayn Vāʻiẓ, -1504 or 1505</persName>
-                <persName type="vernacular">کاشفى، حسین واعظ،</persName>
+                <persName type="authority">Ka&#772;shifi&#772;, H&#803;usayn Va&#772;&#699;iz&#803;, -1504 or 1505</persName>
+                <persName type="vernacular">&#1705;&#1575;&#1588;&#1601;&#1609;&#1548; &#1581;&#1587;&#1740;&#1606; &#1608;&#1575;&#1593;&#1592;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1">
               <locus>1</locus>
-              <title>Baḥr al-ʻUyūn</title>
+              <title>Ba&#7717;r al-&#699;Uy&#363;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -70,7 +73,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink, pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink, pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Some diagrams and symbols in black and red.</decoNote>

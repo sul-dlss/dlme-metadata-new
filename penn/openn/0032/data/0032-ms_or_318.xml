@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 318: al-Qurʼān.</title>
+        <title>Description of Columbia University. MS Or 318: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 318: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 318: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,27 +35,30 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13806448</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_318.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān with illuminations and gilding.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n with illuminations and gilding.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">القرآن</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Shukrī, ʻAlī</persName>
-                <persName type="vernacular">شكري، علي.</persName>
+                <persName type="authority">Shukri&#772;, &#699;Ali&#772;</persName>
+                <persName type="vernacular">&#1588;&#1603;&#1585;&#1610;&#1548; &#1593;&#1604;&#1610;.</persName>
               </respStmt>
               <respStmt>
                 <resp>illuminator</resp>
-                <persName type="authority">ʻAlī ibn Ḥamzah</persName>
-                <persName type="vernacular">علي بن حمزة.</persName>
+                <persName type="authority">&#699;Ali&#772; ibn H&#803;amzah</persName>
+                <persName type="vernacular">&#1593;&#1604;&#1610; &#1576;&#1606; &#1581;&#1605;&#1586;&#1577;.</persName>
               </respStmt>
               <respStmt>
                 <resp>binder</resp>
-                <persName type="authority">ʻAlī ibn Ḥamzah</persName>
-                <persName type="vernacular">علي بن حمزة.</persName>
+                <persName type="authority">&#699;Ali&#772; ibn H&#803;amzah</persName>
+                <persName type="vernacular">&#1593;&#1604;&#1610; &#1576;&#1606; &#1581;&#1605;&#1586;&#1577;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -64,7 +67,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Qurʹān.</title>
+              <title>al-Qur&#884;&#257;n.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -83,14 +86,14 @@
               <scriptNote>Written in naskh in black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Textblock border-ruled in double gold, blue and red. Rubrications in red. Dual-page polychrome illuminated first page-opening with text on cloudbands and blue and red floral radial line in the margins (f. 1v-2r). Polychrome gilded floral sunset and star-shaped medallions in the margins. Gilded polychrome sūrah headings with text in white ink. Gold roundels with pink and blue dots mark verse endings. Gilded polychrome floral designs and cloudbands around colophon (f. 346r)</decoNote>
+              <decoNote>Textblock border-ruled in double gold, blue and red. Rubrications in red. Dual-page polychrome illuminated first page-opening with text on cloudbands and blue and red floral radial line in the margins (f. 1v-2r). Polychrome gilded floral sunset and star-shaped medallions in the margins. Gilded polychrome su&#772;rah headings with text in white ink. Gold roundels with pink and blue dots mark verse endings. Gilded polychrome floral designs and cloudbands around colophon (f. 346r)</decoNote>
               <decoNote n="Flyleaf 1 recto">Inscription in English</decoNote>
               <decoNote n="Flyleaf 2 recto">Bookplate: "Typographic Library and Museum of the American Type Founders Company"</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
               <decoNote n="7r">Example of polychrome text division marker</decoNote>
               <decoNote n="12v">Example of polychrome text division marker</decoNote>
-              <decoNote n="27r">Example of polychrome sūrah heading</decoNote>
+              <decoNote n="27r">Example of polychrome s&#363;rah heading</decoNote>
               <decoNote n="346r">Illuminated tailpiece</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -101,7 +104,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in 1214 AH by ʻAlī al-Shukrī. Gilding and binding done by ʻAlī ibn Ḥamzah (f. 346r).</p>
+              <p>Copy completed in 1214 AH by &#699;Ali&#772; al-Shukri&#772;. Gilding and binding done by &#699;Ali&#772; ibn H&#803;amzah (f. 346r).</p>
               <origDate>1799 or 1800</origDate>
               <origPlace>Turkey</origPlace>
             </origin>
@@ -119,7 +122,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Manuscripts (documents)</term>
           <term>Illuminations (painting)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Full covers</term>
           <term>Envelope flaps (features)</term>
         </keywords>

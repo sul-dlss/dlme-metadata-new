@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 427: Books II-V of al-Qānūn fī al-ṭibb</title>
+        <title>Description of University of Pennsylvania LJS 427: Books II-V of al-Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5864396</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs427.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Books II (materia medica), III (diseases arranged by part of the body), IV (diseases not specific to particular organs), and V (compound drugs, ointments, and electuaries) of Avicenna's medical encyclopedia. Some marginal notes, beginning in Book III, with more toward the end of the volume; 2 notes in Arabic laid in following f. 144 and f. 275.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Books II-V of al-Qānūn fī al-ṭibb</title>
+              <title>Books II-V of al-Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
               <author>Avicenna, 980-1037</author>
             </msItem>
             <msItem n="1v">
@@ -80,7 +83,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh script, except for the final leaves written in nastaʻlīq script (f. 362r-367r).</scriptNote>
+              <scriptNote>Written in naskh script, except for the final leaves written in nasta&#699;li&#772;q script (f. 362r-367r).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Significant words and phrases in red ink; names of medicines and ailments in red ink in the margins corresponding to words in red in the text.</decoNote>

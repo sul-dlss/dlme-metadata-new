@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 41: Sabʻ samawāt li-sirr samāʼī.</title>
+        <title>Description of Columbia University. MS Or 41: Sab&#699; samawa&#772;t li-sirr sama&#772;&#700;i&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 41: Sabʻ samawāt li-sirr samāʼī. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 41: Sabʻ samawāt li-sirr samāʼī.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 41: Sab&#699; samawa&#772;t li-sirr sama&#772;&#700;i&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 41: Sab&#699; samawa&#772;t li-sirr sama&#772;&#700;i&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -34,16 +34,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13672993</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_041.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Copy of an astrology text for divination. Includes a number of tables.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Sabʻ samawāt li-sirr samāʼī.</title>
-              <title type="vernacular">سبع سموات لسر سمائي</title>
+              <title>Sab&#699; samawa&#772;t li-sirr sama&#772;&#700;i&#772;.</title>
+              <title type="vernacular">&#1587;&#1576;&#1593; &#1587;&#1605;&#1608;&#1575;&#1578; &#1604;&#1587;&#1585; &#1587;&#1605;&#1575;&#1574;&#1610;</title>
               <author>
-                <persName type="authority">Fārūqī, Fatḥ Allāh ibn Muṣṭafá ibn ʻAbd al-Shakūr, active approximately 16th century-17th century</persName>
-                <persName type="vernacular">فاروقى، فتح الله بن مصطفى بن عبد الشکور،</persName>
+                <persName type="authority">Fa&#772;ru&#772;qi&#772;, Fath&#803; Alla&#772;h ibn Mus&#803;t&#803;afa&#769; ibn &#699;Abd al-Shaku&#772;r, active approximately 16th century-17th century</persName>
+                <persName type="vernacular">&#1601;&#1575;&#1585;&#1608;&#1602;&#1609;&#1548; &#1601;&#1578;&#1581; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1605;&#1589;&#1591;&#1601;&#1609; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1588;&#1705;&#1608;&#1585;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -52,7 +55,7 @@
             </msItem>
             <msItem n="1r">
               <locus>[1r]</locus>
-              <title>Sabʻ samavāt li-sirr-i samāʼī</title>
+              <title>Sab&#699; samava&#772;t li-sirr-i sama&#772;&#700;i&#772;</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -69,7 +72,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in rapid nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in rapid nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Several tables (f. 3r, 7r, 37r, 37v, 42r-43r, 44v-47r, 50v, 60r, 67r, 70v) and diagrams (f. 25r, 25v, 55r, 76v-77r, 79r).</decoNote>

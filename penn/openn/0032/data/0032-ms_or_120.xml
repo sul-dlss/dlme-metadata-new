@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 120: Nuskhat al-sijill alladhī wujida muʻallaqan ʻalá al-mashāhid fī ghaybat Mawlānā al-Imām al-Ḥākim ... .</title>
+        <title>Description of Columbia University. MS Or 120: Nuskhat al-sijill alladhi&#772; wujida mu&#699;allaqan &#699;ala&#769; al-masha&#772;hid fi&#772; ghaybat Mawla&#772;na&#772; al-Ima&#772;m al-H&#803;a&#772;kim ... .</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 120: Nuskhat al-sijill alladhī wujida muʻallaqan ʻalá al-mashāhid fī ghaybat Mawlānā al-Imām al-Ḥākim ... . are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 120: Nuskhat al-sijill alladhī wujida muʻallaqan ʻalá al-mashāhid fī ghaybat Mawlānā al-Imām al-Ḥākim ... .. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 120: Nuskhat al-sijill alladhi&#772; wujida mu&#699;allaqan &#699;ala&#769; al-masha&#772;hid fi&#772; ghaybat Mawla&#772;na&#772; al-Ima&#772;m al-H&#803;a&#772;kim ... . are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 120: Nuskhat al-sijill alladhi&#772; wujida mu&#699;allaqan &#699;ala&#769; al-masha&#772;hid fi&#772; ghaybat Mawla&#772;na&#772; al-Ima&#772;m al-H&#803;a&#772;kim ... .. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,16 +35,19 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616603</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_120.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>A collection of declarations and correspondence attributed to the Fatimid Caliph al-Ḥākim bi-Amr Allāh.</summary>
+            <summary>A collection of declarations and correspondence attributed to the Fatimid Caliph al-H&#803;a&#772;kim bi-Amr Alla&#772;h.</summary>
             <textLang mainLang="ara" otherLangs="eng">Arabic</textLang>
             <msItem>
-              <title>Nuskhat al-sijill alladhī wujida muʻallaqan ʻalá al-mashāhid fī ghaybat Mawlānā al-Imām al-Ḥākim ... .</title>
-              <title type="vernacular">نسخة السجل الذي وجد معلقاً على المشاهد في غيبة مولانا الامام الحاكم</title>
+              <title>Nuskhat al-sijill alladhi&#772; wujida mu&#699;allaqan &#699;ala&#769; al-masha&#772;hid fi&#772; ghaybat Mawla&#772;na&#772; al-Ima&#772;m al-H&#803;a&#772;kim ... .</title>
+              <title type="vernacular">&#1606;&#1587;&#1582;&#1577; &#1575;&#1604;&#1587;&#1580;&#1604; &#1575;&#1604;&#1584;&#1610; &#1608;&#1580;&#1583; &#1605;&#1593;&#1604;&#1602;&#1575;&#1611; &#1593;&#1604;&#1609; &#1575;&#1604;&#1605;&#1588;&#1575;&#1607;&#1583; &#1601;&#1610; &#1594;&#1610;&#1576;&#1577; &#1605;&#1608;&#1604;&#1575;&#1606;&#1575; &#1575;&#1604;&#1575;&#1605;&#1575;&#1605; &#1575;&#1604;&#1581;&#1575;&#1603;&#1605;</title>
               <author>
-                <persName type="authority">Ḥākim bi-Amr Allāh, Caliph of Egypt, 985-approximately 1021</persName>
-                <persName type="vernacular">حاكم بأمر الله،</persName>
+                <persName type="authority">H&#803;a&#772;kim bi-Amr Alla&#772;h, Caliph of Egypt, 985-approximately 1021</persName>
+                <persName type="vernacular">&#1581;&#1575;&#1603;&#1605; &#1576;&#1571;&#1605;&#1585; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Nuskhat al-sijill alladhī wujida muʻallaqan ʻalá al-mashāhid fī ghaybat Mawlānā al-Imām al-Ḥākim ... .</title>
+              <title>Nuskhat al-sijill alladhi&#772; wujida mu&#699;allaqan &#699;ala&#769; al-masha&#772;hid fi&#772; ghaybat Mawla&#772;na&#772; al-Ima&#772;m al-H&#803;a&#772;kim ... .</title>
             </msItem>
           </msContents>
           <physDesc>

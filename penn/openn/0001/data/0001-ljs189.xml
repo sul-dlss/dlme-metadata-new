@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 189: Zakhīrah-ʹi Khvārazmshāhī</title>
+        <title>Description of University of Pennsylvania LJS 189: Zakhi&#772;rah-&#697;i Khva&#772;razmsha&#772;hi&#772;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4922215</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs189.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Medical encyclopedia in 9 books, with discussions of physiology, anatomy, pathology, diagnosis, fevers, specific diseases, surgery, fractures, poisons, and antidotes. Includes indexes, although some leaves are missing. Most leaves re-margined with pink paper; a few leaves have original margins and extensive marginal notes or commentary (f. 255v-261r).</summary>
             <textLang>Persian</textLang>
             <msItem>
-              <title>Zakhīrah-ʹi Khvārazmshāhī</title>
-              <author>Jurjānī, Ismāʻīl ibn Ḥasan, 1042 or 3-1136 or 7</author>
+              <title>Zakhi&#772;rah-&#697;i Khva&#772;razmsha&#772;hi&#772;</title>
+              <author>Jurja&#772;ni&#772;, Isma&#772;&#699;i&#772;l ibn H&#803;asan, 1042 or 3-1136 or 7</author>
               <respStmt>
                 <resp>dedicatee</resp>
-                <persName>Qutb al-Dīn Muhammad, Shah of Khorezm, 1097-1127</persName>
+                <persName>Qutb al-Di&#772;n Muhammad, Shah of Khorezm, 1097-1127</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>

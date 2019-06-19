@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 425: Kitāb Tawḍīḥ al-alḥān</title>
+        <title>Description of University of Pennsylvania LJS 425: Kita&#772;b Tawd&#803;i&#772;h&#803; al-alh&#803;a&#772;n</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,19 +39,22 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5146923</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs425.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Treatise on music or melody, adapted by the Persian scribe Ruhbānī (or Ruhhānī) from a treatise written for the Sultan Mahmud of the Bahamanids, a Deccani dynasty. The final pages in Hindi use Sanskrit terms and include a discussion of the female personification of music and aspects of Rāgamālās.</summary>
+            <summary>Treatise on music or melody, adapted by the Persian scribe Ruhba&#772;ni&#772; (or Ruhha&#772;ni&#772;) from a treatise written for the Sultan Mahmud of the Bahamanids, a Deccani dynasty. The final pages in Hindi use Sanskrit terms and include a discussion of the female personification of music and aspects of Ra&#772;gama&#772;la&#772;s.</summary>
             <textLang mainLang="per" otherLangs="hin san">Persian, with final pages in Hindi and using Sanskrit words</textLang>
             <msItem>
-              <title>Kitāb Tawḍīḥ al-alḥān</title>
+              <title>Kita&#772;b Tawd&#803;i&#772;h&#803; al-alh&#803;a&#772;n</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Ruhbānī</persName>
+                <persName>Ruhba&#772;ni&#772;</persName>
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Ruhhānī</persName>
+                <persName>Ruhha&#772;ni&#772;</persName>
               </respStmt>
               <respStmt>
                 <resp>associated name</resp>
@@ -73,7 +76,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq script.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q script.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Diagrams in red ink (p. 8, 10, 21, 23-25, 47, 50, 53, 56-58, 65, 67); later illuminated headpiece and border (p. 1); text block outlined in colored and gold ink; significant words and phrases in red.</decoNote>

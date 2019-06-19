@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -37,6 +37,9 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13622992</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_152b.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Two manuscript leaves which have been pasted onto card and painted on the reverse, likely for sale as miniatures to tourists.</summary>
@@ -67,7 +70,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nasta'līq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta'li&#772;q in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote n="10r">Painting</decoNote>

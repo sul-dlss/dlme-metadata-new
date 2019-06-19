@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Roll 1965: al-Qurʼān.</title>
+        <title>Description of University of Pennsylvania Ms. Roll 1965: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1965: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1965: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1965: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Roll 1965: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,20 +29,23 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523251</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/msroll1965.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Selections from the Qurʼān on a narrow, paper scroll. Lithographed rather than written, though decoration is by hand. The following verses are included: al-Fātiḥah, al-Baqarah (1-34), Āl-ʻImrān (1-31), Ṭā Ḥā (1-47), Yā Sīn (1-24), al-Mulk (1-21), al-Ikhlāṣ, al-Falaq, al-Nās.</summary>
+            <summary>Selections from the Qur&#700;a&#772;n on a narrow, paper scroll. Lithographed rather than written, though decoration is by hand. The following verses are included: al-Fa&#772;tih&#803;ah, al-Baqarah (1-34), A&#772;l-&#699;Imra&#772;n (1-31), T&#803;a&#772; H&#803;a&#772; (1-47), Ya&#772; Si&#772;n (1-24), al-Mulk (1-21), al-Ikhla&#772;s&#803;, al-Falaq, al-Na&#772;s.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <author>
                 <name type="authority">Benjamin Franklin Library Fund</name>
               </author>
             </msItem>
             <msItem n="Leaf 1 recto">
               <locus>[Leaf 1 recto]</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -63,9 +66,9 @@
             <decoDesc>
               <decoNote>Simple illuminated rectangular panels composed of red, green, and blue triangles together.</decoNote>
               <decoNote n="Leaf 1 recto">Simple illuminated headpiece</decoNote>
-              <decoNote n="Leaf 2 recto">Illuminated name: Muḥammad</decoNote>
+              <decoNote n="Leaf 2 recto">Illuminated name: Mu&#7717;ammad</decoNote>
               <decoNote n="Leaf 3 recto">Illuminated divider</decoNote>
-              <decoNote n="Leaf 4 recto">Illuminated name: Allāh</decoNote>
+              <decoNote n="Leaf 4 recto">Illuminated name: All&#257;h</decoNote>
               <decoNote n="Leaf 5 recto">Simple illuminated finispiece</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -88,7 +91,7 @@
       <textClass>
         <keywords n="form/genre">
           <term>Scrolls (information artifacts)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Manuscripts, Arabic--20th century</term>
         </keywords>
       </textClass>

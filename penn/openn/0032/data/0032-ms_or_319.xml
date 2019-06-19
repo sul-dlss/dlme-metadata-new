@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 319: al-Qurʼān.</title>
+        <title>Description of Columbia University. MS Or 319: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 319: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 319: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 319: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 319: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13806438</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_319.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān, written in cloudbands with ten sets of dual-page illuminations and marginal medallions some of which contain short recitation notes in Persian. Several leaves of ruled but unwritten paper precede and follow the text.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n, written in cloudbands with ten sets of dual-page illuminations and marginal medallions some of which contain short recitation notes in Persian. Several leaves of ruled but unwritten paper precede and follow the text.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <name type="authority">American Type Founders Company. Typographic Library and Museum</name>
@@ -49,7 +52,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -61,21 +64,21 @@
                 <extent>6 + 303 foliated leaves + 5 : 185 x 110 (162 x 98) mm, bound to 190 x 120 mm</extent>
               </supportDesc>
               <layoutDesc>
-                <layout>17 long lines with shortened sūrah titles every recto, upper left corner. Catchwords every verso, lower left. Textblock is border ruled and page-opening frame ruled.</layout>
+                <layout>17 long lines with shortened su&#772;rah titles every recto, upper left corner. Catchwords every verso, lower left. Textblock is border ruled and page-opening frame ruled.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
               <scriptNote>Written in naskh in black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Four sets of dual page illuminations with inner borders of pink and orange flowers and outer borders of gold and blue with blue finials (f. 1v-2r, 137v-138r, 302v-303r). Six sets of simpler dual page illuminations of gold foliate marginal fill with pink and orange flower text block border (f. 2v-3r, 51v-52r, 100v-101r, 181v-182r, 221v-222r, 257v-258r). Gold and blue illuminated headpiece on second opening (f. 2v). Text written entirely on cloudbands. Textblock border-ruled in gold and blue with page-opening ruled in gold and blue. Gold roundels mark verse endings. Rubrications in red including readings, text divisions, recitation notes and short sūrah titles. Full sūrah titles in white on gold cartouche with blue end fill. Marginal foliate medallions in blue and gold hold text partition markers, short recitation notes and rukūʻ markers.</decoNote>
+              <decoNote>Four sets of dual page illuminations with inner borders of pink and orange flowers and outer borders of gold and blue with blue finials (f. 1v-2r, 137v-138r, 302v-303r). Six sets of simpler dual page illuminations of gold foliate marginal fill with pink and orange flower text block border (f. 2v-3r, 51v-52r, 100v-101r, 181v-182r, 221v-222r, 257v-258r). Gold and blue illuminated headpiece on second opening (f. 2v). Text written entirely on cloudbands. Textblock border-ruled in gold and blue with page-opening ruled in gold and blue. Gold roundels mark verse endings. Rubrications in red including readings, text divisions, recitation notes and short su&#772;rah titles. Full su&#772;rah titles in white on gold cartouche with blue end fill. Marginal foliate medallions in blue and gold hold text partition markers, short recitation notes and ruku&#772;&#699; markers.</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
               <decoNote n="2v">Dual page illumination</decoNote>
               <decoNote n="2v">Illuminated headpiece</decoNote>
               <decoNote n="3r">Dual page illumination</decoNote>
-              <decoNote n="5r">Example of polychrome rubʿ marker</decoNote>
-              <decoNote n="7r">Example of polychrome niṣf marker</decoNote>
+              <decoNote n="5r">Example of polychrome rub&#703; marker</decoNote>
+              <decoNote n="7r">Example of polychrome ni&#7779;f marker</decoNote>
               <decoNote n="51v">Dual page illumination</decoNote>
               <decoNote n="52r">Dual page illumination</decoNote>
               <decoNote n="100v">Dual page illumination</decoNote>
@@ -115,7 +118,7 @@
           <term>Manuscripts, Arabic--New York (State)--New York</term>
         </keywords>
         <keywords n="form/genre">
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
           <term>Lacquered bindings (Binding)</term>

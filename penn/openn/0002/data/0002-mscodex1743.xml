@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1743: Hādhā kitāb irshād /</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1743: Ha&#772;dha&#772; kita&#772;b irsha&#772;d /</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1743: Hādhā kitāb irshād / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1743: Hādhā kitāb irshād /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1743: Ha&#772;dha&#772; kita&#772;b irsha&#772;d / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1743: Ha&#772;dha&#772; kita&#772;b irsha&#772;d /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -30,16 +30,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/937833399</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1743.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>18th-century text on the Pillars of Islam. The basmalah at the beginning is upside down (f. 1r). One bifolium or more may be missing from the center of the gathering, where the catchword does not appear to link to the text of the following page (f. 4v-5r).</summary>
             <textLang mainLang="ara">Arabic, with colophon in Arabic and Ottoman Turkish (in Arabic script, f. 8v)</textLang>
             <msItem>
-              <title>Hādhā kitāb irshād /</title>
-              <title type="vernacular">هذا كتاب ارشاد</title>
+              <title>Ha&#772;dha&#772; kita&#772;b irsha&#772;d /</title>
+              <title type="vernacular">&#1607;&#1584;&#1575; &#1603;&#1578;&#1575;&#1576; &#1575;&#1585;&#1588;&#1575;&#1583;</title>
               <author>
-                <persName type="authority">ʻAbd al-Ḍayf Mūsá ibn Walī ibn Ḥasan</persName>
-                <persName type="vernacular">عبد الضيف موسى بن ولي بن حسن</persName>
+                <persName type="authority">&#699;Abd al-D&#803;ayf Mu&#772;sa&#769; ibn Wali&#772; ibn H&#803;asan</persName>
+                <persName type="vernacular">&#1593;&#1576;&#1583; &#1575;&#1604;&#1590;&#1610;&#1601; &#1605;&#1608;&#1587;&#1609; &#1576;&#1606; &#1608;&#1604;&#1610; &#1576;&#1606; &#1581;&#1587;&#1606;</persName>
               </author>
               <author>
                 <name type="authority">Samuel P. Orlando Fund</name>
@@ -47,7 +50,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Hādhā kitāb irshād</title>
+              <title>Ha&#772;dha&#772; kita&#772;b irsha&#772;d</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -58,7 +61,7 @@
                 </support>
                 <extent>8 leaves : 215 x 155 mm</extent>
                 <collation>
-                  <p>Paper, 8; 1⁸; [1-8], modern foliation in pencil, upper left recto.</p>
+                  <p>Paper, 8; 1&#8312;; [1-8], modern foliation in pencil, upper left recto.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>
@@ -80,7 +83,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Written in Taş Han Medresi, Tokat (Turkey), completed 9 Jumādá al-Ākhir 1171 A.H. (18 February 1758) (colophon, f. 8v).</p>
+              <p>Written in Tas&#807; Han Medresi, Tokat (Turkey), completed 9 Juma&#772;da&#769; al-A&#772;khir 1171 A.H. (18 February 1758) (colophon, f. 8v).</p>
               <origDate>A.H. 1171 (1758)</origDate>
               <origPlace>Turkey</origPlace>
             </origin>

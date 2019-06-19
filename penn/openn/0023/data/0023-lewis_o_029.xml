@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 29: Ajbīyah. al-Salām la-ki yā Maryam.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 29: Ajbi&#772;yah. al-Sala&#772;m la-ki ya&#772; Maryam.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 29: Ajbīyah. al-Salām la-ki yā Maryam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 29: Ajbīyah. al-Salām la-ki yā Maryam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 29: Ajbi&#772;yah. al-Sala&#772;m la-ki ya&#772; Maryam. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 29: Ajbi&#772;yah. al-Sala&#772;m la-ki ya&#772; Maryam.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,13 +32,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2438126</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_029.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of the Ajbīyah, a Coptic book of prayers, followed by a prayer to Mary. Nine full page illustrations; several illuminated titles.</summary>
+            <summary>Copy of the Ajbi&#772;yah, a Coptic book of prayers, followed by a prayer to Mary. Nine full page illustrations; several illuminated titles.</summary>
             <textLang mainLang="ara" otherLangs="cop">Arabic and Coptic</textLang>
             <msItem>
-              <title>Ajbīyah. al-Salām la-ki yā Maryam.</title>
-              <title type="vernacular">[أجبية]. السلام لك يا مريم</title>
+              <title>Ajbi&#772;yah. al-Sala&#772;m la-ki ya&#772; Maryam.</title>
+              <title type="vernacular">[&#1571;&#1580;&#1576;&#1610;&#1577;]. &#1575;&#1604;&#1587;&#1604;&#1575;&#1605; &#1604;&#1603; &#1610;&#1575; &#1605;&#1585;&#1610;&#1605;</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
@@ -68,19 +71,19 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[Ajabīyah].</title>
+              <title>[Ajabi&#772;yah].</title>
             </msItem>
             <msItem n="2r">
               <locus>2r</locus>
-              <title>Nusakh al-Sabaʻ al-ṣalawāt al-laylīyah wa-al-nahārīyah.</title>
+              <title>Nusakh al-Saba&#699; al-s&#803;alawa&#772;t al-layli&#772;yah wa-al-naha&#772;ri&#772;yah.</title>
             </msItem>
             <msItem n="85r">
               <locus>85r</locus>
-              <title>[Ṣalāt al-Sawāʻī].</title>
+              <title>[S&#803;ala&#772;t al-Sawa&#772;&#699;i&#772;].</title>
             </msItem>
             <msItem n="218r">
               <locus>218r</locus>
-              <title>al-Salām la-ki yā Maryam.</title>
+              <title>al-Sala&#772;m la-ki ya&#772; Maryam.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -100,7 +103,7 @@
               <scriptNote>Written in naskh in black ink; pointed, partially vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Rubrications in red. Nine full page, polychrome illustrations primarily in yellow, green, red: four crosses (f. 1v, 15v, 56v, 84v), three medallions with birds (f. 106v, 159v, 178v), one medallion with flowers (f. 227v), King David (f. 24v), Mary and Christ Child (f. 217v), Abūnā Antūniyūs (f. 257v). Illuminated headpieces and text dividers.</decoNote>
+              <decoNote>Rubrications in red. Nine full page, polychrome illustrations primarily in yellow, green, red: four crosses (f. 1v, 15v, 56v, 84v), three medallions with birds (f. 106v, 159v, 178v), one medallion with flowers (f. 227v), King David (f. 24v), Mary and Christ Child (f. 217v), Abu&#772;na&#772; Antu&#772;niyu&#772;s (f. 257v). Illuminated headpieces and text dividers.</decoNote>
               <decoNote n="Flyleaf 1 verso">Bookplate: "John Frederick Lewis"</decoNote>
               <decoNote n="1v">Illustration: Cross in frame with flowers</decoNote>
               <decoNote n="2r">Illuminated headpiece</decoNote>
@@ -136,7 +139,7 @@
               <decoNote n="225v">Illuminated initial letter</decoNote>
               <decoNote n="227v">Illustration: Circular medallion with flowers</decoNote>
               <decoNote n="228r">Illuminated headpiece</decoNote>
-              <decoNote n="257v">Illustration: Abūnā Antūnyūs</decoNote>
+              <decoNote n="257v">Illustration: Abu&#772;na&#772; Antu&#772;nyu&#772;s</decoNote>
               <decoNote n="Insert recto">Catalog entry from Carolyn Shipman tipped in</decoNote>
               <decoNote n="Flyleaf 9 recto">Bookplate: "Bateman"</decoNote>
               <decoNote n="Flyleaf 9 verso">Bookplate: "Robert Hoe"</decoNote>

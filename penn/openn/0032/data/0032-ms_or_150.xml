@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 150: Hādhā kitāb sih zabān.</title>
+        <title>Description of Columbia University. MS Or 150: Ha&#772;dha&#772; kita&#772;b sih zaba&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 150: Hādhā kitāb sih zabān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 150: Hādhā kitāb sih zabān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 150: Ha&#772;dha&#772; kita&#772;b sih zaba&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 150: Ha&#772;dha&#772; kita&#772;b sih zaba&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,17 +35,20 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616798</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_150.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Versified treatise on common Arabic grammar and Arabic and Persian vocabulary in 30 poems. Titles are in Arabic; verses are in Ottoman Turkish with the vocabulary words in Persian and Arabic.</summary>
             <textLang mainLang="ota" otherLangs="ara per">Chiefly Ottoman Turkish with Persian and Arabic vocabulary and headings in Arabic</textLang>
             <msItem>
-              <title>Hādhā kitāb sih zabān.</title>
-              <title type="vernacular">هذا کتاب سه زبان</title>
+              <title>Ha&#772;dha&#772; kita&#772;b sih zaba&#772;n.</title>
+              <title type="vernacular">&#1607;&#1584;&#1575; &#1705;&#1578;&#1575;&#1576; &#1587;&#1607; &#1586;&#1576;&#1575;&#1606;</title>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Qusṭanṭīn ibn Lūdūlf</persName>
-                <persName type="vernacular">قسطنطين بن لودولف.</persName>
+                <persName type="authority">Qust&#803;ant&#803;i&#772;n ibn Lu&#772;du&#772;lf</persName>
+                <persName type="vernacular">&#1602;&#1587;&#1591;&#1606;&#1591;&#1610;&#1606; &#1576;&#1606; &#1604;&#1608;&#1583;&#1608;&#1604;&#1601;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -54,7 +57,7 @@
             </msItem>
             <msItem n="2v">
               <locus>2v</locus>
-              <title>Hādhā kitāb sih zabān.</title>
+              <title>Ha&#772;dha&#772; kita&#772;b sih zaba&#772;n.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -88,7 +91,7 @@
               <origDate>1723</origDate>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
-            <provenance>Formerly owned by Qusṭanṭīn ibn Lūdūlf (f. 1v, f. 57v).</provenance>
+            <provenance>Formerly owned by Qust&#803;ant&#803;i&#772;n ibn Lu&#772;du&#772;lf (f. 1v, f. 57v).</provenance>
             <provenance>Another owner's seal (f. 1r). Unidentified sale (Latin/French catalog clipping).</provenance>
           </history>
         </msDesc>

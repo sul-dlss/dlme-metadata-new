@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 40: Nuzʹhat al-arvāḥ.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 40: Nuz&#697;hat al-arva&#772;h&#803;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 40: Nuzʹhat al-arvāḥ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 40: Nuzʹhat al-arvāḥ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 40: Nuz&#697;hat al-arva&#772;h&#803;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 40: Nuz&#697;hat al-arva&#772;h&#803;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -34,29 +34,32 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441507</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_040.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Copy of a treatise on Sufi doctrine with a number of replacements pages written in another hand.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Nuzʹhat al-arvāḥ.</title>
-              <title type="vernacular">نزهة الارواح</title>
+              <title>Nuz&#697;hat al-arva&#772;h&#803;.</title>
+              <title type="vernacular">&#1606;&#1586;&#1607;&#1577; &#1575;&#1604;&#1575;&#1585;&#1608;&#1575;&#1581;</title>
               <author>
-                <persName type="authority">Mīr Ḥusaynī Haravī, Ḥusayn ibn ʻĀlim, 1272 or 1273-approximately 1317</persName>
-                <persName type="vernacular">مير حسينى هروى، حسين بن عالم،</persName>
+                <persName type="authority">Mi&#772;r H&#803;usayni&#772; Haravi&#772;, H&#803;usayn ibn &#699;A&#772;lim, 1272 or 1273-approximately 1317</persName>
+                <persName type="vernacular">&#1605;&#1610;&#1585; &#1581;&#1587;&#1610;&#1606;&#1609; &#1607;&#1585;&#1608;&#1609;&#1548; &#1581;&#1587;&#1610;&#1606; &#1576;&#1606; &#1593;&#1575;&#1604;&#1605;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Khān Muḥammad Maḥmūd ibn Ḥusayn ibn Muḥammad</persName>
-                <persName type="vernacular">خان محمد محمود بن حسين بن محمد.</persName>
+                <persName type="authority">Kha&#772;n Muh&#803;ammad Mah&#803;mu&#772;d ibn H&#803;usayn ibn Muh&#803;ammad</persName>
+                <persName type="vernacular">&#1582;&#1575;&#1606; &#1605;&#1581;&#1605;&#1583; &#1605;&#1581;&#1605;&#1608;&#1583; &#1576;&#1606; &#1581;&#1587;&#1610;&#1606; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Shīrāzī, Muḥammad Bāqir</persName>
-                <persName type="vernacular">شيرازى، محمد باقر.</persName>
+                <persName type="authority">Shi&#772;ra&#772;zi&#772;, Muh&#803;ammad Ba&#772;qir</persName>
+                <persName type="vernacular">&#1588;&#1610;&#1585;&#1575;&#1586;&#1609;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1575;&#1602;&#1585;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -73,7 +76,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Nuzʹhat al-arvāḥ.</title>
+              <title>Nuz&#697;hat al-arva&#772;h&#803;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -100,7 +103,7 @@
               <decoNote n="Flyleaf 4 verso">Owner's notations: "Persian. The Delight of Souls--A Treatise on the Passions and particularly Love. But it appears the work of a Soofee"</decoNote>
               <decoNote n="1r">Owner's notations: "Henry George Keene March 1803"</decoNote>
               <decoNote n="1r">Owner's stamp: "Henry George Keene, 1803"</decoNote>
-              <decoNote n="110v">Owner's notations: Muḥammad Bāqir valad-i Qāz̤i valad-i Shams al-Dīn Muḥammad Shīrāzī, purchased in Aḥmadankar (probably Ahmednagar) in the year 990 A.H</decoNote>
+              <decoNote n="110v">Owner's notations: Muh&#803;ammad Ba&#772;qir valad-i Qa&#772;z&#804;i valad-i Shams al-Di&#772;n Muh&#803;ammad Shi&#772;ra&#772;zi&#772;, purchased in Ah&#803;madankar (probably Ahmednagar) in the year 990 A.H</decoNote>
               <decoNote n="110v">Notations</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -111,13 +114,13 @@
           </physDesc>
           <history>
             <origin>
-              <p>Item is undated, but copied before 1582, when it was sold. Copied by Khān Muḥammad Maḥmūd ibn Ḥusayn ibn Muḥammad (f. 110v), though he may be the copyist for the replacement pages only.</p>
+              <p>Item is undated, but copied before 1582, when it was sold. Copied by Kha&#772;n Muh&#803;ammad Mah&#803;mu&#772;d ibn H&#803;usayn ibn Muh&#803;ammad (f. 110v), though he may be the copyist for the replacement pages only.</p>
               <origDate>1500? to 1582</origDate>
               <origPlace>India?</origPlace>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>
-            <provenance>Formerly owned by Muḥammad Bāqir valad-i Qāz̤i valad-i Shams al-Dīn Muḥammad Shīrāzī and purchased in Aḥmadankar (probably Ahmednagar) in the year 990 A.H (1582) (f. 110v).</provenance>
-            <provenance>Sold by Mīr Muḥammad for eight rupees (undated note f. 110v).</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad Ba&#772;qir valad-i Qa&#772;z&#804;i valad-i Shams al-Di&#772;n Muh&#803;ammad Shi&#772;ra&#772;zi&#772; and purchased in Ah&#803;madankar (probably Ahmednagar) in the year 990 A.H (1582) (f. 110v).</provenance>
+            <provenance>Sold by Mi&#772;r Muh&#803;ammad for eight rupees (undated note f. 110v).</provenance>
             <provenance>Formerly owned by Henry George Keene (signature on front flyleaf recto with "No. 77" and Sid[ney] Sus[sex] Coll[ege]". The same signature, dated March 1803 along with his stamp also appear (f. 1r).</provenance>
             <provenance>Formerly owned by John Frederick Lewis (armorial bookplate inside front cover).</provenance>
           </history>

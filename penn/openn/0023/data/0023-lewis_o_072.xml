@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 72: Gulistān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 72: Gulista&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 72: Gulistān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 72: Gulistān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 72: Gulista&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 72: Gulista&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -33,24 +33,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450051</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_072.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Small, neatly written, gilded copy with embroidered cover and carrying case.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Gulistān.</title>
-              <title type="vernacular">[گلستان]</title>
+              <title>Gulista&#772;n.</title>
+              <title type="vernacular">[&#1711;&#1604;&#1587;&#1578;&#1575;&#1606;]</title>
               <author>
-                <persName type="authority">Saʻdī</persName>
-                <persName type="vernacular">سعدى</persName>
+                <persName type="authority">Sa&#699;di&#772;</persName>
+                <persName type="vernacular">&#1587;&#1593;&#1583;&#1609;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>donor</resp>
-                <persName type="authority">Sālār al-Dawlah, Abū al-Fatḥ Mīrzā, 1880 or 1881-1959</persName>
-                <persName type="vernacular">سالار الدوله، ابو الفتح ميرزا،</persName>
+                <persName type="authority">Sa&#772;la&#772;r al-Dawlah, Abu&#772; al-Fath&#803; Mi&#772;rza&#772;, 1880 or 1881-1959</persName>
+                <persName type="vernacular">&#1587;&#1575;&#1604;&#1575;&#1585; &#1575;&#1604;&#1583;&#1608;&#1604;&#1607;&#1548; &#1575;&#1576;&#1608; &#1575;&#1604;&#1601;&#1578;&#1581; &#1605;&#1610;&#1585;&#1586;&#1575;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -71,7 +74,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[Gulistān].</title>
+              <title>[Gulista&#772;n].</title>
             </msItem>
             <msItem n="Loose leaf 1 recto">
               <locus>Loose leaf 1 recto</locus>
@@ -104,7 +107,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq shikastah in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq shikastah in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated headpiece in gold, red, blue, green on first opening (f. 1v). The entire text written on cloudbands; textblock double border-ruled in gold; page-opening ruled in black; rubrications in red.</decoNote>
@@ -128,7 +131,7 @@
               <origPlace>Iran?</origPlace>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>
-            <provenance>Gift of Abū al-Fatḥ Mīrzā, Sālār al-Dawlah, third son of Muẓaffar al-Dīn Shāh to Oliver Henry Perkins, April 11, 1901 (inscription last flyleaf recto and notes laid in).</provenance>
+            <provenance>Gift of Abu&#772; al-Fath&#803; Mi&#772;rza&#772;, Sa&#772;la&#772;r al-Dawlah, third son of Muz&#803;affar al-Di&#772;n Sha&#772;h to Oliver Henry Perkins, April 11, 1901 (inscription last flyleaf recto and notes laid in).</provenance>
             <provenance>Formerly owned by Oliver Henry Perkins (bookplate inside front cover).</provenance>
             <provenance>Sold in Perkins' sale at Anderson Galleries on March 23 and 24, 1926 (catalog entry laid in).</provenance>
             <provenance>Formerly owned by John Frederick Lewis.</provenance>

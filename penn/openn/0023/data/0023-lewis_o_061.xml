@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 61: Pand-i ʻAṭṭār.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 61: Pand-i &#699;At&#803;t&#803;a&#772;r.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 61: Pand-i ʻAṭṭār. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 61: Pand-i ʻAṭṭār.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 61: Pand-i &#699;At&#803;t&#803;a&#772;r. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 61: Pand-i &#699;At&#803;t&#803;a&#772;r.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -33,24 +33,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441508</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_061.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Clear copy of a poem on moral precepts and advice. Gold rulings throughout with illuminated headpiece and finispiece.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Pand-i ʻAṭṭār.</title>
-              <title type="vernacular">پند عطار</title>
+              <title>Pand-i &#699;At&#803;t&#803;a&#772;r.</title>
+              <title type="vernacular">&#1662;&#1606;&#1583; &#1593;&#1591;&#1575;&#1585;</title>
               <author>
-                <persName type="authority">ʻAṭṭār, Farīd al-Dīn, -approximately 1230</persName>
-                <persName type="vernacular">عطار، فرىد الدين،</persName>
+                <persName type="authority">&#699;At&#803;t&#803;a&#772;r, Fari&#772;d al-Di&#772;n, -approximately 1230</persName>
+                <persName type="vernacular">&#1593;&#1591;&#1575;&#1585;&#1548; &#1601;&#1585;&#1609;&#1583; &#1575;&#1604;&#1583;&#1610;&#1606;&#1548;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Rushdī, Aḥmad</persName>
-                <persName type="vernacular">رشدى، احمد.</persName>
+                <persName type="authority">Rushdi&#772;, Ah&#803;mad</persName>
+                <persName type="vernacular">&#1585;&#1588;&#1583;&#1609;&#1548; &#1575;&#1581;&#1605;&#1583;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -63,7 +66,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Pand-i ʻAṭṭār.</title>
+              <title>Pand-i &#699;At&#803;t&#803;a&#772;r.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -80,7 +83,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Dual page illuminated floriate borders of gold and red with illuminated headpiece in gold, pink, blue and red (f. 1v-2r). Illuminated finispiece in silver, gold, red, pink with floral motifs (f. 40v). Gold circular medallion, as if for a colophon or dedication (f. 41r). All pages border ruled in gold and green double rules with gold double rules between the columns and around each title. Page-openings ruled in gold.</decoNote>
@@ -97,7 +100,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Item is dated Shaʻbān 1235 A.H. and was copied by Aḥmad Rushdī, a student of Muḥammad Ḥāmid</p>
+              <p>Item is dated Sha&#699;ba&#772;n 1235 A.H. and was copied by Ah&#803;mad Rushdi&#772;, a student of Muh&#803;ammad H&#803;a&#772;mid</p>
               <origDate>1820</origDate>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 310: Kitāb Talkhīṣ al-Miftāḥ ...</title>
+        <title>Description of Columbia University. MS Or 310: Kita&#772;b Talkhi&#772;s&#803; al-Mifta&#772;h&#803; ...</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 310: Kitāb Talkhīṣ al-Miftāḥ ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 310: Kitāb Talkhīṣ al-Miftāḥ .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 310: Kita&#772;b Talkhi&#772;s&#803; al-Mifta&#772;h&#803; ... are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 310: Kita&#772;b Talkhi&#772;s&#803; al-Mifta&#772;h&#803; .... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,28 +35,31 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13718689</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_310.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Set of 4 works copied together two in Arabic, two in Persian. The handwriting changes on f. 29v, near the beginning of the third work.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic and Persian</textLang>
             <msItem>
-              <title>Kitāb Talkhīṣ al-Miftāḥ ...</title>
-              <title type="vernacular">كتاب تلخيص المفتاح</title>
+              <title>Kita&#772;b Talkhi&#772;s&#803; al-Mifta&#772;h&#803; ...</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1578;&#1604;&#1582;&#1610;&#1589; &#1575;&#1604;&#1605;&#1601;&#1578;&#1575;&#1581;</title>
               <author>
-                <persName type="authority">Kāshī, Jamshīd ibn Masʻūd, -approximately 1436</persName>
-                <persName type="vernacular">كاشي، جمشيد بن مسعود،</persName>
+                <persName type="authority">Ka&#772;shi&#772;, Jamshi&#772;d ibn Mas&#699;u&#772;d, -approximately 1436</persName>
+                <persName type="vernacular">&#1603;&#1575;&#1588;&#1610;&#1548; &#1580;&#1605;&#1588;&#1610;&#1583; &#1576;&#1606; &#1605;&#1587;&#1593;&#1608;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ījī, ʻAḍud al-Dīn ʻAbd al-Raḥmān ibn Aḥmad, -1355?</persName>
-                <persName type="vernacular">ايجي، عضد الدين عبد الرحمن بن احمد،</persName>
+                <persName type="authority">I&#772;ji&#772;, &#699;Ad&#803;ud al-Di&#772;n &#699;Abd al-Rah&#803;ma&#772;n ibn Ah&#803;mad, -1355?</persName>
+                <persName type="vernacular">&#1575;&#1610;&#1580;&#1610;&#1548; &#1593;&#1590;&#1583; &#1575;&#1604;&#1583;&#1610;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1585;&#1581;&#1605;&#1606; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475</persName>
-                <persName type="vernacular">قوشجي، علي بن محمد،</persName>
+                <persName type="authority">Qu&#772;shji&#772;, &#699;Ali&#772; ibn Muh&#803;ammad, -1474 or 1475</persName>
+                <persName type="vernacular">&#1602;&#1608;&#1588;&#1580;&#1610;&#1548; &#1593;&#1604;&#1610; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Qūshjī, ʻAlī ibn Muḥammad, -1474 or 1475</persName>
-                <persName type="vernacular">قوشجي، علي بن محمد،</persName>
+                <persName type="authority">Qu&#772;shji&#772;, &#699;Ali&#772; ibn Muh&#803;ammad, -1474 or 1475</persName>
+                <persName type="vernacular">&#1602;&#1608;&#1588;&#1580;&#1610;&#1548; &#1593;&#1604;&#1610; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,19 +68,19 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Talkhīṣ al-Miftāḥ</title>
+              <title>Talkh&#299;&#7779; al-Mift&#257;&#7717;</title>
             </msItem>
             <msItem n="26v">
               <locus>26v</locus>
-              <title>al-Risālah al-ʻAḍudīyah.</title>
+              <title>al-Risa&#772;lah al-&#699;Ad&#803;udi&#772;yah.</title>
             </msItem>
             <msItem n="27v">
               <locus>27v</locus>
-              <title>al-Risālah fī ʻilm al-hayʼah</title>
+              <title>al-Risa&#772;lah fi&#772; &#699;ilm al-hay&#700;ah</title>
             </msItem>
             <msItem n="66v">
               <locus>66v</locus>
-              <title>Risālat al-ḥisāb</title>
+              <title>Risa&#772;lat al-h&#803;isa&#772;b</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -93,7 +96,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh and nastaʻlīq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in naskh and nasta&#699;li&#772;q in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red; diagrams and tables in red and black.</decoNote>
@@ -170,7 +173,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>First work dated 9 Muḥarram 982 AH (f. 26r); second work undated; third work dated 982 AH; fourth work dated 985 AH (f. 100r).</p>
+              <p>First work dated 9 Muh&#803;arram 982 AH (f. 26r); second work undated; third work dated 982 AH; fourth work dated 985 AH (f. 100r).</p>
               <origDate>1574-1577</origDate>
               <origPlace>Iran?</origPlace>
             </origin>

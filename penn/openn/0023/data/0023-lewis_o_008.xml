@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 08: al-Qurʼān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 08: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 08: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 08: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 08: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 08: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,13 +32,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450054</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_008.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān written in a small, clear hand on paper that has been remounted; one page was recopied at a later date (f. 52).</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n written in a small, clear hand on paper that has been remounted; one page was recopied at a later date (f. 52).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis collection of Oriental Manuscripts</name>
               </author>
@@ -53,7 +56,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -73,14 +76,14 @@
               <scriptNote>Written in small, neat naskh in black ink, pointed and vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Dual page illuminated first opening in gold, blue and pink (f. 1v-2r). Textblock is border-ruled in gold, black and red. Gold roundels lined in red mark verse endings. Sūrah titles in red and black on a gold, rectangular background. Rubrications in red.</decoNote>
+              <decoNote>Dual page illuminated first opening in gold, blue and pink (f. 1v-2r). Textblock is border-ruled in gold, black and red. Gold roundels lined in red mark verse endings. Su&#772;rah titles in red and black on a gold, rectangular background. Rubrications in red.</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
-              <decoNote n="10r">Example of sūrah title</decoNote>
+              <decoNote n="10r">Example of s&#363;rah title</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>
-                <p>Bound in black leather over pasteboard (Type III). Embossed paper onlays: a central medallion with four pendants, two on the vertical axis and two on the horizontal, those on the horizontal axis are embossed with text. Dark blue pastedowns with design of yellow and pink flowers with lines and dots. Carrying case in black and red leather with gold tooled frame and flap. The flap is inscribed, "[illegible] khaṭṭ nafīs daqīq". Case flap is detached.</p>
+                <p>Bound in black leather over pasteboard (Type III). Embossed paper onlays: a central medallion with four pendants, two on the vertical axis and two on the horizontal, those on the horizontal axis are embossed with text. Dark blue pastedowns with design of yellow and pink flowers with lines and dots. Carrying case in black and red leather with gold tooled frame and flap. The flap is inscribed, "[illegible] khat&#803;t&#803; nafi&#772;s daqi&#772;q". Case flap is detached.</p>
               </binding>
             </bindingDesc>
           </physDesc>
@@ -104,7 +107,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Islamic bindings (Binding)</term>
           <term>Full covers</term>
         </keywords>

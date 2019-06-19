@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 469: Sefer ha-seder ha-ḳaṭan ... etc.</title>
+        <title>Description of University of Pennsylvania LJS 469: Sefer ha-seder ha-k&#803;at&#803;an ... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5452498</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs469.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copies of letters of the Finzi family (f. 1r-12v), including reference to Abraham Cohen or Abraham Arie ben Benjamin Portaleone, possibly also known as Abraham ben David Portaleone, a famous physician of Mantua; homiletical comments on the Biblical story of Joseph (f. 13r-14v); and an anonymous translation from Arabic into Hebrew of an abridgment of Avicenna's Qānūn fī al-ṭibb (Canon), which begins with a list of human limbs and their qualities and proceeds to the middle of the third chapter (f. 15r-19v).</summary>
+            <summary>Copies of letters of the Finzi family (f. 1r-12v), including reference to Abraham Cohen or Abraham Arie ben Benjamin Portaleone, possibly also known as Abraham ben David Portaleone, a famous physician of Mantua; homiletical comments on the Biblical story of Joseph (f. 13r-14v); and an anonymous translation from Arabic into Hebrew of an abridgment of Avicenna's Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb (Canon), which begins with a list of human limbs and their qualities and proceeds to the middle of the third chapter (f. 15r-19v).</summary>
             <textLang mainLang="heb">Hebrew</textLang>
             <msItem>
-              <title>Sefer ha-seder ha-ḳaṭan ... etc.</title>
+              <title>Sefer ha-seder ha-k&#803;at&#803;an ... etc.</title>
               <author>Avicenna, 980-1037</author>
               <respStmt>
                 <resp>former owner</resp>

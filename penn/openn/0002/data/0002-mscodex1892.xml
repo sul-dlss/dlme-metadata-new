@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -29,9 +29,12 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578322</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1892.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>An abridged copy of a history of several Arab dynasties, ending with the Almohads. This volume contains three partial chapters: the end of an abridgement of chapter 1, chapter 2, and the beginning of chapter 3. The text begins and ends abruptly. Chapter 2 (f. 47v-90r) is about the Prophet Muhammad. Chapter 3 starts with the first four Caliphs, continues through the Umayyads (f. 103r-120v), tours briefly through the Abbasid rulers (f. 120v-142v), mentions the Fatimids (f. 143v), then follows up with brief accounts of the Almohad rulers through al-Ḥasan al-Saʻīd ibn Yaʻqūb al-Manṣūr (d. 646 A.H = 1249).</summary>
+            <summary>An abridged copy of a history of several Arab dynasties, ending with the Almohads. This volume contains three partial chapters: the end of an abridgement of chapter 1, chapter 2, and the beginning of chapter 3. The text begins and ends abruptly. Chapter 2 (f. 47v-90r) is about the Prophet Muhammad. Chapter 3 starts with the first four Caliphs, continues through the Umayyads (f. 103r-120v), tours briefly through the Abbasid rulers (f. 120v-142v), mentions the Fatimids (f. 143v), then follows up with brief accounts of the Almohad rulers through al-H&#803;asan al-Sa&#699;i&#772;d ibn Ya&#699;qu&#772;b al-Mans&#803;u&#772;r (d. 646 A.H = 1249).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
               <title>Abridged history of Arab dynasties.</title>

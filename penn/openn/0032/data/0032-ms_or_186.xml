@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 186: al-Qurʼān.</title>
+        <title>Description of Columbia University. MS Or 186: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 186: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 186: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 186: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 186: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,17 +36,20 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13619032</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_186.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Small, complete copy of the Qurʼān on gold sprinkled pages.</summary>
+            <summary>Small, complete copy of the Qur&#700;a&#772;n on gold sprinkled pages.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">القرآن</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Iṣfahānī, Muḥammad</persName>
-                <persName type="vernacular">اصفهاني، محمد.</persName>
+                <persName type="authority">Is&#803;faha&#772;ni&#772;, Muh&#803;ammad</persName>
+                <persName type="vernacular">&#1575;&#1589;&#1601;&#1607;&#1575;&#1606;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -55,7 +58,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Qurʾān</title>
+              <title>al-Qur&#702;a&#772;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -75,7 +78,7 @@
               <scriptNote>Written in naskh in black ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Double page illuminated opening in gold, blue, pink, orange, green with text on cloudbands; margin fill of yellow and orange flowers with gold leaves. Textblock of the rest of the pages is gold-sprinkled with gold rules between each line and around the outside. Page opening is framed in a gold rule. Gold roundels mark verse endings. Sūrah headings and text divisions written in gold ink. Readings and some marginal comments in red.</decoNote>
+              <decoNote>Double page illuminated opening in gold, blue, pink, orange, green with text on cloudbands; margin fill of yellow and orange flowers with gold leaves. Textblock of the rest of the pages is gold-sprinkled with gold rules between each line and around the outside. Page opening is framed in a gold rule. Gold roundels mark verse endings. Su&#772;rah headings and text divisions written in gold ink. Readings and some marginal comments in red.</decoNote>
               <decoNote n="Flyleaf 1 recto">Library note in English</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
@@ -88,7 +91,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on 4 Rajab 1091 by Muḥammad al-Isfahānī (f. 240r), possibly in Iran.</p>
+              <p>Copy completed on 4 Rajab 1091 by Muh&#803;ammad al-Isfaha&#772;ni&#772; (f. 240r), possibly in Iran.</p>
               <origDate>1680</origDate>
               <origPlace>Iran?</origPlace>
             </origin>
@@ -105,7 +108,7 @@
         </keywords>
         <keywords n="form/genre">
           <term>Codices</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Illuminations</term>
           <term>Full covers</term>
           <term>Trough-marbled paper</term>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 222: al-Qurʼān.</title>
+        <title>Description of Columbia University. MS Or 222: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 222: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 222: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 222: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 222: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,17 +36,20 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13673604</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_222.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān with interlinear Persian translation.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n with interlinear Persian translation.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic with Persian translation and marginal notes</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">القرآن</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;</title>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Iṣfahānī, Muḥammad Muḥsin</persName>
-                <persName type="vernacular">اصفهاني، محمد محسن،</persName>
+                <persName type="authority">Is&#803;faha&#772;ni&#772;, Muh&#803;ammad Muh&#803;sin</persName>
+                <persName type="vernacular">&#1575;&#1589;&#1601;&#1607;&#1575;&#1606;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1605;&#1581;&#1587;&#1606;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -55,7 +58,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>al-Qurʼān.</title>
+              <title>al-Qur&#700;a&#772;n.</title>
             </msItem>
             <msItem n="392r">
               <locus>392r</locus>
@@ -69,144 +72,144 @@
                   <p>non-European laid paper</p>
                 </support>
                 <extent>iv, 392, iii leaves : 242 x 152 (163 x 93) mm, bound to 248 x 160 mm</extent>
-                <foliation>Modern foliation added in pencil, upper left recto; catchwords every verso, lower left; sūrah title in red every recto, upper left.</foliation>
+                <foliation>Modern foliation added in pencil, upper left recto; catchwords every verso, lower left; su&#772;rah title in red every recto, upper left.</foliation>
               </supportDesc>
               <layoutDesc>
                 <layout>22 gold-ruled lines alternating full and half height with Arabic in the full height and Persian in the half-height. Central line of each page in gold display script.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink; pointed, vocalized with translation in nastaʻlīq in red ink; pointed. Central line of each page in muḥaqqaq in gold ink; pointed, vocalized.</scriptNote>
+              <scriptNote>Written in naskh in black ink; pointed, vocalized with translation in nasta&#699;li&#772;q in red ink; pointed. Central line of each page in muh&#803;aqqaq in gold ink; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Double-page polychrome (chiefly blue, pink, red) and gold illuminated opening (f. 1v-2r). Illuminated sūrah headings in red ink on gold cartouche framed in many different polychrome patterns; marginal text division markers in gold pointed medallion shape with a blue finial surrounded by bright, multi-colored flames. Verse endings marked by four petal rosette with a green center, red and blue highlights. Textblock border-ruled in black, gold, blue; page-opening framed in a thin, gold rule. Lines of text are ruled in gold with the first letters of each line, and the central line of the page written in gold. Readings in red.</decoNote>
+              <decoNote>Double-page polychrome (chiefly blue, pink, red) and gold illuminated opening (f. 1v-2r). Illuminated su&#772;rah headings in red ink on gold cartouche framed in many different polychrome patterns; marginal text division markers in gold pointed medallion shape with a blue finial surrounded by bright, multi-colored flames. Verse endings marked by four petal rosette with a green center, red and blue highlights. Textblock border-ruled in black, gold, blue; page-opening framed in a thin, gold rule. Lines of text are ruled in gold with the first letters of each line, and the central line of the page written in gold. Readings in red.</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
               <decoNote n="5r">Example of polychrome text division marker</decoNote>
               <decoNote n="7v">Polychrome text division marker</decoNote>
-              <decoNote n="31r">Polychrome sūrah heading</decoNote>
-              <decoNote n="48r">Sūrah heading</decoNote>
-              <decoNote n="65v">Sūrah heading</decoNote>
-              <decoNote n="79r">Sūrah heading</decoNote>
+              <decoNote n="31r">Polychrome s&#363;rah heading</decoNote>
+              <decoNote n="48r">S&#363;rah heading</decoNote>
+              <decoNote n="65v">S&#363;rah heading</decoNote>
+              <decoNote n="79r">S&#363;rah heading</decoNote>
               <decoNote n="93r">Illuminated fill</decoNote>
-              <decoNote n="93v">Sūrah heading</decoNote>
-              <decoNote n="109r">Sūrah heading</decoNote>
-              <decoNote n="115v">Sūrah heading</decoNote>
-              <decoNote n="127v">Sūrah heading</decoNote>
-              <decoNote n="135v">Sūrah heading</decoNote>
-              <decoNote n="144v">Sūrah heading</decoNote>
-              <decoNote n="152v">Sūrah heading</decoNote>
-              <decoNote n="156v">Sūrah heading</decoNote>
-              <decoNote n="160v">Sūrah heading</decoNote>
-              <decoNote n="164v">Sūrah heading</decoNote>
-              <decoNote n="173v">Sūrah heading</decoNote>
-              <decoNote n="181r">Sūrah heading</decoNote>
-              <decoNote n="188v">Sūrah heading</decoNote>
-              <decoNote n="193v">Sūrah heading</decoNote>
-              <decoNote n="200r">Sūrah heading</decoNote>
-              <decoNote n="206r">Sūrah heading</decoNote>
-              <decoNote n="213r">Sūrah heading</decoNote>
-              <decoNote n="218r">Sūrah heading</decoNote>
-              <decoNote n="224r">Sūrah heading</decoNote>
-              <decoNote n="228v">Sūrah heading</decoNote>
-              <decoNote n="235v">Sūrah heading</decoNote>
-              <decoNote n="241r">Sūrah heading</decoNote>
-              <decoNote n="241v">Sūrah heading</decoNote>
-              <decoNote n="248v">Sūrah heading</decoNote>
-              <decoNote n="253v">Sūrah heading</decoNote>
+              <decoNote n="93v">S&#363;rah heading</decoNote>
+              <decoNote n="109r">S&#363;rah heading</decoNote>
+              <decoNote n="115v">S&#363;rah heading</decoNote>
+              <decoNote n="127v">S&#363;rah heading</decoNote>
+              <decoNote n="135v">S&#363;rah heading</decoNote>
+              <decoNote n="144v">S&#363;rah heading</decoNote>
+              <decoNote n="152v">S&#363;rah heading</decoNote>
+              <decoNote n="156v">S&#363;rah heading</decoNote>
+              <decoNote n="160v">S&#363;rah heading</decoNote>
+              <decoNote n="164v">S&#363;rah heading</decoNote>
+              <decoNote n="173v">S&#363;rah heading</decoNote>
+              <decoNote n="181r">S&#363;rah heading</decoNote>
+              <decoNote n="188v">S&#363;rah heading</decoNote>
+              <decoNote n="193v">S&#363;rah heading</decoNote>
+              <decoNote n="200r">S&#363;rah heading</decoNote>
+              <decoNote n="206r">S&#363;rah heading</decoNote>
+              <decoNote n="213r">S&#363;rah heading</decoNote>
+              <decoNote n="218r">S&#363;rah heading</decoNote>
+              <decoNote n="224r">S&#363;rah heading</decoNote>
+              <decoNote n="228v">S&#363;rah heading</decoNote>
+              <decoNote n="235v">S&#363;rah heading</decoNote>
+              <decoNote n="241r">S&#363;rah heading</decoNote>
+              <decoNote n="241v">S&#363;rah heading</decoNote>
+              <decoNote n="248v">S&#363;rah heading</decoNote>
+              <decoNote n="253v">S&#363;rah heading</decoNote>
               <decoNote n="257r">Illuminated fill</decoNote>
-              <decoNote n="257v">Sūrah heading</decoNote>
-              <decoNote n="260r">Sūrah heading</decoNote>
-              <decoNote n="262r">Sūrah heading</decoNote>
-              <decoNote n="269r">Sūrah heading</decoNote>
-              <decoNote n="273v">Sūrah heading</decoNote>
-              <decoNote n="277r">Sūrah heading</decoNote>
-              <decoNote n="281r">Sūrah heading</decoNote>
-              <decoNote n="285v">Sūrah heading</decoNote>
-              <decoNote n="289v">Sūrah heading</decoNote>
-              <decoNote n="295r">Sūrah heading</decoNote>
-              <decoNote n="301r">Sūrah heading</decoNote>
+              <decoNote n="257v">S&#363;rah heading</decoNote>
+              <decoNote n="260r">S&#363;rah heading</decoNote>
+              <decoNote n="262r">S&#363;rah heading</decoNote>
+              <decoNote n="269r">S&#363;rah heading</decoNote>
+              <decoNote n="273v">S&#363;rah heading</decoNote>
+              <decoNote n="277r">S&#363;rah heading</decoNote>
+              <decoNote n="281r">S&#363;rah heading</decoNote>
+              <decoNote n="285v">S&#363;rah heading</decoNote>
+              <decoNote n="289v">S&#363;rah heading</decoNote>
+              <decoNote n="295r">S&#363;rah heading</decoNote>
+              <decoNote n="301r">S&#363;rah heading</decoNote>
               <decoNote n="304v">Illuminated fill</decoNote>
-              <decoNote n="305r">Sūrah heading</decoNote>
-              <decoNote n="309r">Sūrah heading</decoNote>
-              <decoNote n="313v">Sūrah heading</decoNote>
+              <decoNote n="305r">S&#363;rah heading</decoNote>
+              <decoNote n="309r">S&#363;rah heading</decoNote>
+              <decoNote n="313v">S&#363;rah heading</decoNote>
               <decoNote n="315r">Illuminated fill</decoNote>
-              <decoNote n="315v">Sūrah heading</decoNote>
-              <decoNote n="318r">Sūrah heading</decoNote>
-              <decoNote n="321v">Sūrah heading</decoNote>
-              <decoNote n="324v">Sūrah heading</decoNote>
-              <decoNote n="327v">Sūrah heading</decoNote>
-              <decoNote n="329r">Sūrah heading</decoNote>
-              <decoNote n="331r">Sūrah heading</decoNote>
+              <decoNote n="315v">S&#363;rah heading</decoNote>
+              <decoNote n="318r">S&#363;rah heading</decoNote>
+              <decoNote n="321v">S&#363;rah heading</decoNote>
+              <decoNote n="324v">S&#363;rah heading</decoNote>
+              <decoNote n="327v">S&#363;rah heading</decoNote>
+              <decoNote n="329r">S&#363;rah heading</decoNote>
+              <decoNote n="331r">S&#363;rah heading</decoNote>
               <decoNote n="333r">Illuminated fill</decoNote>
-              <decoNote n="333r">Sūrah heading</decoNote>
-              <decoNote n="335r">Sūrah heading</decoNote>
-              <decoNote n="336v">Sūrah heading</decoNote>
-              <decoNote n="338v">Sūrah heading</decoNote>
-              <decoNote n="341r">Sūrah heading</decoNote>
-              <decoNote n="343r">Sūrah heading</decoNote>
+              <decoNote n="333r">S&#363;rah heading</decoNote>
+              <decoNote n="335r">S&#363;rah heading</decoNote>
+              <decoNote n="336v">S&#363;rah heading</decoNote>
+              <decoNote n="338v">S&#363;rah heading</decoNote>
+              <decoNote n="341r">S&#363;rah heading</decoNote>
+              <decoNote n="343r">S&#363;rah heading</decoNote>
               <decoNote n="345v">Illuminated divider</decoNote>
-              <decoNote n="346r">Sūrah heading</decoNote>
-              <decoNote n="348v">Sūrah heading</decoNote>
-              <decoNote n="350v">Sūrah heading</decoNote>
-              <decoNote n="352v">Sūrah heading</decoNote>
-              <decoNote n="354r">Sūrah heading</decoNote>
-              <decoNote n="355r">Sūrah heading</decoNote>
-              <decoNote n="356r">Sūrah heading</decoNote>
-              <decoNote n="357r">Sūrah heading</decoNote>
-              <decoNote n="359r">Sūrah heading</decoNote>
-              <decoNote n="360v">Sūrah heading</decoNote>
-              <decoNote n="362r">Sūrah heading</decoNote>
-              <decoNote n="364r">Sūrah heading</decoNote>
-              <decoNote n="365v">Sūrah heading</decoNote>
-              <decoNote n="366v">Sūrah heading</decoNote>
-              <decoNote n="368r">Sūrah heading</decoNote>
-              <decoNote n="369r">Sūrah heading</decoNote>
-              <decoNote n="370v">Sūrah heading</decoNote>
-              <decoNote n="372r">Sūrah heading</decoNote>
-              <decoNote n="373r">Sūrah heading</decoNote>
-              <decoNote n="374r">Sūrah heading</decoNote>
-              <decoNote n="375r">Sūrah heading</decoNote>
-              <decoNote n="376r">Sūrah heading</decoNote>
+              <decoNote n="346r">S&#363;rah heading</decoNote>
+              <decoNote n="348v">S&#363;rah heading</decoNote>
+              <decoNote n="350v">S&#363;rah heading</decoNote>
+              <decoNote n="352v">S&#363;rah heading</decoNote>
+              <decoNote n="354r">S&#363;rah heading</decoNote>
+              <decoNote n="355r">S&#363;rah heading</decoNote>
+              <decoNote n="356r">S&#363;rah heading</decoNote>
+              <decoNote n="357r">S&#363;rah heading</decoNote>
+              <decoNote n="359r">S&#363;rah heading</decoNote>
+              <decoNote n="360v">S&#363;rah heading</decoNote>
+              <decoNote n="362r">S&#363;rah heading</decoNote>
+              <decoNote n="364r">S&#363;rah heading</decoNote>
+              <decoNote n="365v">S&#363;rah heading</decoNote>
+              <decoNote n="366v">S&#363;rah heading</decoNote>
+              <decoNote n="368r">S&#363;rah heading</decoNote>
+              <decoNote n="369r">S&#363;rah heading</decoNote>
+              <decoNote n="370v">S&#363;rah heading</decoNote>
+              <decoNote n="372r">S&#363;rah heading</decoNote>
+              <decoNote n="373r">S&#363;rah heading</decoNote>
+              <decoNote n="374r">S&#363;rah heading</decoNote>
+              <decoNote n="375r">S&#363;rah heading</decoNote>
+              <decoNote n="376r">S&#363;rah heading</decoNote>
               <decoNote n="377r">Illuminated fill</decoNote>
-              <decoNote n="377v">Sūrah heading</decoNote>
+              <decoNote n="377v">S&#363;rah heading</decoNote>
               <decoNote n="378r">Illuminated fill</decoNote>
-              <decoNote n="378r">Sūrah heading</decoNote>
-              <decoNote n="379r">Sūrah heading</decoNote>
-              <decoNote n="379r">Sūrah heading</decoNote>
-              <decoNote n="380r">Sūrah heading</decoNote>
-              <decoNote n="380v">Sūrah heading</decoNote>
-              <decoNote n="381v">Sūrah heading</decoNote>
-              <decoNote n="382r">Sūrah heading</decoNote>
-              <decoNote n="382v">Sūrah heading</decoNote>
-              <decoNote n="383v">Sūrah heading</decoNote>
+              <decoNote n="378r">S&#363;rah heading</decoNote>
+              <decoNote n="379r">S&#363;rah heading</decoNote>
+              <decoNote n="379r">S&#363;rah heading</decoNote>
+              <decoNote n="380r">S&#363;rah heading</decoNote>
+              <decoNote n="380v">S&#363;rah heading</decoNote>
+              <decoNote n="381v">S&#363;rah heading</decoNote>
+              <decoNote n="382r">S&#363;rah heading</decoNote>
+              <decoNote n="382v">S&#363;rah heading</decoNote>
+              <decoNote n="383v">S&#363;rah heading</decoNote>
               <decoNote n="383v">Illuminated divider</decoNote>
-              <decoNote n="384r">Sūrah heading</decoNote>
-              <decoNote n="384v">Sūrah heading</decoNote>
-              <decoNote n="385r">Sūrah heading</decoNote>
-              <decoNote n="385v">Sūrah heading</decoNote>
-              <decoNote n="385v">Sūrah heading</decoNote>
-              <decoNote n="386r">Sūrah heading</decoNote>
-              <decoNote n="386v">Sūrah heading</decoNote>
-              <decoNote n="387r">Sūrah heading</decoNote>
-              <decoNote n="387r">Sūrah heading</decoNote>
-              <decoNote n="388r">Sūrah heading</decoNote>
-              <decoNote n="388v">Sūrah heading</decoNote>
-              <decoNote n="388v">Sūrah heading</decoNote>
-              <decoNote n="389r">Sūrah heading</decoNote>
-              <decoNote n="389r">Sūrah heading</decoNote>
-              <decoNote n="389v">Sūrah heading</decoNote>
-              <decoNote n="389v">Sūrah heading</decoNote>
-              <decoNote n="390r">Sūrah heading</decoNote>
-              <decoNote n="390r">Sūrah heading</decoNote>
-              <decoNote n="390r">Sūrah heading</decoNote>
-              <decoNote n="390v">Sūrah heading</decoNote>
+              <decoNote n="384r">S&#363;rah heading</decoNote>
+              <decoNote n="384v">S&#363;rah heading</decoNote>
+              <decoNote n="385r">S&#363;rah heading</decoNote>
+              <decoNote n="385v">S&#363;rah heading</decoNote>
+              <decoNote n="385v">S&#363;rah heading</decoNote>
+              <decoNote n="386r">S&#363;rah heading</decoNote>
+              <decoNote n="386v">S&#363;rah heading</decoNote>
+              <decoNote n="387r">S&#363;rah heading</decoNote>
+              <decoNote n="387r">S&#363;rah heading</decoNote>
+              <decoNote n="388r">S&#363;rah heading</decoNote>
+              <decoNote n="388v">S&#363;rah heading</decoNote>
+              <decoNote n="388v">S&#363;rah heading</decoNote>
+              <decoNote n="389r">S&#363;rah heading</decoNote>
+              <decoNote n="389r">S&#363;rah heading</decoNote>
+              <decoNote n="389v">S&#363;rah heading</decoNote>
+              <decoNote n="389v">S&#363;rah heading</decoNote>
+              <decoNote n="390r">S&#363;rah heading</decoNote>
+              <decoNote n="390r">S&#363;rah heading</decoNote>
+              <decoNote n="390r">S&#363;rah heading</decoNote>
+              <decoNote n="390v">S&#363;rah heading</decoNote>
               <decoNote n="390v">Illuminated fill</decoNote>
-              <decoNote n="391r">Sūrah heading</decoNote>
-              <decoNote n="391r">Sūrah heading</decoNote>
+              <decoNote n="391r">S&#363;rah heading</decoNote>
+              <decoNote n="391r">S&#363;rah heading</decoNote>
               <decoNote n="391r">Illuminated divider</decoNote>
-              <decoNote n="391v">Sūrah heading</decoNote>
-              <decoNote n="391v">Sūrah heading</decoNote>
+              <decoNote n="391v">S&#363;rah heading</decoNote>
+              <decoNote n="391v">S&#363;rah heading</decoNote>
               <decoNote n="392r">Owner notations and stamps</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -217,7 +220,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed in Ramaḍān 1154 AH by Muḥammad Muḥsin al-Iṣfahānī (f. 392r), probably in Iran.</p>
+              <p>Copy completed in Ramad&#803;a&#772;n 1154 AH by Muh&#803;ammad Muh&#803;sin al-Is&#803;faha&#772;ni&#772; (f. 392r), probably in Iran.</p>
               <origDate>1741</origDate>
               <origPlace>Iran?</origPlace>
             </origin>
@@ -234,7 +237,7 @@
           <term>Manuscripts, Persian</term>
         </keywords>
         <keywords n="form/genre">
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Codices</term>
           <term>Illuminations</term>
           <term>Lacquered bindings (Binding)</term>

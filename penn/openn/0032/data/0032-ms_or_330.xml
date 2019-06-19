@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 330 - FOLIO: al-Qurʼān</title>
+        <title>Description of Columbia University. MS Or 330 - FOLIO: al-Qur&#700;a&#772;n</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 330 - FOLIO: al-Qurʼān are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 330 - FOLIO: al-Qurʼān. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 330 - FOLIO: al-Qur&#700;a&#772;n are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 330 - FOLIO: al-Qur&#700;a&#772;n. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,13 +36,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848512</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_330.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Excerpt from the Qurʼān including the end of Āl-ʻImrān verse 85 through al-Nisāʼ verse12 (3:85-4:12).</summary>
+            <summary>Excerpt from the Qur&#700;a&#772;n including the end of A&#772;l-&#699;Imra&#772;n verse 85 through al-Nisa&#772;&#700; verse12 (3:85-4:12).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -50,7 +53,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[al-Qurʼān]</title>
+              <title>[al-Qur&#700;a&#772;n]</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -69,7 +72,7 @@
               <scriptNote>Written in early Abbasid new style; pointed, vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Every tenth verse marked with a large rosette with a yellow center; yellow spiral shaped marginal medallions; sūrah heading in yellow; rubrications in red, including readings.</decoNote>
+              <decoNote>Every tenth verse marked with a large rosette with a yellow center; yellow spiral shaped marginal medallions; su&#772;rah heading in yellow; rubrications in red, including readings.</decoNote>
               <decoNote n="1r">Marginal medallion</decoNote>
               <decoNote n="1r">Text division marker</decoNote>
               <decoNote n="1v">Text division marker</decoNote>
@@ -91,7 +94,7 @@
               <decoNote n="6v">Text division marker</decoNote>
               <decoNote n="7r">Text division marker</decoNote>
               <decoNote n="7r">Marginal medallion</decoNote>
-              <decoNote n="7v">Sūrat al-Nisāʼ header</decoNote>
+              <decoNote n="7v">S&#363;rat al-Nisa&#772;&#700; header</decoNote>
               <decoNote n="8r">Marginal medallion</decoNote>
               <decoNote n="8v">Marginal medallion</decoNote>
             </decoDesc>
@@ -120,7 +123,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
         </keywords>
       </textClass>
     </profileDesc>

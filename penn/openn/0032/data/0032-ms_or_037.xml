@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 37: Badāʼiʻ al-funūn.</title>
+        <title>Description of Columbia University. MS Or 37: Bada&#772;&#700;i&#699; al-funu&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 37: Badāʼiʻ al-funūn. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 37: Badāʼiʻ al-funūn.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 37: Bada&#772;&#700;i&#699; al-funu&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 37: Bada&#772;&#700;i&#699; al-funu&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13535822</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_037.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>On accounting for merchants, including calculating shorthands to make accounting easier (abjad numbers), which the author calls ʻilm al-siyāq.</summary>
+            <summary>On accounting for merchants, including calculating shorthands to make accounting easier (abjad numbers), which the author calls &#699;ilm al-siya&#772;q.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Badāʼiʻ al-funūn.</title>
-              <title type="vernacular">بدائع الفنون</title>
+              <title>Bada&#772;&#700;i&#699; al-funu&#772;n.</title>
+              <title type="vernacular">&#1576;&#1583;&#1575;&#1574;&#1593; &#1575;&#1604;&#1601;&#1606;&#1608;&#1606;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -49,7 +52,7 @@
             </msItem>
             <msItem n="1v">
               <locus>[1v]</locus>
-              <title>Badāʼiʻ al-funūn</title>
+              <title>Bada&#772;&#700;i&#699; al-funu&#772;n</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -65,7 +68,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red.</decoNote>
@@ -87,7 +90,7 @@
               <origPlace>India?</origPlace>
             </origin>
             <provenance>Gift of David Eugene Smith, 1931-1934.</provenance>
-            <provenance>Formerly owned by Muḥammad ʻAlī Khān, dated A.H. 1231? (1816) (owner's stamp on f. 1r).</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad &#699;Ali&#772; Kha&#772;n, dated A.H. 1231? (1816) (owner's stamp on f. 1r).</provenance>
           </history>
         </msDesc>
       </sourceDesc>

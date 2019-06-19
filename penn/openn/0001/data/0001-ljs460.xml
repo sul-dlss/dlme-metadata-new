@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 460: Gathering from Ikhtiṣār min al-maqālāt min kitāb Uqlīdis</title>
+        <title>Description of University of Pennsylvania LJS 460: Gathering from Ikhtis&#803;a&#772;r min al-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4805622</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs460.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>One gathering, perhaps partial, from an epitome or abridgement in Arabic of Euclid's Elements, written on paper.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Gathering from Ikhtiṣār min al-maqālāt min kitāb Uqlīdis</title>
+              <title>Gathering from Ikhtis&#803;a&#772;r min al-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis</title>
               <author>Euclid</author>
             </msItem>
           </msContents>
@@ -56,7 +59,7 @@
                 </support>
                 <extent>8 leaves : 188 x 100 (145 x 60) mm</extent>
                 <collation>
-                  <p>Paper, 8 ; 1⁸.</p>
+                  <p>Paper, 8 ; 1&#8312;.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>

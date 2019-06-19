@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,9 +39,12 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5816659</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs40.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of prayers, including several based on the Āyat al-Kursī (Verse of the Throne) for protection from evil and others ascribed to Shaykh Aḥmad ibn Zayn al-Dīn al-Aḥsāʼī, John the Baptist as he appears in the Koran as Yaḥyá, and other religious figures. At the beginning of the manuscript is an invocation against destruction by bookworms (f. 1r); at the end of the manuscript are a love charm and charm for protection from evil.</summary>
+            <summary>Collection of prayers, including several based on the A&#772;yat al-Kursi&#772; (Verse of the Throne) for protection from evil and others ascribed to Shaykh Ah&#803;mad ibn Zayn al-Di&#772;n al-Ah&#803;sa&#772;&#700;i&#772;, John the Baptist as he appears in the Koran as Yah&#803;ya&#769;, and other religious figures. At the beginning of the manuscript is an invocation against destruction by bookworms (f. 1r); at the end of the manuscript are a love charm and charm for protection from evil.</summary>
             <textLang>Arabic</textLang>
             <msItem>
               <title>Collection of prayers and charms</title>
@@ -59,7 +62,7 @@
                 </support>
                 <extent>150 leaves : 173 x 116 (120 x 70) mm. bound to 173 x 124 mm</extent>
                 <collation>
-                  <p>Paper, 150; 1-15¹⁰. Catchwords on each page, lower left verso.</p>
+                  <p>Paper, 150; 1-15&#185;&#8304;. Catchwords on each page, lower left verso.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>

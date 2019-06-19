@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 88: Haza rūznāme-yi Dārendevī.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 88: Haza ru&#772;zna&#772;me-yi Da&#772;rendevi&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 88: Haza rūznāme-yi Dārendevī. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 88: Haza rūznāme-yi Dārendevī.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 88: Haza ru&#772;zna&#772;me-yi Da&#772;rendevi&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 88: Haza ru&#772;zna&#772;me-yi Da&#772;rendevi&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,21 +32,24 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450065</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_088.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Calendar dated 1226 A.H. showing lunar and solar month concordance; length of day and night in Istanbul; astronomical and chronological tables; marginal notes with comments and computational instructions; rules for finding the direction of the qiblah in Istanbul and surrounding areas.</summary>
             <textLang mainLang="ota">Ottoman Turkish</textLang>
             <msItem>
-              <title>Haza rūznāme-yi Dārendevī.</title>
-              <title type="vernacular">هذا روزنامۀ دارنده‌وى</title>
+              <title>Haza ru&#772;zna&#772;me-yi Da&#772;rendevi&#772;.</title>
+              <title type="vernacular">&#1607;&#1584;&#1575; &#1585;&#1608;&#1586;&#1606;&#1575;&#1605;&#1728; &#1583;&#1575;&#1585;&#1606;&#1583;&#1607;&#8204;&#1608;&#1609;</title>
               <author>
-                <persName type="authority">Dārendevī, Muḥammad ibn Ismāʻīl, active 17th century-18th century</persName>
-                <persName type="vernacular">دارندوى، محمد بن اسماعيل،</persName>
+                <persName type="authority">Da&#772;rendevi&#772;, Muh&#803;ammad ibn Isma&#772;&#699;i&#772;l, active 17th century-18th century</persName>
+                <persName type="vernacular">&#1583;&#1575;&#1585;&#1606;&#1583;&#1608;&#1609;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1587;&#1605;&#1575;&#1593;&#1610;&#1604;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Muṣṭafá al-maʻrūf bi-Ḥikmetī-yi s̲ānī, active 1811</persName>
-                <persName type="vernacular">مصطفى المعروف بحكمتى ثانى،</persName>
+                <persName type="authority">Mus&#803;t&#803;afa&#769; al-ma&#699;ru&#772;f bi-H&#803;ikmeti&#772;-yi s&#818;a&#772;ni&#772;, active 1811</persName>
+                <persName type="vernacular">&#1605;&#1589;&#1591;&#1601;&#1609; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1601; &#1576;&#1581;&#1603;&#1605;&#1578;&#1609; &#1579;&#1575;&#1606;&#1609;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>donor</resp>
@@ -59,7 +62,7 @@
             </msItem>
             <msItem n="Scroll fully unrolled">
               <locus>Scroll [fully unrolled]</locus>
-              <title>Haza rūznāme-yi Dārendevī.</title>
+              <title>Haza ru&#772;zna&#772;me-yi Da&#772;rendevi&#772;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -97,7 +100,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Calendar produced by an astronomer called Muṣṭafá, commonly known as Ḥikmetī-yi s̲ānī (rectangle with red background at end of scroll) in 1226 A.H. (1811) (between first two sections, under the headpiece).</p>
+              <p>Calendar produced by an astronomer called Mus&#803;t&#803;afa&#769;, commonly known as H&#803;ikmeti&#772;-yi s&#818;a&#772;ni&#772; (rectangle with red background at end of scroll) in 1226 A.H. (1811) (between first two sections, under the headpiece).</p>
               <origDate>A.H. 1226 (1811)</origDate>
               <origPlace>Istanbul</origPlace>
             </origin>

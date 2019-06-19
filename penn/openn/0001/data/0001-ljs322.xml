@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 322: Fragments from Books III-V of Qānūn fī al-ṭibb</title>
+        <title>Description of University of Pennsylvania LJS 322: Fragments from Books III-V of Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5861191</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs322.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Sections from Books III (al-Amrāḍ al-juzʼīyah, diseases arranged by part of the body), IV (al-Amrāḍ al latī la takhaṣ bi-ʻuḍwīn bi-ʻaynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries) of Avicenna's medical encyclopedia. Many marginal notes trimmed; some later marginal notes run from the manuscript leaves onto their modern paper frames.</summary>
+            <summary>Sections from Books III (al-Amra&#772;d&#803; al-juz&#700;i&#772;yah, diseases arranged by part of the body), IV (al-Amra&#772;d&#803; al lati&#772; la takhas&#803; bi-&#699;ud&#803;wi&#772;n bi-&#699;aynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries) of Avicenna's medical encyclopedia. Many marginal notes trimmed; some later marginal notes run from the manuscript leaves onto their modern paper frames.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Fragments from Books III-V of Qānūn fī al-ṭibb</title>
+              <title>Fragments from Books III-V of Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
               <author>Avicenna, 980-1037</author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>ʻAbduh, Muḥammad</persName>
+                <persName>&#699;Abduh, Muh&#803;ammad</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -75,7 +78,7 @@
               <origDate>12--?</origDate>
               <origPlace>Iran or Turkey?</origPlace>
             </origin>
-            <provenance>Formerly owned by Muḥammad ʻAbduh (ownership stamp, possibly of Iranian or Turkish origin, f. 22r, 26r).</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad &#699;Abduh (ownership stamp, possibly of Iranian or Turkish origin, f. 22r, 26r).</provenance>
             <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Aug. 1999.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
           </history>

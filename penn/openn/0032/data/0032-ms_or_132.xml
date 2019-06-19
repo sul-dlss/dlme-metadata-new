@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -34,6 +34,9 @@
             </altIdentifier>
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616619</idno>
+            </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_132.html</idno>
             </altIdentifier>
           </msIdentifier>
           <msContents>

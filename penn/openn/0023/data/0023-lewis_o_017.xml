@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 17: al-Qurʼān.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 17: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 17: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 17: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 17: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 17: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -31,13 +31,16 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2427675</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_017.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Complete copy of the Qurʼān with complete interlinear translation in Persian; commentary in Persian in the margins.</summary>
+            <summary>Complete copy of the Qur&#700;a&#772;n with complete interlinear translation in Persian; commentary in Persian in the margins.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic with Persian interlinear translation and marginal commentary</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
@@ -51,8 +54,8 @@
               </respStmt>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Mullā Muṣṭafá</persName>
-                <persName type="vernacular">ملا مصطفى.</persName>
+                <persName type="authority">Mulla&#772; Mus&#803;t&#803;afa&#769;</persName>
+                <persName type="vernacular">&#1605;&#1604;&#1575; &#1605;&#1589;&#1591;&#1601;&#1609;.</persName>
               </respStmt>
               <respStmt>
                 <resp>vendor</resp>
@@ -61,7 +64,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
             <msItem n="2v">
               <locus>2v</locus>
@@ -86,10 +89,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink, text is pointed and vocalized; Persian interlinear translation in nastaʻliq in reddish-purple ink; commentary in the margins written in black nastaʻliq; pointed.</scriptNote>
+              <scriptNote>Written in naskh in black ink, text is pointed and vocalized; Persian interlinear translation in nasta&#699;liq in reddish-purple ink; commentary in the margins written in black nasta&#699;liq; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Polychrome using black, red, gold, blue, and white. Dual page illuminations of gold, blue, red, and white on first opening (f. 1v-2r), middle opening (f. 189v-190 r) and last opening (f. 416v-417r) with text in cloudbands. On all other pages, textblock is rule-bordered (blue, gold, red) and the page has a narrow, black frame to contain the commentary. The letter ʻayn in red and medallions with pendants in the margins indicate rukūʻ and text divisions; gold roundels at end of each verse. Book edges are gilded.</decoNote>
+              <decoNote>Polychrome using black, red, gold, blue, and white. Dual page illuminations of gold, blue, red, and white on first opening (f. 1v-2r), middle opening (f. 189v-190 r) and last opening (f. 416v-417r) with text in cloudbands. On all other pages, textblock is rule-bordered (blue, gold, red) and the page has a narrow, black frame to contain the commentary. The letter &#699;ayn in red and medallions with pendants in the margins indicate ruku&#772;&#699; and text divisions; gold roundels at end of each verse. Book edges are gilded.</decoNote>
               <decoNote n="1v">Dual page illumination</decoNote>
               <decoNote n="2r">Dual page illumination</decoNote>
               <decoNote n="8r">Example of text divisions</decoNote>
@@ -106,7 +109,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in South Asia, likely India in 1269 A.H. [1852] by Mullā Muṣṭafá.</p>
+              <p>Copied in South Asia, likely India in 1269 A.H. [1852] by Mulla&#772; Mus&#803;t&#803;afa&#769;.</p>
               <origDate>1269 A.H. (1852)</origDate>
               <origPlace>India? ;</origPlace>
             </origin>
@@ -132,7 +135,7 @@
           <term>Commentaries</term>
           <term>Illuminations (painting)</term>
           <term>Manuscripts (documents)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Translations (documents)</term>
         </keywords>
       </textClass>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 30 - FOLIO/FLAT: Uṣūl al-handasah wa-al-ḥisāb /</title>
+        <title>Description of Columbia University. MS Or 30 - FOLIO/FLAT: Us&#803;u&#772;l al-handasah wa-al-h&#803;isa&#772;b /</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 30 - FOLIO/FLAT: Uṣūl al-handasah wa-al-ḥisāb / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 30 - FOLIO/FLAT: Uṣūl al-handasah wa-al-ḥisāb /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 30 - FOLIO/FLAT: Us&#803;u&#772;l al-handasah wa-al-h&#803;isa&#772;b / are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 30 - FOLIO/FLAT: Us&#803;u&#772;l al-handasah wa-al-h&#803;isa&#772;b /. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,20 +35,23 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13540650</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_030.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Copy of the Arabic translation of Euclid's Elements through book XV with marginalia. Several leaves have been remounted because of damage.</summary>
             <textLang mainLang="ara" otherLangs="">Arabic</textLang>
             <msItem>
-              <title>Uṣūl al-handasah wa-al-ḥisāb /</title>
-              <title type="vernacular">اصول الهندسة والحساب</title>
+              <title>Us&#803;u&#772;l al-handasah wa-al-h&#803;isa&#772;b /</title>
+              <title type="vernacular">&#1575;&#1589;&#1608;&#1604; &#1575;&#1604;&#1607;&#1606;&#1583;&#1587;&#1577; &#1608;&#1575;&#1604;&#1581;&#1587;&#1575;&#1576;</title>
               <author>
                 <persName type="authority">Euclid</persName>
               </author>
               <respStmt>
                 <resp>translator</resp>
-                <persName type="authority">Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274</persName>
-                <persName type="vernacular">طوسي، نصير الدين محمد بن محمد،</persName>
+                <persName type="authority">T&#803;u&#772;si&#772;, Nas&#803;i&#772;r al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad, 1201-1274</persName>
+                <persName type="vernacular">&#1591;&#1608;&#1587;&#1610;&#1548; &#1606;&#1589;&#1610;&#1585; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -57,11 +60,11 @@
             </msItem>
             <msItem n="1v">
               <locus>[1v]</locus>
-              <title>Taḥrīr, or Uṣūl al-handasah wa-al-ḥisāb</title>
+              <title>Ta&#7717;r&#299;r, or U&#7779;&#363;l al-handasah wa-al-&#7717;is&#257;b</title>
             </msItem>
             <msItem n="1v">
               <locus>[1v]</locus>
-              <title>Uṣūl al-handasah wa-al-ḥisāb</title>
+              <title>Us&#803;u&#772;l al-handasah wa-al-h&#803;isa&#772;b</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -78,7 +81,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq with marginalia in rapid nastaʻliq; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq with marginalia in rapid nasta&#699;liq; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>

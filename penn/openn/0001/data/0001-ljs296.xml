@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 296: Īḍāḥ al-maqāṣid li-farāʼiḍ al-fawāʼid</title>
+        <title>Description of University of Pennsylvania LJS 296: I&#772;d&#803;a&#772;h&#803; al-maqa&#772;s&#803;id li-fara&#772;&#700;id&#803; al-fawa&#772;&#700;id</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/6004880</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs296.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Mathematical treatise with frequent marginal notes by multiple hands. Some of the marginal notes are textual variants or corrections, sometimes in red and corresponding to red overlining in the text. Later added table of contents (f. i verso-iii recto). Ribbon or thread tied in the outer margin as a marker (f. 118).</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Īḍāḥ al-maqāṣid li-farāʼiḍ al-fawāʼid</title>
-              <author>Kāshī, ʻImād al-Dīn Yaḥyá ibn Aḥmad, d. 1343 or 1344</author>
+              <title>I&#772;d&#803;a&#772;h&#803; al-maqa&#772;s&#803;id li-fara&#772;&#700;id&#803; al-fawa&#772;&#700;id</title>
+              <author>Ka&#772;shi&#772;, &#699;Ima&#772;d al-Di&#772;n Yah&#803;ya&#769; ibn Ah&#803;mad, d. 1343 or 1344</author>
             </msItem>
           </msContents>
           <physDesc>
@@ -172,9 +175,9 @@
           </physDesc>
           <history>
             <origin>
-              <p>Probably written in Iṣfahān, Iran (Christie's), in A.H. Shaʻbān 720 (September 1320, f. 162r).</p>
+              <p>Probably written in Is&#803;faha&#772;n, Iran (Christie's), in A.H. Sha&#699;ba&#772;n 720 (September 1320, f. 162r).</p>
               <origDate>A.H. 720 (1320)</origDate>
-              <origPlace>Iṣfahān?, Iran</origPlace>
+              <origPlace>Is&#803;faha&#772;n?, Iran</origPlace>
             </origin>
             <provenance>Multiple ownership inscriptions (inside upper cover, front flyleaf, f. i recto, 1r); ownership stamps (f. 1r-2r).</provenance>
             <provenance>Sold at auction at Christie's, 19 April 1999, lot 333, to Lawrence J. Schoenberg.</provenance>

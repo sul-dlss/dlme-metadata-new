@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 467: Khawāṣ al-manāzil wa-al-shuhūr wa-al-anwāʻā</title>
+        <title>Description of University of Pennsylvania LJS 467: Khawa&#772;s&#803; al-mana&#772;zil wa-al-shuhu&#772;r wa-al-anwa&#772;&#699;a&#772;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5185355</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs467.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Work on the use of astronomical observations to predict weather changes in order to determine the best times to sow and harvest in northern Africa. The text is divided into 12 chapters describing weather variations for each of the 12 European months, using their European names.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Khawāṣ al-manāzil wa-al-shuhūr wa-al-anwāʻā</title>
+              <title>Khawa&#772;s&#803; al-mana&#772;zil wa-al-shuhu&#772;r wa-al-anwa&#772;&#699;a&#772;</title>
             </msItem>
           </msContents>
           <physDesc>

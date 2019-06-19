@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -30,16 +30,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/779626678</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs_422.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Lacunose 16th-century copy of a 12th-century romance about the life of Bahrām Gūr, a 5th-century king of Iran; its title (in English, Seven beauties or Seven images) refers to the seven princesses that Bahrām marries, each of whom tells the king a story as part of the narrative.</summary>
+            <summary>Lacunose 16th-century copy of a 12th-century romance about the life of Bahra&#772;m Gu&#772;r, a 5th-century king of Iran; its title (in English, Seven beauties or Seven images) refers to the seven princesses that Bahra&#772;m marries, each of whom tells the king a story as part of the narrative.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
               <title>Haft paykar.</title>
-              <title type="vernacular">[هفت پيکر]</title>
+              <title type="vernacular">[&#1607;&#1601;&#1578; &#1662;&#1610;&#1705;&#1585;]</title>
               <author>
-                <persName type="authority">Niẓāmī Ganjavī, 1140 or 1141-1202 or 1203</persName>
-                <persName type="vernacular">‏نظامى گنجوى،‏</persName>
+                <persName type="authority">Niz&#803;a&#772;mi&#772; Ganjavi&#772;, 1140 or 1141-1202 or 1203</persName>
+                <persName type="vernacular">&#8207;&#1606;&#1592;&#1575;&#1605;&#1609; &#1711;&#1606;&#1580;&#1608;&#1609;&#1548;&#8207;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -69,7 +72,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in neat nastaʻlīq script; pointed.</scriptNote>
+              <scriptNote>Written in neat nasta&#699;li&#772;q script; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated headpiece (f. 1v); ; columns and diagonal sections in margins outlined in gold; outer margin of text block framed in gold, green, and blue; headings in red ink.</decoNote>

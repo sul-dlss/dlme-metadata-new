@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -34,9 +34,12 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13619031</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_203.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Contains a selection of 55 chapters from the Qur'ān with other prayers.</summary>
+            <summary>Contains a selection of 55 chapters from the Qur'a&#772;n with other prayers.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic and Persian</textLang>
             <msItem>
               <title>Devotional book.</title>
@@ -64,7 +67,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh in black ink; some elements in nastaʻliq; pointed, partially vocalized.</scriptNote>
+              <scriptNote>Written in naskh in black ink; some elements in nasta&#699;liq; pointed, partially vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Dual-page illuminated first opening with polychrome and gold headpiece, gold floral margin fill and text on cloudbands (f. 1v-[2]r). All other pages are ruled in between each line in gold and black and border-ruled in gold, black, red. Gold roundels mark verse endings. Rubrications in red, including headers and readings.</decoNote>

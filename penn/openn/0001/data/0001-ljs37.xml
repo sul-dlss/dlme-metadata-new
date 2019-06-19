@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 37: Ikhtiṣār min al-maqālāt min kitāb Uqlīdis</title>
+        <title>Description of University of Pennsylvania LJS 37: Ikhtis&#803;a&#772;r min al-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,12 +39,15 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/4805493</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs37.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Epitome or abridgement in Arabic of Euclid's Elements, written on paper. The title page (f. i), first 4 leaves of text (f. 1-4), and a blank leaf (f. 5) are replacements, written on different paper in an 18th-century hand. The replacement title page gives the incorrect title Taḥrīr Uqlīdis kāmil (Complete commentary on Euclid); the manuscript does not contain a commentary.</summary>
+            <summary>Epitome or abridgement in Arabic of Euclid's Elements, written on paper. The title page (f. i), first 4 leaves of text (f. 1-4), and a blank leaf (f. 5) are replacements, written on different paper in an 18th-century hand. The replacement title page gives the incorrect title Tah&#803;ri&#772;r Uqli&#772;dis ka&#772;mil (Complete commentary on Euclid); the manuscript does not contain a commentary.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Ikhtiṣār min al-maqālāt min kitāb Uqlīdis</title>
+              <title>Ikhtis&#803;a&#772;r min al-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis</title>
               <author>Euclid</author>
             </msItem>
           </msContents>
@@ -56,7 +59,7 @@
                 </support>
                 <extent>93 leaves : 188 x 100 (145 x 60) mm. bound to 192 x 105 mm</extent>
                 <collation>
-                  <p>Paper, i (endleaf)+6 (18th-century paper?)+87+i (endleaf) ; 1² 2⁴ 3-5¹⁰ 6¹⁴ 7⁶ 8¹⁴(-1) 9¹⁶ 10⁶ 11² ; [i, 1-92]; modern foliation in pencil, upper left recto.</p>
+                  <p>Paper, i (endleaf)+6 (18th-century paper?)+87+i (endleaf) ; 1&#178; 2&#8308; 3-5&#185;&#8304; 6&#185;&#8308; 7&#8310; 8&#185;&#8308;(-1) 9&#185;&#8310; 10&#8310; 11&#178; ; [i, 1-92]; modern foliation in pencil, upper left recto.</p>
                 </collation>
               </supportDesc>
               <layoutDesc>

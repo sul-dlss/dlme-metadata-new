@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1894: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1894: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1894: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1894: Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1894: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1894: Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,26 +29,29 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578344</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1894.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of prayers for the Prophet Muḥammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months.</summary>
+            <summary>Collection of prayers for the Prophet Muh&#803;ammad and other devotional materials such as a description of his tomb and lists of his names and honorary epithets, divided into 60 sections to be read daily over 2 months.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
-              <title type="vernacular">دلائل الخيرات و شوارق الانوار في ذكر الصلوات على النبي المختار</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
+              <title type="vernacular">&#1583;&#1604;&#1575;&#1574;&#1604; &#1575;&#1604;&#1582;&#1610;&#1585;&#1575;&#1578; &#1608; &#1588;&#1608;&#1575;&#1585;&#1602; &#1575;&#1604;&#1575;&#1606;&#1608;&#1575;&#1585; &#1601;&#1610; &#1584;&#1603;&#1585; &#1575;&#1604;&#1589;&#1604;&#1608;&#1575;&#1578; &#1593;&#1604;&#1609; &#1575;&#1604;&#1606;&#1576;&#1610; &#1575;&#1604;&#1605;&#1582;&#1578;&#1575;&#1585;</title>
               <author>
-                <persName type="authority">Jazūlī, Muḥammad ibn Sulaymān, -1465</persName>
-                <persName type="vernacular">جزولي، محمد بن سليمان،</persName>
+                <persName type="authority">Jazu&#772;li&#772;, Muh&#803;ammad ibn Sulayma&#772;n, -1465</persName>
+                <persName type="vernacular">&#1580;&#1586;&#1608;&#1604;&#1610;&#1548; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1587;&#1604;&#1610;&#1605;&#1575;&#1606;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">ʻAshāfī, Ḥāfiẓ Muṣṭafá al-Nāfawī</persName>
-                <persName type="vernacular">عشافي، حافظ مصطفى النافوي.</persName>
+                <persName type="authority">&#699;Asha&#772;fi&#772;, H&#803;a&#772;fiz&#803; Mus&#803;t&#803;afa&#769; al-Na&#772;fawi&#772;</persName>
+                <persName type="vernacular">&#1593;&#1588;&#1575;&#1601;&#1610;&#1548; &#1581;&#1575;&#1601;&#1592; &#1605;&#1589;&#1591;&#1601;&#1609; &#1575;&#1604;&#1606;&#1575;&#1601;&#1608;&#1610;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Dalāʼil al-khayrāt wa shawāriq al-anwār fī dhikr al-ṣalawāt ʻalá al-nabī al-mukhtār.</title>
+              <title>Dala&#772;&#700;il al-khayra&#772;t wa shawa&#772;riq al-anwa&#772;r fi&#772; dhikr al-s&#803;alawa&#772;t &#699;ala&#769; al-nabi&#772; al-mukhta&#772;r.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -68,7 +71,7 @@
               <scriptNote>Written in naskh in black ink; pointed and vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Gilt headpiece on first page of text (f. 1v) with text in cloudbands; full page illustrations of the mosque at Mecca (f. 16v) and the Rawḍah at Medina (f.17r); textblock bordered in gold and black rules; gold roundels punctuate text.</decoNote>
+              <decoNote>Gilt headpiece on first page of text (f. 1v) with text in cloudbands; full page illustrations of the mosque at Mecca (f. 16v) and the Rawd&#803;ah at Medina (f.17r); textblock bordered in gold and black rules; gold roundels punctuate text.</decoNote>
               <decoNote n="16v">Illustration of Mecca</decoNote>
               <decoNote n="17r">Illustration of Medina</decoNote>
             </decoDesc>
@@ -80,7 +83,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copied in 1204 A.H. (1789) by Ḥāfiẓ Muṣṭafá al-Nāfawī al-ʻAshāfī.</p>
+              <p>Copied in 1204 A.H. (1789) by H&#803;a&#772;fiz&#803; Mus&#803;t&#803;afa&#769; al-Na&#772;fawi&#772; al-&#699;Asha&#772;fi&#772;.</p>
               <origDate>A.H. 1204 (1789)</origDate>
             </origin>
             <provenance>Sold at auction at Roseberys (London) as part of the Islamic and Indian Art sale, 23 April 2018, lot 103.</provenance>

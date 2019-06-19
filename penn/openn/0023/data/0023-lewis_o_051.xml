@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 51: Shāhnāmah.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 51: Sha&#772;hna&#772;mah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 51: Shāhnāmah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 51: Shāhnāmah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 51: Sha&#772;hna&#772;mah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 51: Sha&#772;hna&#772;mah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,24 +32,27 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2450056</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_051.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Complete copy beginning with the 'older preface' and 23 miniatures; the colophon is missing from the end.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Shāhnāmah.</title>
-              <title type="vernacular">شاهنامه</title>
+              <title>Sha&#772;hna&#772;mah.</title>
+              <title type="vernacular">&#1588;&#1575;&#1607;&#1606;&#1575;&#1605;&#1607;</title>
               <author>
-                <persName type="authority">Firdawsī</persName>
-                <persName type="vernacular">فردوسي</persName>
+                <persName type="authority">Firdawsi&#772;</persName>
+                <persName type="vernacular">&#1601;&#1585;&#1583;&#1608;&#1587;&#1610;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>former owner</resp>
-                <persName type="authority">Muḥammad Jaʻfar, active 1763</persName>
-                <persName type="vernacular">محمد جعفر،</persName>
+                <persName type="authority">Muh&#803;ammad Ja&#699;far, active 1763</persName>
+                <persName type="vernacular">&#1605;&#1581;&#1605;&#1583; &#1580;&#1593;&#1601;&#1585;&#1548;</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -66,7 +69,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Shāhnāmah.</title>
+              <title>Sha&#772;hna&#772;mah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -79,11 +82,11 @@
                 <foliation>Modern foliation added in pencil, upper left recto; catchwords every verso, lower left.</foliation>
               </supportDesc>
               <layoutDesc>
-                <layout>After the first opening, pages generally laid out in 25 lines per page in 4 columns with gold double rules between each column; border-ruled and pages frame-ruled with a misṭarah.</layout>
+                <layout>After the first opening, pages generally laid out in 25 lines per page in 4 columns with gold double rules between each column; border-ruled and pages frame-ruled with a mist&#803;arah.</layout>
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Dual-page illuminated first opening chiefly in gold and blue with the text on cloudbands (f. 1v-2r); illuminated headpiece in gold and blue on first opening after the preface (f. 7v). 23 miniatures in bright colors (f. 10r, 25r, 33v, 60v, 90r, 98v, 117r, 130r, 154r, 165r, 182v, 222r, 244r, 258r, 275v, 292r, 317r, 356r, 366v, 395r, 437v, 447r, 466r). Textblock border-ruled in double gold and blue. Rubrications in red and gold.</decoNote>
@@ -131,7 +134,7 @@
               <origPlace>Iran?</origPlace>
             </origin>
             <provenance>Gift of Anne Baker Lewis in 1933.</provenance>
-            <provenance>Formerly owned by Muḥammad Jaʻfar (note dated 1177 A.H. (1763 or 1764) on f. 1r)</provenance>
+            <provenance>Formerly owned by Muh&#803;ammad Ja&#699;far (note dated 1177 A.H. (1763 or 1764) on f. 1r)</provenance>
             <provenance>Formerly owned by Oliver Henry Perkins (bookplate on first flyleaf recto, at front of book).</provenance>
             <provenance>Formerly owned by John Frederick Lewis.</provenance>
           </history>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1898: Kitāb al-Tawākiz al-muḥarrarah wa-al-ḍamāʼir al-mustakhbarah.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1898: Kita&#772;b al-Tawa&#772;kiz al-muh&#803;arrarah wa-al-d&#803;ama&#772;&#700;ir al-mustakhbarah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1898: Kitāb al-Tawākiz al-muḥarrarah wa-al-ḍamāʼir al-mustakhbarah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1898: Kitāb al-Tawākiz al-muḥarrarah wa-al-ḍamāʼir al-mustakhbarah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1898: Kita&#772;b al-Tawa&#772;kiz al-muh&#803;arrarah wa-al-d&#803;ama&#772;&#700;ir al-mustakhbarah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1898: Kita&#772;b al-Tawa&#772;kiz al-muh&#803;arrarah wa-al-d&#803;ama&#772;&#700;ir al-mustakhbarah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,16 +29,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523186</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1898.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Work on divination of events and people; includes divination by letters, horoscopes, time keeping, planetary movements, etc. The work references 40 other books on similar topics at the beginning and lists their authors (f. 9v-15r); also contains several illustrations and numerous tables.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Kitāb al-Tawākiz al-muḥarrarah wa-al-ḍamāʼir al-mustakhbarah.</title>
-              <title type="vernacular">كتاب التواكز المحررة والضمائر المستخبرة</title>
+              <title>Kita&#772;b al-Tawa&#772;kiz al-muh&#803;arrarah wa-al-d&#803;ama&#772;&#700;ir al-mustakhbarah.</title>
+              <title type="vernacular">&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1578;&#1608;&#1575;&#1603;&#1586; &#1575;&#1604;&#1605;&#1581;&#1585;&#1585;&#1577; &#1608;&#1575;&#1604;&#1590;&#1605;&#1575;&#1574;&#1585; &#1575;&#1604;&#1605;&#1587;&#1578;&#1582;&#1576;&#1585;&#1577;</title>
               <author>
-                <persName type="authority">ʻAjamī, Kurdī Sayyidī Maḥmūd</persName>
-                <persName type="vernacular">عجمي، كردي سيدي محمود</persName>
+                <persName type="authority">&#699;Ajami&#772;, Kurdi&#772; Sayyidi&#772; Mah&#803;mu&#772;d</persName>
+                <persName type="vernacular">&#1593;&#1580;&#1605;&#1610;&#1548; &#1603;&#1585;&#1583;&#1610; &#1587;&#1610;&#1583;&#1610; &#1605;&#1581;&#1605;&#1608;&#1583;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -47,7 +50,7 @@
             </msItem>
             <msItem n="7r">
               <locus>7r</locus>
-              <title>Kitāb al-Tawākiz al-muḥarrarah wa-al-ḍamāʼir al-mustakhbarah.</title>
+              <title>Kita&#772;b al-Tawa&#772;kiz al-muh&#803;arrarah wa-al-d&#803;ama&#772;&#700;ir al-mustakhbarah.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -68,10 +71,10 @@
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Five labeled diagrams in green, yellow, red (f. 21-24r) and 39 letter tables in red and brown (f. 35r, 45r, 53r, 54v, 56v, 62r, 63r, 66v, 71v, 76v, 81v, 86v, 91v, 96v, 101v, 106v, 111v, 116v, 121v131v, 136v, 141v, 146v, 151v, 156v, 161v, 166v, 171v, 181v, 186v, 191v, 196v, 201v, 206v, 211v, 216v, 221v, 224v).</decoNote>
-              <decoNote n="21v">Diagram: "al-shakhṣ al-awwal"</decoNote>
-              <decoNote n="22r">Diagram: "al-shakhṣ al-awwal"</decoNote>
-              <decoNote n="22v">Diagram: "ṣifat waḍʿ al-buldān"</decoNote>
-              <decoNote n="23r">Diagram: "waḍʿ al-balad dhāt al-shamāl"</decoNote>
+              <decoNote n="21v">Diagram: "al-shakh&#7779; al-awwal"</decoNote>
+              <decoNote n="22r">Diagram: "al-shakh&#7779; al-awwal"</decoNote>
+              <decoNote n="22v">Diagram: "&#7779;ifat wa&#7693;&#703; al-buld&#257;n"</decoNote>
+              <decoNote n="23r">Diagram: "wa&#7693;&#703; al-balad dh&#257;t al-sham&#257;l"</decoNote>
               <decoNote n="24r">Circular diagram: letters, body parts, horoscope signs, qualities</decoNote>
               <decoNote n="35r">Table</decoNote>
               <decoNote n="45r">Table</decoNote>
@@ -121,7 +124,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed on 4 Ṣafar in the 309th year since Kait Bey began his rule (min tawliyat al-Sulṭān Qāʼit Bīk), which was in A.H. 872, so the copy was probably completed in A.H. 1181 (2 July 1767) (f. 226v).</p>
+              <p>Copy completed on 4 S&#803;afar in the 309th year since Kait Bey began his rule (min tawliyat al-Sult&#803;a&#772;n Qa&#772;&#700;it Bi&#772;k), which was in A.H. 872, so the copy was probably completed in A.H. 1181 (2 July 1767) (f. 226v).</p>
               <origDate>A.H. 1181 (1767)</origDate>
               <origPlace>Egypt?</origPlace>
             </origin>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 100: Majmūʻah-ʼi Bhagat Māl.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 100: Majmu&#772;&#699;ah-&#700;i Bhagat Ma&#772;l.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 100: Majmūʻah-ʼi Bhagat Māl. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 100: Majmūʻah-ʼi Bhagat Māl.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 100: Majmu&#772;&#699;ah-&#700;i Bhagat Ma&#772;l. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 100: Majmu&#772;&#699;ah-&#700;i Bhagat Ma&#772;l.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,23 +32,26 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441497</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_100.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of various prose, poetry, and hymns related to Krishna and Ganesha. A section of the Bhagat Māl (f. 1r-21v), followed by an incomplete prose account of Krishna's visit to the house of a rāja in Persian (f. 24v-51v) and finishing with a set of Hymns to Krishna and Ganesha (54r-127v). The collection is chiefly in Hindustani written in Perso-Arabic script, with about 20 leaves in Persian.</summary>
+            <summary>Collection of various prose, poetry, and hymns related to Krishna and Ganesha. A section of the Bhagat Ma&#772;l (f. 1r-21v), followed by an incomplete prose account of Krishna's visit to the house of a ra&#772;ja in Persian (f. 24v-51v) and finishing with a set of Hymns to Krishna and Ganesha (54r-127v). The collection is chiefly in Hindustani written in Perso-Arabic script, with about 20 leaves in Persian.</summary>
             <textLang mainLang="inc" otherLangs="per">Hindustani</textLang>
             <msItem>
-              <title>Majmūʻah-ʼi Bhagat Māl.</title>
-              <title type="vernacular">[مجموعۀ بهگت مال]</title>
+              <title>Majmu&#772;&#699;ah-&#700;i Bhagat Ma&#772;l.</title>
+              <title type="vernacular">[&#1605;&#1580;&#1605;&#1608;&#1593;&#1728; &#1576;&#1607;&#1711;&#1578; &#1605;&#1575;&#1604;]</title>
               <author>
-                <persName type="authority">Nābhādāsa, active 1585</persName>
+                <persName type="authority">Na&#772;bha&#772;da&#772;sa, active 1585</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Damāl Dās</persName>
-                <persName type="vernacular">دمال داس.</persName>
+                <persName type="authority">Dama&#772;l Da&#772;s</persName>
+                <persName type="vernacular">&#1583;&#1605;&#1575;&#1604; &#1583;&#1575;&#1587;.</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -69,11 +72,11 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[Majmūʻah-i bhagat-māl].</title>
+              <title>[Majmu&#772;&#699;ah-i bhagat-ma&#772;l].</title>
             </msItem>
             <msItem n="24v">
               <locus>24v</locus>
-              <title>[Incomplete prose account of Krishna's visit to the house of a rāja]</title>
+              <title>[Incomplete prose account of Krishna's visit to the house of a r&#257;ja]</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -90,7 +93,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻlīq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;li&#772;q in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red. Border-ruled in red for text areas, including between columns. Six full-page illustrations in color (f. 23v, 53v, 60v, 89r, 100r, 114r) and two smaller illustrations set into the text (f. 76r).</decoNote>
@@ -122,7 +125,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>A portion of the item is dated to 1211 (1832) and copied by Damāl Dās (f. 21v) and another date, 1846, also appears in the text (f. 126v).</p>
+              <p>A portion of the item is dated to 1211 (1832) and copied by Dama&#772;l Da&#772;s (f. 21v) and another date, 1846, also appears in the text (f. 126v).</p>
               <origDate>between 1832 and 1846</origDate>
               <origPlace>India?</origPlace>
             </origin>

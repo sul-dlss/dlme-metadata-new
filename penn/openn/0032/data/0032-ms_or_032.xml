@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -36,9 +36,12 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13540660</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_032.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>On writing (inshāʼ). It begins with an Arabic-Ottoman glossary of terms used in writing official and unofficial letters (f. 1v-3r), followed by a tutorial on writing letters. The following types of letter are included: from inferiors to superiors (f. 10v-14r), letters home (f. 14v-17r), from a child to his grandfather (f. 17v-19v), from a father to a son (f. 20r-22r), from a son to his mother (f. 22v-24v), from a mother to her child (f. 25r-26v), petition addressing the Sultan (f. 27r-28r), an emancipation certificate (f. 28v-30v), and newspaper writing (f. 31r-34v); a short lesson on basic arithmetic follows (f. 34v-35r). Two inserts laid in: a telegraph receipt, and a sheet in nastaʻliq shikastah about accounting in Persian.</summary>
+            <summary>On writing (insha&#772;&#700;). It begins with an Arabic-Ottoman glossary of terms used in writing official and unofficial letters (f. 1v-3r), followed by a tutorial on writing letters. The following types of letter are included: from inferiors to superiors (f. 10v-14r), letters home (f. 14v-17r), from a child to his grandfather (f. 17v-19v), from a father to a son (f. 20r-22r), from a son to his mother (f. 22v-24v), from a mother to her child (f. 25r-26v), petition addressing the Sultan (f. 27r-28r), an emancipation certificate (f. 28v-30v), and newspaper writing (f. 31r-34v); a short lesson on basic arithmetic follows (f. 34v-35r). Two inserts laid in: a telegraph receipt, and a sheet in nasta&#699;liq shikastah about accounting in Persian.</summary>
             <textLang mainLang="ota" otherLangs="ara">Ottoman with translations from Arabic; inserts in Persian laid in</textLang>
             <msItem>
               <title>Treatise on composing letters</title>
@@ -65,7 +68,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in late ruqʻah in black and red; pointed, unvocalized.</scriptNote>
+              <scriptNote>Written in late ruq&#699;ah in black and red; pointed, unvocalized.</scriptNote>
             </scriptDesc>
             <bindingDesc>
               <binding>

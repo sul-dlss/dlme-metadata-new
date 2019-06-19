@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Oversize Ms. Codex 1897: al-Qurʼān.</title>
+        <title>Description of University of Pennsylvania Oversize Ms. Codex 1897: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1897: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1897: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1897: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Oversize Ms. Codex 1897: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
-        <note>First folio missing; first full āyah is verse 12 in Sūrat al-Baqarah (2:12).</note>
+        <note>First folio missing; first full a&#772;yah is verse 12 in Su&#772;rat al-Baqarah (2:12).</note>
         <note>Manuscript is in poor condition; many leaves are loose; binding is off; worm damage; water and fire damage throughout.</note>
       </notesStmt>
       <sourceDesc>
@@ -30,13 +30,16 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578305</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1897.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Qur'ān; complete except for first folio.</summary>
+            <summary>Qur'a&#772;n; complete except for first folio.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Shore, Offley Bohun Stovin Fairless, 1863-1922</persName>
@@ -44,7 +47,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[al-Qurʼān]</title>
+              <title>[al-Qur&#700;a&#772;n]</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -84,7 +87,7 @@
       <textClass>
         <keywords n="form/genre">
           <term>Codices (bound manuscripts)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Manuscripts, Arabic--18th century</term>
           <term>Manuscripts, Arabic--19th century</term>
         </keywords>

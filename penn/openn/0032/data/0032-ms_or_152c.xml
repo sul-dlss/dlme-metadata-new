@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -36,6 +36,9 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13622997</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_152c.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Manuscript leaf with painting. The recto contains six lines of text in four columns, interrupted by a pastiche painting of six figures, four on the right side in helmets and chains and two on the left side. The verso holds two clippings of unrelated text pasted in different directions.</summary>
@@ -62,7 +65,7 @@
               </supportDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nasta'līq; pointed.</scriptNote>
+              <scriptNote>Written in nasta'li&#772;q; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>The lines of text are border-ruled in red and black. The painting is in gold and opaque watercolors on a dark background.</decoNote>

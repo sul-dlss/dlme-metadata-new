@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1913: al-Risālah al-dāmighah lil-fāsiq... etc..</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1913: al-Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq... etc..</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1913: al-Risālah al-dāmighah lil-fāsiq... etc.. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1913: al-Risālah al-dāmighah lil-fāsiq... etc... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1913: al-Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq... etc.. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1913: al-Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq... etc... This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,133 +29,136 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1083523045</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1913.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Collection of 26 texts of the Druze community.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Risālah al-dāmighah lil-fāsiq... etc..</title>
-              <title type="vernacular">الرسالة الدامغة للفاسق... [إلخ.]</title>
+              <title>al-Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq... etc..</title>
+              <title type="vernacular">&#1575;&#1604;&#1585;&#1587;&#1575;&#1604;&#1577; &#1575;&#1604;&#1583;&#1575;&#1605;&#1594;&#1577; &#1604;&#1604;&#1601;&#1575;&#1587;&#1602;... [&#1573;&#1604;&#1582;.]</title>
               <author>
-                <persName type="authority">Ḥamzah ibn ʻAlī ibn Aḥmad, active 1015-1020</persName>
-                <persName type="vernacular">حمزة بن علي بن احمد،</persName>
+                <persName type="authority">H&#803;amzah ibn &#699;Ali&#772; ibn Ah&#803;mad, active 1015-1020</persName>
+                <persName type="vernacular">&#1581;&#1605;&#1586;&#1577; &#1576;&#1606; &#1593;&#1604;&#1610; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Muqtaná, Bahāʼ al-Dīn ʻAlī ibn Aḥmad, active 1015-1020</persName>
-                <persName type="vernacular">مقتنى، بهاء الدين علي بن احمد،</persName>
+                <persName type="authority">Muqtana&#769;, Baha&#772;&#700; al-Di&#772;n &#699;Ali&#772; ibn Ah&#803;mad, active 1015-1020</persName>
+                <persName type="vernacular">&#1605;&#1602;&#1578;&#1606;&#1609;&#1548; &#1576;&#1607;&#1575;&#1569; &#1575;&#1604;&#1583;&#1610;&#1606; &#1593;&#1604;&#1610; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Ḥākim bi-Amr Allāh, Caliph of Egypt, 985-approximately 1021</persName>
-                <persName type="vernacular">حاكم بأمر الله،</persName>
+                <persName type="authority">H&#803;a&#772;kim bi-Amr Alla&#772;h, Caliph of Egypt, 985-approximately 1021</persName>
+                <persName type="vernacular">&#1581;&#1575;&#1603;&#1605; &#1576;&#1571;&#1605;&#1585; &#1575;&#1604;&#1604;&#1607;&#1548;</persName>
               </author>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>al-Risālah al-dāmighah lil-fāsiq... [etc.].</title>
+              <title>al-Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq... [etc.].</title>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Risālah al-dāmighah lil-fāsiq al-radd ʻalá al-Nuṣayrī laʻanahu al-Mawlá fī kull kawr wa-dawr</title>
+              <title>Risa&#772;lah al-da&#772;mighah lil-fa&#772;siq al-radd &#699;ala&#769; al-Nus&#803;ayri&#772; la&#699;anahu al-Mawla&#769; fi&#772; kull kawr wa-dawr</title>
             </msItem>
             <msItem n="13r">
               <locus>13r</locus>
-              <title>Risālat al-Tanzīh ilá jamāʻat al-Muwaḥḥidīn</title>
+              <title>Risa&#772;lat al-Tanzi&#772;h ila&#769; jama&#772;&#699;at al-Muwah&#803;h&#803;idi&#772;n</title>
             </msItem>
             <msItem n="23v">
               <locus>23v</locus>
-              <title>al-Mawsūmah bi-risālat al-nisāʼ al-kabīrah</title>
+              <title>al-Mawsu&#772;mah bi-risa&#772;lat al-nisa&#772;&#700; al-kabi&#772;rah</title>
             </msItem>
             <msItem n="30v">
               <locus>30v</locus>
-              <title>al-Ṣubḥah al-kāʼinah</title>
+              <title>al-S&#803;ubh&#803;ah al-ka&#772;&#700;inah</title>
             </msItem>
             <msItem n="35r">
               <locus>35r</locus>
-              <title>Nuskhat Sijill al-Mujtabá</title>
+              <title>Nuskhat Sijill al-Mujtaba&#769;</title>
             </msItem>
             <msItem n="36v">
               <locus>36v</locus>
-              <title>Taqlīd al-Riḍá</title>
+              <title>Taqli&#772;d al-Rid&#803;a&#769;</title>
             </msItem>
             <msItem n="40r">
               <locus>40r</locus>
-              <title>Nuskhat Taqlīd al-Muqtaná</title>
+              <title>Nuskhat Taqli&#772;d al-Muqtana&#769;</title>
             </msItem>
             <msItem n="44v">
               <locus>44v</locus>
-              <title>Mukātabah ilá ahl al-Kudīyah al-baydāʼ</title>
+              <title>Muka&#772;tabah ila&#769; ahl al-Kudi&#772;yah al-bayda&#772;&#700;</title>
             </msItem>
             <msItem n="45r">
               <locus>45r</locus>
-              <title>Risālat al-Inṣināʼ</title>
+              <title>Risa&#772;lat al-Ins&#803;ina&#772;&#700;</title>
             </msItem>
             <msItem n="46r">
               <locus>46r</locus>
-              <title>Sharṭ al-Imām ṣāḥib al-kashf</title>
+              <title>Shart&#803; al-Ima&#772;m s&#803;a&#772;h&#803;ib al-kashf</title>
             </msItem>
             <msItem n="47v">
               <locus>47v</locus>
-              <title>al-Risālah allatī ursilat ilá Walī al-ʻAhd</title>
+              <title>al-Risa&#772;lah allati&#772; ursilat ila&#769; Wali&#772; al-&#699;Ahd</title>
             </msItem>
             <msItem n="49r">
               <locus>49r</locus>
-              <title>Risālat Khumār ibn Jaysh al-Sulaymānī al-ʻAkāwī</title>
+              <title>Risa&#772;lat Khuma&#772;r ibn Jaysh al-Sulayma&#772;ni&#772; al-&#699;Aka&#772;wi&#772;</title>
             </msItem>
             <msItem n="51r">
               <locus>51r</locus>
-              <title>al-Munājāh munājāt Walī al-ḥaqq</title>
+              <title>al-Muna&#772;ja&#772;h muna&#772;ja&#772;t Wali&#772; al-h&#803;aqq</title>
             </msItem>
             <msItem n="55v">
               <locus>55v</locus>
-              <title>al-Duʻāʼ al-mustajāb</title>
+              <title>al-Du&#699;a&#772;&#700; al-mustaja&#772;b</title>
             </msItem>
             <msItem n="59r">
               <locus>59r</locus>
-              <title>Taqdīs duʻāʼ al-sādiqīn</title>
+              <title>Taqdi&#772;s du&#699;a&#772;&#700; al-sa&#772;diqi&#772;n</title>
             </msItem>
             <msItem n="60r">
               <locus>60r</locus>
-              <title>Dhikr maʻrifat al-Imām wa-asmāʼ al-Ḥudūd al-ʻulwīyah rūḥānī wa-jusmānī</title>
+              <title>Dhikr ma&#699;rifat al-Ima&#772;m wa-asma&#772;&#700; al-H&#803;udu&#772;d al-&#699;ulwi&#772;yah ru&#772;h&#803;a&#772;ni&#772; wa-jusma&#772;ni&#772;</title>
             </msItem>
             <msItem n="61v">
               <locus>61v</locus>
-              <title>Risālat al-Taḥdhīr wa-al-tanbīh</title>
+              <title>Risa&#772;lat al-Tah&#803;dhi&#772;r wa-al-tanbi&#772;h</title>
             </msItem>
             <msItem n="64v">
               <locus>64v</locus>
-              <title>al-Risālah al-mawsūmah bi-al-Iʻdhār wa-al-indhār</title>
+              <title>al-Risa&#772;lah al-mawsu&#772;mah bi-al-I&#699;dha&#772;r wa-al-indha&#772;r</title>
             </msItem>
             <msItem n="67v">
               <locus>67v</locus>
-              <title>Risālat al-Ghaybah</title>
+              <title>Risa&#772;lat al-Ghaybah</title>
             </msItem>
             <msItem n="75v">
               <locus>75v</locus>
-              <title>Kitab fihi taqsīm al-ʻulūm wa-ithbāt al-ḥaqq wa-kashf al-maknūn</title>
+              <title>Kitab fihi taqsi&#772;m al-&#699;ulu&#772;m wa-ithba&#772;t al-h&#803;aqq wa-kashf al-maknu&#772;n</title>
             </msItem>
             <msItem n="88r">
               <locus>88r</locus>
-              <title>al-Mawsūmah bi-Risālah al-zinād</title>
+              <title>al-Mawsu&#772;mah bi-Risa&#772;lah al-zina&#772;d</title>
             </msItem>
             <msItem n="93r">
               <locus>93r</locus>
-              <title>al-Mawsūmah bi-Risālah al-Shamʻah</title>
+              <title>al-Mawsu&#772;mah bi-Risa&#772;lah al-Sham&#699;ah</title>
             </msItem>
             <msItem n="98v">
               <locus>98v</locus>
-              <title>al-Mawsūmah bi-al-Rushd wa-al-hidāyah</title>
+              <title>al-Mawsu&#772;mah bi-al-Rushd wa-al-hida&#772;yah</title>
             </msItem>
             <msItem n="104r">
               <locus>104r</locus>
-              <title>Shiʻr al-Nafs wa-mā tawfīqī illā billāh</title>
+              <title>Shi&#699;r al-Nafs wa-ma&#772; tawfi&#772;qi&#772; illa&#772; billa&#772;h</title>
             </msItem>
             <msItem n="105v">
               <locus>105v</locus>
-              <title>al-Risālah al-munfadhah ilá al-Qāḍī</title>
+              <title>al-Risa&#772;lah al-munfadhah ila&#769; al-Qa&#772;d&#803;i&#772;</title>
             </msItem>
             <msItem n="107v">
               <locus>107v</locus>
-              <title>Nuskhat mā katabahu al-Qarmaṭī ilá mawlānā al-Ḥākim</title>
+              <title>Nuskhat ma&#772; katabahu al-Qarmat&#803;i&#772; ila&#769; mawla&#772;na&#772; al-H&#803;a&#772;kim</title>
             </msItem>
           </msContents>
           <physDesc>

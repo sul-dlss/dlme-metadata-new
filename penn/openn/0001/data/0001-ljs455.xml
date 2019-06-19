@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 455: Fawāʼid al-ḥabīb ... etc.</title>
+        <title>Description of University of Pennsylvania LJS 455: Fawa&#772;&#700;id al-h&#803;abi&#772;b ... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,25 +39,28 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5148248</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs455.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Alchemical treatise (Benefits of the beloved), followed by another, shorter alchemical treatise based on the work of al-ʻAbbās Aḥmad ibn Sadrullah al-Hāshimī (Rust of the physicians).</summary>
+            <summary>Alchemical treatise (Benefits of the beloved), followed by another, shorter alchemical treatise based on the work of al-&#699;Abba&#772;s Ah&#803;mad ibn Sadrullah al-Ha&#772;shimi&#772; (Rust of the physicians).</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Fawāʼid al-ḥabīb ... etc.</title>
-              <author>Ibn al-Bahāʼ</author>
-              <author>Hāshimī, al-ʻAbbās Aḥmad ibn Sadrullah</author>
+              <title>Fawa&#772;&#700;id al-h&#803;abi&#772;b ... etc.</title>
+              <author>Ibn al-Baha&#772;&#700;</author>
+              <author>Ha&#772;shimi&#772;, al-&#699;Abba&#772;s Ah&#803;mad ibn Sadrullah</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Anṣārī, ʻAlī ibn ʻAbdallah</persName>
+                <persName>Ans&#803;a&#772;ri&#772;, &#699;Ali&#772; ibn &#699;Abdallah</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Fayz̤ī, Abū al-Fayz̤ ibn Mubārak, 1547 or 8-1595</persName>
+                <persName>Fayz&#804;i&#772;, Abu&#772; al-Fayz&#804; ibn Muba&#772;rak, 1547 or 8-1595</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Khān, Muhammad Sharīf</persName>
+                <persName>Kha&#772;n, Muhammad Shari&#772;f</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
@@ -65,11 +68,11 @@
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Shīrāzī, ʻInāyatullāh</persName>
+                <persName>Shi&#772;ra&#772;zi&#772;, &#699;Ina&#772;yatulla&#772;h</persName>
               </respStmt>
               <respStmt>
                 <resp>former owner</resp>
-                <persName>Shīrāzī, ʻAbd al-Haq</persName>
+                <persName>Shi&#772;ra&#772;zi&#772;, &#699;Abd al-Haq</persName>
               </respStmt>
             </msItem>
             <msItem n="1r">
@@ -95,7 +98,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in a naskh script by ʻAlī ibn ʻAbdallah al-Anṣārī (shamsah inscription, f. 1r).</scriptNote>
+              <scriptNote>Written in a naskh script by &#699;Ali&#772; ibn &#699;Abdallah al-Ans&#803;a&#772;ri&#772; (shamsah inscription, f. 1r).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Illuminated shamsah and headpiece (f. 1r); 2 simple diagrams in red ink (f. 51r); punctuation, marginal annotations, and a few significant words and phrases in red.</decoNote>
@@ -114,7 +117,7 @@
               <origDate>ca. 1400</origDate>
               <origPlace>Egypt?</origPlace>
             </origin>
-            <provenance>Ownership seals and inscriptions (f. 1r) of  Mughal royal tutor Abū al-Fayz̤ ibn Mubārak al-Fayz̤ī (1584); court official Muhammad Sharīf Khān (1594-1595); Akbar, Emperor of Hindustan (1598); royal librarian ʻInāyatullāh Shīrāzī (1607-1608); and Taj Mahal scribe ʻAbd al-Haq al-Shīrāzī, Amanat Khan (1632-1633).</provenance>
+            <provenance>Ownership seals and inscriptions (f. 1r) of  Mughal royal tutor Abu&#772; al-Fayz&#804; ibn Muba&#772;rak al-Fayz&#804;i&#772; (1584); court official Muhammad Shari&#772;f Kha&#772;n (1594-1595); Akbar, Emperor of Hindustan (1598); royal librarian &#699;Ina&#772;yatulla&#772;h Shi&#772;ra&#772;zi&#772; (1607-1608); and Taj Mahal scribe &#699;Abd al-Haq al-Shi&#772;ra&#772;zi&#772;, Amanat Khan (1632-1633).</provenance>
             <provenance>Sold at auction at Christie's, 14 Oct. 2003, lot 25, to Lawrence J. Schoenberg.</provenance>
             <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
           </history>

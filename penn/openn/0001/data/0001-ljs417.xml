@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 417: Books III-V of al-Qānūn fī al-ṭibb</title>
+        <title>Description of University of Pennsylvania LJS 417: Books III-V of al-Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,16 +39,19 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5864572</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs417.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Books III (al-Amrāḍ al-juzʼīyah, diseases arranged by part of the body), IV (al-Amrāḍ al latī la takhaṣ bi-ʻuḍwīn bi-ʻaynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries) of Avicenna's medical encyclopedia. Extensive marginal notes on the first pages of the manuscript (f. 1v-3r), with frequent brief marginal notes in the rest of the manuscript. A somewhat later table of contents, arranged in a grid, has been added at the front of the volume (f. iii recto-xvii recto).</summary>
+            <summary>Books III (al-Amra&#772;d&#803; al-juz&#700;i&#772;yah, diseases arranged by part of the body), IV (al-Amra&#772;d&#803; al lati&#772; la takhas&#803; bi-&#699;ud&#803;wi&#772;n bi-&#699;aynih, diseases not specific to particular organs), and V (al-Adwiyah al-murakkabah, compound drugs, ointments, and electuaries) of Avicenna's medical encyclopedia. Extensive marginal notes on the first pages of the manuscript (f. 1v-3r), with frequent brief marginal notes in the rest of the manuscript. A somewhat later table of contents, arranged in a grid, has been added at the front of the volume (f. iii recto-xvii recto).</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Books III-V of al-Qānūn fī al-ṭibb</title>
+              <title>Books III-V of al-Qa&#772;nu&#772;n fi&#772; al-t&#803;ibb</title>
               <author>Avicenna, 980-1037</author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName>Farīj al-Karāb Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab</persName>
+                <persName>Fari&#772;j al-Kara&#772;b Yu&#772;suf ibn H&#803;usayn ibn Fayya&#772;d&#803; al-&#699;Arab</persName>
               </respStmt>
             </msItem>
           </msContents>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in naskh script, in the hand of Farīj al-Karāb Yūsuf ibn Ḥusayn ibn Fayyāḍ al-ʻArab (colophons, f. 356r, 489r, 541r, 598v) and also perhaps another hand (f. 1v-541r, 542v-598v).</scriptNote>
+              <scriptNote>Written in naskh script, in the hand of Fari&#772;j al-Kara&#772;b Yu&#772;suf ibn H&#803;usayn ibn Fayya&#772;d&#803; al-&#699;Arab (colophons, f. 356r, 489r, 541r, 598v) and also perhaps another hand (f. 1v-541r, 542v-598v).</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>2 illuminated headpieces, the first rubbed (f. 1v, 542v), and space left open for another headpiece (f. 357v); overlining, a few significant words and phrases, and simple ornamentation around colophons (f. 356r, 489r, 541r) in red ink in first section of manuscript (f. 1v-541r); much less overlining and more words and phrases in red in second section of manuscript (f. 542v-598v); some marginal notes in red, sometimes corresponding to overlined words or words in red in the main text; text block outlined with several narrow ink lines on the first 2 pages (f. 1v-2r); later table of contents in black and red (f. iii recto-xvii recto).</decoNote>
@@ -104,7 +107,7 @@
             </decoDesc>
             <bindingDesc>
               <binding>
-                <p>Composite morocco, with blind-stamped medallions; paper label with title Kitāb al-Qānūn in ink on upper cover.</p>
+                <p>Composite morocco, with blind-stamped medallions; paper label with title Kita&#772;b al-Qa&#772;nu&#772;n in ink on upper cover.</p>
               </binding>
             </bindingDesc>
           </physDesc>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1914: Sharḥ al-muqaddimah al-Qurṭubīyah... etc.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1914: Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah... etc.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1914: Sharḥ al-muqaddimah al-Qurṭubīyah... etc. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1914: Sharḥ al-muqaddimah al-Qurṭubīyah... etc.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1914: Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah... etc. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1914: Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah... etc.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -29,24 +29,27 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578333</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1914.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of works: poetry by Abū Sālim al-ʻAyyāshī, a work on prosody by Ḍiyāʼ al-Dīn al-Khazrajī, a commentary on religious obligations by Aḥmad b. Aḥmad Zarrūq, and some incomplete works at the end, including a section of Galen and another poem.</summary>
+            <summary>Collection of works: poetry by Abu&#772; Sa&#772;lim al-&#699;Ayya&#772;shi&#772;, a work on prosody by D&#803;iya&#772;&#700; al-Di&#772;n al-Khazraji&#772;, a commentary on religious obligations by Ah&#803;mad b. Ah&#803;mad Zarru&#772;q, and some incomplete works at the end, including a section of Galen and another poem.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Sharḥ al-muqaddimah al-Qurṭubīyah... etc.</title>
-              <title type="vernacular">شرح المقدمة القرطبية... [إلخ.]</title>
+              <title>Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah... etc.</title>
+              <title type="vernacular">&#1588;&#1585;&#1581; &#1575;&#1604;&#1605;&#1602;&#1583;&#1605;&#1577; &#1575;&#1604;&#1602;&#1585;&#1591;&#1576;&#1610;&#1577;... [&#1573;&#1604;&#1582;.]</title>
               <author>
-                <persName type="authority">ʻAyyāshī, Abū Sālim ʻAbd Allāh ibn Muḥammad, 1628-1679</persName>
-                <persName type="vernacular">عياشي، ابو سال عبد الله بن محمد</persName>
+                <persName type="authority">&#699;Ayya&#772;shi&#772;, Abu&#772; Sa&#772;lim &#699;Abd Alla&#772;h ibn Muh&#803;ammad, 1628-1679</persName>
+                <persName type="vernacular">&#1593;&#1610;&#1575;&#1588;&#1610;&#1548; &#1575;&#1576;&#1608; &#1587;&#1575;&#1604; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583;</persName>
               </author>
               <author>
-                <persName type="authority">Khazrajī, ʻAbd Allāh ibn ʻUthmān, active 12th century-13th century</persName>
-                <persName type="vernacular">خزرجي، عبد الله بن عثمان،</persName>
+                <persName type="authority">Khazraji&#772;, &#699;Abd Alla&#772;h ibn &#699;Uthma&#772;n, active 12th century-13th century</persName>
+                <persName type="vernacular">&#1582;&#1586;&#1585;&#1580;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1593;&#1579;&#1605;&#1575;&#1606;&#1548;</persName>
               </author>
               <author>
-                <persName type="authority">Zarrūq, Aḥmad ibn Aḥmad, -1493</persName>
-                <persName type="vernacular">زروق، احمد بن احمد،</persName>
+                <persName type="authority">Zarru&#772;q, Ah&#803;mad ibn Ah&#803;mad, -1493</persName>
+                <persName type="vernacular">&#1586;&#1585;&#1608;&#1602;&#1548; &#1575;&#1581;&#1605;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -59,19 +62,19 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Sharḥ al-muqaddimah al-Qurṭubīyah... [etc.]</title>
+              <title>Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah... [etc.]</title>
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Wasīlat al-gharīq bi-aʼimmat al-ṭarīq and other poems</title>
+              <title>Wasi&#772;lat al-ghari&#772;q bi-a&#700;immat al-t&#803;ari&#772;q and other poems</title>
             </msItem>
             <msItem n="41v">
               <locus>41v</locus>
-              <title>[Rāmizah al-shāfiyah fī ʻilmay al-ʻarūḍ wa-al-qāfiyah]</title>
+              <title>[Ra&#772;mizah al-sha&#772;fiyah fi&#772; &#699;ilmay al-&#699;aru&#772;d&#803; wa-al-qa&#772;fiyah]</title>
             </msItem>
             <msItem n="46v">
               <locus>46v</locus>
-              <title>Sharḥ al-muqaddimah al-Qurṭubīyah</title>
+              <title>Sharh&#803; al-muqaddimah al-Qurt&#803;ubi&#772;yah</title>
             </msItem>
             <msItem n="134v">
               <locus>134v</locus>

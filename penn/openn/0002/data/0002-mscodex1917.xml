@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1917: al-Qurʼān.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1917: al-Qur&#700;a&#772;n.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1917: al-Qurʼān. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1917: al-Qurʼān.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1917: al-Qur&#700;a&#772;n. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1917: al-Qur&#700;a&#772;n.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
-        <note>First folio missing; would have held Sūrat al-Fātiḥah (The Opening).</note>
+        <note>First folio missing; would have held Su&#772;rat al-Fa&#772;tih&#803;ah (The Opening).</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -29,13 +29,16 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578373</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1917.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Small copy of the Qur'ān; complete except for first folio and covers; begins with Sūrat al-Baqarah (The Cow) 1 (2:1).</summary>
+            <summary>Small copy of the Qur'a&#772;n; complete except for first folio and covers; begins with Su&#772;rat al-Baqarah (The Cow) 1 (2:1).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>al-Qurʼān.</title>
-              <title type="vernacular">[القرآن]</title>
+              <title>al-Qur&#700;a&#772;n.</title>
+              <title type="vernacular">[&#1575;&#1604;&#1602;&#1585;&#1570;&#1606;]</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Camac, William, 1829-1900</persName>
@@ -43,7 +46,7 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[al-Qurʼān].</title>
+              <title>[al-Qur&#700;a&#772;n].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -63,7 +66,7 @@
               <scriptNote>Written in naskh using black ink.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Sūrah titles rubricated and framed in gold; textblock ruled in gold, black, blue; page openings framed in gold and black rules; gold roundels at end of each verse; text partitions noted in red in the margins; first opening shows half of a double page illumination in gold, red, blue with text on cloudbands (f. 1r).</decoNote>
+              <decoNote>Su&#772;rah titles rubricated and framed in gold; textblock ruled in gold, black, blue; page openings framed in gold and black rules; gold roundels at end of each verse; text partitions noted in red in the margins; first opening shows half of a double page illumination in gold, red, blue with text on cloudbands (f. 1r).</decoNote>
               <decoNote n="1r">Illuminated borders</decoNote>
             </decoDesc>
             <bindingDesc>
@@ -87,7 +90,7 @@
         <keywords n="form/genre">
           <term>Codices (bound manuscripts)</term>
           <term>Illuminations (painting)</term>
-          <term>Qurʼans</term>
+          <term>Qur&#700;ans</term>
           <term>Manuscripts, Arabic--18th century</term>
           <term>Manuscripts, Arabic--19th century</term>
         </keywords>

@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 173: Ziyārat-i ʻĀshūrāʼ.</title>
+        <title>Description of Columbia University. MS Or 173: Ziya&#772;rat-i &#699;A&#772;shu&#772;ra&#772;&#700;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 173: Ziyārat-i ʻĀshūrāʼ. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 173: Ziyārat-i ʻĀshūrāʼ.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 173: Ziya&#772;rat-i &#699;A&#772;shu&#772;ra&#772;&#700;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 173: Ziya&#772;rat-i &#699;A&#772;shu&#772;ra&#772;&#700;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -35,13 +35,16 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13616804</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_173.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Book of prayers to say during visits to sacred sites including during the ʻĀshūrā pilgrimage, when visiting the grave of al-Ḥusayn ibn ʻAlī. Prayers in Arabic with Persian instruction and some translation.</summary>
+            <summary>Book of prayers to say during visits to sacred sites including during the &#699;A&#772;shu&#772;ra&#772; pilgrimage, when visiting the grave of al-H&#803;usayn ibn &#699;Ali&#772;. Prayers in Arabic with Persian instruction and some translation.</summary>
             <textLang mainLang="ara" otherLangs="per">Arabic and Persian</textLang>
             <msItem>
-              <title>Ziyārat-i ʻĀshūrāʼ.</title>
-              <title type="vernacular">زیارت عاشوراء</title>
+              <title>Ziya&#772;rat-i &#699;A&#772;shu&#772;ra&#772;&#700;.</title>
+              <title type="vernacular">&#1586;&#1740;&#1575;&#1585;&#1578; &#1593;&#1575;&#1588;&#1608;&#1585;&#1575;&#1569;</title>
               <respStmt>
                 <resp>former owner</resp>
                 <persName type="authority">Smith, David Eugene, 1860-1944</persName>
@@ -49,7 +52,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Ziyārat-i ʻĀshūrāʼ.</title>
+              <title>Ziya&#772;rat-i &#699;A&#772;shu&#772;ra&#772;&#700;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -65,7 +68,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Naskh for the Arabic and nastaʻlīq for some Persian; black ink, pointed with Arabic vocalized.</scriptNote>
+              <scriptNote>Naskh for the Arabic and nasta&#699;li&#772;q for some Persian; black ink, pointed with Arabic vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Gold and polychrome illuminated headpiece (f. 1v). Border-rules in red, gold, blue; page-frame ruled in black; lines ruled in gold. Rubrications in red and blue.</decoNote>
@@ -93,10 +96,10 @@
     <profileDesc>
       <textClass>
         <keywords n="subjects">
-          <term>Muslim pilgrims and pilgrimages--Iraq--Karbalāʼ--Early works to 1800</term>
+          <term>Muslim pilgrims and pilgrimages--Iraq--Karbala&#772;&#700;--Early works to 1800</term>
           <term>Shiite shrines--Early works to 1800</term>
           <term>Prayer--Islam--Early works to 1800</term>
-          <term>Tenth of Muḥarram--Prayers--Early works to 1800</term>
+          <term>Tenth of Muh&#803;arram--Prayers--Early works to 1800</term>
           <term>Manuscripts, Arabic</term>
         </keywords>
         <keywords n="form/genre">

@@ -1,21 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1958: Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1958: Insha&#772;-yi Ma&#772;dhava Ra&#772;ma. Insha&#772;-yi Dilkusha&#772;.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1958: Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1958: Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1958: Insha&#772;-yi Ma&#772;dhava Ra&#772;ma. Insha&#772;-yi Dilkusha&#772;. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1958: Insha&#772;-yi Ma&#772;dhava Ra&#772;ma. Insha&#772;-yi Dilkusha&#772;.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
         <note>Ms. codex.</note>
         <note>Title from introduction of first work (f.1v) and introduction of second work (f. 91r).</note>
-        <note>Bound with Inshā-yi Dilkusha.</note>
+        <note>Bound with Insha&#772;-yi Dilkusha.</note>
       </notesStmt>
       <sourceDesc>
         <msDesc>
@@ -30,20 +30,23 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1061859381</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1958.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Two works on composing letters in Persian. The works were copied at different times and by different scribes and then bound together.</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Inshā-yi Mādhava Rāma. Inshā-yi Dilkushā.</title>
-              <title type="vernacular">انشاى مادهو‌ رام. انشاى دلکشا</title>
+              <title>Insha&#772;-yi Ma&#772;dhava Ra&#772;ma. Insha&#772;-yi Dilkusha&#772;.</title>
+              <title type="vernacular">&#1575;&#1606;&#1588;&#1575;&#1609; &#1605;&#1575;&#1583;&#1607;&#1608;&#8204; &#1585;&#1575;&#1605;. &#1575;&#1606;&#1588;&#1575;&#1609; &#1583;&#1604;&#1705;&#1588;&#1575;</title>
               <author>
-                <persName type="authority">Mādhava Rāma</persName>
-                <persName type="vernacular">مادهو رام</persName>
+                <persName type="authority">Ma&#772;dhava Ra&#772;ma</persName>
+                <persName type="vernacular">&#1605;&#1575;&#1583;&#1607;&#1608; &#1585;&#1575;&#1605;</persName>
               </author>
               <author>
-                <persName type="authority">Barīlvī, Sayyid Nis̲ār ʻAlī Bukhārī</persName>
-                <persName type="vernacular">بریلوى، سيد نثار على بخارى</persName>
+                <persName type="authority">Bari&#772;lvi&#772;, Sayyid Nis&#818;a&#772;r &#699;Ali&#772; Bukha&#772;ri&#772;</persName>
+                <persName type="vernacular">&#1576;&#1585;&#1740;&#1604;&#1608;&#1609;&#1548; &#1587;&#1610;&#1583; &#1606;&#1579;&#1575;&#1585; &#1593;&#1604;&#1609; &#1576;&#1582;&#1575;&#1585;&#1609;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -52,11 +55,11 @@
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>Inshā-yi Mādhava Rāma.</title>
+              <title>Insha&#772;-yi Ma&#772;dhava Ra&#772;ma.</title>
             </msItem>
             <msItem n="91r">
               <locus>91r</locus>
-              <title>Inshā-yi Dilkushā.</title>
+              <title>Insha&#772;-yi Dilkusha&#772;.</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -73,7 +76,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in rapid nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in rapid nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red.</decoNote>
@@ -87,7 +90,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Likely copied in India; Inshā-yi Mādhū Rām was copied in 1259 (1843) (f. 89r); Inshā-yi Dilkusha was copied in A.H. 1224 (1809) (f. 130r).</p>
+              <p>Likely copied in India; Insha&#772;-yi Ma&#772;dhu&#772; Ra&#772;m was copied in 1259 (1843) (f. 89r); Insha&#772;-yi Dilkusha was copied in A.H. 1224 (1809) (f. 130r).</p>
               <origDate>A.H. 1224, 1259 (1809, 1843)</origDate>
               <origPlace>India?</origPlace>
             </origin>

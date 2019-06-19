@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,7 +9,7 @@
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5082672</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs407.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Collection of astronomical works by Naṣīr al-Dīn al-Ṭūsī, which include material on sunset and sunrise, the size of the earth, the moon, the distance to the moon, the distance between the sun and the planets, movement of the spheres, and eclipses. Some marginal notes in another hand, affected by trimming.</summary>
+            <summary>Collection of astronomical works by Nas&#803;i&#772;r al-Di&#772;n al-T&#803;u&#772;si&#772;, which include material on sunset and sunrise, the size of the earth, the moon, the distance to the moon, the distance between the sun and the planets, movement of the spheres, and eclipses. Some marginal notes in another hand, affected by trimming.</summary>
             <textLang>Arabic</textLang>
             <msItem>
               <title>Collection of astronomical texts</title>
-              <author>Ṭūsī, Naṣīr al-Dīn Muḥammad ibn Muḥammad, 1201-1274</author>
+              <author>T&#803;u&#772;si&#772;, Nas&#803;i&#772;r al-Di&#772;n Muh&#803;ammad ibn Muh&#803;ammad, 1201-1274</author>
             </msItem>
           </msContents>
           <physDesc>

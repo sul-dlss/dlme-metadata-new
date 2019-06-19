@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 387: Qāmūs al-muḥīṭ</title>
+        <title>Description of University of Pennsylvania LJS 387: Qa&#772;mu&#772;s al-muh&#803;i&#772;t&#803;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5438045</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs387.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Dictionary of the Arabic language originally compiled between 1368 and 1392 whose title translates into English as The ocean. Words are indexed by their last root letter and have brief definitions. Frequent marginal notes.</summary>
             <textLang>Arabic</textLang>
             <msItem>
-              <title>Qāmūs al-muḥīṭ</title>
-              <author>Fīrūzābādī, Muḥammad ibn Yaʻqūb, 1329-1414 or 15</author>
+              <title>Qa&#772;mu&#772;s al-muh&#803;i&#772;t&#803;</title>
+              <author>Fi&#772;ru&#772;za&#772;ba&#772;di&#772;, Muh&#803;ammad ibn Ya&#699;qu&#772;b, 1329-1414 or 15</author>
             </msItem>
           </msContents>
           <physDesc>

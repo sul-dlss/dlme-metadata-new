@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania Ms. Codex 1915: Natāj al-fikr fī kashf asrār al-Mukhtaṣar.</title>
+        <title>Description of University of Pennsylvania Ms. Codex 1915: Nata&#772;j al-fikr fi&#772; kashf asra&#772;r al-Mukhtas&#803;ar.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>University of Pennsylvania</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1915: Natāj al-fikr fī kashf asrār al-Mukhtaṣar. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1915: Natāj al-fikr fī kashf asrār al-Mukhtaṣar.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1915: Nata&#772;j al-fikr fi&#772; kashf asra&#772;r al-Mukhtas&#803;ar. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, University of Pennsylvania Libraries has waived all copyright and related or neighboring rights to this metadata about Kislak Center for Special Collections, Rare Books and Manuscripts Ms. Codex 1915: Nata&#772;j al-fikr fi&#772; kashf asra&#772;r al-Mukhtas&#803;ar.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -30,16 +30,19 @@
             <altIdentifier type="oclc">
               <idno>http://www.worldcat.org/oclc/1059578617</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0002/html/mscodex1915.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>First volume (of 4) of a commentary on a work about Malikī law called al-Mukhtaṣar by Khalīl ibn Isḥāq al-Jundī (d. 1365?).</summary>
+            <summary>First volume (of 4) of a commentary on a work about Maliki&#772; law called al-Mukhtas&#803;ar by Khali&#772;l ibn Ish&#803;a&#772;q al-Jundi&#772; (d. 1365?).</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Natāj al-fikr fī kashf asrār al-Mukhtaṣar.</title>
-              <title type="vernacular">نتاج الفكر في كشف اسرار المختصر</title>
+              <title>Nata&#772;j al-fikr fi&#772; kashf asra&#772;r al-Mukhtas&#803;ar.</title>
+              <title type="vernacular">&#1606;&#1578;&#1575;&#1580; &#1575;&#1604;&#1601;&#1603;&#1585; &#1601;&#1610; &#1603;&#1588;&#1601; &#1575;&#1587;&#1585;&#1575;&#1585; &#1575;&#1604;&#1605;&#1582;&#1578;&#1589;&#1585;</title>
               <author>
-                <persName type="authority">Zurqānī, ʻAbd al-Bāqī ibn Yūsuf, 1611-1688</persName>
-                <persName type="vernacular">زرقاني، عبد الباقي بن يوسف</persName>
+                <persName type="authority">Zurqa&#772;ni&#772;, &#699;Abd al-Ba&#772;qi&#772; ibn Yu&#772;suf, 1611-1688</persName>
+                <persName type="vernacular">&#1586;&#1585;&#1602;&#1575;&#1606;&#1610;&#1548; &#1593;&#1576;&#1583; &#1575;&#1604;&#1576;&#1575;&#1602;&#1610; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601;</persName>
               </author>
               <respStmt>
                 <resp>former owner</resp>
@@ -52,7 +55,7 @@
             </msItem>
             <msItem n="1v">
               <locus>1v</locus>
-              <title>Natāj al-fikr fī kashf asrār al-Mukhtaṣar.</title>
+              <title>Nata&#772;j al-fikr fi&#772; kashf asra&#772;r al-Mukhtas&#803;ar.</title>
             </msItem>
           </msContents>
           <physDesc>

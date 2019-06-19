@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of University of Pennsylvania LJS 400: Sharḥ-i Zīj Gūrgānī</title>
+        <title>Description of University of Pennsylvania LJS 400: Sharh&#803;-i Zi&#772;j Gu&#772;rga&#772;ni&#772;</title>
       </titleStmt>
       <publicationStmt>
         <publisher>The University of Pennsylvania Libraries</publisher>
         <availability>
           <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
-                                This description is ©2015 University of
+                                This description is &#169;2015 University of
                                 Pennsylvania Libraries. It is licensed under a Creative Commons
                                 Attribution License version 4.0 (CC-BY-4.0
                                 https://creativecommons.org/licenses/by/4.0/legalcode. For a
@@ -39,13 +39,16 @@
             <altIdentifier type="resource">
               <idno>http://hdl.library.upenn.edu/1017/d/medren/5081245</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0001/html/ljs400.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary on the Zīj Gūrgānī, also known as the Zīj-i jadīd-i Sultānī, which comprised tables of calendar calculations, trigonometry, planets, and stars compiled from observations made at the observatory in Samarqand, completed in 1447. The tables themselves are not included.</summary>
+            <summary>Commentary on the Zi&#772;j Gu&#772;rga&#772;ni&#772;, also known as the Zi&#772;j-i jadi&#772;d-i Sulta&#772;ni&#772;, which comprised tables of calendar calculations, trigonometry, planets, and stars compiled from observations made at the observatory in Samarqand, completed in 1447. The tables themselves are not included.</summary>
             <textLang>Persian</textLang>
             <msItem>
-              <title>Sharḥ-i Zīj Gūrgānī</title>
-              <author>Qūshjī, ʻAlī ibn Muḥammad, d. 1474 or 5</author>
+              <title>Sharh&#803;-i Zi&#772;j Gu&#772;rga&#772;ni&#772;</title>
+              <author>Qu&#772;shji&#772;, &#699;Ali&#772; ibn Muh&#803;ammad, d. 1474 or 5</author>
             </msItem>
           </msContents>
           <physDesc>

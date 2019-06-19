@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -36,6 +36,9 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13622991</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_152a.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
             <summary>Unidentified text related to astrology and letter magic, includes copies of different ways of writing the alphabet. Text begins abruptly.</summary>
@@ -66,7 +69,7 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in two styles of naskh in black and red; consistent use of hāʼ musalsalah; pointed, partially vocalized.</scriptNote>
+              <scriptNote>Written in two styles of naskh in black and red; consistent use of ha&#772;&#700; musalsalah; pointed, partially vocalized.</scriptNote>
             </scriptDesc>
             <decoDesc>
               <decoNote>Rubrications in red, including special alphabets; textblock bordered in red, double rules; illustration of human body in brown and red inks with textblock as the torso (f. 3v); table of the planets in black and red (f. 8r).</decoNote>

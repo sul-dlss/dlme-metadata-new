@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Columbia University. MS Or 365: Mukhtaṣar al-maʻānī fī al-balāghah.</title>
+        <title>Description of Columbia University. MS Or 365: Mukhtas&#803;ar al-ma&#699;a&#772;ni&#772; fi&#772; al-bala&#772;ghah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Columbia University.</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 365: Mukhtaṣar al-maʻānī fī al-balāghah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 365: Mukhtaṣar al-maʻānī fī al-balāghah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 365: Mukhtas&#803;ar al-ma&#699;a&#772;ni&#772; fi&#772; al-bala&#772;ghah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 365: Mukhtas&#803;ar al-ma&#699;a&#772;ni&#772; fi&#772; al-bala&#772;ghah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -36,26 +36,29 @@
             <altIdentifier type="resource">
               <idno>https://clio.columbia.edu/catalog/13848494</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0032/html/ms_or_365.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Commentary, missing the beginning, on al-Qazwīnī's Talkhīṣ al-Miftāḥ, itself a commentary on the section "al-bayān wa-al-maʻānī" of al-Sakkākī's Miftāḥ al-ʻulūm.</summary>
+            <summary>Commentary, missing the beginning, on al-Qazwi&#772;ni&#772;'s Talkhi&#772;s&#803; al-Mifta&#772;h&#803;, itself a commentary on the section "al-baya&#772;n wa-al-ma&#699;a&#772;ni&#772;" of al-Sakka&#772;ki&#772;'s Mifta&#772;h&#803; al-&#699;ulu&#772;m.</summary>
             <textLang mainLang="ara">Arabic</textLang>
             <msItem>
-              <title>Mukhtaṣar al-maʻānī fī al-balāghah.</title>
-              <title type="vernacular">[مختصر المعاني في البلاغة]</title>
+              <title>Mukhtas&#803;ar al-ma&#699;a&#772;ni&#772; fi&#772; al-bala&#772;ghah.</title>
+              <title type="vernacular">[&#1605;&#1582;&#1578;&#1589;&#1585; &#1575;&#1604;&#1605;&#1593;&#1575;&#1606;&#1610; &#1601;&#1610; &#1575;&#1604;&#1576;&#1604;&#1575;&#1594;&#1577;]</title>
               <author>
-                <persName type="authority">Taftāzānī, Masʻūd ibn ʻUmar, 1322-1389?</persName>
-                <persName type="vernacular">تفتازاني، مسعود بن عمر،</persName>
+                <persName type="authority">Tafta&#772;za&#772;ni&#772;, Mas&#699;u&#772;d ibn &#699;Umar, 1322-1389?</persName>
+                <persName type="vernacular">&#1578;&#1601;&#1578;&#1575;&#1586;&#1575;&#1606;&#1610;&#1548; &#1605;&#1587;&#1593;&#1608;&#1583; &#1576;&#1606; &#1593;&#1605;&#1585;&#1548;</persName>
               </author>
               <respStmt>
                 <resp>scribe</resp>
-                <persName type="authority">Jabartī, Maḥmūd ibn Ḥusayn ibn ʻAbd Allāh</persName>
-                <persName type="vernacular">جبرتي، محمود بن حسين بن عبد الله.</persName>
+                <persName type="authority">Jabarti&#772;, Mah&#803;mu&#772;d ibn H&#803;usayn ibn &#699;Abd Alla&#772;h</persName>
+                <persName type="vernacular">&#1580;&#1576;&#1585;&#1578;&#1610;&#1548; &#1605;&#1581;&#1605;&#1608;&#1583; &#1576;&#1606; &#1581;&#1587;&#1610;&#1606; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607;.</persName>
               </respStmt>
             </msItem>
             <msItem n="1r">
               <locus>1r</locus>
-              <title>[Mukhtaṣar al-maʻānī fī al-balāghah].</title>
+              <title>[Mukhtas&#803;ar al-ma&#699;a&#772;ni&#772; fi&#772; al-bala&#772;ghah].</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -85,7 +88,7 @@
           </physDesc>
           <history>
             <origin>
-              <p>Copy completed by Maḥmūd ibn Ḥusayn ibn ʻAbd Allāh al-Jabartī (f. 146r), perhaps in the 16th century.</p>
+              <p>Copy completed by Mah&#803;mu&#772;d ibn H&#803;usayn ibn &#699;Abd Alla&#772;h al-Jabarti&#772; (f. 146r), perhaps in the 16th century.</p>
               <origDate>15--?</origDate>
             </origin>
           </history>
@@ -102,7 +105,7 @@
           <term>Codices (bound manuscripts)</term>
           <term>Manuscripts (documents)</term>
           <term>Commentaries</term>
-          <term>Remboîtage (Binding)</term>
+          <term>Remboi&#770;tage (Binding)</term>
           <term>Blind tooled (decoration)</term>
         </keywords>
       </textClass>

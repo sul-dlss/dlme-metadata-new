@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='ASCII'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Description of Free Library of Philadelphia Lewis O 58: Shāhʹnāmah.</title>
+        <title>Description of Free Library of Philadelphia Lewis O 58: Sha&#772;h&#697;na&#772;mah.</title>
       </titleStmt>
       <publicationStmt>
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
-          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 58: Shāhʹnāmah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 58: Shāhʹnāmah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book Department Lewis O 58: Sha&#772;h&#697;na&#772;mah. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Rare Book Department Lewis O 58: Sha&#772;h&#697;na&#772;mah.. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -32,16 +32,19 @@
             <altIdentifier type="resource">
               <idno>https://know.freelibrary.org/Record/2441493</idno>
             </altIdentifier>
+            <altIdentifier type="openn-url">
+              <idno xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">http://openn.library.upenn.edu/Data/0023/html/lewis_o_058.html</idno>
+            </altIdentifier>
           </msIdentifier>
           <msContents>
-            <summary>Copy of the Shāhnāmah with 119 miniatures. A list of rulers and the length of their rule is pasted in before the text begins (f. 1v).</summary>
+            <summary>Copy of the Sha&#772;hna&#772;mah with 119 miniatures. A list of rulers and the length of their rule is pasted in before the text begins (f. 1v).</summary>
             <textLang mainLang="per">Persian</textLang>
             <msItem>
-              <title>Shāhʹnāmah.</title>
-              <title type="vernacular">شاه‌نامه</title>
+              <title>Sha&#772;h&#697;na&#772;mah.</title>
+              <title type="vernacular">&#1588;&#1575;&#1607;&#8204;&#1606;&#1575;&#1605;&#1607;</title>
               <author>
-                <persName type="authority">Firdawsī</persName>
-                <persName type="vernacular">فردوسي</persName>
+                <persName type="authority">Firdawsi&#772;</persName>
+                <persName type="vernacular">&#1601;&#1585;&#1583;&#1608;&#1587;&#1610;</persName>
               </author>
               <author>
                 <name type="authority">Free Library of Philadelphia. Rare Book Department. John Frederick Lewis Collection of Oriental Manuscripts</name>
@@ -61,7 +64,7 @@
             </msItem>
             <msItem n="2v">
               <locus>2v</locus>
-              <title>Shāhnāmah</title>
+              <title>Sha&#772;hna&#772;mah</title>
             </msItem>
           </msContents>
           <physDesc>
@@ -78,10 +81,10 @@
               </layoutDesc>
             </objectDesc>
             <scriptDesc>
-              <scriptNote>Written in nastaʻliq in black ink; pointed.</scriptNote>
+              <scriptNote>Written in nasta&#699;liq in black ink; pointed.</scriptNote>
             </scriptDesc>
             <decoDesc>
-              <decoNote>Dual page floriate illuminated first opening in gold, red, and blue with 5 lines of text on cloudbands (f. 1v-2r). Second illuminated header in the same colors (f. 273v). Floriate illuminated panels in gold red and blue across two columns indicate text divisions and appear numerously throughout the manuscript. 119 vividly colored miniatures, mostly half-page size (f. 19v, 23v, 27r, 42r, 45v, 52r, 55v, 57r-57v, 73v, 76r, 77v, 85r, 90r, 95r, 98r, 107r, 122r, 124v, 127v-128r, 132r, 138r, 144r, 146v, 148r, 154r, 156r, 169v, 174r, 179v-180r, 183v, 185r, 188r, 190v, 195v, 201v, 205r-205v, 215v, 217r, 227r-231v [a set of battle images], 235r-235v, 246v, 248v, 253r, 260r, 263v, 265r, 267v, 271v, 272r, 276r, 278v, 280v, 290r, 297r, 299r-299v, 300v, 304r, 306v, 311v, 316r, 318r, 320v, 322r, 324r, 329r, 333v, 336r, 339r, 340r, 342r, 328r, 354r, 355r, 356v, 358v, 363r, 365v, 367r, 371v, 376v, 388r, 395v, 399v, 420v, 431r, 435v, 437r, 441v, 454v, 463r, 473r, 477v, 481r, 484v, 487r, 493r, 499r, 500r, 503r, 507v, 511v, 526v, 530v, 533v). In many of the images, the king resembles Fatḥ-ʻAlī Shāh of the Qajar dynasty.</decoNote>
+              <decoNote>Dual page floriate illuminated first opening in gold, red, and blue with 5 lines of text on cloudbands (f. 1v-2r). Second illuminated header in the same colors (f. 273v). Floriate illuminated panels in gold red and blue across two columns indicate text divisions and appear numerously throughout the manuscript. 119 vividly colored miniatures, mostly half-page size (f. 19v, 23v, 27r, 42r, 45v, 52r, 55v, 57r-57v, 73v, 76r, 77v, 85r, 90r, 95r, 98r, 107r, 122r, 124v, 127v-128r, 132r, 138r, 144r, 146v, 148r, 154r, 156r, 169v, 174r, 179v-180r, 183v, 185r, 188r, 190v, 195v, 201v, 205r-205v, 215v, 217r, 227r-231v [a set of battle images], 235r-235v, 246v, 248v, 253r, 260r, 263v, 265r, 267v, 271v, 272r, 276r, 278v, 280v, 290r, 297r, 299r-299v, 300v, 304r, 306v, 311v, 316r, 318r, 320v, 322r, 324r, 329r, 333v, 336r, 339r, 340r, 342r, 328r, 354r, 355r, 356v, 358v, 363r, 365v, 367r, 371v, 376v, 388r, 395v, 399v, 420v, 431r, 435v, 437r, 441v, 454v, 463r, 473r, 477v, 481r, 484v, 487r, 493r, 499r, 500r, 503r, 507v, 511v, 526v, 530v, 533v). In many of the images, the king resembles Fath&#803;-&#699;Ali&#772; Sha&#772;h of the Qajar dynasty.</decoNote>
               <decoNote n="2v">Dual page illumination</decoNote>
               <decoNote n="3r">Dual page illumination</decoNote>
               <decoNote n="3v">Example of illuminated text dividers</decoNote>
