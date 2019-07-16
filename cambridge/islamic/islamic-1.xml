@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1125</title>
+                <funder>JISC</funder>
+                <principal>Gillian Evison</principal>
+                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mdc">metadata creator</resp>
+                    <persName instant="false" full="yes">Ignacio Sanchez</persName>
+                </respStmt>
+                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/trc">transcriber</resp>
+                    <orgName instant="false" full="yes">Corpus Coranicum</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian" instant="false">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Near and Middle Eastern Collections</addrLine>
+                        <addrLine>Cambridge University Library</addrLine>
+                        <street>West Road</street>
+                        <settlement>Cambridge</settlement>
+                        <postCode>CB3 9DR</postCode>
+                        <addrLine>
+                            <ref target="http://www.lib.cam.ac.uk/deptserv/neareastern/">Cambridge
+                                University Library </ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>near_eastern@lib.cam.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno>OCIMCO</idno>
+
+                <availability xml:id="displayImageRights" status="restricted" default="false">
+                    <p part="N">Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata
+                        is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported
+                        License.</licence>
+                </availability>
+
+            </publicationStmt>
+            <sourceDesc default="false">
+                <msDesc xml:id="MS-ADD-01125" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Add.1125</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">islamic</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents defective="false">
+                        <summary>Fragments of a Hijazi Qurʼān probably written in the second century
+                            A.H. / eighth century A.D., containing verses from the Sura al-Anfāl
+                            (سورة الأنفال).</summary>
+                        <msItem defective="false">
+
+                            <title xml:lang="ara-Latn-x-lc">al-Qurʼān</title>
+
+                            <title xml:lang="ara" type="uniform">القرآن </title>
+
+                            <title xml:lang="eng" type="desc">al-Qurʼān viii, 10-72.</title>
+                            <note anchored="true"/>
+
+
+                            <textLang mainLang="ara">Arabic</textLang>
+
+                            <listBibl default="false">
+                                <bibl default="false" status="draft">
+                                    <ref target="http://www.fihrist.org.uk/profile/work/40439ca7-fd9b-478c-bee5-b72d42cbe3d8">View record in Fihrist</ref>
+                                </bibl>
+                                <bibl default="false" status="draft">
+                                    <ref target="http://www.lib.cam.ac.uk/arabic_catalogues/browne/view.php?id=91">no. 806</ref>
+                                </bibl>
+                            </listBibl>
+
+
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="1">f. 1r [line 1]</locus>
+                                <title xml:lang="eng">Q. 8:10 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="2">f. 1r [line 2]</locus>
+                                <title xml:lang="eng">Q. 8:11 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="4">f. 1r [line 4]</locus>
+                                <title xml:lang="eng">Q. 8:12 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="6">f. 1r [line 6]</locus>
+                                <title xml:lang="eng">Q. 8:13 [line 6]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="7">f. 1r [line 7]</locus>
+                                <title xml:lang="eng">Q. 8:14 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="8">f. 1r [line 8]</locus>
+                                <title xml:lang="eng">Q. 8:15 [line 8]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="9">f. 1r [line 9]</locus>
+                                <title xml:lang="eng">Q. 8:16 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="11">f. 1r [line 11]</locus>
+                                <title xml:lang="eng">Q. 8:17 [line 11]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="12">f. 1r [line 12]</locus>
+                                <title xml:lang="eng">Q. 8:18 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="13">f. 1r [line 13]</locus>
+                                <title xml:lang="eng">Q. 8:19 [line 13]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="15">f. 1r [line 15]</locus>
+                                <title xml:lang="eng">Q. 8:20 [line 15]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="16">f. 1r [line 16]</locus>
+                                <title xml:lang="eng">Q. 8:21 [line 16]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="17">f. 1r [line 17]</locus>
+                                <title xml:lang="eng">Q. 8:22 [line 17]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="18">f. 1r [line 18]</locus>
+                                <title xml:lang="eng">Q. 8:23 [line 18]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="19">f. 1r [line 19]</locus>
+                                <title xml:lang="eng">Q. 8:24 [line 19]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="21">f. 1r [line 21]</locus>
+                                <title xml:lang="eng">Q. 8:25 [line 21]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="22">f. 1r [line 22]</locus>
+                                <title xml:lang="eng">Q. 8:26 [line 22]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="25">f. 1r [line 25]</locus>
+                                <title xml:lang="eng">Q. 8:27 [line 25]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="1">f. 1v [line 1]</locus>
+                                <title xml:lang="eng">Q. 8:28 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="2">f. 1v [line 2]</locus>
+                                <title xml:lang="eng">Q. 8:29 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="3">f. 1v [line 3]</locus>
+                                <title xml:lang="eng">Q. 8:30 [line 3]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="5">f. 1v [line 5]</locus>
+                                <title xml:lang="eng">Q. 8:31 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="6">f. 1v [line 6]</locus>
+                                <title xml:lang="eng">Q. 8:32 [line 6]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="8">f. 1v [line 8]</locus>
+                                <title xml:lang="eng">Q. 8:33 [line 8]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="9">f. 1v [line 9]</locus>
+                                <title xml:lang="eng">Q. 8:34 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="10">f. 1v [line 10]</locus>
+                                <title xml:lang="eng">Q. 8:35 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="12">f. 1v [line 12]</locus>
+                                <title xml:lang="eng">Q. 8:36 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="14">f. 1v [line 14]</locus>
+                                <title xml:lang="eng">Q. 8:37 [line 14]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="15">f. 1v [line 15]</locus>
+                                <title xml:lang="eng">Q. 8:38 [line 15]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="17">f. 1v [line 17]</locus>
+                                <title xml:lang="eng">Q. 8:39 [line 17]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="18">f. 1v [line 18]</locus>
+                                <title xml:lang="eng">Q. 8:40 [line 18]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="19">f. 1v [line 19]</locus>
+                                <title xml:lang="eng">Q. 8:41 [line 19]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="22">f. 1v [line 22]</locus>
+                                <title xml:lang="eng">Q. 8:42 [line 22]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="2">f. 2r [line 2]</locus>
+                                <title xml:lang="eng">Q. 8:43 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="4">f. 2r [line 4]</locus>
+                                <title xml:lang="eng">Q. 8:44 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="5">f. 2r [line 5]</locus>
+                                <title xml:lang="eng">Q. 8:45 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="6">f. 2r [line 6]</locus>
+                                <title xml:lang="eng">Q. 8:46 [line 6]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="8">f. 2r [line 8]</locus>
+                                <title xml:lang="eng">Q. 8:47 [line 8]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="9">f. 2r [line 9]</locus>
+                                <title xml:lang="eng">Q. 8:48 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="12">f. 2r [line 12]</locus>
+                                <title xml:lang="eng">Q. 8:49 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="14">f. 2r [line 14]</locus>
+                                <title xml:lang="eng">Q. 8:50 [line 14]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="15">f. 2r [line 15]</locus>
+                                <title xml:lang="eng">Q. 8:51 [line 15]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="16">f. 2r [line 16]</locus>
+                                <title xml:lang="eng">Q. 8:52 [line 16]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="18">f. 2r [line 18]</locus>
+                                <title xml:lang="eng">Q. 8:53 [line 18]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="19">f. 2r [line 19]</locus>
+                                <title xml:lang="eng">Q. 8:54 [line 19]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="21">f. 2r [line 21]</locus>
+                                <title xml:lang="eng">Q. 8:55 [line 21]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="22">f. 2r [line 22]</locus>
+                                <title xml:lang="eng">Q. 8:56 [line 22]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="23">f. 2r [line 23]</locus>
+                                <title xml:lang="eng">Q. 8:57 [line 23]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="1">f. 2v [line 1]</locus>
+                                <title xml:lang="eng">Q. 8:58 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="2">f. 2v [line 2]</locus>
+                                <title xml:lang="eng">Q. 8:59 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="2">f. 2v [line 2]</locus>
+                                <title xml:lang="eng">Q. 8:60 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="5">f. 2v [line 5]</locus>
+                                <title xml:lang="eng">Q. 8:61 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="6">f. 2v [line 6]</locus>
+                                <title xml:lang="eng">Q. 8:62 [line 6]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="8">f. 2v [line 8]</locus>
+                                <title xml:lang="eng">Q. 8:63 [line 8]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="9">f. 2v [line 9]</locus>
+                                <title xml:lang="eng">Q. 8:64 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="10">f. 2v [line 10]</locus>
+                                <title xml:lang="eng">Q. 8:65 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="12">f. 2v [line 12]</locus>
+                                <title xml:lang="eng">Q. 8:66 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="15">f. 2v [line 15]</locus>
+                                <title xml:lang="eng">Q. 8:67 [line 15]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="16">f. 2v [line 16]</locus>
+                                <title xml:lang="eng">Q. 8:68 [line 16]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="17">f. 2v [line 17]</locus>
+                                <title xml:lang="eng">Q. 8:69 [line 17]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="18">f. 2v [line 18]</locus>
+                                <title xml:lang="eng">Q. 8:70 [line 18]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="20">f. 2v [line 20]</locus>
+                                <title xml:lang="eng">Q. 8:71 [line 20]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="21">f. 2v [line 21]</locus>
+                                <title xml:lang="eng">Q. 8:72 [line 21]</title>
+                            </msItem>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="other"> 
+                            <supportDesc material="perg">
+                                <support>Parchment</support>
+                                <extent> 1 bifolio <dimensions type="leaf" unit="cm">
+                                        <height>37.5</height>
+                                        <width>27.5</width>
+                                    </dimensions>
+                                    <dimensions type="written" unit="cm">
+                                        <height>37.5</height>
+                                        <width>27.5</width>
+                                    </dimensions>
+                                </extent>
+                                
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="23">23 lines to the page <locus/>
+                                   
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+
+                 
+                    </physDesc>
+                    <history>
+                        <origin instant="false">
+                            <origDate calendar="Gregorian"
+                               notBefore="0700"
+                               notAfter="0800"
+                               instant="false">Probably 2nd
+                                century A.H. / 8th century C.E.</origDate>
+                        </origin>
+
+                        <provenance>Bought from <name type="person"
+                           ref="http://viaf.org/viaf/56683055"
+                           role="fmo"
+                           full="yes"
+                           instant="false">
+                                <persName type="display" instant="false" full="yes">Professor E.H. Palmer</persName>
+                                <persName type="standard" instant="false" full="yes">Palmer, Edward Henry, 1840-1882</persName>
+                            </name> and <name type="person" role="fmo" full="yes" instant="false">
+                                <persName type="display" instant="false" full="yes">E.E. Tyrwhitt Drake</persName>
+                                <persName type="standard" instant="false" full="yes">Tyrwhitt Drake, E.E.</persName>
+                            </name> in 1878.</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>This manuscript description was created by Ignacio Sanchez
+                                    at the Middle Eastern Department of Cambridge University
+                                    Library. For the Paleaographic classification refer to <ref type="biblio" target="Déroche1992">Déroche,
+                                    1992</ref>.</source>
+                            </recordHist>
+                            <availability status="restricted" default="false">
+                                <p part="N">Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>). Contact
+                                        <email>near_eastern@lib.cam.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                            <note anchored="true"/>
+                        </adminInfo>
+                        <listBibl default="false">
+                            <biblStruct type="book" xml:id="Arberry1900" default="false" status="draft">
+                                <monogr>
+                                    <title>A hand-list of the Muḥammadan manuscripts: including all
+                                        those written in the Arabic character, preserved in the
+                                        library of the University of Cambridge</title>
+
+                                    <respStmt>
+                                        <resp>contributor</resp>
+                                        <persName instant="false" full="yes">
+                                            <forename full="yes">Edward Granville</forename>
+                                            <surname full="yes">Browne</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <author>
+                                        <name full="yes" instant="false">Cambridge University Library</name>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date instant="false">1900</date>
+
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                        </listBibl>
+
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl default="false" status="draft">
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy>
+                    <bibl default="false" status="draft">Image Role Typology</bibl>
+                    <category xml:id="document-thumbnail">
+                        <catDesc>document-thumbnail</catDesc>
+                    </category>
+                    <category xml:id="download">
+                        <catDesc>download</catDesc>
+                    </category>
+                    <category xml:id="thumbnail">
+                        <catDesc>thumbnail</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/sh85072953#concept">Koran</ref>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change when="2010-05-18" status="draft">
+                <persName instant="false" full="yes">Ignacio Sanchez</persName>
+            </change>
+            <!-- Your revisionDesc should include information concerning 
+                major changes to the electronic file.  Replace the above 
+                with something more suitable.   -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00001_files/8/0_0.jpg"/>
+        <surface n="1r" xml:id="i1">
+            <graphic height="10026px"
+                  width="7259px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="1v" xml:id="i2">
+            <graphic height="10026px"
+                  width="7259px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="2r" xml:id="i3">
+            <graphic height="10026px"
+                  width="7259px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00003.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="2v" xml:id="i4">
+            <graphic height="10026px"
+                  width="7259px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00004.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01125-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div part="N" org="uniform" sample="complete">
+                <pb xml:id="pb-1r" n="1r" facs="#i1"/>
+                <p part="N"> به ٯلوٮکم وما النصر الا مں عٮد ال‍له اں ال‍له عرٮر حکٮم ۝ <lb/> اد ٮعسٮکم النعس
+                    امٮه مٮه وٮٮرل علٮکم مں السما ما لٮطرکم <unclear reason="damage" instant="false">ٮه</unclear>
+                    <lb/> وٮدهٮ عنکم رحر السٮطں ولٮرٮط علے ٯلوٮکم وٮثبت ٮه الا<lb/> ٯد<supplied reason="omitted" instant="false">ا</supplied>م ۝ اد ٮوحے رٮک الے الملٮکه اٮے معکم ڡثبتوا
+                    الدٮں امنوا سا<lb/> لٯے ڡے ٯلوٮ الدٮں کڡروا الرعٮ ڡاصرٮوا ڡوٯ الاعى<supplied reason="omitted" instant="false">ا</supplied>ٯ واصرٮو<lb/> ا مٮهم کل بناں ۝ دلک باٮهم
+                        س<supplied reason="omitted" instant="false">ا</supplied>ٯوا ال‍له ورسوله ومں ٮس<supplied reason="omitted" instant="false">ا</supplied>ٯٯ ال‍له و<lb/> رسوله ڡاں ال‍له سدٮد العٯاٮ
+                    ۝<!-- TRANSC Here is a never before seen vers-marker with many dots on the ba; Tobias J. Jocham -->
+                    دلکم ڡدوٯوه واں للکڡرٮں<lb/> عداٮ الٮار ۝ ٮاٮها الدٮں امٮوا اذا لٯٮٮم الدٮں
+                    کڡروا رحڡا ڡلا<lb/> ٮولوهم الادٮ<supplied reason="omitted" instant="false">ا</supplied>ر <add place="inline" instant="false" status="unremarkable">۝</add> ومں ٮولهم ٮومٮد دٮره الا متحرڡا لٯٮ<supplied reason="omitted" instant="false">ا</supplied>ل او مٮحٮر<lb/> ا الے ڡٮه ڡٯد ٮاٮعصٮ مں ال‍له
+                    وماوٮه حهٮم وٮٮس المصٮر ۝<lb/> ڡلم <unclear reason="later diacritics" instant="false">ٮٯٮ</unclear>لوهم ولکں ال‍له ٯتلهم وما رمٮٮ اد رمٮٮ ولکں ال‍له<lb/> رمے
+                        <add place="above" instant="false" status="unremarkable">و</add>لٮبلے المومٮٮں مٮه ٮلا حسٮا اں ال‍له سمٮع علٮم ۝
+                    دلکم واں<lb/> ال‍له موهں کٮد الکڡرٮں ۝ اں ٮسٮڡٮحوا ڡٯد حاکم الڡتح واں<lb/>
+                    ٮنتهوا <add place="above" instant="false" status="unremarkable">ڡهو</add> حٮر لکم واں ٮعودوا نعد ولں ٮعٮے عٮکم ڡٮٮکم
+                    سٮا و<lb/> لو کٮرٮ واں ال‍له مع المومٮٮں ۝ ٮاٮها الدٮں امٮوا اطٮعوا ال‍له و<lb/>
+                    رسوله ولا ٮولوا عنه وانٮم ٮسمعوں ۝ ولا ٮکوٮوا کالدٮں ٯ<supplied reason="omitted" instant="false">ا</supplied>لوا<lb/> سمعٮا وهم لا ٮسمعوں ۝ اں سر الدو<supplied reason="omitted" instant="false">ا</supplied>ٮ عٮد ال‍له الصم الٮکم الد<lb/> ٮں لا ٮعٯلوں ۝
+                    ولو علم ال‍له ڡٮهم حٮر<add place="inline" instant="false" status="unremarkable">ا</add> لا سمعهم ولو اسمعهم لٮو<lb/>
+                    لوا وهم معرصوں ۝ ٮايها الدٮں امٮوا اسٮح<unclear reason="later diacritics" instant="false">ٮٮ</unclear>وا ل‍له وللرسول اذا<lb/> دعاکم لما ٮحٮٮکم واعلموا اں ال‍له ٮحول
+                    بٮں المر وٯلٮه واٮه<lb/> الٮه ٮحسروں ۝ واٮٯوا ڡٮنه لا تصبٮں الدٮں طلموا منکم
+                    حاصه و<lb/> اعلموا اں ال‍له سدٮد العٯاٮ ۝ وادکروا اد اٮٮم ٯلٮل<lb/> مسٮصعڡوں ڡے
+                    الارص ٮح<supplied reason="omitted" instant="false">ا</supplied>ڡوں اں ٮٮحط<unclear reason="damage" instant="false">ڡ</unclear>کم الٮاس ڡاوٮکم<lb/> واٮدکم ٮٮصره وررٯکم مں
+                        الط<unclear reason="damage" instant="false">ٮٮ</unclear>ٮ لعلکم ٮسکروں<lb/> ٮاٮها الدٮں
+                    امٮوا لا تحوٮوا ال‍له <unclear reason="damage" instant="false">والرسول وٮحوٮ</unclear>وا امٮٮکم </p>
+                <pb xml:id="pb-1v" n="1v" facs="#i2"/>
+                <p part="N"> واٮٮم ٮعلموں ۝ و<add place="above" instant="false" status="unremarkable">ا</add>علموا اٮما امولکم واولدکم ڡٮٮه واں
+                    ال‍له عٮد<lb/> ه احر عطٮم ۝ ٮاٮها الدٮں امٮوا اں ٮٮٯوا ال‍له ٮحعل لکم
+                        ڡرٯ<supplied reason="omitted" instant="false">ا</supplied>ٮا وٮکڡر<lb/> عنکم سٮاٮکم وٮعڡرلکم
+                    وال‍له دو االڡصل العطٮم ۝ واد ٮمکر<lb/> ٮک الدٮں کڡروا لٮثٮتوک او ٮٯٮلوک او
+                    ٮحرحوک وٮمکروں وٮمکر<lb/> ال‍له وال‍له حٮر المکرٮں ۝ وادا ٮٮلى علٮهم اٮتنا ٯلوا
+                    ٯد سمعٮا لو نسا<lb/> لٯلنا مٮل هدا اں هدا الا اسطٮرالاولٮں ۝ واد ٯ<supplied reason="omitted" instant="false">ا</supplied>لوا اللهم اں کاں هدا<lb/> هو الحٯ مں عٮدک ڡامطر
+                    علٮٮا حح<supplied reason="omitted" instant="false">ا</supplied>ره مں السما او اٮتنا ٮعد<supplied reason="omitted" instant="false">ا</supplied>ٮ الٮم ۝<lb/> وما کاں ال‍له لٮعدٮهم واٮٮ ڡٮهم
+                    وما کاں ال‍له معدٮهم وهم<lb/> ٮسٮعڡروں ۝ وما لهم الا ٮعدٮهم ال‍له وهم ٮصدوں عں
+                    المسحد الحر<supplied reason="omitted" instant="false">ا</supplied>م<lb/> وما کانوا اولٮاه اں
+                    اولٮاه الا المٮٯوں ولکں اکٮرهم لا ٮعلموں ۝ وما<lb/> کاں صل<supplied reason="omitted" instant="false">ا</supplied>ٮهم عٮد الٮٮت الا مکا وٮصدٮه ڡدوٯوا العدا ٮ
+                    بما<lb/> کٮٮم ٮکڡروں ۝ اں الدٮں کڡروا ٮٮڡٯوں امولهم لٮصدوا عں سٮٮل ال‍له<lb/>
+                    ڡسٮٮڡٯوٮها ٮم ٮکوں علٮهم حسره ٮم ٮعلٮوں <choice>
+                        <sic>۝</sic>
+                        <corr type="delText" instant="false"/>
+                    </choice> والدٮں کڡروا الے حهنم<lb/> ٮحسروں ۝ لٮمٮر ال‍له الحٮٮٮ مں الطٮٮ وٮحعل
+                    الحٮٮٮ ٮعصه علے ٮعص<lb/> ڡٮركمه حمٮعا ڡٮحعله ڡے حهٮم اولٮک هم الحسروں ۝ ٯل للدٮں
+                    کڡر<lb/> وا اں ٮٮٮهوا ٮعڡر لهم ما ٯد سلڡ واں ٮعودوا ڡٯد مصت سنٮ ا<lb/> لاولٮں ۝
+                    وٯٮلوهم حٮے لا ٮکوں ڡتنه وٮکوں الدٮں کله ل‍له ڡاں انتهوا ڡاں<lb/> ال‍له ٮما
+                    ٮعملوں ٮصٮر ۝ واں <unclear reason="later diacritics" instant="false">ت</unclear>ولوا ڡاعلموا اں
+                    ال‍له مولٮکم ٮعم المو<lb/> لے ونعم الٮصٮر ۝ واعلموا اٮما عٮمٮم مں <choice>
+                        <sic>ساے</sic>
+                        <corr instant="false">سے</corr>
+                    </choice> ڡاں ل‍له حمسه وللر<lb/> سول ولدے الٯرٮے والٮٮمے <add place="above" instant="false" status="unremarkable">و</add>المسکٮٮٮں واٮں السٮٮل اں کٮٮم امٮٮم ٮال‍له و<lb/> ما اٮرلٮا علے ع<choice>
+                        <unclear instant="false">ن</unclear>
+                        <unclear instant="false">ب</unclear>
+                    </choice>دنا ٮوم الڡرٯ<supplied reason="omitted" instant="false">ا</supplied>ں ٮوم التٯے
+                        الحم<del type="over" instant="false" status="unremarkable">ع</del>
+                    <add place="over" instant="false" status="unremarkable">ع<supplied reason="omitted" instant="false">ا</supplied>ں</add> وال‍له علے کل <choice>
+                        <sic>ساے</sic>
+                        <corr instant="false">سے</corr>
+                    </choice>
+                    <lb/> ٯدٮر ۝ اد اٮٮم ٮالعدوه الدٮٮا وهم ٮالعدوه الٯصوے والرکٮ<lb/> اسڡل مٮکم ولو
+                        ٮو<supplied reason="omitted" instant="false">ا</supplied>عدٮم لا حٮلڡٮم ڡے الم<gap reason="illegible" instant="false"/>
+                    <add place="over" instant="false" status="unremarkable">ٮعا</add>د ولکں لٮٯصے<lb/>
+                </p>
+                <pb xml:id="pb-2r" n="2r" facs="#i3"/>
+                <p part="N"> ال‍له امرا کاں مڡعولا <choice>
+                        <sic>۝</sic>
+                        <corr type="delText" instant="false"/>
+                    </choice> لٮهلک مں هلک عں ٮٮٮه وٮحٮے مں حے عں ٮٮٮه واں<lb/> ال‍له لسمٮع علٮم ۝
+                    ادٮرٮکهم ال‍له ڡے مٮ<supplied reason="omitted" instant="false">ا</supplied>مک ٯلٮلا ولو ارٮکهم
+                        کٮ<unclear reason="damage" instant="false">ٮر</unclear>
+                    <lb/> ا لڡسلٮم ولٮٮرعٮم ڡے الامر ولکں ال‍له سلم اٮه علٮم ٮداٮ الصدور ۝<lb/> واد
+                    ٮرٮکموهم اد الٮٯٮٮم ڡے اعٮٮکم ٯلٮلا وٮٯللکم ڡے اعٮٮهم<lb/> لٮٯصے ال‍له امرا کاں
+                    مڡعولا والے ال‍ۙله ٮرحع الامور ۝ ٮاٮه الدٮں امٮو<lb/> ا ادا لٯٮٮم ڡٮه ڡاثبتوا
+                    وادکروا ال‍له کٮٮٮرا لعلکم ٮڡلحوں ۝ واطٮعو<lb/> ا ال‍له ورسوله ولا ٮٮرعوا
+                    ڡٮڡسلوا وٮدهٮ رٮحکم واصٮروا اں<lb/> ال‍له مع الصٮرٮں ۝ ولا ٮکوٮوا کالدٮں حرحوا
+                    مں دٮرهم ٮطرا ورٮا<lb/> الٮاس وٮصدوں عں سٮٮل ال‍له وال‍له ٮما ٮعملوں محٮط ۝ واد
+                    رٮں لهم<lb/> السٮطں اعملهم وٯال لا ع<supplied reason="omitted" instant="false">ا</supplied>لٮ
+                    لکم الٮوم مں الٮاس واٮے حار لکم<lb/> ڡلما ترات الڡٮت<supplied reason="omitted" instant="false">ا</supplied>ں نکص علے عٯٮٮه وٯ<supplied reason="omitted" instant="false">ا</supplied>ل اٮے
+                    ٮرے مٮکم اٮے ارے ما<lb/> لا ٮروں انے اح<supplied reason="omitted" instant="false">ا</supplied>ڡ
+                    ال‍له وال‍له سدٮد العٯاٮ ۝ اد ٮٯول المٮڡٯوں والد<lb/> ٮں ڡے ٯلوٮهم مرص عر هولا
+                    دٮٮهم ومں ٮٮوکل علے ال‍ۙله ڡاں ال‍ۙله عرٮر<lb/> حکٮم ۝ ولو ٮرے اد <unclear reason="later diacritics" instant="false">
+                        <choice>
+                            <sic>ت</sic>
+                            <corr instant="false">ي</corr>
+                        </choice>ت</unclear>وڡے الدٮں کڡروا الملٮکه ٮصرٮوں <add place="above" instant="false" status="unremarkable">و</add>حوههم وا<lb/> دٮرهم ودوٯوا عداٮ الحرٮٯ ۝ دلک ٮما ٯدمٮ اٮدٮکم
+                    واں<lb/> ال‍له لٮس ٮطلم للعٮٮد ۝ کدٮ ال ڡرعوں والدٮں مں ٯٮلهم کڡر<lb/> وا ٮاٮٮ
+                    ال‍له ڡاحدهم ال‍له ٮدٮوٮهم اں ال‍له ٯوى سدٮد العٯاب ۝<lb/> دلک ٮاں ال‍له لم ٮک
+                    معٮرا نعمه اٮعمها علے ٯوم حٮے ٮعٮروا ما ٮا<lb/> ٮڡسهم واں ال‍له سمٮع علٮم ۝ ڪدٮ
+                    ال ڡرعوں والدٮں مں ٯٮلهم<lb/> کدٮوا ٮاٮٮت رٮهم ڡاهلکٮهم ٮدٮوٮهم واعرٯنا ال
+                    ڡرعوں<lb/> وکل کاٮوا طلمٮں ۝ اں سر الدوٮ عٮد ال‍له الدٮں کڡروا ڡهم لا<lb/>
+                    ٮومٮوں ۝ الدٮں عهدت مٮهم ٮم ٮٮٯصوں عهدهم ڡے کل مره<lb/>
+                    <unclear reason="damage" instant="false">و</unclear>هم لاٮٮٯوں ۝ ڡاما ٮثٯڡٮهم ڡے الحرٮ ڡ<unclear reason="damage" instant="false">س</unclear>رد <unclear reason="damage" instant="false">ٮهم مں
+                        حلڡهم</unclear>
+                    <lb/>
+                </p>
+                <pb xml:id="pb-2v" n="2v" facs="#i4"/>
+                <p part="N"> لعلهم ٮدكروں ۝ واما ٮح<supplied reason="omitted" instant="false">ا</supplied>ڡں مں ٯوم
+                        حٮ<supplied reason="omitted" instant="false">ا</supplied>نه ڡانٮد الٮهم علے سوا اں ا<lb/>
+                    ل‍له لاٮحٮ الحٮ<supplied reason="omitted" instant="false">ا</supplied>نٮں ۝ ولا ٮحسٮں الدٮں
+                    کڡروا سبٯوا اٮهم لا ٮعحروں ۝ واعد<lb/> وا لهم ما اسٮطعٮم مں ٯوه ومں رٮ<supplied reason="omitted" instant="false">ا</supplied>ط الحٮل ٮرهٮوں ٮه عدو<add type="inline" instant="false" status="unremarkable">ا</add>
+                    ال‍له<lb/> وعدوکم واحرٮں مں دوٮهم لا <unclear reason="later diacritics" instant="false">ت</unclear>علمونهم ال‍له ٮعلمهم وما ٮڡٯو<lb/> ا مں ساے ڡے سٮٮل ال‍له ٮوڡ
+                    الٮکم واٮٮم لا <unclear reason="later diacritics" instant="false">ت</unclear>طلموں ۝ واں حنحوا
+                    للسلم<lb/> ڡاح<supplied reason="omitted" instant="false">ا</supplied>نح لهاوٮوکل على ال‍له اٮه
+                    هو السمٮع العلٮم ۝ واں ٮرٮدوا<lb/> اں ٮحدعوک ڡاں حسٮک ال‍له هو الدے اٮدک ٮٮصره
+                    وٮالمو<lb/> مٮٮں ۝ والڡ ٮٮں ٯلوٮهم لو انڡٯت ما ڡے الارص حمٮعا ما الڡٮ بٮں<lb/>
+                    ٯلوٮهم ولکں ال‍له الڡ ٮٮٮهم اٮه عرٮر حکٮم ۝ ٮاٮها الٮٮے حسبک<lb/> ال‍له ومں
+                    اتبعک مں المومٮٮں ۝ ٮاٮها الٮٮے حرص المومٮٮں علے الٯت<supplied reason="omitted" instant="false">ا</supplied>ل<lb/> اں ٮکں منکم عسروں صٮروں ٮعلبوا ماٮتٮں واں ٮکں مٮکم
+                    ماٮه<lb/> ٮعلٮوا الڡا مں الدٮں کڡروا ٮاٮهم ٯوم لا ٮڡٯهوں ۝ الں حڡڡ ال‍له<lb/>
+                    عٮکم وعلم اں ڡٮکم صعڡا ڡاں ٮکں مٮکم م<supplied reason="omitted" instant="false">ا</supplied>ٮه
+                        ص<supplied reason="omitted" instant="false">ا</supplied>ٮره ٮعلٮوا ما<lb/> ٮتٮں واں ٮکں مٮکم
+                    الڡ ٮعلٮوا الڡٮں ٮادں ال‍له وال‍له مع الصٮرٮں ۝<lb/> ما کاں <add place="inline" instant="false" status="unremarkable">ل</add>لٮٮى اں ٮکوں له اسرے حٮے ٮثحں ڡے الارص <unclear reason="later diacritics" instant="false">ت</unclear>رٮدوں عرص الد<lb/> ٮٮا وال‍له ٮرٮد
+                    الاحره وال‍له عرٮر حکٮم ۝ لو لا کٮٮ مں ال‍له سٮٯ<lb/> لمسکم ڡٮما احدٮم عداٮ عطٮم
+                    ۝ ڡکلوا مما عٮمٮم حللا<lb/> طٮٮا واٮڡوا ال‍له اں ال‍له عڡور رحٮم ۝ ٮاٮها النٮے
+                    ٯل لمں ڡے اٮدٮکم<lb/> مں الاسرے اں ٮعلم ال‍ۙله ڡے ٯلوٮکم حٮرا ٮوٮکم حٮرا مما
+                    اخد<lb/> منکم وٮعڡر لکم وال‍ۙله عڡور رحٮم ۝ واں ٮرٮدوا خٮ<supplied reason="omitted" instant="false">ا</supplied>نتک ڡٯد<lb/> خ<supplied reason="omitted" instant="false">ا</supplied>نوا ال‍له مں ٯٮل ڡامکں مٮهم وال‍له علٮم حکٮم ۝ اں الدٮں ا<lb/>
+                    مٮوا وه<supplied reason="omitted" instant="false">ا</supplied>حروا وحهدوا ٮاموالهم واٮڡسهم ڡے
+                    سٮل ال‍له وا<unclear reason="damage" instant="false">لدٮں</unclear>
+                    <lb/> ا<unclear reason="damage" instant="false">ووا وٮصروا </unclear>او لٮک ٮعصهم ا ولٮا ٮعص
+                    والدٮں ا<lb/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

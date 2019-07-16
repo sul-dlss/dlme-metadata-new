@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1128</title>
+                <funder>CUDL</funder>
+                <principal/>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian" instant="false">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Department of Near and Middle Eastern Collections</addrLine>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk/deptserv/neareastern/">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>near_eastern@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>OCIMCO</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted" default="false">
+                    <p part="N">Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This metadata is
+                        licensed under a Creative Commons Attribution-NonCommercial 3.0
+                        Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+
+            <sourceDesc default="false">
+                <msDesc xml:id="MS-ADD-01128" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Add.1128</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">islamic</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents defective="false">
+                        <summary>Fragment of an Abbasid Qur'ān probably written in the third or
+                            fourth century A.H. / ninth or tenth century C.E, containing the last
+                            three verses of  <locus from="1r" to="1r" n="1">Sura Yūnus (سورة يونس)</locus>
+                            and the first 44 verses of <locus from="1r" to="1r" n="4">Sura
+                                Hūd( سورة هود)</locus>. <term subtype="script">Unidentified</term>
+                            script.</summary>
+                        <msItem defective="false">
+
+                            <title xml:lang="ara-Latn-x-lc">al-Qurʼān</title>
+
+                            <title xml:lang="ara" type="uniform">القرآن </title>
+                            <title xml:lang="eng" type="desc">al-Qurʼān 10:107-109 and Qurʼān
+                                11:1-44.</title>
+                            <listBibl default="false">
+                                <bibl default="false" status="draft">
+                                    <ref target="http://www.lib.cam.ac.uk/arabic_catalogues/browne/view.php?id=91">no. 809</ref>
+                                </bibl>
+                                
+                            </listBibl>
+                            <textLang mainLang="ara">Arabic</textLang>
+
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="1">1r  [line 1]</locus>
+                                <title xml:lang="eng">Q. 10:107 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="1">1r  [line 1]</locus>
+                                <title xml:lang="eng">Q. 10:108 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="2">1r  [line 2]</locus>
+                                <title xml:lang="eng">Q. 10:109 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="3">1r [line 3]</locus>
+                                <title xml:lang="eng">Hūd: miʾat āyah wa-ithnān wa-ʿishrūn
+                                āyah</title>
+                                <title xml:lang="ara">هود مائة آية واثنان وعشرون آية</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="4">1r  [line 4]</locus>
+                                <title xml:lang="eng">Basmallah [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="4">1r  [line 4]</locus>
+                                <title xml:lang="eng">Q. 11:1 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="4">1r  [line 4]</locus>
+                                <title xml:lang="eng">Q. 11:2 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="4">1r  [line 3]</locus>
+                                <title xml:lang="eng">Q. 11:3 [line 3]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="7">1r  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:4 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="7">1r  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:5 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="9">1r  [line 9]</locus>
+                                <title xml:lang="eng">Q. 11:6 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="10">1r  [line 10]</locus>
+                                <title xml:lang="eng">Q. 11:7 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="8">1r  [line 12]</locus>
+                                <title xml:lang="eng">Q. 11:8 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="13">1r  [line 13]</locus>
+                                <title xml:lang="eng">Q. 11:9 [line 13]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="14">1r  [line 14]</locus>
+                                <title xml:lang="eng">Q. 11:10 [line 14]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="1">1v  [line 1]</locus>
+                                <title xml:lang="eng">Q. 11:11 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="2">1v  [line 2]</locus>
+                                <title xml:lang="eng">Q. 11:12 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="4">1v  [line 4]</locus>
+                                <title xml:lang="eng">Q. 11:13 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="5">1v  [line 5]</locus>
+                                <title xml:lang="eng">Q. 11:14 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="6">1v  [line 6]</locus>
+                                <title xml:lang="eng">Q. 11:15 [line 6]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="7">1v  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:16 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="8">1v  [line 8]</locus>
+                                <title xml:lang="eng">Q. 11:17 [line 8]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="10">1v  [line 10]</locus>
+                                <title xml:lang="eng">Q. 11:18 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="12">1v  [line 12]</locus>
+                                <title xml:lang="eng">Q. 11:19 [line 12]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1v" to="1v" n="13">1v  [line 13]</locus>
+                                <title xml:lang="eng">Q. 11:20 [line 13]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="1">2r  [line 1]</locus>
+                                <title xml:lang="eng">Q. 11:21 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="1">2r  [line 1]</locus>
+                                <title xml:lang="eng">Q. 11:22 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="2">2r  [line 2]</locus>
+                                <title xml:lang="eng">Q. 11:23 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="3">2r  [line 3]</locus>
+                                <title xml:lang="eng">Q. 11:24 [line 3]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="4">2r  [line 4]</locus>
+                                <title xml:lang="eng">Q. 11:25 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="5">2r  [line 5]</locus>
+                                <title xml:lang="eng">Q. 11:26 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="5">2r  [line 5]</locus>
+                                <title xml:lang="eng">Q. 11:27 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="7">2r  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:28 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="9">2r  [line 9]</locus>
+                                <title xml:lang="eng">Q. 11:29 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="10">2r  [line 10]</locus>
+                                <title xml:lang="eng">Q. 11:30 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="11">2r  [line 11]</locus>
+                                <title xml:lang="eng">Q. 11:31 [line 11]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="13">2r  [line 13]</locus>
+                                <title xml:lang="eng">Q. 11:32 [line 13]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="1">2v  [line 1]</locus>
+                                <title xml:lang="eng">Q. 11:33 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="2">2v  [line 2]</locus>
+                                <title xml:lang="eng">Q. 11:34 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="3">2v  [line 3]</locus>
+                                <title xml:lang="eng">Q. 11:35 [line 3]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="4">2v  [line 4]</locus>
+                                <title xml:lang="eng">Q. 11:36 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="5">2v  [line 5]</locus>
+                                <title xml:lang="eng">Q. 11:37 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="5">2v  [line 5]</locus>
+                                <title xml:lang="eng">Q. 11:38 [line 5]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="7">2v  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:39 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="7">2v  [line 7]</locus>
+                                <title xml:lang="eng">Q. 11:40 [line 7]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="9">2v  [line 9]</locus>
+                                <title xml:lang="eng">Q. 11:41 [line 9]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="10">2v  [line 10]</locus>
+                                <title xml:lang="eng">Q. 11:42 [line 10]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="11">2v  [line 11]</locus>
+                                <title xml:lang="eng">Q. 11:43 [line 11]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="12">2v  [line 12]</locus>
+                                <title xml:lang="eng">Q. 11:44 [line 12]</title>
+                            </msItem>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="perg">
+                                <support>Parchment</support>
+                                <extent>
+                           <dimensions type="leaf" unit="cm">
+                                <height>12.5</height>
+                                <width>17.4</width>
+                            </dimensions>
+                                <dimensions type="written" unit="cm">
+                                    <height>8.5</height>
+                                    <width>13.5</width>
+                                </dimensions>
+                            </extent>
+                               
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="13">13 lines to the page <locus/>
+                                  
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="unknown">
+                                <p part="N">Unidentified script</p>
+                                <persName instant="false" full="yes"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin instant="false">
+                            <origDate calendar="Gregorian"
+                               notBefore="0900"
+                               notAfter="0999"
+                               instant="false">Probably 4th century
+                                A.H / 10th century C.E.</origDate>
+                        </origin>
+
+                        <provenance>Bought from <name type="person"
+                           ref="http://viaf.org/viaf/56683055"
+                           role="fmo"
+                           full="yes"
+                           instant="false">
+                                <persName type="display" instant="false" full="yes">Professor E.H. Palmer</persName>
+                                <persName type="standard" instant="false" full="yes">Palmer, Edward Henry, 1840-1882</persName>
+                            </name> and <name type="person" role="fmo" full="yes" instant="false">
+                                <persName type="display" instant="false" full="yes">E.E. Tyrwhitt Drake</persName>
+                                <persName type="standard" instant="false" full="yes">Tyrwhitt Drake, E.E.</persName>
+                            </name> in 1878.</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>This manuscript description was created by Ignacio Sanchez
+                                    at the Middle Eastern Department of Cambridge University
+                                    Library. For the Paleaographic classification refer to <ref type="biblio" target="Déroche1992">Déroche,
+                                    1992</ref>.</source>
+                            </recordHist>
+                            <availability status="restricted" default="false">
+                                <p part="N">Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>). Contact
+                                        <email>near_eastern@lib.cam.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                        </adminInfo>
+                        <listBibl default="false">
+
+                            <biblStruct type="book" xml:id="Arberry1900" default="false" status="draft">
+                                <monogr>
+                                    <title>A hand-list of the Muḥammadan manuscripts: including all
+                                        those written in the Arabic character, preserved in the
+                                        library of the University of Cambridge</title>
+                                    
+                                    <respStmt>
+                                        <resp>contributor</resp>
+                                        <persName instant="false" full="yes">
+                                            <forename full="yes">Edward Granville</forename>
+                                            <surname full="yes">Browne</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <author>
+                                        <name full="yes" instant="false">Cambridge University Library</name>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date instant="false">1900</date>
+
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            <biblStruct type="book"
+                                 xml:id="Déroche1992"
+                                 default="false"
+                                 status="draft">
+                                <monogr>
+                                    <title>The Abbasid tradition: Qurʼans of the 8th to the 10th
+                                        centuries AD</title>
+                                    <author>
+                                        <forename full="yes">François</forename>
+                                        <surname full="yes">Déroche</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>The Nour Foundation in association with Azimuth
+                                            Editions and Oxford University Press</publisher>
+                                        <date instant="false">1992</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>The Nasser D. Khalili Collection of Islamic Art</title>
+                                    <biblScope type="vol">v. 1</biblScope>
+                                </series>
+                                <idno type="ISBN">0197276008</idno>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl default="false" status="draft">
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            <taxonomy>
+               <bibl default="false" status="draft">Image Role Typology</bibl>
+               <category xml:id="document-thumbnail">
+                  <catDesc>document-thumbnail</catDesc>
+               </category>
+               <category xml:id="download">
+                  <catDesc>download</catDesc>
+               </category>
+               <category xml:id="thumbnail">
+                  <catDesc>thumbnail</catDesc>
+               </category>
+            </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/sh85072953#concept">Koran</ref>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change when="2010-05-18" status="draft">
+                <persName instant="false" full="yes">Ignacio Sanchez</persName>
+            </change>
+
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               rend="landscape"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00001_files/8/0_0.jpg"/>
+        <surface n="1r" xml:id="i1">
+            <graphic height="4122px"
+                  width="4994px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="1v" xml:id="i2">
+            <graphic height="4122px"
+                  width="4994px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2r" xml:id="i3">
+            <graphic height="4122px"
+                  width="4994px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00003_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="2v" xml:id="i4">
+            <graphic height="4122px"
+                  width="4994px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01128-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div part="N" org="uniform" sample="complete">
+                <pb n="1r" facs="#i1"/>
+                <pb n="1v" facs="#i2"/>
+                <pb n="2r" facs="#i3"/>
+                <pb n="2v" facs="#i4"/>
+            </div>
+        </body>
+    </text>
+</TEI>

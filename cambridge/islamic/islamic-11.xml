@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="5.0">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.1127</title>
+                <funder>TIMA</funder>
+                <principal/>
+            </titleStmt>
+            <publicationStmt>
+                <date calendar="Gregorian" unit="mm">[Date when first made available]</date>
+                <publisher>Cambridge University Library</publisher>
+                <pubPlace>
+                    <address>
+                  <addrLine>Department of Near and Middle Eastern Collections</addrLine>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk/deptserv/neareastern/">Cambridge University Library
+                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>near_eastern@lib.cam.ac.uk</email>
+                  </addrLine>
+                </address>
+                </pubPlace>
+                <idno>UKCU</idno>
+                
+                <availability xml:id="displayImageRights" status="restricted" default="false">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted" default="false">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc default="false">
+                <msDesc xml:id="OCIMCO" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Cambridgeshire</region>
+                        <settlement>Cambridge</settlement>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Oriental Manuscripts</collection>
+                        <idno>MS Add.1127</idno>
+                        <altIdentifier type="internal">
+                            <collection type="CUL_collection">islamic</collection>
+                            <idno/>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents defective="false">
+                        <summary>Fragment of an Abbasid Qur'ān probably written in the third or
+                            fourth century A.H. / ninth or tenth century C.E, containing verses
+                            67-72 from the Sura Yūnus (سورة يونس). The script seems to correspond to
+                            the Abbasid Style <term subtype="script">D.Vb</term> as described by
+                            F. Deroche.</summary>
+                        <msItem n="1" xml:id="a1" defective="false">
+                            
+                            <title xml:lang="ara-Latn-x-lc">al-Qurʼān</title>
+                            
+                            <title xml:lang="ara" type="uniform">القرآن </title>
+                            
+                            <title xml:lang="eng" type="desc">al-Qurʼān x:67-72</title>
+                            <listBibl default="false">
+                                <bibl default="false">
+                                    <ref target="http://www.lib.cam.ac.uk/arabic_catalogues/browne/view.php?id=90">no. 792</ref>
+                                </bibl>
+                               
+                            </listBibl>
+                            <textLang mainLang="ara">Arabic</textLang>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="1">f. 1r  [line 1]</locus>
+                                <title xml:lang="eng">Q. 10:67 [line 1]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="1r" to="1r" n="2">f. 1r  [line 2]</locus>
+                                <title xml:lang="eng">Q. 10:68 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2r" to="2r" n="2">f. 2r  [line 2]</locus>
+                                <title xml:lang="eng">Q. 10:69 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="2v" to="2v" n="2">f. 2v  [line 2]</locus>
+                                <title xml:lang="eng">Q. 10:70 [line 2]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="3r" to="3r" n="4">f. 3r  [line 4]</locus>
+                                <title xml:lang="eng">Q. 10:71 [line 4]</title>
+                            </msItem>
+                            <msItem defective="false">
+                                <locus from="4v" to="4v" n="5">f. 4v  [line 5]</locus>
+                                <title xml:lang="eng">Q. 10:72 [line 5]</title>
+                            </msItem>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <extent>
+                                    
+                                    <dimensions type="written" unit="cm">
+                                        <height unit="mm">12.3</height>
+                                        <width unit="mm">17.6</width>
+                                    </dimensions>
+                                </extent>
+                                
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="0" ruledLines="00" n="mistara">
+                                    
+                                    <p>5 lines per page</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major" script="kufic-abbasid">
+                                <p>The script seems to correspond to the Abbasid Style <term subtype="script">D.Vb</term> as described by F.
+                                    Deroche.</p>
+                                <persName unit="mm" full="yes"/>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin unit="mm">
+                            <origDate calendar="Gregorian" notBefore="0800" notAfter="1000" unit="mm">Probably 9th or 10th
+                                century CE / 3rd or 4th century AH</origDate>
+                        </origin>
+                        <provenance>Bought from <name type="person" ref="http://viaf.org/viaf/56683055" role="fmo">
+                            <persName type="display" unit="mm" full="yes">Professor E.H. Palmer</persName>
+                            <persName type="standard" unit="mm" full="yes">Palmer, Edward Henry, 1840-1882</persName>
+                        </name> and <name type="person" role="fmo">
+                            <persName type="display" unit="mm" full="yes">E.E. Tyrwhitt Drake</persName>
+                            <persName type="standard" unit="mm" full="yes">Tyrwhitt Drake, E.E.</persName>
+                        </name> in 1878.</provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source>This manuscript description was created by Ignacio Sanchez
+                                    at the Middle Eastern Department of Cambridge University
+                                    Library. For the Paleaographic classification refer to <ref type="biblio" target="Déroche1992">Déroche,
+                                        1992</ref>.</source>
+                            </recordHist>
+                            <availability status="restricted" default="false">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>. Contact
+                                        <email>near_eastern@lib.cam.ac.uk</email> for further
+                                    information on the availability of this manuscript</p>
+                            </availability>
+                            <note anchored="true"/>
+                        </adminInfo>
+                        <listBibl default="false">
+                            
+                            <biblStruct type="book" xml:id="Arberry1900">
+                                <monogr>
+                                    <title>A hand-list of the Muḥammadan manuscripts: including all
+                                        those written in the Arabic character, preserved in the
+                                        library of the University of Cambridge</title>
+                                    
+                                    <respStmt>
+                                        <resp>contributor</resp>
+                                        <persName unit="mm" full="yes">
+                                            <forename full="yes">Edward Granville</forename>
+                                            <surname full="yes">Browne</surname>
+                                        </persName>
+                                    </respStmt>
+                                    <author>
+                                        <name type="unknown">Cambridge University Library</name>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>University Press</publisher>
+                                        <date unit="mm">1900</date>
+                                        
+                                    </imprint>
+                                </monogr>
+                            </biblStruct>
+                            <biblStruct type="book" xml:id="Déroche1992">
+                                <monogr>
+                                    <title>The Abbasid tradition: Qurʼans of the 8th to the 10th
+                                        centuries AD</title>
+                                    <author>
+                                        <forename full="yes">François</forename>
+                                        <surname full="yes">Déroche</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>London</pubPlace>
+                                        <publisher>The Nour Foundation in association with Azimuth
+                                            Editions and Oxford University Press</publisher>
+                                        <date unit="mm">1992</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>The Nasser D. Khalili Collection of Islamic Art</title>
+                                    <biblScope type="vol">v. 1</biblScope>
+                                </series>
+                                <idno type="ISBN">0197276008</idno>
+                            </biblStruct>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl default="false">
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            <taxonomy>
+               <bibl default="false">Image Role Typology</bibl>
+               <category xml:id="document-thumbnail">
+                  <catDesc>document-thumbnail</catDesc>
+               </category>
+               <category xml:id="download">
+                  <catDesc>download</catDesc>
+               </category>
+               <category xml:id="thumbnail">
+                  <catDesc>thumbnail</catDesc>
+               </category>
+            </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass default="false">
+                <keywords scheme="#LCSH">
+                    <list type="simple">
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/sh85072953#concept">Koran</ref>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2013-02-01">
+                <persName unit="mm" full="yes">Ignacio Sanchez</persName>
+            </change>
+            <!-- Your revisionDesc should include information concerning 
+                major changes to the electronic file.  Replace the above 
+                with something more suitable.   -->
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00003_files/8/0_0.jpg"/>
+        <surface n="cover" xml:id="i1">
+            <graphic height="5328px"
+                  width="3929px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="cover (inside)" xml:id="i2">
+            <graphic height="5700px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="1r" xml:id="i3">
+            <graphic height="5429px"
+                  width="3499px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="1v" xml:id="i4">
+            <graphic height="5495px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="2r" xml:id="i5">
+            <graphic height="5429px"
+                  width="3499px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00005_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="2v" xml:id="i6">
+            <graphic height="5495px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00006_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="3r" xml:id="i7">
+            <graphic height="5429px"
+                  width="3499px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00007_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="3v" xml:id="i8">
+            <graphic height="5495px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00008_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="4r" xml:id="i9">
+            <graphic height="5429px"
+                  width="3499px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00009_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="4v" xml:id="i10">
+            <graphic height="5495px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00010_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="6r" xml:id="i11">
+            <graphic height="5429px"
+                  width="3499px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00011_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="6v" xml:id="i12">
+            <graphic height="5495px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00012_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="back cover (inside)" xml:id="i13">
+            <graphic height="5700px"
+                  width="3630px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00013.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00013_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="back cover" xml:id="i14">
+            <graphic height="5328px"
+                  width="3929px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00014.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00014_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+        <surface n="spine" xml:id="i15">
+            <graphic height="5470px"
+                  width="2267px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00015.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-01127-000-00015_files/8/0_0.jpg"
+                  rend="portrait"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div org="uniform" sample="complete" part="N">
+                <pb xml:id="frontcover-r" n="cover" facs="#i1"/>
+            
+                <pb xml:id="frontcover-v" n="cover (inside)" facs="#i2"/>
+           
+                <pb xml:id="Lg-1r" n="1r" facs="#i3"/>
+                
+                <pb xml:id="Lg-1v" n="1v" facs="#i4"/>
+                
+                <pb xml:id="Lg-2r" n="2r" facs="#i5"/>
+                
+                <pb xml:id="Lg-2v" n="2v" facs="#i6"/>
+                
+                <pb xml:id="Lg-3r" n="3r" facs="#i7"/>
+                
+                <pb xml:id="Lg-3v" n="3v" facs="#i8"/>
+                
+                <pb xml:id="Lg-4r" n="4r" facs="#i9"/>
+                
+                <pb xml:id="Lg-4v" n="4v" facs="#i10"/>
+                
+                <pb xml:id="Lg-6r" n="6r" facs="#i11"/>
+                
+                <pb xml:id="Lg-6v" n="6v" facs="#i12"/>
+                
+            
+                <pb xml:id="backcover-r" n="back cover (inside)" facs="#i13"/>
+            
+                <pb xml:id="backcover-v" n="back cover" facs="#i14"/>
+            
+                <pb xml:id="spine" n="spine" facs="#i15"/>
+            </div>
+        </body>
+    </text>
+</TEI>

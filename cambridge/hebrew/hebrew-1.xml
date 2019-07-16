@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MS Add.431</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Cambridge University Library</publisher>
+
+                <availability xml:id="displayImageRights" status="restricted">
+                    <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+                </availability>
+                <availability xml:id="downloadImageRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">Images made
+                        available for download are licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License (CC BY-NC 3.0)</licence>
+                </availability>
+                <availability xml:id="metadataRights" status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc/3.0/">This
+                        metadata is licensed under a Creative Commons
+                        Attribution-NonCommercial 3.0 Unported License.</licence>
+                </availability>
+
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="MS-ADD-00431" xml:lang="en">
+                    <msIdentifier>
+                        <institution>Cambridge University</institution>
+                        <repository>Cambridge University Library</repository>
+                        <collection>Hebrew Manuscripts</collection>
+                        <idno>MS Add.431</idno>
+
+                    </msIdentifier>
+                    <msContents>
+                        <!--general titles for works containing more than one item go here
+                        and also any abstract-->
+                        <summary>Colourful schematic map of Jerusalem, employing the tropes of
+                            Jewish folk art of the 17th–18th centuries. Jerusalem is depicted as
+                            a walled city with many towers and is surrounded by illustrations
+                            denoting the sites of the tombs of various biblical figures and
+                            rabbinic sages in the wider Land of Israel. A title is written in a
+                            large square script at the top of the map: זאת אגרת מספרת יחסותא
+                            דתקיפי וצדיקי וחסידי ותנאי ואמוראי ארעא דישראל זכתום יעמד לנו ולכל
+                            ישראל ובא לציון גואל אכי״ר. Towards the bottom, on the left-hand
+                            side, there is a note by the artist: אני שמואל בן ישי מסיניגאליה
+                            העתקתיו מאחר שהובא מארץ רחוקה ח׳ ימים לחדש תשרי, ‘I, Samuel b. Yišay
+                            from Senigallia, copied it from one that had been brought from a
+                            distant land, on the 8th of Tišri’. Jerusalem itself is depicted as
+                            being divided into two by the Western Wall, with the Tower of David
+                            sitting prominently in the lower section. Four cypresses stand above
+                            the wall, dividing the Dome of the Rock from the Al-Aqsa Mosque
+                            (called מדרש שלמה). Each item is identified in carefully penned
+                            Hebrew, and there are occasional pious verses. The whole map is
+                            surrounded by a decorative border, lost in part.</summary>
+
+                        <msItem>
+                            <title>Schematic map </title>
+                            <title type="alt">Folk art</title>
+                            
+                            <textLang mainLang="heb">Hebrew</textLang>
+
+                        </msItem>
+                        <!--table of contents-->
+
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="paper">
+                                <support>
+                           <material>Parchment</material>
+                        </support>
+                                <extent>1 f. <dimensions type="leaf" unit="mm">
+                                        <height>460</height>
+                                        <width>670</width>
+                                    </dimensions>
+                                </extent>
+                                <condition>
+                                    <p>Creased, slightly torn at edges, faded and discoloured</p>
+                                </condition>
+                            </supportDesc>
+
+
+                            <!--repair-->
+
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scope="major">
+                                <p>Italian square script </p>
+                            </handNote>
+                        </handDesc>
+
+
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate calendar="Gregorian" notBefore="1700" notAfter="1750">First half
+                                of eighteenth century</origDate>
+                            <origPlace ref="7002473">Italy</origPlace>
+                        </origin>
+                        <provenance>Presented by <name type="person" role="fmo">
+                                <persName type="display">H. Lipschütz</persName>
+                                <persName type="standard">Lipschütz, H.</persName>
+                            </name> in 1867. </provenance>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card. For admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>). Contact the
+                                    Manuscripts Department for further information on the
+                                    availability of this manuscript</p>
+                            </availability>
+                            <note/>
+                        </adminInfo>
+
+                        <listBibl type="ms_descriptions">
+                            <head>Descriptions of the manuscript</head>
+
+                            <biblStruct type="book" xml:id="Cambridge_University_Library1997">
+                                <monogr>
+                                    <title>Hebrew manuscripts at Cambridge University Library: a
+                                        description and introduction</title>
+                                    <author>
+                                        <forename>Stefan C.</forename>
+                                        <surname>Reif</surname>
+                                    </author>
+                                    <imprint>
+                                        <pubPlace>Cambridge</pubPlace>
+                                        <publisher>Cambridge University Press</publisher>
+                                        <date>1997</date>
+                                    </imprint>
+                                </monogr>
+                                <series>
+                                    <title>University of Cambridge oriental publications</title>
+                                    <biblScope type="vol">52</biblScope>
+                                </series>
+                                <idno type="ISBN">052158339X</idno>
+
+                                <!--HUW: How can I put this reference in?
+                                Abramsky, Samuel, et al. "Jerusalem." Encyclopaedia Judaica. Ed. Michael Berenbaum and Fred Skolnik. 2nd ed. Vol. 11. Detroit: Macmillan Reference USA, 2007. 143-232. Gale Virtual Reference Library. Web. 18 Jan. 2014.
+                                -->
+                            </biblStruct>
+                            <!--<biblStruct type="book" xml:id="Skolnik2007">
+                                <analytic>
+                                    <title level="a">Jerusalem</title>
+                                    <author><forename>Sameul</forename><surname>Abramsky</surname></author>
+                                </analytic>
+                                <monogr>
+                                    <title level="m">Encyclopaedia Judaica</title>
+                                    <author><forename>Fred</forename><surname>Skolnik</surname></author>
+                                    <author><forename>Michael</forename><surname>Berenbaum</surname></author>
+                                    <imprint>
+                                        <biblScope type="vol">11</biblScope>
+                                        <biblScope type="pp">143-242</biblScope>
+                                        <pubPlace>Detroit</pubPlace>
+                                        <publisher>Macmillan Reference USA in association with the
+                                            Keter Pub. House</publisher>
+                                        <date>2007</date>
+                                    </imprint>
+                                </monogr>
+
+                            </biblStruct>-->
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="#LCSH">
+                    <list>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080722.html">Manuscripts, Hebrew </ref>
+                        </item>
+                        <item>
+                            <ref target="http://id.loc.gov/authorities/subjects/sh85080858.html">Maps </ref>
+                        </item>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2012-03-05">
+                <persName>Ben Outhwaite </persName>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <facsimile>
+        <graphic decls="#document-thumbnail"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00431-000-00001_files/8/0_0.jpg"
+               rend="landscape"/>
+        <surface n="1r" xml:id="i1">
+            <graphic height="12416px"
+                  width="17536px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00431-000-00001.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00431-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+        <surface n="1v" xml:id="i2">
+            <graphic height="13472px"
+                  width="17984px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00431-000-00002.jpg"/>
+            <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-ADD-00431-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div>
+                <pb n="1r" facs="#i1"/>
+                <pb n="1v" facs="#i2"/>
+            </div>
+        </body>
+    </text>
+
+</TEI>
