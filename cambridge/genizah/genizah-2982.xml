@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 8K10</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2018-03-05</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>                        
+                  <idno>T-S 8K10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Leaves from the ‘Egyptian Scroll’, a poetic narrative that was read out in the synagogue to commemorate and give thanks for freedom from oppression in the year 1012 CE. A public disturbance at a Jewish funeral procession provoked violence, mass arrests followed, and a Fusṭāṭ judge sentenced 23 members of the Jewish community to death. As was their right under Islamic law the leaders of the Jewish community appealed directly to the Caliph al-Ḥākim bi-Amr Allāh in Cairo. He declared that the Muslim witnesses had lied and released the condemned Jews. The probable author of the 'scroll', the Hebrew poet Samuel the Third b. Hošaʿna, is mentioned on leaf 4v, since he was also one of the prisoners. Leaf 1 of the codex contains morning benedictions and is in a different hand to the other leaves. Its vocalisation has also been added secondarily. Leaf 2 should come between leaves 6 and 7. There are leaves missing between leaves 3 and 4 and possibly also between 5 and 6.</summary>
+                  <msItem n="1">                           
+
+                     <title>History: Egyptian Scroll</title>
+                     <textLang mainLang="heb" otherLangs="">Hebrew (Tiberian vocalisation and cantillation)</textLang>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Samuel b. Hošaʿna (Third in the Academy)</persName>
+                           <persName type="display">Samuel b. Hošaʿna (Third in the Academy)</persName>
+                        </name>
+                     </author>
+                    
+                     <respStmt>
+
+                        <resp/>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+   
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>7 leaves (2 bifolia and 3 separate leaves).<dimensions type="leaf" unit="cm">
+                              <height>16.3</height>
+                              <width>35.5 (1 leaf: 12.6)</width>
+                           </dimensions>
+                        </extent>
+                        <condition>Torn, holes, rubbed</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">10-13 lines + marginalia</layout>                                                                    
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1012-01-01" notAfter="1012-12-31">1012 CE</origDate>
+                     <origPlace ref="7016833">Egypt</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-03-05">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic decls="#downloadImageRights #download"
+                  height="5294px"
+                  width="3613px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic decls="#downloadImageRights #download"
+                  height="5254px"
+                  width="3653px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2r" xml:id="i3">
+         <graphic decls="#downloadImageRights #download"
+                  height="5215px"
+                  width="3700px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2v" xml:id="i4">
+         <graphic decls="#downloadImageRights #download"
+                  height="5357px"
+                  width="3810px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="3r" xml:id="i5">
+         <graphic decls="#downloadImageRights #download"
+                  height="5167px"
+                  width="3621px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00005_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="3v" xml:id="i6">
+         <graphic decls="#downloadImageRights #download"
+                  height="5262px"
+                  width="3755px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00006_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="4r" xml:id="i7">
+         <graphic decls="#downloadImageRights #download"
+                  height="5238px"
+                  width="3629px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00007_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="4v" xml:id="i8">
+         <graphic decls="#downloadImageRights #download"
+                  height="5270px"
+                  width="3590px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00008_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="5r" xml:id="i9">
+         <graphic decls="#downloadImageRights #download"
+                  height="5152px"
+                  width="3495px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00009.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00009_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="5v" xml:id="i10">
+         <graphic decls="#downloadImageRights #download"
+                  height="5152px"
+                  width="3582px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00010.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00010_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="6r" xml:id="i11">
+         <graphic decls="#downloadImageRights #download"
+                  height="5294px"
+                  width="3597px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00011.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00011_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="6v" xml:id="i12">
+         <graphic decls="#downloadImageRights #download"
+                  height="5136px"
+                  width="3637px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00012.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00012_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="7r" xml:id="i13">
+         <graphic decls="#downloadImageRights #download"
+                  height="5317px"
+                  width="3653px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00013.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00013_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="7v" xml:id="i14">
+         <graphic decls="#downloadImageRights #download"
+                  height="5238px"
+                  width="3692px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00014.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-K-00010-000-00014_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+            <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+            <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+            <pb xml:id="Lg-3r" n="3r" facs="#i5"/>
+            <pb xml:id="Lg-3v" n="3v" facs="#i6"/>
+            <pb xml:id="Lg-4r" n="4r" facs="#i7"/>
+            <pb xml:id="Lg-4v" n="4v" facs="#i8"/>
+            <pb xml:id="Lg-5r" n="5r" facs="#i9"/>
+            <pb xml:id="Lg-5v" n="5v" facs="#i10"/>
+            <pb xml:id="Lg-6r" n="6r" facs="#i11"/>
+            <pb xml:id="Lg-6v" n="6v" facs="#i12"/>
+            <pb xml:id="Lg-7r" n="7r" facs="#i13"/>
+            <pb xml:id="Lg-7v" n="7v" facs="#i14"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p> [ff. 3-4] …in the land of Egypt and who rules over the corners of the world — the West, the East, the North and the South. And his rule grew lofty, powerful and mighty, and he raised his throne higher than the throne of his forefathers and their forefathers before them.</p>
+            <p>In the thirteenth year of his (al-Hakim’s) reign he guided all of the kingdom with magnanimity and good judgement. He did not need a vizier, nor a counsellor. A number of conspirators conspired against him and a number of adversaries rose up against him, and God cast them down beneath the soles of his feet, because he loved righteousness and hated wickedness. He appointed judges in the land  and ordered them to give fair judgements and dispense lawful verdicts. He banished men of violence and turned away the wicked. He abhorred those of perverse ways or shameful deeds. He loved prudent men, the establishing of justice and the right path.</p>
+            <p>And out of his great love of righteousness, he set up reliable witnesses for the places of execution, the offices of judges, and the night-watchmen, such as never had been in the mind of a king or been done by any ruler before. Everyone knew that he desired neither silver nor gold, nor plunder nor to rule by oppression or tyranny.</p>
+            <p>Now, on the third day of the month of Ševaṭ in the year four thousand seven hundred and seventy of the Creation of the World, which is the year one thousand three hundred and twenty-three from the Cessation of Prophecy, which is the year nine hundred and forty-three of the Destruction of the Holy Dwelling, one of the cantors of the community, by the name of Putiel, died.…</p>
+            <p>[f. 2] They trod them down and beat them in the streets. The people were terrified and fled for their lives. Some of them ran away; some of them hid. Some of them offered bribes of money; some of them stripped off their clothes. Some of them were thrown into wells; some of them had their hands chained; and some their legs fettered. From among the people they picked out twenty-three men, and they took them away to prison, [putting them] in two cells. In a space the size of a manger they remained overnight, hungry as well as thirsty. And they took a few of their clothes in payment for their rations.</p>
+            <p>Among them among the members of the Sanhedrin (the Jerusalem Academy) was an old man of great age, humble and contrite of spirit, God-fearing. He was Third in the Academy and his name was Samuel b. Hoshaʿna. They awoke on the morning of Monday, the fourth of Shevat, and they were taken out in great haste, and in terrible fear…</p>
+            <p>[Translation by Ben Outhwaite]</p>
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+            <pb xml:id="tr-2r" n="2r" facs="#i3"/>
+            <pb xml:id="tr-2v" n="2v" facs="#i4"/>
+            <pb xml:id="tr-3r" n="3r" facs="#i5"/>
+            <pb xml:id="tr-3v" n="3v" facs="#i6"/>
+            <pb xml:id="tr-4r" n="4r" facs="#i7"/>
+            <pb xml:id="tr-4v" n="4v" facs="#i8"/>
+            <pb xml:id="tr-5r" n="5r" facs="#i9"/>
+            <pb xml:id="tr-5v" n="5v" facs="#i10"/>
+            <pb xml:id="tr-6r" n="6r" facs="#i11"/>
+            <pb xml:id="tr-6v" n="6v" facs="#i12"/>
+            <pb xml:id="tr-7r" n="7r" facs="#i13"/>
+            <pb xml:id="tr-7v" n="7v" facs="#i14"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 8J5.14</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah
+                        Collection has been sponsored by the &lt;a
+                        href='http://www.jewishmanuscripts.org/' target='_blank'
+                        class='externalLink'&gt;Jewish Manuscript Preservation
+                        Society&lt;/a&gt;, the &lt;a href='http://www.genizah.org/'
+                        target='_blank' class='externalLink'&gt;Friedberg Genizah Project
+                        Inc.&lt;/a&gt;, and the &lt;a
+                        href='http://www.ahrc.ac.uk/Pages/default.aspx' target='_blank'
+                        class='externalLink'&gt;Arts and Humanities Research Council,
+                        UK&lt;/a&gt;.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights
+                            reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair
+                            dealing provisions, including teaching and research. If you wish to
+                            reproduce it within publications or on the public web, please contact
+                            &lt;a
+                            href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons
+                            Attribution-NonCommercial 3.0 Unported
+                            License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 8J5.14</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Pages from a Fusṭāṭ court notebook. F. 2r: legal
+                        document, concerning the change of alimony after a divorce, mentioning
+                        Nawīsa (נויסה), Talala (תללה), Barakāt (known as Ṣāniʿ b. Sālim) and Ḵalīl.
+                        Signed by Talala Samuel ha-Levi b. Saʿadya and Elʿazar b. Michael. In the
+                        hand of Samuel b. Saʿadya. F. 2v: legal document regarding a reward payment
+                        for locating a debtor called Abū l-Faḵr, who had fled from Fusṭāṭ to ʿAyḏāb.
+                        Dated Sivan 1497 of the Seleucid Era (= 1186 CE), and written under the
+                        authority of Sar Šalom Gaʾon. Mentions Abū l-Ḥasan, Abū l-Majd the dyer and
+                        Munā b. Tamīm. Ff. 1r-v: distribution of money and clothing, superscribed
+                        ‘the rest through Abū l-Bayān’, followed by a list of people, many of them
+                        widows, with names including daughter of Faraḥ, Umm Abū l-Ḵayr, Umm Marwān,
+                        Umm Daʿānī, widow of al-Daqqī, Abū l-Majd, Hiba b. Pinḥas etc. In the margin
+                        of f. 1v is an unrelated remark about a debt of 11 dinars to an orphan,
+                        dated 1495 of the Seleucid Era (= 1183 CE). In the hand of Samuel b.
+                        Saʿadya. </summary>
+                  <msItem n="1">
+                     <title>Legal document; list</title>
+                     <textLang mainLang="jrb" otherLangs="heb arc">Judaeo-Arabic; Hebrew; Aramaic</textLang>
+                     <author/>
+                     <respStmt>
+                        <name type="person" role="scr">
+                           <persName type="standard">Samuel b. Saʿadya</persName>
+                           <persName type="display">Samuel b. Saʿadya</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Nawīsa (נויסה)</persName>
+                           <persName type="display">Nawīsa (נויסה)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Talala (תללה)</persName>
+                           <persName type="display">Talala (תללה)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḵalīl</persName>
+                           <persName type="display">Ḵalīl</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Barakāt (known as Ṣāniʿ b. Sālim)</persName>
+                           <persName type="display">Barakāt (known as Ṣāniʿ b. Sālim)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Elʿazar b. Michael</persName>
+                           <persName type="display">Elʿazar b. Michael</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Faḵr</persName>
+                           <persName type="display">Abū l-Faḵr</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sar Šalom Gaʾon</persName>
+                           <persName type="display">Sar Šalom Gaʾon</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Ḥasan</persName>
+                           <persName type="display">Abū l-Ḥasan</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Majd the dyer</persName>
+                           <persName type="display">Abū l-Majd the dyer</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Munā b. Tamīm</persName>
+                           <persName type="display">Munā b. Tamīm</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Bayān</persName>
+                           <persName type="display">Abū l-Bayān</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Umm Abū l-Ḵayr</persName>
+                           <persName type="display">Umm Abū l-Ḵayr</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Umm Marwān</persName>
+                           <persName type="display">Umm Marwān</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Umm Daʿānī, widow of al-Daqqī</persName>
+                           <persName type="display">Umm Daʿānī, widow of al-Daqqī</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Majd</persName>
+                           <persName type="display">Abū l-Majd</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Hiba b. Pinḥas</persName>
+                           <persName type="display">Hiba b. Pinḥas</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Faraḥ</persName>
+                           <persName type="display">Faraḥ</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>2 leaves (bifolium).<dimensions type="leaf" unit="cm">
+                              <height>16</height>
+                              <width>24.8 (1 leaf: 12.5)</width>
+                           </dimensions>
+                        </extent>
+                        <condition>holes, slightly rubbed</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">6-20 lines + marginalia</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1183-01-01" notAfter="1186-12-31">1186 CE; 1183 CE</origDate>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr
+                        Charles Taylor in 1898 as part of the Taylor-Schechter Genizah
+                        Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">
+                        Cairo Genizah
+                    </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="4844px"
+                  width="3345px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="4868px"
+                  width="3290px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2r" xml:id="i3">
+         <graphic height="4781px"
+                  width="3156px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2v" xml:id="i4">
+         <graphic height="4757px"
+                  width="3290px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-J-00005-00014-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+            <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+            <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+         </div>
+      </body>
+   </text>
+</TEI>

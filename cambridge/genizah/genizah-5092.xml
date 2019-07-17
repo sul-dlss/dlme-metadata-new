@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 16.132</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2015-10-28</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>                        
+                  <idno>T-S 16.132</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Deed of conveyance in Hebrew regarding the transfer of part of a property in Al-Banā in the district of Faqqūs on the Nile (אלבנא הסמובה לכך פאקוס) from Fawdīja (פודיגה) bat Ṣemaḥ. Fawdīja has inherited one third of a house from her father. She in turn gives one quarter of her third share in the house to her daughter and sells another quarter to her son-in-law for 3 dinars. Mentions Abraham b. Ḥananya, Ḡaniyya (גנייה) b. ʿAmram and ʿAmram b. Abraham. Dated Friday, Tišri 4759 (= 999 CE). Witnessed by Judah b. Israel the cantor, Jacob ha-Kohen b. Yešuʿa ha-Kohen, ʿEli b. Mevasser ha-Levi, Yaqūb b. Joseph, Moses b. Joseph, Yefet b. Mevasser, [...] b. Abraham, Abraham b. Saʿadya, Sahl b. Mevasser, Benjamin b. Hillel, Job b. Mūsā, Joseph b. Mevoraḵ, Faraḥ b. Aaron, Yefet b. Abraham, Ḥabas (חבס) b. ʿEli, and ʿEli b. Ibrahīm.</summary>
+                  <msItem n="1">                           
+
+                     <title>Legal document</title>
+                     <textLang mainLang="heb" otherLangs="">Hebrew</textLang>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Fawdīja bat Ṣemaḥ</persName>
+                           <persName type="display">Fawdīja bat Ṣemaḥ</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abraham b. Ḥananya</persName>
+                           <persName type="display">Abraham b. Ḥananya</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḡaniyya b. ʿAmram</persName>
+                           <persName type="display">Ḡaniyya b. ʿAmram</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">ʿAmram b. Abraham</persName>
+                           <persName type="display">ʿAmram b. Abraham</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Judah b. Israel the cantor</persName>
+                           <persName type="display">Judah b. Israel the cantor</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Jacob ha-Kohen b. Yešuʿa ha-Kohen</persName>
+                           <persName type="display">Jacob ha-Kohen b. Yešuʿa ha-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">ʿEli b. Mevasser ha-Levi</persName>
+                           <persName type="display">ʿEli b. Mevasser ha-Levi</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yaqūb b. Joseph</persName>
+                           <persName type="display">Yaqūb b. Joseph</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Moses b. Joseph</persName>
+                           <persName type="display">Moses b. Joseph</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yefet b. Mevasser</persName>
+                           <persName type="display">Yefet b. Mevasser</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">[...] b. Abraham</persName>
+                           <persName type="display">[...] b. Abraham</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abraham b. Saʿadya</persName>
+                           <persName type="display">Abraham b. Saʿadya</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sahl b. Mevasser</persName>
+                           <persName type="display">Sahl b. Mevasser</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Benjamin b. Hillel</persName>
+                           <persName type="display">Benjamin b. Hillel</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Job b. Mūsā</persName>
+                           <persName type="display">Job b. Mūsā</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Joseph b. Mevoraḵ</persName>
+                           <persName type="display">Joseph b. Mevoraḵ</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Faraḥ b. Aaron</persName>
+                           <persName type="display">Faraḥ b. Aaron</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yefet b. Abraham</persName>
+                           <persName type="display">Yefet b. Abraham</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḥabas b. ʿEli</persName>
+                           <persName type="display">Ḥabas b. ʿEli</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">ʿEli b. Ibrahīm</persName>
+                           <persName type="display">ʿEli b. Ibrahīm</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+   
+                     <supportDesc material="vellum">
+                        <support>Vellum</support>
+                        <extent>1 leaf.</extent>
+                        <condition>Torn, holes, stained</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">18 lines (recto; verso is blank)</layout>                                                                    
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="0999-01-01" notAfter="0999-12-31">999 CE</origDate>
+                     <origPlace ref="7016833">Egypt</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-10-28">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="landscape"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00016-00132-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="6804px"
+                  width="8568px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00016-00132-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00016-00132-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="6804px"
+                  width="8520px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00016-00132-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00016-00132-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

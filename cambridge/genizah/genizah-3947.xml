@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 12.347</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by
+     the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation
+      Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>,
+     and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+      Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2016-02-17</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including
+      teaching and research. If you wish to reproduce it within publications or on the public web,
+      please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0
+      Unported License.</licence>
+            </availability>
+
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 12.347</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem n="1">
+
+                     <title>Genizah Fragment</title>
+                     <textLang mainLang="" otherLangs=""/>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+
+                     <supportDesc material="">
+                        <support/>
+                        <extent/>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="0500-01-01" notAfter="1899-12-31">6th-19th
+        century</origDate>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part
+       of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card
+         for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library
+          Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject
+       Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2016-02-17">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00012-00347-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="5791px"
+                  width="4101px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00012-00347-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00012-00347-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="5726px"
+                  width="4101px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00012-00347-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00012-00347-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <p n="000000000020 10">
+               <w n="2">"שלום</w>
+               <w n="3">רב</w>
+               <w n="4">לא?הב?י</w>
+               <w n="5">תורת?ך"</w>
+               <w n="6">ו?ג'.</w>
+               <w n="7">שלומות</w>
+               <w n="8">רבות</w>
+               <w n="9">וישועות</w>
+               <w n="10">עצומות.</w>
+               <w n="11">ובשורות</w>
+               <w n="12">נאומות</w>
+               <w n="13">ושנים</w>
+               <w n="14">נ?עי?&lt;מות//&gt;.</w>
+               <w n="15">ו?בר?כות</w>
+               <w n="16">רשומות</w>
+               <w n="17">מיודע</w>
+               <w n="18">תעלומות.</w>
+               <w n="19">+לאד&lt;'&gt;</w>
+               <w n="20">ומרי</w>
+               <w n="21">כ?ב?'</w>
+               <w n="22">גד'</w>
+               <w n="23">?ק?&lt;דשת&gt;</w>
+               <w n="24">הדרת</w>
+               <w n="25">יקרת</w>
+               <w n="26">תפארת</w>
+               <w n="27">עטרת</w>
+               <w n="28">[מר'</w>
+               <w n="29">ור']</w>
+               <w n="30">הזקן</w>
+               <w n="31">היקר</w>
+               <w n="32">הח?כ?&lt;ם</w>
+               <w n="33">וה&gt;נבון</w>
+               <w n="34">הי?ד?וע</w>
+               <w n="35">&lt;...&gt;</w>
+               <w n="36">פרח</w>
+               <w n="37">ה?אל?הים</w>
+               <w n="38">יש'</w>
+               <w n="39">ויעזרהו</w>
+               <w n="40">וינצרהו.</w>
+               <w n="41">בן</w>
+               <w n="42">כב'</w>
+               <w n="43">גד'</w>
+               <w n="44">&lt;מ&gt;ר'</w>
+               <w n="45">ו?ר'?</w>
+               <w n="46">הזקן</w>
+               <w n="47">מ&lt;ומל</w>
+               <w n="48">...&gt;.</w>
+            </p>
+            <p n="000000000030 10">
+               <w n="1">ממני</w>
+               <w n="2">אני</w>
+               <w n="3">טוביה</w>
+               <w n="4">העובד</w>
+               <w n="5">הת&lt;למ&gt;יד</w>
+               <w n="6">ה?צעיר</w>
+               <w n="7">האב?ל</w>
+               <w n="8">?המתא?&lt;..</w>
+               <w n="9">...&gt;</w>
+               <w n="10">ובעד+</w>
+               <w n="11">שבר</w>
+               <w n="12">כל</w>
+               <w n="13">יש'</w>
+               <w n="14">ועל</w>
+               <w n="15">ציון</w>
+               <w n="16">וירוש'</w>
+               <w n="17">האלהים</w>
+               <w n="18">ינחמנ&lt;ו.</w>
+               <w n="19">...</w>
+               <w n="20">"...&gt;</w>
+               <w n="21">תנחמנו</w>
+               <w n="22">כ?ן?</w>
+               <w n="23">אנכי</w>
+               <w n="24">אנחמכם</w>
+               <w n="25">ובירוש'</w>
+               <w n="26">תנוחמ?ו?".</w>
+            </p>
+            <p n="000000000040 10">
+               <w n="1">&lt;..&gt;מ?ר</w>
+               <w n="2">ל?&lt;..</w>
+               <w n="3">...&gt;</w>
+               <w n="4">היקר</w>
+               <w n="5">כי</w>
+               <w n="6">באה</w>
+               <w n="7">אלי</w>
+               <w n="8">כתבך</w>
+               <w n="9">הנאה</w>
+               <w n="10">והיקרה</w>
+               <w n="11">ושמחתי</w>
+               <w n="12">?כ?י</w>
+               <w n="13">א?ת?&lt;..</w>
+               <w n="14">...&gt;</w>
+               <w n="15">וכי</w>
+               <w n="16">אתם</w>
+               <w n="17">מן</w>
+               <w n="18">פחד</w>
+               <w n="19">האויבים</w>
+               <w n="20">ביראה</w>
+               <w n="21">גד?ו?לה.</w>
+            </p>
+            <p n="000000000050 10">
+               <w n="1">ברוך</w>
+               <w n="2">י'י</w>
+               <w n="3">אלהינ?ו</w>
+               <w n="4">אשר</w>
+               <w n="5">ל?&lt;..</w>
+               <w n="6">...&gt;</w>
+               <w n="7">מעמו</w>
+               <w n="8">כי</w>
+               <w n="9">היה</w>
+               <w n="10">הוא</w>
+               <w n="11">יודע</w>
+               <w n="12">מה</w>
+               <w n="13">יעבור</w>
+               <w n="14">על</w>
+               <w n="15">זאת</w>
+               <w n="16">האמה</w>
+               <w n="17">השפלה</w>
+               <w n="18">וכ?ת?&lt;..</w>
+               <w n="19">...&gt;</w>
+               <w n="20">#וסינגילאת#.</w>
+               <w n="21">שאם</w>
+               <w n="22">יבוא</w>
+               <w n="23">לנו</w>
+               <w n="24">צרה</w>
+               <w n="25">נשוב</w>
+               <w n="26">אליהם</w>
+               <w n="27">ונראה</w>
+               <w n="28">ונקח</w>
+               <w n="29">&lt;...&gt;</w>
+               <w n="30">נפשנו</w>
+               <w n="31">כי</w>
+               <w n="32">לא</w>
+               <w n="33">נאבד.</w>
+            </p>
+            <p n="000000000060 10">
+               <w n="1">ותחלתם</w>
+               <w n="2">"ואף</w>
+               <w n="3">גם</w>
+               <w n="4">זאת</w>
+               <w n="5">בהיותם</w>
+               <w n="6">?ב?ארץ</w>
+               <w n="7">?איבי?&lt;הם"</w>
+               <w n="8">...</w>
+               <w n="9">"...&gt;</w>
+               <w n="10">יש'"</w>
+               <w n="11">וג'.</w>
+               <w n="12">"מקוה</w>
+               <w n="13">יש'</w>
+               <w n="14">מושיעו</w>
+               <w n="15">בעת</w>
+               <w n="16">צרה"</w>
+               <w n="17">וג'.</w>
+               <w n="18">"?ב?כל</w>
+               <w n="19">?צרתם</w>
+               <w n="20">ל?&lt;..</w>
+               <w n="21">..."</w>
+               <w n="22">...&gt;.</w>
+               <w n="23">מלמד</w>
+               <w n="24">שאמ'</w>
+               <w n="25">החכמ'</w>
+               <w n="26">זכ'</w>
+               <w n="27">לב'</w>
+               <w n="28">שבכל</w>
+               <w n="29">?צ?&lt;..</w>
+               <w n="30">...&gt;</w>
+               <w n="31">במקרא.</w>
+               <w n="32">ואשרי</w>
+               <w n="33">?שיב?טח</w>
+               <w n="34">בו</w>
+               <w n="35">ואוי</w>
+               <w n="36">?ל&lt;מי&gt;</w>
+               <w n="37">שימ?&lt;..</w>
+               <w n="38">...&gt;.</w>
+            </p>
+            <p n="000000000070 10">
+               <w n="1">כי</w>
+               <w n="2">לא</w>
+               <w n="3">כתבתי</w>
+               <w n="4">לך</w>
+               <w n="5">עד</w>
+               <w n="6">ע?ת?ה</w>
+               <w n="7">ח(נ)[י]</w>
+               <w n="8">נפשך</w>
+               <w n="9">וחי</w>
+               <w n="10">&lt;...&gt;</w>
+               <w n="11">?ו?&lt;..</w>
+               <w n="12">...&gt;</w>
+               <w n="13">לא</w>
+               <w n="14">עשיתי</w>
+               <w n="15">זה</w>
+               <w n="16">אלא</w>
+               <w n="17">מדאגה</w>
+               <w n="18">גדולה</w>
+               <w n="19">כ?י</w>
+               <w n="20">צ?&lt;..</w>
+               <w n="21">...&gt;</w>
+               <w n="22">גדו?ל?</w>
+               <w n="23">&lt;...&gt;</w>
+               <w n="24">את</w>
+               <w n="25">נפשי</w>
+               <w n="26">בבית</w>
+               <w n="27">המת</w>
+               <w n="28">אני</w>
+               <w n="29">ואין</w>
+               <w n="30">איש</w>
+               <w n="31">יס?ור</w>
+               <w n="32">לשאו?ל</w>
+               <w n="33">ל&lt;ש&gt;?ל?&lt;ומי</w>
+               <w n="34">...&gt;</w>
+               <w n="35">ואין</w>
+               <w n="36">איש</w>
+               <w n="37">מנחם</w>
+               <w n="38">ולולי</w>
+               <w n="39">רחמי</w>
+               <w n="40">שדי</w>
+               <w n="41">ובאו</w>
+               <w n="42">אנ?ש?&lt;ים&gt;</w>
+               <w n="43">מא&lt;רץ</w>
+               <w n="44">...&gt;</w>
+               <w n="45">בדברים</w>
+               <w n="46">טו?ב&lt;י&gt;ם?</w>
+               <w n="47">הייתי</w>
+               <w n="48">אמות.</w>
+            </p>
+            <p n="000000000080 10">
+               <w n="1">וכל</w>
+               <w n="2">שכן</w>
+               <w n="3">כי</w>
+               <w n="4">&lt;...&gt;</w>
+               <w n="6">ואפילו</w>
+               <w n="7">גרה</w>
+               <w n="8">אחת</w>
+               <w n="9">לא</w>
+               <w n="10">יתנו</w>
+               <w n="11">לי</w>
+               <w n="12">ואני</w>
+               <w n="13">כרתי</w>
+               <w n="14">את</w>
+               <w n="15">נפשי</w>
+               <w n="16">מן</w>
+               <w n="17">העול?ם?</w>
+               <w n="18">&lt;..&gt;א</w>
+               <w n="19">?אח?&lt;..</w>
+               <w n="20">...&gt;</w>
+               <w n="21">בעולם.</w>
+               <w n="22">ולולי</w>
+               <w n="23">כי</w>
+               <w n="24">הזקן</w>
+               <w n="25">אבו-אלפרג</w>
+               <w n="26">אהרן</w>
+               <w n="27">ש'</w>
+               <w n="28">צ'</w>
+               <w n="29">ישלח</w>
+               <w n="30">אחת</w>
+               <w n="31">לעתים</w>
+               <w n="32">וישא?ל</w>
+               <w n="33">לש?&lt;לומי&gt;</w>
+               <w n="34">לא</w>
+               <w n="35">הייתי</w>
+               <w n="36">אדע</w>
+               <w n="37">טוב</w>
+               <w n="38">או</w>
+               <w n="39">רע.</w>
+            </p>
+            <p n="000000000090 10">
+               <w n="1">וכל</w>
+               <w n="2">שכן</w>
+               <w n="3">כי</w>
+               <w n="4">באו</w>
+               <w n="5">לזקן</w>
+               <w n="6">אבונצר</w>
+               <w n="7">חסד</w>
+               <w n="8">באלה</w>
+               <w n="9">הימים</w>
+               <w n="10">דרכמונים</w>
+               <w n="11">ופיזרום</w>
+               <w n="12">לכל</w>
+               <w n="13">איש.</w>
+               <w n="14">וכן</w>
+               <w n="15">לאבועלי</w>
+               <w n="16">יפת</w>
+               <w n="17">בן</w>
+               <w n="18">אברהם</w>
+               <w n="19">יר'</w>
+               <w n="20">אל</w>
+               <w n="21">?ו?פיזרו</w>
+               <w n="22">גם</w>
+               <w n="23">אלה</w>
+               <w n="24">ולא</w>
+               <w n="25">נתנו</w>
+               <w n="26">לי</w>
+               <w n="27">אפילו</w>
+               <w n="28">שעורה</w>
+               <w n="29">אחת.</w>
+            </p>
+            <p n="000000000100 10">
+               <w n="1">ולא</w>
+               <w n="2">הם</w>
+               <w n="3">זכרו</w>
+               <w n="4">אותי</w>
+               <w n="5">בשאר</w>
+               <w n="6">האנ&lt;שי&gt;ם</w>
+               <w n="7">ולא</w>
+               <w n="8">ב?ע?&lt;ד&gt;</w>
+               <w n="9">הקינות</w>
+               <w n="10">שעשיתי</w>
+               <w n="11">עליו.</w>
+               <w n="12">וברוך</w>
+               <w n="13">י'י</w>
+               <w n="14">ואם</w>
+               <w n="15">הם</w>
+               <w n="16">הניחוני</w>
+               <w n="17">ולא</w>
+               <w n="18">זכרו</w>
+               <w n="19">לי</w>
+               <w n="20">האלהי?ם?</w>
+               <w n="21">&lt;לא&gt;</w>
+               <w n="22">יעזוב</w>
+               <w n="23">את</w>
+               <w n="24">יראיו</w>
+               <w n="25">כי</w>
+               <w n="26">אם</w>
+               <w n="27">יכל?כ?לם</w>
+               <w n="28">ברחמיו.</w>
+               <w n="29">כי</w>
+               <w n="30">מי</w>
+               <w n="31">אני</w>
+               <w n="32">עת?ה?</w>
+               <w n="33">ו?מ?ה</w>
+               <w n="34">?כ&lt;..&gt;</w>
+               <w n="35">ל?&lt;..</w>
+               <w n="36">...&gt;</w>
+               <w n="37">מערב</w>
+               <w n="38">עד</w>
+               <w n="39">ערב</w>
+               <w n="40">לא</w>
+               <w n="41">יחסיר</w>
+               <w n="42">לי</w>
+               <w n="43">הקב'ה</w>
+               <w n="44">מן</w>
+               <w n="45">פת</w>
+               <w n="46">חרבה</w>
+               <w n="47">שא&lt;וכ&gt;?ל</w>
+               <w n="48">&lt;...&gt;</w>
+               <w n="49">נעי?מותיו.</w>
+            </p>
+            <p n="000000000110 10">
+               <w n="1">אבל</w>
+               <w n="2">לא</w>
+               <w n="3">חפצו</w>
+               <w n="4">?בב?רכה</w>
+               <w n="5">ותרחק</w>
+               <w n="6">מהם</w>
+               <w n="7">&lt;...&gt;</w>
+               <w n="8">תחפוץ</w>
+               <w n="9">שאתן</w>
+               <w n="10">הכספים</w>
+               <w n="11">שלך</w>
+               <w n="12">שהם</w>
+               <w n="13">לך</w>
+               <w n="14">(א)[ע]לי</w>
+               <w n="15">ושגר</w>
+               <w n="16">ל&lt;..</w>
+               <w n="17">...&gt;</w>
+               <w n="18">אצלך.</w>
+            </p>
+            <p n="000000000120 10">
+               <w n="1">ואל</w>
+               <w n="2">תאחר</w>
+               <w n="3">בזה</w>
+               <w n="4">אדוני</w>
+               <w n="5">כי</w>
+               <w n="6">אני</w>
+               <w n="7">חפץ</w>
+               <w n="8">לצאת</w>
+               <w n="9">אחר</w>
+               <w n="10">&lt;...&gt;</w>
+               <w n="11">והנ?מ?הר</w>
+               <w n="12">אולי</w>
+               <w n="13">ישיבני</w>
+               <w n="14">י'י</w>
+               <w n="15">אל</w>
+               <w n="16">ביתי</w>
+               <w n="17">ואל</w>
+               <w n="18">נחלת</w>
+               <w n="19">אב?ו?תי</w>
+               <w n="20">כ?י</w>
+               <w n="21">הו?&lt;א&gt;</w>
+               <w n="22">&lt;...&gt;.</w>
+               <w n="23">וכ?ל?</w>
+               <w n="24">שכן</w>
+               <w n="25">כאב</w>
+               <w n="26">הבת</w>
+               <w n="27">היחידה</w>
+               <w n="28">לא</w>
+               <w n="29">תזוז</w>
+               <w n="30">מל?בי?</w>
+               <w n="31">[יומם</w>
+               <w n="32">ולילה.</w>
+               <w n="33">ומי</w>
+               <w n="34">?ה?יה</w>
+               <w n="35">יתן</w>
+               <w n="36">והיתה</w>
+               <w n="37">תמות</w>
+               <w n="38">ולא</w>
+               <w n="39">היתה</w>
+               <w n="40">עם</w>
+               <w n="41">האשה</w>
+               <w n="42">?המנ?אפת].</w>
+            </p>
+            <p n="000000000130 10">
+               <w n="1">[ואם</w>
+               <w n="2">תראה</w>
+               <w n="3">לזקן</w>
+               <w n="4">אבועלי</w>
+               <w n="5">?חס?ן</w>
+               <w n="6">תתן</w>
+               <w n="7">לו</w>
+               <w n="8">?ש?לום</w>
+               <w n="9">?ב?חסדך</w>
+               <w n="10">וגם</w>
+               <w n="11">תשאל</w>
+               <w n="12">לשלום</w>
+               <w n="13">ביתו</w>
+               <w n="14">ותכתוב</w>
+               <w n="15">לי</w>
+               <w n="16">שלומם.</w>
+               <w n="17">ושל?ו?ם</w>
+               <w n="18">?א?דוני</w>
+               <w n="19">הזקן</w>
+               <w n="20">?ה?ישר</w>
+               <w n="21">ירבה</w>
+               <w n="22">לעד</w>
+               <w n="23">אמן].</w>
+            </p>
+            <p n="000000000140 10">
+               <w n="1">&lt;..&gt;'</w>
+               <w n="2">?ג?ד'</w>
+               <w n="3">&lt;..&gt;?ר?'</w>
+               <w n="4">ו?ר?'</w>
+               <w n="5">אבוסרור</w>
+               <w n="6">פרח</w>
+               <w n="7">ה?יק?&lt;ר&gt;</w>
+               <w n="8">&lt;...&gt;</w>
+               <w n="9">בן</w>
+               <w n="10">&lt;..&gt;?ג?'</w>
+               <w n="11">מו?מ?ל</w>
+               <w n="12">ה?ז?קן</w>
+               <w n="13">י?ר'</w>
+               <w n="14">אל?</w>
+               <w n="15">&lt;...&gt;</w>
+               <w n="16">ב?מ?צרים</w>
+               <w n="17">&lt;...&gt;.</w>
+               <w n="18">ממני</w>
+               <w n="19">טוביה</w>
+               <w n="20">האבל</w>
+               <w n="21">?שואל?</w>
+               <w n="22">שלומך</w>
+               <w n="23">מן</w>
+               <w n="24">עיר</w>
+               <w n="25">הקדש</w>
+               <w n="26">תבנה</w>
+               <w n="27">+ות&lt;'&gt;</w>
+               <w n="28">?ב?מ'</w>
+               <w n="29">א&lt;מן&gt;.</w>
+            </p>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

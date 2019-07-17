@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 13J13.16</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been
+               sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript
+                  Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg
+                  Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+                  Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions,
+                  including teaching and research. If you wish to reproduce it within publications
+                  or on the public web, please contact &lt;a
+                  href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 13J13.16</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Letter to David ‘the great Nasi, Head of the exile of all Israel’ (i.e. David b. Daniel), late 11th century, from a woman afflicted with a disfiguring disease, which has left her impoverished. The
+                     woman explains that she ‘doesn’t have a husband, son, daughter, brother, or
+                     sister’, and asks for a charitable collection to be taken for her, either in Cairo or in ‘the
+                     city’. Opens with quotes from Psalms 20:2-3, 72:13. The letter was written by a scribe, rather than the woman herself, as a slip of the pen ('her face', corrected to 'my face') reveals. </summary>
+                  <msItem n="1">
+                     <title>Letter</title>
+                     <textLang mainLang="heb">Hebrew</textLang>
+                     <author/>
+                     <respStmt>
+                        <name type="person" role="rcp">
+                           <persName type="standard">David b. Daniel (Nasi)</persName>
+                           <persName type="display">David b. Daniel (Nasi)</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                     <note>Written by the same scribe as T-S 8J16.29 and T-S NS 325.184.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>26.3</height>
+                              <width>18.3</width>
+                           </dimensions>
+                        </extent>
+                        <condition>holes</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">26 lines (recto; verso is blank)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1000-01-01" notAfter="1099-12-31">11th
+                        century</origDate>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in
+                     1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html"> Cairo
+                        Genizah </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL. Translation by Ben Outhwaite.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00013-00016-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="7580px"
+                  width="5106px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00013-00016-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00013-00016-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="7511px"
+                  width="5115px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00013-00016-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00013-00016-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p>‘The Lord answer you in the day of trouble! The name of the God of Jacob protect
+               you!’ (Psalms 20:2) ‘May He send you help from the sanctuary, and give you support
+               from Zion’ (Psalms 20:3) ‘He has pity on the weak and the needy, and saves the lives
+               of the needy’ (Psalms 72:13)</p>
+            <p>To the honourable, great and holy, glorious crown and diadem, a good name from above.
+               To our master and teacher, our lord David the Great Prince, Head of all Israel in
+               Exile, may our God keep him and our Lord preserve him and our Creator protect him,
+               and may God allow him to see male offspring from his loins, to take his place and the
+               place of his righteous ancestors. May He extend his days and his years in delight.
+               Amen.</p>
+            <p>Your poor maidservant — pathetic, grief-stricken, wretched, worried and impoverished
+               by my sins — I hereby present my supplication [before the Lord and] before you, that
+               you may pay heed to the words of your maidservant, ‘because my sighs are many and my
+               heart is [faint]’ (Lamentations 1:22), for I am all alone: I have neither husband,
+               nor son, nor daughter, nor brother, nor sister. I am ‘like a lonely bird on a
+               rooftop’ (Psalms 102:8). As my sins and my transgressions increased, I developed a
+               serious affliction upon my nose, and the infection spread, and it festered and my
+               face was eaten away. This disease is worsening, and I cannot perform any work. I am
+               naked, thirsty, and I lack everything. I am powerless. There is no one to take care
+               of me, even if I were to die. Now then, [I] throw myself down before the Lord and
+               before my lord, that you might show pity to me, according to your kindness, and take
+               action for me, for the sake of the Lord and the sake of the merit of your righteous,
+               pious and pure ancestors. ‘You will decide on a matter, and it will be established
+               for you, and light [will shine] on your ways’ (Job 22:28). And may my lord order a
+               charitable collection in any place that our lord desires, either in Cairo or the
+               city, that I may find compassion and respite from the Lord and from you. And let my
+               lord not send me back empty-handed [...] and humiliated from him. I shall be praying
+               to the Lord for your pleasant and good name. And may God Almighty bless you, make you
+               fruitful and multiply you, so that you become a congregation of nations, and may He
+               give Abraham’s blessing to you and to your descendants with you. And may your
+               wellbeing increase and grow, and may your honour accrue and become greater than all
+               others’, forever and for all eternity. Amen.</p>
+
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

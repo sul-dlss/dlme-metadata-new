@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S Ar.18(1).136</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2015-04-20</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>                        
+                  <idno>T-S Ar.18(1).136</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>F. 1: various (drafts of) legal documents in the hand of Mevoraḵ b. Nathan, including a trousseau list, power of attorney and witness statements. (1) The trousseau list is of a marriage between Ḥalfon b. Ḥalfon ha-Kohen and Sitt al-Milāḥ b. Abū Saʿīd, at the top the name Ḵalaf Abū Saʿīd al-Kohen from Cairo (the bride’s father) is mentioned. (2) A second statement refers to Ḵalaf Abū Saʿīd who will trade with a sum of money paid to him for the orphan Abū Ḥasan (b. Bayān b. Ḥašīš?) for a 50% share of the profits, dated Elul 1470 of the Seleucid Era (= 1159 CE). (3) The copy of a power of attorney dated to the first decade of Tammuz 1469 of the Seleucid Era (= 1158 CE) in Damīra under authority of the Nagid Samuel is given by Sitt al-Nuʿm b. Yešuʿa b. ʿAmram to Joseph ha-Levi b. Obadiah concerning dealings with her father’s estate, as well as mentioning names such as Hillel known as al-Abzārī and Damietta. (4) Another witness statement concerning a partnership in a shop and dated Marḥešvan 1471 of the Seleucid Era (= 1160 CE) is signed by Šemarya b. Abraham, Yefet ha-Levi b. Jacob and Mevoraḵ b. Nathan he-Ḥaver. F. 2r: legal document dated 29th Tišri 1471 of the Seleucid Era (= 1160 CE) in Fusṭāṭ concerning the betrothal of Yefet b. Isaac and Karam bat Yešuʿa. Signed by Ṣedaqa b. Elʿazar and […] b. Yešuʿa. On verso mirrored script in the handwriting of Mevoraḵ b. Nathan.</summary>
+                  <msItem n="1">                           
+
+                     <title>Legal document</title>
+                     <textLang mainLang="jrb" otherLangs="heb">Judaeo-Arabic; Hebrew</textLang>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <name type="person" role="scr">
+                           <persName type="standard">Mevoraḵ b. Nathan</persName>
+                           <persName type="display">Mevoraḵ b. Nathan</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḥalfon b. Ḥalfon ha-Kohen</persName>
+                           <persName type="display">Ḥalfon b. Ḥalfon ha-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sitt al-Milāḥ b. Abū Saʿīd Ḵalaf al-Kohen</persName>
+                           <persName type="display">Sitt al-Milāḥ b. Abū Saʿīd Ḵalaf al-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḵalaf Abū Saʿīd al-Kohen</persName>
+                           <persName type="display">Ḵalaf Abū Saʿīd al-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū Ḥasan b. Bayān b. Ḥašīš</persName>
+                           <persName type="display">Abū Ḥasan b. Bayān b. Ḥašīš</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Samuel (Nagid)</persName>
+                           <persName type="display">Samuel (Nagid)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sitt al-Nuʿm b. Yešuʿa b. ʿAmram</persName>
+                           <persName type="display">Sitt al-Nuʿm b. Yešuʿa b. ʿAmram</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Joseph ha-Levi b. Obadiah</persName>
+                           <persName type="display">Joseph ha-Levi b. Obadiah</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Hillel al-Abzārī</persName>
+                           <persName type="display">Hillel al-Abzārī</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Šemarya b. Abraham</persName>
+                           <persName type="display">Šemarya b. Abraham</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yefet ha-Levi b. Jacob</persName>
+                           <persName type="display">Yefet ha-Levi b. Jacob</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Mevoraḵ b. Nathan he-Ḥaver</persName>
+                           <persName type="display">Mevoraḵ b. Nathan he-Ḥaver</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yefet b. Isaac</persName>
+                           <persName type="display">Yefet b. Isaac</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Karam bat Yešuʿa</persName>
+                           <persName type="display">Karam bat Yešuʿa</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ṣedaqa b. Elʿazar</persName>
+                           <persName type="display">Ṣedaqa b. Elʿazar</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">[…] b. Yešuʿa</persName>
+                           <persName type="display">[…] b. Yešuʿa</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+   
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>3 leaves (bifolium + 1 separate leaf).</extent>
+                        <condition>Stained</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">16 x 12; 13-21 lines</layout>                                                                    
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1158-01-01" notAfter="1160-12-31">1158-1160 CE</origDate>
+                     <origPlace ref="7024441">Fusṭāṭ</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2015-04-20">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="landscape"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="5599px"
+                  width="7273px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="5622px"
+                  width="7285px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="2r" xml:id="i3">
+         <graphic height="4701px"
+                  width="3373px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2v" xml:id="i4">
+         <graphic height="4701px"
+                  width="3469px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00018-00001-00136-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+            <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+            <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+         </div>
+      </body>
+   </text>
+</TEI>

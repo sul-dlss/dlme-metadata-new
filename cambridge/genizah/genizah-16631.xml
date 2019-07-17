@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>T-S H2.5</title>
+<funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target='http://www.jewishmanuscripts.org/'>Jewish Manuscript Preservation Society</ref>, the <ref target='http://www.genizah.org/'>Friedberg Genizah Project Inc.</ref>, and the <ref target='http://www.ahrc.ac.uk/Pages/default.aspx'>Arts and Humanities Research Council, UK</ref>.</funder>
+<principal>Ben Outhwaite</principal>
+</titleStmt>
+<publicationStmt>
+<date calendar="Gregorian">2019-01-02</date>
+<publisher>Cambridge University Library</publisher>
+<pubPlace>
+<address>
+<addrLine>Cambridge University Library</addrLine>
+<street>West Road</street>
+<settlement>Cambridge</settlement>
+<postCode>CB3 9DR</postCode>
+<addrLine><ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref></addrLine>
+<addrLine><email>library@lib.cam.ac.uk</email></addrLine>
+</address>
+</pubPlace>
+
+<availability xml:id="displayImageRights" status="restricted">
+<p>Zooming image © Cambridge University Library, All rights reserved.</p>
+</availability>
+<availability xml:id="downloadImageRights" status="restricted">
+<licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target='mailto:genizah@lib.cam.ac.uk'>genizah@lib.cam.ac.uk</ref>.</licence>
+</availability>
+<availability xml:id="metadataRights" status="restricted">
+<licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+</availability>
+    
+</publicationStmt>
+<sourceDesc>
+<msDesc xml:id="n1" xml:lang="eng">
+<msIdentifier>
+<country>United Kingdom</country>
+<region type="county">Cambridgeshire</region>
+<settlement>Cambridge</settlement>
+<institution>Cambridge University</institution>
+<repository>Cambridge University Library</repository>                        
+<idno>T-S H2.5</idno>
+</msIdentifier>
+<msContents>
+<summary>Qedušta for Passover by Joseph Ibn Abiṭur, and a qedušta for the seventh day of Passover by Joseph b. Nissan.</summary>
+<msItem n="1">                           
+
+<title>Piyyuṭ</title>
+<textLang mainLang="heb" otherLangs="">Hebrew</textLang>
+<respStmt>
+
+        <resp/><name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+<persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+<persName type="display">Solomon Schechter</persName>
+ </name>
+ <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+<persName type="standard">Taylor, Charles, 1840-1908</persName>
+<persName type="display">Charles Taylor</persName>
+ </name>
+</respStmt>
+<note>Joseph Ibn Abiṭur; Joseph b. Nissan</note>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+   
+<supportDesc material="paper">
+<support>Paper</support>
+<extent>4 leaves (2 bifolia).<dimensions type="leaf" unit="cm">
+<height>20.3</height>
+<width>28.5 (1 leaf: 14.25)</width>
+</dimensions></extent>
+<condition>Faded, holes</condition></supportDesc>
+<layoutDesc>
+<layout columns="1">10-17 lines</layout>                                                                    
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origDate calendar="Gregorian" notBefore="0500-01-01" notAfter="1899-12-31" >6th-19th century</origDate>
+</origin>
+<provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+</history>
+<additional>
+<adminInfo>
+<availability status="restricted"><p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p></availability>
+</adminInfo>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="LCSH">
+<bibl>
+<ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#LCSH">
+<list>
+<item><ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref></item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2019-01-02">
+<persName>CUL</persName>
+</change>
+</revisionDesc>
+</teiHeader>
+<facsimile>
+            <graphic decls="#document-thumbnail"
+rend="landscape"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00001_files/8/0_0.jpg"/>
+<surface xml:id="i1" n="1r">
+<graphic decls="#downloadImageRights #download" height="5590px" width="7608px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00001.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00001_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i2" n="1v">
+<graphic decls="#downloadImageRights #download" height="5603px" width="7595px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00002.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00002_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i3" n="2r">
+<graphic decls="#downloadImageRights #download" height="5723px" width="7422px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00003.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00003_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i4" n="2v">
+<graphic decls="#downloadImageRights #download" height="5749px" width="7462px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00004.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-H-00002-00005-000-00004_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface></facsimile>
+
+<text>
+                        <body>
+                        <div>
+<pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+<pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+<pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+<pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+</div>
+</body>
+            </text>
+
+</TEI>
+

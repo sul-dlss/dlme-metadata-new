@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 18J3.9</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact &lt;a href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 18J3.9</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Part of a letter, dated 1033 CE, written by Solomon b. Ṣemaḥ, in Ramla, probably to the Jewish community in Fusṭāṭ, perhaps specifically to Ephraim b. Šemarya. It describes in great detail the terrible effects of an earthquake and its aftershocks on the inhabitants of Ramla and remarking on how many more would have died had the earthquake happened during the night. The initial earthquake is said to have taken place on Thursday, 12th Ṭevet (= December, 1033 CE). The reaction of the victims was to fast and cry out to God for mercy and the writer comments how the mercy of God was demonstrated in that there were survivors. The survivors are still living outside the city in difficult conditions.
+</summary>
+                  <msItem n="1">
+                     <title>Letter</title>
+                     <textLang mainLang="heb">Hebrew</textLang>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Solomon b. Ṣemaḥ</persName>
+                           <persName type="display">Solomon b. Ṣemaḥ</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <name type="person" role="scr">
+                           <persName type="standard">Solomon b. Ṣemaḥ</persName>
+                           <persName type="display">Solomon b. Ṣemaḥ</persName>
+                        </name>
+                        <name type="person" role="rcp">
+                           <persName type="standard">Ephraim b. Šemarya</persName>
+                           <persName type="display">Ephraim b. Šemarya</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>34.8</height>
+                              <width>20</width>
+                           </dimensions>
+                        </extent>
+                        <condition>torn, holes, faded, stained</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">37 lines (recto; verso is blank)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1033-01-01" notAfter="1033-12-31">1033 CE</origDate>
+                     <origPlace ref="7001366">Ramla</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">
+                  Cairo Genizah
+               </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL. Translation by Ben Outhwaite.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00018-J-00003-00009-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="9281px"
+                  width="5934px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00018-J-00003-00009-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00018-J-00003-00009-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="9582px"
+                  width="5453px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00018-J-00003-00009-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00018-J-00003-00009-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p>They came out of the houses into the streets because they saw in the houses that the walls were buckling back and forth, and the beams were flexing in and out of position in the walls. The fortified structures collapsed and the new dwellings were thrown down, and many died under the rubble because they had no means of escape. Everyone came out of their houses, each one leaving behind all that they had, and fled for their lives. Wherever they turned, they could see the evidence of God’s mighty deeds. Walls had been thrown one on top of another and cast down, and all those that remained were damaged and broken open. No one is living within them because their owners are afraid that they might even now fall on them.</p>
+               <p>Even to write a little of what occurred causes my hand to grow weary of writing, and my mind is troubled by what the eye has seen and the ear has heard. Scripture has indeed been fulfilled: ‘Behold, the LORD empties the earth, and makes it waste, and turns it upside down, and scatters its inhabitants’ (Isaiah 24:1). The intelligent man will understand its interpretation. Everyone was alike, the ordinary person like the priest, the slave like his master, when they left their citadels seeking to save their own lives. Many resigned themselves to divine judgement, reciting ‘The LORD is the true God, the living God and the everlasting King etc’ (Jeremiah 10:10), ‘Who looks at the earth and it shakes etc’ (Psalms 104:32), ‘Who shakes the earth from its place etc’ (Job 9:6), ‘Who touches the land and it melts’ (Amos 9:5), ‘And everyone who dwells in it will languish etc’ (Hosea 4:3), ‘Who can stand before His indignation etc? (Nahum 1:6).</p>
+               <p>And this event occurred on Thursday, the twelfth day of the month of Ṭevet, before sunset, all of a sudden in Ramla, and in all of the land of Palestine, in the fortified towns and the rural villages alike, even in all the coastal fortresses up to the fortress of […] and in all the towns of the Negev and in the hill country as far as Jerusalem, and in all the towns up to Shechem (modern Nablus) and the villages as far as Tiberias, and in all the […] of the hills of Galilee and all of the Land of Israel. And those who have been out travelling on the roads tell of the mighty deeds of the living God, saying ‘We have seen the mountains shaking, skipping like rams, their stones shattered, the hills rocked and the trees bent down. Even the well water, in places, came up to the brim.’ The tongue is too short to tell the full tale. Were it not for the mercy of our God, who showed us mercy because of his great kindness, and caused it to happen before the end of the day, so that everyone could see each other and warn each other, then it might have happened in the night, when everyone would have been asleep in their beds unable to escape, bar a very few. But His mercies are great and His kindnesses are numerous, and though He decreed, He will not carry out a complete destruction. He even showed great generosity by, before the quake, summoning up dark clouds that rained heavy raindrops. Two great rainbows were seen, one of which appeared divided, and fire was seen from the south-west, at the very moment of the quake, such as had not been experienced since ancient times. That night it shook again, and everyone was outside – men, women and children – crying out to the God of the Spirits to still the earth, to give it rest, to save man and beast. Again on Friday night it shook, and on Saturday night. Everyone was alarmed, gripped with trembling. The land and all its inhabitants were melting away helplessly, weeping and crying out in a loud voice: ‘O merciful One, show mercy and have compassion, save us from this evil. Do not come to a judgement out of rage. Remember mercy and do not remember our former sins.’ Everyone is clothed with trembling, sitting on the ground, trembling at every moment, swaying and shaking. These last eight days there has been no peace of mind and no rest for the soul. What could this letter-writer do but speak to the people to declare a fast, call an assembly, and go out into the field to the cemetery, fasting, weeping and mourning, and saying ‘Rend your heart and not your clothing and return to the LORD your God etc’ (Joel 2:13), ‘Come, let us return to the LORD etc’ (Hosea 6:1), ‘Who knows? He may still turn and relent etc’ (Jonah 3:9). Perhaps he will turn from the ferocity of his anger and we shall not perish. And the great miracle was that all the days that the people were cast out into the open and in the streets, no rain fell. Also the governor of the city, with the men in the caliph’s employ, put up tents for them outside the town, and they are still there even now. May the Everlasting God, the LORD, look down in His mercy at His world, show mercy to His creations and save man and beast, and may He have compassion for babes and sucklings and those that can’t distinguish right from left, so that we shall not perish. And may He save you from this and things like it, and may He hide you from all harsh decrees and shelter you in His lair on an evil day, and may He hide you in the shelter of His wings. May He exalt you, and preserve for you your good deeds, your kindnesses and your charitable acts, and may He let you dwell in safety and free of the fear of evil. Peace to you, and peace to your household, and peace to all that you have. Receive peace from the Lord of Peace.</p>
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

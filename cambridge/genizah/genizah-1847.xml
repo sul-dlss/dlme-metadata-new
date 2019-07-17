@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 8.4</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been
+               sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript
+                  Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg
+                  Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+                  Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2014-04-15</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions,
+                  including teaching and research. If you wish to reproduce it within publications
+                  or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 8.4</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Fragment from a deed of sale for one half of a sugar factory in Minyat
+                     Zifta which was held in partnership by a Jew (‘the son of the Rav’) and a
+                     Muslim judge (the Qadi ʿAlī b. Qasām). The document also notes that the
+                     surrounding properties are partly Jewish-owned and partly Muslim-owned. Written
+                     by Nathan b. Samuel, ca. 1140 CE. On the verso the names Ḥusayn b. Ibrahim
+                     al-Maʿarī and Sālim Ibn al-Ašqar are listed.</summary>
+                  <msItem n="1">
+
+                     <title>Legal document</title>
+                     <textLang mainLang="jrb" otherLangs="arc">Judaeo-Arabic; Aramaic</textLang>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <name type="person" role="scr">
+                           <persName type="standard">Nathan b. Samuel</persName>
+                           <persName type="display">Nathan b. Samuel</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">ʿAlī b. Qasām (Qadi)</persName>
+                           <persName type="display">ʿAlī b. Qasām (Qadi)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḥusayn b. Ibrahim al-Maʿarī</persName>
+                           <persName type="display">Ḥusayn b. Ibrahim al-Maʿarī</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Sālim Ibn al-Ašqar</persName>
+                           <persName type="display">Sālim Ibn al-Ašqar</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+
+                     <supportDesc material="vellum">
+                        <support>Vellum</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>14.6</height>
+                              <width>16.5</width>
+                           </dimensions>
+                        </extent>
+                        <condition>Badly torn</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">17 lines (recto); 5 lines (verso)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1140-01-01" notAfter="1140-12-31">1140
+                        CE</origDate>
+                     <origPlace ref="7001215">Minyat Zifta</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in
+                     1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo
+                        Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2014-04-15">
+            <persName>CUL. Translation by Amir Ashur and Ben Outhwaite.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="landscape"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-00004-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="3875px"
+                  width="4063px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-00004-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-00004-000-00001_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="3885px"
+                  width="4063px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-00004-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00008-00004-000-00002_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p>… it will be upon him as a [legal contract] and a proof from this day onwards that I
+               [attest before you using the most certain and perfect] expressions of affirmation, in
+               my good health and freedom of will, willingly, with neither duress nor force nor
+               compulsion, [with neither negligence nor error, nor defect of illness within me, nor
+               anything of the like from] all the factors that nullify testimony, that I have
+               received and taken from him, in cash, good Egyptian [coins ….such and such] weighted,
+               good and correct Egyptian dinars. And all this arrived to me completely [and totally
+               …] half of the property which is known as the sugar factory, which is located in
+               Minyat Ziftā, in the neighbourhood … and its lower parts and upper parts, its visible
+               parts and hidden parts and every legal right (derived from it) external … in its
+               possession from this day onwards, and he shall fence the aforementioned sugar
+               factory, and will define it and circle it … will reach to the street which is open in
+               front of the property of Ḥusayn b. Ibrahim al-Maʿari’s heir, … and the [house known]
+               (to belong) to the heirs of the Rabbi's son who is the partner of the qadi ʿAli b.
+               al-Qasm, and the third part … Sālim b. al-Ašqar, and the forth part, the western one,
+               will reach to the street which is open … all the half part which I gave in
+               possession, from the aforementioned sugar factory, to the Sheikh Abū l-Marja Sālim
+               the aforementioned, in one … and its rights, a complete, effective and total sale …
+               to him and his heirs after him from this time onwards, and all this aforementioned
+               half … Salim, he and his soil, walls, ceiling, woods, mud, brick … from the bottom of
+               the ground to the top of the sky as a possession from this day onwards … of any type
+               of transactions in destruction or built, in residence or emptiness, in sale or gift …
+               and to hide …</p>
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

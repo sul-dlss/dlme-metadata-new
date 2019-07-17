@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S J1.29</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2018-03-05</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>                        
+                  <idno>T-S J1.29</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Trousseau list of the richest woman known from the Genizah, with possessions valued at 2100 dinars. It lists all the possessions (including clothes, furniture, jewellery, books, and slaves) the bride (her name is unknown) is bringing into the marriage. Her husband will have jurisdiction over her possessions during their marriage, but if he divorces her these items or their equivalent value must be returned to the woman.</summary>
+                  <msItem n="1">                           
+
+                     <title>List</title>
+                     <textLang mainLang="jrb" otherLangs="">Judaeo-Arabic</textLang>
+                     <respStmt>
+
+                        <resp/>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                     </respStmt>
+                     <note>Paper is damaged along fold lines.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+   
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>24.8</height>
+                              <width>16.5</width>
+                           </dimensions>
+                        </extent>
+                        <condition>Torn, holes</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">9-36 lines in 2 columns</layout>                                                                    
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1100-01-01" notAfter="1199-12-31">12th century</origDate>
+                     <origPlace ref="7016833">Egypt</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-03-05">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-J-00001-00029-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic decls="#downloadImageRights #download"
+                  height="6643px"
+                  width="4420px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-J-00001-00029-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-J-00001-00029-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic decls="#downloadImageRights #download"
+                  height="6617px"
+                  width="4339px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-J-00001-00029-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-J-00001-00029-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p> With good luck and success</p>
+            <p>A gold tiara - 80 dinars</p>
+            <p>A shoulder band with 11 disks of gold and 20 of amber - 70</p>
+            <p>A pair of pins with clusters of pearls - 20</p>
+            <p>A pair of peacock pins - 18</p>
+            <p>A pair of earrings - 5</p>
+            <p>A pair of pins - 5</p>
+            <p>A pair of niello-work bracelets - 52</p>
+            <p>A pair of braided bracelets - 30</p>
+            <p>A single enamelled (bracelet) - 25</p>
+            <p>A maymūn necklace of amber divided by cylinders and a box of gold - 8</p>
+            <p>A pearl band divided by (beads of) gold - 8</p>
+            <p>Gold tubes - 6</p>
+            <p>Two rings - 4</p>
+            <p>An ornamented mirror - 10</p>
+            <p>A water container (for the table) and a cover, a silver goblet, and a ladle - 15</p>
+            <p>A shallow bowl - 4</p>
+            <p>A tureen, an étagère, a mixing vessel with feet - 5</p>
+            <p>A crystal mixing vessel - 5</p>
+            <p>Another mixing vessel - 3</p>
+            <p>A gold […] - 2</p>
+            <p>An ivory kohl container - 3</p>
+            <p>A crystal cock (a knickknack) - 4</p>
+            <p>A pen-box made in China, with 2 knives, a sand sprinkler (for blotting), and an ivory plate (on which the pen is nibbed) - 13</p>
+            <p>A silver comb - 4</p>
+            <p>A pair of gold bracelets - 15</p>
+            <p>3 gold rings - 4</p>
+            <p>A locally-made scent-box of porcelain ornamented with silver - 20</p>
+            <p>A round ornamented mirror - 6</p>
+            <p>A (perforated) lion and a needle for perfuming - 5</p>
+            <p>2 silver vases and a jewel box - 5</p>
+            <p>An amber shallow bowl with a gold rim - 5</p>
+            <p>A chest and its stand - 10</p>
+            <p>Equipment for bloodletting - 2</p>
+            <p>Total (value of jewellery): 471 dinars</p>
+            <p> </p>
+            <p>The Clothing</p>
+            <p>A cloud-coloured festive attire, consisting of a robe, a wimple, and a greyish headband - 50</p>
+            <p>A white wimple with gold threads - 15</p>
+            <p>A hood with stripes ‘as the pen runs’ and a robe, both with gold threads - 10</p>
+            <p>A kerchief of dabīqī linen - 8</p>
+            <p>A skullcap of dabīqī linen   	</p>
+            <p>A wrap with two ends in gold threads</p>
+            <p>And a veil with gold threads - 22</p>
+            <p>A wrap of dabīqī linen and silk - 4</p>
+            <p>A blue Rūmī (dress of European style) - 6</p>
+            <p>A silk wimple in double layers - 6</p>
+            <p>A silken festive attire consisting of a robe </p>
+            <p>[…]</p>
+            <p>A greyish robe of silk and dabīqī linen and a greyish Rūmī - 15</p>
+            <p>A greyish cloak - 5</p>
+            <p>A pomegranate-coloured festive robe and its wimple - 15</p>
+            <p>A blue wimple with gold threads - 5</p>
+            <p>A jūkāniyya with bird patterns - 4</p>
+            <p>A poultice-coloured wimple - 5</p>
+            <p>An apricot-coloured jūkāniyya, and a silk cloak with gold threads and an apricot-coloured silk Rūmī - 10</p>
+            <p>A green robe with gold threads, and a wax-coloured wimple - 5</p>
+            <p>A home-made makhtūma (embroidered clothing) - 6</p>
+            <p>A jūkāniyya of siglaton (precious brocade) - 3</p>
+            <p>A jūkāniyya of red siglaton - 4</p>
+            <p>A makhtūma of siglaton - 7</p>
+            <p>A home-made tabby makhtūma - 6</p>
+            <p>A starch-coloured tabby makhtūma - 5</p>
+            <p>A jūkāniyya of brocade with borders - 10</p>
+            <p>A jūkāniyya of red brocade - 10</p>
+            <p>A makhtūma of pistachio brocade - 15</p>
+            <p>A greenish festive attire, consisting of a robe, a wimple a headband, and a Rūmī - 30</p>
+            <p>Panelled robes and pieces of cloth - 30</p>
+            <p>[deleted]</p>
+            <p>A handbag of siglaton - 12</p>
+            <p>A handbag of blue brocade - 20</p>
+            <p>Total of the Clothing: 373 dinars</p>
+            <p/>
+            <p>A bedspread of Rūmī brocade - 10</p>
+            <p>Another bedspread - 10</p>
+            <p>2 chameleon-coloured canopies - 60</p>
+            <p>A sofa of Rūmī brocade, 6 pieces - 40</p>
+            <p>A sofa of ‘Islets’ brocade - 15</p>
+            <p>A sofa of brilliant colour, 4 pieces - 15</p>
+            <p>An ‘Islets’ sofa, 3 pieces - 15</p>
+            <p>A sofa of Rūmī brocade, 3 pieces - 15</p>
+            <p>A siglaton couch - 5</p>
+            <p>A siglaton sofa - 5</p>
+            <p>A couch made of reeds - 3</p>
+            <p>A brocade pad - 5</p>
+            <p>Total of the spreads and hangings: 198 dinars</p>
+            <p/>
+            <p>The Copper</p>
+            <p>A candle-lamp, an oil lamp, 2 complete Spanish Lamps, a large box and another box inside it,</p>
+            <p>A pitcher, a large washbasin, a large ewer,</p>
+            <p>And another washbasin, a ewer, a soda ash container, a box,</p>
+            <p>A part of a box, an oven, a round bucket, 3 candlesticks,</p>
+            <p>A copper stool, and a bathrobe with hems</p>
+            <p>Total: 200 dinars          	</p>
+            <p/>
+            <p>Vases with their perfume: 8 dinars</p>
+            <p/>
+            <p>The maids</p>
+            <p>‘Izz (‘Glory’) and Dalāl (‘Coquetry’) and two personal attendants, Nusā (‘Rainbow’ or ‘Lantern’) and Wafā (‘Fidelity’): 100</p>
+            <p>Total: 1350</p>
+            <p>The books: 250</p>
+            <p>Total: 1600</p>
+            <p>The first and final instalment: 500</p>
+            <p>Grand total: 2100 dinars</p>
+            <p>[Translated by S.D. Goitein]</p>
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
