@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 10J7.10</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been
+               sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript
+                  Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg
+                  Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+                  Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions,
+                  including teaching and research. If you wish to reproduce it within publications
+                  or on the public web, please contact &lt;a
+                  href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 10J7.10</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>1r: legal document concerning a quittance of debt, dated 1140 of the
+                     Seleucid Era (= 1129 CE) and written under the authority of Maṣliaḥ ha-Kohen.
+                     Mentions Abū l-Maʿālī b. Joseph (known as Ibn Tamar) and Yešuʿa b. Ḥananya.
+                     Signed by Ḥalfon b. Manasseh and Nathan ha-Kohen b. Solomon. 1v: will of Kulla
+                     b. Šabbat, mentioning Judah Ibn al-Sofer, the daughter of Kulla’s brother Abū
+                     ʿAlī al-Kohen and Yešuʿa ha-Kohen b. ʿEli. In the hand of Ḥalfon b. Manasseh.
+                     2r: legal document concerning a quittance of debt, dated 1446 (= 1135 CE) and
+                     signed by Ḥalfon b. Manasseh and Elʿazar b. Joseph. Mentions Jacob Abū l-Maʿālī
+                     b. Joseph, known as Ibn Kujik (כוגך, Kushek, Persian 'Small') and Abū ʿAlī b. Samuel b. Solomon
+                     (known as Ibn al-Dustarī). 2v: legal document concerning the illegitimate
+                     descendance of Abū Saʿd, son of al-Wuḥša the broker, mentioning Abū ʿAlī
+                     al-Parnas Yefet b. Maṣliaḥ, Ibn al-Sukrī, Ḥalfon ha-Kohen b. Joseph and Abū
+                     Naṣr al-Kohen Ibn al-Kamūḵī. </summary>
+                  <msItem n="1">
+                     <title>Legal document</title>
+                     <textLang mainLang="jrb" otherLangs="heb arc">Judaeo-Arabic; Hebrew;
+                        Aramaic</textLang>
+                     <author/>
+                     <respStmt>
+                        <name type="person" role="scr">
+                           <persName type="standard">Ḥalfon b. Manasseh</persName>
+                           <persName type="display">Ḥalfon b. Manasseh</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Elʿazar b. Joseph</persName>
+                           <persName type="display">Elʿazar b. Joseph</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Jacob Abū l-Maʿālī b. Joseph (known as Ibn
+                              Kujik)</persName>
+                           <persName type="display">Jacob Abū l-Maʿālī b. Joseph (known as Ibn
+                              Kujik)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū ʿAlī b. Samuel b. Solomon (known as Ibn
+                              al-Dustarī)</persName>
+                           <persName type="display">Abū ʿAlī b. Samuel b. Solomon (known as Ibn
+                              al-Dustarī)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū Saʿd Ibn al-Wuḥša the broker</persName>
+                           <persName type="display">Abū Saʿd Ibn al-Wuḥša the broker</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū ʿAlī al-Parnas Yefet b. Maṣliaḥ</persName>
+                           <persName type="display">Abū ʿAlī al-Parnas Yefet b. Maṣliaḥ</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ibn al-Sukrī</persName>
+                           <persName type="display">Ibn al-Sukrī</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Ḥalfon ha-Kohen b. Joseph</persName>
+                           <persName type="display">Ḥalfon ha-Kohen b. Joseph</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū Naṣr al-Kohen Ibn al-Kamūḵī</persName>
+                           <persName type="display">Abū Naṣr al-Kohen Ibn al-Kamūḵī</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Maṣliaḥ ha-Kohen</persName>
+                           <persName type="display">Maṣliaḥ ha-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Abū l-Maʿālī b. Joseph (known as Ibn
+                              Tamar)</persName>
+                           <persName type="display">Abū l-Maʿālī b. Joseph (known as Ibn
+                              Tamar)</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yešuʿa b. Ḥananya</persName>
+                           <persName type="display">Yešuʿa b. Ḥananya</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Nathan ha-Kohen b. Solomon</persName>
+                           <persName type="display">Nathan ha-Kohen b. Solomon</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Kulla b. Šabbat</persName>
+                           <persName type="display">Kulla b. Šabbat</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Judah Ibn al-Sofer</persName>
+                           <persName type="display">Judah Ibn al-Sofer</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">daughter of Abū ʿAlī al-Kohen</persName>
+                           <persName type="display">daughter of Abū ʿAlī al-Kohen</persName>
+                        </name>
+                        <name type="person" role="oth">
+                           <persName type="standard">Yešuʿa ha-Kohen b. ʿEli</persName>
+                           <persName type="display">Yešuʿa ha-Kohen b. ʿEli</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>2 leaves (bifolium).<dimensions type="leaf" unit="cm">
+                              <height>19.8</height>
+                              <width>29 (1 leaf: 14.2)</width>
+                           </dimensions>
+                        </extent>
+                        <condition>holes, rubbed</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">17-22 lines</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1135-01-01" notAfter="1135-12-31">1135
+                        CE</origDate>
+                     <origPlace ref="7024441">Fusṭāṭ</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in
+                     1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html"> Cairo
+                        Genizah </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL. Translation by S.D. Goitein.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="5885px"
+                  width="3945px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="5877px"
+                  width="4110px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2r" xml:id="i3">
+         <graphic height="5743px"
+                  width="4087px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2v" xml:id="i4">
+         <graphic height="5838px"
+                  width="4079px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00010-J-00007-00010-000-00004_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+            <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+            <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+            <p>…I was with the cantor Hillel ben Eli...when al-Wuhsha, the broker, came in and said
+               to him: “Do you have any advice for me? I had an affair with al-Hassun and became
+               pregnant. Our marriage document has been lodged with the Muslims, but I am afraid
+               that he may refuse to acknowledge the child.” She then lived in the house of Ben
+               al-Sukkari on the uppermost floor. He (the cantor) said: ‘Go and gather some people,
+               and let them surprise you with him so that your assertation might be confirmed’. She
+               did so, gathering two who surprised her with him, and confirmed her assertation. She
+               was then pregnant with this Abu Sa‘d, her son, from her illicit relations with
+               Hassun. And I know that she went on Yom Kippur to the synagogue of the Babylonian
+               community, but when the Nasi (‘the Prince’ - leader of the community) — of blessed
+               memory — noticed her, he threw her out of the synagogue. I confirm all this and offer
+               it as my true testimony. There appeared also in court the ritual slaughterer Abu
+               Sa’id Halfon ha-Kohen, son of Joseph ha-Kohen – may he rest in Eden – and deposited
+               the following testimony in our presence: “I was living in the house of Hibat Allah
+               Ben al-Sukkari – may God accept him with favour – on the ground floor for many years,
+               while Wuhsha the broker had her domicile in the uppermost part of the house. In those
+               days she came down once to one of the tenants, namely Abu Nasr the Kohen, the cantor
+               Ben al-Kamukhi, and to Abraham the Jerusalemite known as the son of the poet, and
+               said to them: ‘Please, come up with me to my room for something. The two went up with
+               her and found Hassun sitting in her place…”</p>
+         </div>
+      </body>
+   </text>
+</TEI>

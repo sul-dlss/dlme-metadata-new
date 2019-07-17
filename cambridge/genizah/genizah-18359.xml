@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>T-S Misc. 35.108</title>
+<funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target='http://www.jewishmanuscripts.org/'>Jewish Manuscript Preservation Society</ref>, the <ref target='http://www.genizah.org/'>Friedberg Genizah Project Inc.</ref>, and the <ref target='http://www.ahrc.ac.uk/Pages/default.aspx'>Arts and Humanities Research Council, UK</ref>.</funder>
+<principal>Ben Outhwaite</principal>
+</titleStmt>
+<publicationStmt>
+<date calendar="Gregorian">2019-01-02</date>
+<publisher>Cambridge University Library</publisher>
+<pubPlace>
+<address>
+<addrLine>Cambridge University Library</addrLine>
+<street>West Road</street>
+<settlement>Cambridge</settlement>
+<postCode>CB3 9DR</postCode>
+<addrLine><ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref></addrLine>
+<addrLine><email>library@lib.cam.ac.uk</email></addrLine>
+</address>
+</pubPlace>
+
+<availability xml:id="displayImageRights" status="restricted">
+<p>Zooming image © Cambridge University Library, All rights reserved.</p>
+</availability>
+<availability xml:id="downloadImageRights" status="restricted">
+<licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target='mailto:genizah@lib.cam.ac.uk'>genizah@lib.cam.ac.uk</ref>.</licence>
+</availability>
+<availability xml:id="metadataRights" status="restricted">
+<licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+</availability>
+    
+</publicationStmt>
+<sourceDesc>
+<msDesc xml:id="n1" xml:lang="eng">
+<msIdentifier>
+<country>United Kingdom</country>
+<region type="county">Cambridgeshire</region>
+<settlement>Cambridge</settlement>
+<institution>Cambridge University</institution>
+<repository>Cambridge University Library</repository>                        
+<idno>T-S Misc. 35.108</idno>
+</msIdentifier>
+<msContents>
+<summary>78 leaves from a codex containing copies of two works by Samuel b. Ḥofni Gaʾon, Kitāb al-širka and al-Madḵal ilā ʿilm al-mišna wa-l-talmūd. P14A has a colophon at the end of the first work, which gives a date of completion of Marḥešvan 4793 or 4796, i.e., 1032 or 1035 (unclear whether it’s דתשצו or דתשצג), in Jerusalem. P14B has the heading of the second work: כתאב אלשרכה ואלמצארבה תאליף רבינו שמואל הכהן ראס אלמתיבה נ״ע. Based on the handwriting, the copyist is probably Samuel b. Jacob.</summary>
+<msItem n="1">                           
+
+<title>Talmud; halaḵa</title>
+<textLang mainLang="heb" otherLangs="">Hebrew</textLang>
+<author>
+<name type="person" role="aut">
+<persName type="standard">Samuel b. Hofni (Gaʾon)</persName>
+<persName type="display">Samuel b. Hofni (Gaʾon)</persName>
+</name>
+</author>
+<respStmt>
+
+        <resp/><name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+<persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+<persName type="display">Solomon Schechter</persName>
+ </name>
+ <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+<persName type="standard">Taylor, Charles, 1840-1908</persName>
+<persName type="display">Charles Taylor</persName>
+ </name>
+<name type="person" role="scr">
+<persName type="standard">Samuel b. Jacob</persName>
+<persName type="display">Samuel b. Jacob</persName>
+</name>
+</respStmt>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc>
+   
+<supportDesc material="paper">
+<support>Paper</support>
+<extent>78 leaves (31 bifolia + 7 leaves).<dimensions type="leaf" unit="cm">
+<height>16.5</height>
+<width>26.8 (1 leaf: 13.4)</width>
+</dimensions></extent>
+<condition>Torn, faded</condition></supportDesc>
+<layoutDesc>
+<layout columns="1">22-23 lines</layout>                                                                    
+</layoutDesc>
+</objectDesc>
+</physDesc>
+<history>
+<origin>
+<origDate calendar="Gregorian" notBefore="0500-01-01" notAfter="1899-12-31" >6th-19th century</origDate>
+</origin>
+<provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+</history>
+<additional>
+<adminInfo>
+<availability status="restricted"><p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p></availability>
+</adminInfo>
+</additional>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<classDecl>
+<taxonomy xml:id="LCSH">
+<bibl>
+<ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+</bibl>
+</taxonomy>
+</classDecl>
+</encodingDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="#LCSH">
+<list>
+<item><ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref></item>
+</list>
+</keywords>
+</textClass>
+</profileDesc>
+<revisionDesc>
+<change when="2019-01-02">
+<persName>CUL</persName>
+</change>
+</revisionDesc>
+</teiHeader>
+<facsimile>
+            <graphic decls="#document-thumbnail"
+rend="portrait"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00001_files/8/0_0.jpg"/>
+<surface xml:id="i1" n="1r">
+<graphic decls="#downloadImageRights #download" height="4600px" width="3592px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00001.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00001_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i2" n="1v">
+<graphic decls="#downloadImageRights #download" height="4664px" width="3608px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00002.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00002_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i3" n="2r">
+<graphic decls="#downloadImageRights #download" height="4768px" width="3576px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00003.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00003_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i4" n="2v">
+<graphic decls="#downloadImageRights #download" height="4744px" width="3616px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00004.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00004_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i5" n="3r">
+<graphic decls="#downloadImageRights #download" height="4776px" width="3616px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00005.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00005_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i6" n="3v">
+<graphic decls="#downloadImageRights #download" height="4832px" width="3616px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00006.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00006_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i7" n="4r">
+<graphic decls="#downloadImageRights #download" height="4726px" width="3676px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00007.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00007_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i8" n="4v">
+<graphic decls="#downloadImageRights #download" height="4829px" width="3699px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00008.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00008_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i9" n="5r">
+<graphic decls="#downloadImageRights #download" height="4658px" width="6815px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00009.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00009_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i10" n="5v">
+<graphic decls="#downloadImageRights #download" height="4703px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00010.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00010_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i11" n="6r">
+<graphic decls="#downloadImageRights #download" height="4589px" width="6769px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00011.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00011_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i12" n="6v">
+<graphic decls="#downloadImageRights #download" height="4635px" width="6735px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00012.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00012_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i13" n="7r">
+<graphic decls="#downloadImageRights #download" height="4703px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00013.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00013_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i14" n="7v">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00014.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00014_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i15" n="8r">
+<graphic decls="#downloadImageRights #download" height="4600px" width="6826px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00015.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00015_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i16" n="8v">
+<graphic decls="#downloadImageRights #download" height="4703px" width="6861px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00016.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00016_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i17" n="9r">
+<graphic decls="#downloadImageRights #download" height="4737px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00017.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00017_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i18" n="9v">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00018.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00018_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i19" n="10r">
+<graphic decls="#downloadImageRights #download" height="4760px" width="6861px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00019.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00019_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i20" n="10v">
+<graphic decls="#downloadImageRights #download" height="4737px" width="6884px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00020.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00020_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i21" n="11r">
+<graphic decls="#downloadImageRights #download" height="4692px" width="6781px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00021.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00021_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i22" n="11v">
+<graphic decls="#downloadImageRights #download" height="4674px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00022.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00022_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i23" n="12r">
+<graphic decls="#downloadImageRights #download" height="4792px" width="3608px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00023.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00023_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i24" n="12v">
+<graphic decls="#downloadImageRights #download" height="4808px" width="3536px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00024.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00024_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i25" n="13r">
+<graphic decls="#downloadImageRights #download" height="4612px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00025.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00025_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i26" n="13v">
+<graphic decls="#downloadImageRights #download" height="4575px" width="6822px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00026.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00026_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i27" n="14r">
+<graphic decls="#downloadImageRights #download" height="4622px" width="6785px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00027.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00027_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i28" n="14v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00028.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00028_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i29" n="15r">
+<graphic decls="#downloadImageRights #download" height="4829px" width="6861px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00029.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00029_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i30" n="15v">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00030.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00030_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i31" n="16r">
+<graphic decls="#downloadImageRights #download" height="4795px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00031.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00031_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i32" n="16v">
+<graphic decls="#downloadImageRights #download" height="4760px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00032.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00032_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i33" n="17r">
+<graphic decls="#downloadImageRights #download" height="4612px" width="6831px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00033.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00033_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i34" n="17v">
+<graphic decls="#downloadImageRights #download" height="4635px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00034.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00034_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i35" n="18r">
+<graphic decls="#downloadImageRights #download" height="4829px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00035.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00035_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i36" n="18v">
+<graphic decls="#downloadImageRights #download" height="4737px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00036.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00036_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i37" n="19r">
+<graphic decls="#downloadImageRights #download" height="4749px" width="6963px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00037.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00037_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i38" n="19v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="6895px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00038.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00038_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i39" n="20r">
+<graphic decls="#downloadImageRights #download" height="4817px" width="6747px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00039.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00039_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i40" n="20v">
+<graphic decls="#downloadImageRights #download" height="4806px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00040.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00040_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i41" n="21r">
+<graphic decls="#downloadImageRights #download" height="4715px" width="6781px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00041.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00041_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i42" n="21v">
+<graphic decls="#downloadImageRights #download" height="4647px" width="6762px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00042.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00042_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i43" n="22r">
+<graphic decls="#downloadImageRights #download" height="4676px" width="6861px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00043.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00043_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i44" n="22v">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00044.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00044_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i45" n="23r">
+<graphic decls="#downloadImageRights #download" height="4784px" width="3600px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00045.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00045_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i46" n="23v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="3653px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00046.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00046_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i47" n="24r">
+<graphic decls="#downloadImageRights #download" height="4737px" width="3676px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00047.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00047_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i48" n="24v">
+<graphic decls="#downloadImageRights #download" height="4726px" width="3699px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00048.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00048_files/8/0_0.jpg"
+rend="portrait"/>
+
+</surface><surface xml:id="i49" n="25r">
+<graphic decls="#downloadImageRights #download" height="4795px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00049.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00049_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i50" n="25v">
+<graphic decls="#downloadImageRights #download" height="4760px" width="6861px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00050.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00050_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i51" n="26r">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00051.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00051_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i52" n="26v">
+<graphic decls="#downloadImageRights #download" height="4737px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00052.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00052_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i53" n="27r">
+<graphic decls="#downloadImageRights #download" height="4817px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00053.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00053_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i54" n="27v">
+<graphic decls="#downloadImageRights #download" height="4795px" width="6769px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00054.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00054_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i55" n="28r">
+<graphic decls="#downloadImageRights #download" height="4726px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00055.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00055_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i56" n="28v">
+<graphic decls="#downloadImageRights #download" height="4703px" width="6792px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00056.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00056_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i57" n="29r">
+<graphic decls="#downloadImageRights #download" height="4783px" width="6712px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00057.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00057_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i58" n="29v">
+<graphic decls="#downloadImageRights #download" height="4795px" width="6678px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00058.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00058_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i59" n="30r">
+<graphic decls="#downloadImageRights #download" height="4772px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00059.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00059_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i60" n="30v">
+<graphic decls="#downloadImageRights #download" height="4783px" width="6826px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00060.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00060_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i61" n="31r">
+<graphic decls="#downloadImageRights #download" height="4635px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00061.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00061_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i62" n="31v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="6815px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00062.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00062_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i63" n="32r">
+<graphic decls="#downloadImageRights #download" height="4795px" width="6792px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00063.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00063_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i64" n="32v">
+<graphic decls="#downloadImageRights #download" height="4692px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00064.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00064_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i65" n="33r">
+<graphic decls="#downloadImageRights #download" height="4886px" width="6884px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00065.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00065_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i66" n="33v">
+<graphic decls="#downloadImageRights #download" height="4874px" width="6747px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00066.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00066_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i67" n="34r">
+<graphic decls="#downloadImageRights #download" height="4760px" width="6826px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00067.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00067_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i68" n="34v">
+<graphic decls="#downloadImageRights #download" height="4737px" width="6769px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00068.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00068_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i69" n="35r">
+<graphic decls="#downloadImageRights #download" height="4692px" width="6804px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00069.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00069_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i70" n="35v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="6826px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00070.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00070_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i71" n="36r">
+<graphic decls="#downloadImageRights #download" height="4772px" width="6838px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00071.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00071_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i72" n="36v">
+<graphic decls="#downloadImageRights #download" height="4680px" width="6849px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00072.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00072_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i73" n="37r">
+<graphic decls="#downloadImageRights #download" height="4817px" width="6872px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00073.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00073_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i74" n="37v">
+<graphic decls="#downloadImageRights #download" height="4829px" width="6758px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00074.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00074_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i75" n="38r">
+<graphic decls="#downloadImageRights #download" height="4840px" width="6986px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00075.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00075_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface><surface xml:id="i76" n="38v">
+<graphic decls="#downloadImageRights #download" height="4897px" width="6929px"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00076.jpg"/>
+<graphic decls="#thumbnail"
+url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-MISC-00035-00108-000-00076_files/8/0_0.jpg"
+rend="landscape"/>
+
+</surface></facsimile>
+
+<text>
+                        <body>
+                        <div>
+<pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+<pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+<pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+<pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+<pb xml:id="Lg-3r" n="3r" facs="#i5"/>
+<pb xml:id="Lg-3v" n="3v" facs="#i6"/>
+<pb xml:id="Lg-4r" n="4r" facs="#i7"/>
+<pb xml:id="Lg-4v" n="4v" facs="#i8"/>
+<pb xml:id="Lg-5r" n="5r" facs="#i9"/>
+<pb xml:id="Lg-5v" n="5v" facs="#i10"/>
+<pb xml:id="Lg-6r" n="6r" facs="#i11"/>
+<pb xml:id="Lg-6v" n="6v" facs="#i12"/>
+<pb xml:id="Lg-7r" n="7r" facs="#i13"/>
+<pb xml:id="Lg-7v" n="7v" facs="#i14"/>
+<pb xml:id="Lg-8r" n="8r" facs="#i15"/>
+<pb xml:id="Lg-8v" n="8v" facs="#i16"/>
+<pb xml:id="Lg-9r" n="9r" facs="#i17"/>
+<pb xml:id="Lg-9v" n="9v" facs="#i18"/>
+<pb xml:id="Lg-10r" n="10r" facs="#i19"/>
+<pb xml:id="Lg-10v" n="10v" facs="#i20"/>
+<pb xml:id="Lg-11r" n="11r" facs="#i21"/>
+<pb xml:id="Lg-11v" n="11v" facs="#i22"/>
+<pb xml:id="Lg-12r" n="12r" facs="#i23"/>
+<pb xml:id="Lg-12v" n="12v" facs="#i24"/>
+<pb xml:id="Lg-13r" n="13r" facs="#i25"/>
+<pb xml:id="Lg-13v" n="13v" facs="#i26"/>
+<pb xml:id="Lg-14r" n="14r" facs="#i27"/>
+<pb xml:id="Lg-14v" n="14v" facs="#i28"/>
+<pb xml:id="Lg-15r" n="15r" facs="#i29"/>
+<pb xml:id="Lg-15v" n="15v" facs="#i30"/>
+<pb xml:id="Lg-16r" n="16r" facs="#i31"/>
+<pb xml:id="Lg-16v" n="16v" facs="#i32"/>
+<pb xml:id="Lg-17r" n="17r" facs="#i33"/>
+<pb xml:id="Lg-17v" n="17v" facs="#i34"/>
+<pb xml:id="Lg-18r" n="18r" facs="#i35"/>
+<pb xml:id="Lg-18v" n="18v" facs="#i36"/>
+<pb xml:id="Lg-19r" n="19r" facs="#i37"/>
+<pb xml:id="Lg-19v" n="19v" facs="#i38"/>
+<pb xml:id="Lg-20r" n="20r" facs="#i39"/>
+<pb xml:id="Lg-20v" n="20v" facs="#i40"/>
+<pb xml:id="Lg-21r" n="21r" facs="#i41"/>
+<pb xml:id="Lg-21v" n="21v" facs="#i42"/>
+<pb xml:id="Lg-22r" n="22r" facs="#i43"/>
+<pb xml:id="Lg-22v" n="22v" facs="#i44"/>
+<pb xml:id="Lg-23r" n="23r" facs="#i45"/>
+<pb xml:id="Lg-23v" n="23v" facs="#i46"/>
+<pb xml:id="Lg-24r" n="24r" facs="#i47"/>
+<pb xml:id="Lg-24v" n="24v" facs="#i48"/>
+<pb xml:id="Lg-25r" n="25r" facs="#i49"/>
+<pb xml:id="Lg-25v" n="25v" facs="#i50"/>
+<pb xml:id="Lg-26r" n="26r" facs="#i51"/>
+<pb xml:id="Lg-26v" n="26v" facs="#i52"/>
+<pb xml:id="Lg-27r" n="27r" facs="#i53"/>
+<pb xml:id="Lg-27v" n="27v" facs="#i54"/>
+<pb xml:id="Lg-28r" n="28r" facs="#i55"/>
+<pb xml:id="Lg-28v" n="28v" facs="#i56"/>
+<pb xml:id="Lg-29r" n="29r" facs="#i57"/>
+<pb xml:id="Lg-29v" n="29v" facs="#i58"/>
+<pb xml:id="Lg-30r" n="30r" facs="#i59"/>
+<pb xml:id="Lg-30v" n="30v" facs="#i60"/>
+<pb xml:id="Lg-31r" n="31r" facs="#i61"/>
+<pb xml:id="Lg-31v" n="31v" facs="#i62"/>
+<pb xml:id="Lg-32r" n="32r" facs="#i63"/>
+<pb xml:id="Lg-32v" n="32v" facs="#i64"/>
+<pb xml:id="Lg-33r" n="33r" facs="#i65"/>
+<pb xml:id="Lg-33v" n="33v" facs="#i66"/>
+<pb xml:id="Lg-34r" n="34r" facs="#i67"/>
+<pb xml:id="Lg-34v" n="34v" facs="#i68"/>
+<pb xml:id="Lg-35r" n="35r" facs="#i69"/>
+<pb xml:id="Lg-35v" n="35v" facs="#i70"/>
+<pb xml:id="Lg-36r" n="36r" facs="#i71"/>
+<pb xml:id="Lg-36v" n="36v" facs="#i72"/>
+<pb xml:id="Lg-37r" n="37r" facs="#i73"/>
+<pb xml:id="Lg-37v" n="37v" facs="#i74"/>
+<pb xml:id="Lg-38r" n="38r" facs="#i75"/>
+<pb xml:id="Lg-38v" n="38v" facs="#i76"/>
+</div>
+</body>
+            </text>
+
+</TEI>
+

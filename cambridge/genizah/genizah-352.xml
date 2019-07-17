@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mosseri II.42.2</title>
+            <funder>Conservation, cataloguing and digitisation of the Jacques Mosseri Genizah Collection has benefitted from the support of the Mosseri family, the <ref target="http://eap.bl.uk/">Endangered Archives Programme</ref>, the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council</ref>, the <ref target="http://www.newtontrust.cam.ac.uk/">Isaac Newton Trust</ref>, the Samuel Sebba Charitable Trust and the <ref target="http://www.genizah.org/">Friedberg Genizah Project </ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact &lt;a href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Mosseri II.42.2</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Probably a commentary on Genesis (quoting twice from Genesis 13:16).
+</summary>
+                  <msItem n="1">
+                     <title>Commentary</title>
+                     <textLang mainLang="jrb" otherLangs="heb">Judaeo-Arabic; Hebrew</textLang>
+                     <author/>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/78637517" type="person" role="fmo">
+                           <persName type="standard">Mosseri, Jack, 1884-1934</persName>
+                           <persName type="display">Jack (Jacques) Mosseri</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>10</height>
+                              <width>11.5</width>
+                           </dimensions>
+                        </extent>
+                        <condition>badly torn, holes, rubbed</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">8 lines (recto); 9 lines (verso)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="0500-01-01" notAfter="1899-12-31">6th-19th century</origDate>
+                  </origin>
+                  <provenance>Collected 1909–1912 from Fustat, Egypt, by Jacques (Jack) Mosseri and given by the Mosseri family to Cambridge University Library on long-term loan in 2006</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">
+                  Cairo Genizah
+               </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-MOSSERI-II-00042-00002-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="3366px"
+                  width="3209px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-MOSSERI-II-00042-00002-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-MOSSERI-II-00042-00002-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="3373px"
+                  width="3163px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-MOSSERI-II-00042-00002-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-MOSSERI-II-00042-00002-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

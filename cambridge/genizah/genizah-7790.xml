@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S Ar.52.172</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2018-03-05</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions, including teaching and research. If you wish to reproduce it within publications or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk">genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</licence>
+            </availability>
+    
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>                        
+                  <idno>T-S Ar.52.172</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>A Karaite version of the Hebrew Bible. The Hebrew is written in Arabic script but with Tiberian vowels and cantillation signs. P1, P2, and P4: Ezekiel 16:48-17:1; 17:17-23; 20:21-28. P3: 1 Samuel 18:15-24.</summary>
+                  <msItem n="1">                           
+
+                     <title>Bible</title>
+                     <textLang mainLang="ara" otherLangs="heb">Arabic; Hebrew (Tiberian vocalisation and cantillation)</textLang>
+                     <respStmt>
+
+                        <resp/>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                     </respStmt>
+                     <note>Tiberian vowels and accents written in red ink. P3 does not seem to belong with the other leaves - it is a larger, longer sheet of paper, and is written in a different hand. P1, P2 and P4 belong with T-S AS 183.329, John Rylands University Library of Manchester Arabic 676, T-S AS 184.41, T-S AS 180.142, T-S Ar.34.333, T-S AS 176.397, T-S NS 297.236, T-S AS 182.260, T-S AS 222.68. P3 belongs with BL Or. 2547 for. 288-290.</note>
+                     <note>Associated manuscripts: T-S AS 183.329 T-S AS 184.41 T-S AS 180.142 T-S Ar.34.333 T-S AS 176.397 T-S NS 297.236 T-S AS 182.260 T-S AS 222.68</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+   
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>4 separate leaves.<dimensions type="leaf" unit="cm">
+                              <height>P1: 20.6</height>
+                              <width>15.3</width>
+                           </dimensions>
+                        </extent>
+                        <condition>Torn, holes, faded</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">P2: 24 x 19; P3: 26.4 x 18; P4: 19 x 18.8; 7-11 lines</layout>                                                                    
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="0500-01-01" notAfter="1899-12-31">6th-19th century</origDate>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in 1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-03-05">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic decls="#downloadImageRights #download"
+                  height="4998px"
+                  width="4920px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic decls="#downloadImageRights #download"
+                  height="6551px"
+                  width="5032px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2r" xml:id="i3">
+         <graphic decls="#downloadImageRights #download"
+                  height="6456px"
+                  width="5006px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00003.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00003_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="2v" xml:id="i4">
+         <graphic decls="#downloadImageRights #download"
+                  height="4928px"
+                  width="4960px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00004.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00004_files/8/0_0.jpg"
+                  rend="landscape"/>
+      </surface>
+      <surface n="3r" xml:id="i5">
+         <graphic decls="#downloadImageRights #download"
+                  height="7164px"
+                  width="4859px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00005.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00005_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="3v" xml:id="i6">
+         <graphic decls="#downloadImageRights #download"
+                  height="5592px"
+                  width="4072px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00006.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00006_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="4r" xml:id="i7">
+         <graphic decls="#downloadImageRights #download"
+                  height="5775px"
+                  width="4100px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00007.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00007_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="4v" xml:id="i8">
+         <graphic decls="#downloadImageRights #download"
+                  height="7164px"
+                  width="4943px"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00008.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-AR-00052-00172-000-00008_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+            <pb xml:id="Lg-2r" n="2r" facs="#i3"/>
+            <pb xml:id="Lg-2v" n="2v" facs="#i4"/>
+            <pb xml:id="Lg-3r" n="3r" facs="#i5"/>
+            <pb xml:id="Lg-3v" n="3v" facs="#i6"/>
+            <pb xml:id="Lg-4r" n="4r" facs="#i7"/>
+            <pb xml:id="Lg-4v" n="4v" facs="#i8"/>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Or.1081 J1</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been
+               sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript
+                  Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg
+                  Genizah Project Inc.</ref>, and the <ref
+                  target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+                  Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">2018-03-05</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions,
+                  including teaching and research. If you wish to reproduce it within publications
+                  or on the public web, please contact <ref target="mailto:genizah@lib.cam.ac.uk"
+                     >genizah@lib.cam.ac.uk</ref>.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>Or.1081 J1</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Letter from David Maimonides to his brother Moses in 1170 CE. David had
+                     intended to travel to the Sudanese port of ʿAyḏāb by caravan to trade with
+                     merchants there, but missed the caravan and decided to travel to ʿAyḏāb in a
+                     small group (an extremely dangerous undertaking). Upon arrival in ʿAyḏāb, David
+                     and his companions found out that the caravan they had intended to join had
+                     been robbed and many people had died. He felt very fortunate indeed to have not
+                     been among them. He writes to Moses to explain his fortune, but also to say
+                     that because his journey had taken longer than expected, the traders had left
+                     ʿAyḏāb and, against the express wishes of Moses, David has decided to continue
+                     on to India to trade there. He sends greetings to many family members, writing
+                     ‘God will replace your losses and bring me back to you’. Unfortunately David
+                     died on this sea voyage after his ship sank, and this is the last letter to his
+                     family.</summary>
+                  <msItem n="1">
+
+                     <title>Letter</title>
+                     <textLang mainLang="jrb" otherLangs="">Judaeo-Arabic</textLang>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">David Maimonides</persName>
+                           <persName type="display">David Maimonides</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+
+                        <resp/>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <name type="person" role="scr">
+                           <persName type="standard">David Maimonides</persName>
+                           <persName type="display">David Maimonides</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/100185495" type="person" role="rcp">
+                           <persName type="standard">Moses Maimonides</persName>
+                           <persName type="display">Moses Maimonides</persName>
+                        </name>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>24.4</height>
+                              <width>16</width>
+                           </dimensions>
+                        </extent>
+                        <condition>Badly torn, holes, stained</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">20 lines + marginalia (recto); 24 lines + marginalia
+                           (verso)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="1170-01-01" notAfter="1170-12-31"
+                        >1170 CE</origDate>
+                     <origPlace ref="7016833">ʿAyḏāb, Sudan</origPlace>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in
+                     1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref
+                              target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html">Cairo
+                        Genizah</ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2018-03-05">
+            <persName>CUL</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail" rend="portrait"
+         url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-01081-J-00001-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic decls="#downloadImageRights #download" height="6588px" width="4227px"
+            url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-01081-J-00001-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+            url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-01081-J-00001-000-00001_files/8/0_0.jpg"
+            rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic decls="#downloadImageRights #download" height="6607px" width="4301px"
+            url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-01081-J-00001-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+            url="http://cudl.lib.cam.ac.uk/content/images/MS-OR-01081-J-00001-000-00002_files/8/0_0.jpg"
+            rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p> To my beloved brother R. Mos[es, son of R.] Maimon – the memory of the righteous be
+               blessed!</p>
+            <p>David, your brother who is longing for you – may God unite me with you under the most
+               happy circumstances in his grace.</p>
+            <p>I am writing this letter from ‘Aydhab. I am well, but my mind is very much troubled,
+               so that I walk around in the bazaar and do not know – by our religion – where I
+               [am...], nor how it is that I did not imagine how much you must worry [about m]e.</p>
+            <p>This is my story: I reached Qus and after Passover I booked for ‘Aydhab in a caravan.
+               [...]</p>
+            <p>So we travelled alone out of fear of him. No one has ever dared to embark on such a
+               disastrous undertaking. I did it only because of my complete ignorance. But God
+               [saved] us after many frightful encounters, to describe which would lead me too far
+               afield. When we were in the desert, we regretted what we had done, but the matter had
+               gone out of our hands. Yet God had willed that we should be saved. We arrived in
+               ‘Aydhab safely with our entire baggage. We were unloading our things at the city
+               gate, when the caravans arrived. Their passengers had been robbed and wounded and
+               some had died of thirst. Among them was Ibn al-Rashidi, but he was unharmed. [...] We
+               preceded him only slightly and there was only a small distance between us and those
+               who were robbed. We were saved only because we had taken upon ourselves those
+               frightful experiences. All day long I imagine how you must feel when you hear about
+               ‘Ata’ Allah Ibn al-Rashidi, how he was robbed, and you believe that I was in his
+               company. Then God comes between me and my reason.</p>
+            <p>To cut a long story short: I arrived in ‘Aydhab and found that no imports had come
+               here [...] at all. I found nothing to buy except indigo. So I thought about what I
+               had endured in the [des]ert [...]; then it appeared a simple matter for me to embark
+               on a sea voyage. I took Mansur as my travel companion, but not Ma‘ani... for all my
+               troubles came [only from him; you know] the man and how he behaves (2 Kings 9:11).
+               Sometime, if God wills it, I shall tell you [all that happened between us] on our way
+               from Fustat to ‘Aydhab.</p>
+            <p>My company in the Mala[bar] sea will be [...], Salim, the son of the broker and his
+               brother's son, Makarim al-Hariri and his b[rother], and the brother of Sitt Ghazal.
+               But Ma`ani embarked, together with Ibn al-Kuwayyis on another ship, and Bu 'l-`Ala
+               remains in Dahlak, since the ship in which he travelled foundered, but he was saved
+               and absolutely nothing of his baggage was lost. Ibn `Atiyya, however, was in another
+               boat, together with Ibn al-Maqdisi. Their boat foundered and only their din[ars]
+               remained with them.</p>
+            <p>Now, despite all of this, do not [worry]. He who saved me from the desert with its
+               [...] will save me while on sea. [...] And, please, calm the heart of the little one
+               and her sister; do not frighten them and let them not despair, for crying to God for
+               what has passed is a vain prayer (M. Berakhot 9:3). [...] I am doing all of this out
+               of my continuous efforts for your material well-being, although you have never
+               imposed on me anything of the kind. So be steadfast; God will replace your losses and
+               bring me back to you. Anyhow, what has passed is past, and I am sure this letter will
+               reach you at a time when I, God willing, shall have already made most of the way. But
+               the counsel of God alone will stand (Proverbs 19:21). Our departure will probably be
+               around the middle of Ramadan.</p>
+            <p>I shall trav[el with ... Tell this] to his uncle, and also that he is fine. [Best
+               regards to you, to] Bu `Ali and his brother, to the elder Bu Mansur and his brothers,
+               to my sisters and the boys, to all our friends, to the freedman, and Mahasin.</p>
+            <p>Written on the 22nd of Iyyar, while the express caravan is on the point of
+               leaving.</p>
+            <p>[Translation by S.D. Goitein]</p>
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>

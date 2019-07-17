@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>T-S 13J25.5</title>
+            <funder>The digitisation of the Taylor-Schechter Cairo Genizah Collection has been
+               sponsored by the <ref target="http://www.jewishmanuscripts.org/">Jewish Manuscript
+                  Preservation Society</ref>, the <ref target="http://www.genizah.org/">Friedberg
+                  Genizah Project Inc.</ref>, and the <ref target="http://www.ahrc.ac.uk/Pages/default.aspx">Arts and Humanities Research
+                  Council, UK</ref>.</funder>
+            <principal>Ben Outhwaite</principal>
+         </titleStmt>
+         <publicationStmt>
+            <date calendar="Gregorian">[Date when first made available]</date>
+            <publisher>Cambridge University Library</publisher>
+            <pubPlace>
+               <address>
+                  <addrLine>Cambridge University Library</addrLine>
+                  <street>West Road</street>
+                  <settlement>Cambridge</settlement>
+                  <postCode>CB3 9DR</postCode>
+                  <addrLine>
+                     <ref target="http://www.lib.cam.ac.uk">Cambridge University Library
+                                </ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>library@lib.cam.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <availability xml:id="displayImageRights" status="restricted">
+               <p>Zooming image © Cambridge University Library, All rights reserved.</p>
+            </availability>
+            <availability xml:id="downloadImageRights" status="restricted">
+               <licence>This image may be used in accord with fair use and fair dealing provisions,
+                  including teaching and research. If you wish to reproduce it within publications
+                  or on the public web, please contact &lt;a
+                  href='mailto:genizah@lib.cam.ac.uk'&gt;genizah@lib.cam.ac.uk&lt;/a&gt;.</licence>
+            </availability>
+            <availability xml:id="metadataRights" status="restricted">
+               <licence>This metadata is licensed under a Creative Commons Attribution-NonCommercial
+                  3.0 Unported License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="n1" xml:lang="eng">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Cambridgeshire</region>
+                  <settlement>Cambridge</settlement>
+                  <institution>Cambridge University</institution>
+                  <repository>Cambridge University Library</repository>
+                  <idno>T-S 13J25.5</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Recto: part of a letter, c. 970 CE, from Šerira Gaʾon, to various Jewish
+                     communities outside Babylonia, seeking financial support for the Academy of
+                     Pumbeditha. Several years have elapsed since questions and donations were sent
+                     from these communities to the yešiva, but the Gaʾon has not forgotten them as
+                     they appear to have forgotten him and his school. The yešiva is in dire
+                     financial straits, and this is causing an alarming drop in enrolment. Quotes
+                     the sage Simeon b. Laqiš. Verso: unrelated jottings in Arabic script. </summary>
+                  <msItem n="1">
+                     <title>Letter</title>
+                     <textLang mainLang="heb" otherLangs="ara">Hebrew; Arabic</textLang>
+                     <author>
+                        <name type="person" role="aut">
+                           <persName type="standard">Šerira Gaʾon</persName>
+                           <persName type="display">Šerira Gaʾon</persName>
+                        </name>
+                     </author>
+                     <respStmt>
+                        <name ref="http://viaf.org/viaf/32795172" type="person" role="dnr">
+                           <persName type="standard">Schechter, S. (Solomon), 1847-1915</persName>
+                           <persName type="display">Solomon Schechter</persName>
+                        </name>
+                        <name ref="http://viaf.org/viaf/51729236" type="person" role="dnr">
+                           <persName type="standard">Taylor, Charles, 1840-1908</persName>
+                           <persName type="display">Charles Taylor</persName>
+                        </name>
+                        <resp/>
+                     </respStmt>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc material="paper">
+                        <support>Paper</support>
+                        <extent>1 leaf.<dimensions type="leaf" unit="cm">
+                              <height>30.4</height>
+                              <width>21.9</width>
+                           </dimensions>
+                        </extent>
+                        <condition>torn, holes, stained</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">35 lines (recto); 7 lines (verso)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate calendar="Gregorian" notBefore="0970-01-01" notAfter="0970-12-31">970
+                        CE</origDate>
+                  </origin>
+                  <provenance>Donated by Dr Solomon Schechter and his patron Dr Charles Taylor in
+                     1898 as part of the Taylor-Schechter Genizah Collection</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card for admissions procedures contact <ref target="http://www.lib.cam.ac.uk/cgi-bin/eligibility.cgi/">Cambridge
+                              University Library Admissions</ref>).</p>
+                     </availability>
+                     <note/>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of Congress
+                     Subject Headings</ref>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <list>
+                  <item>
+                     <ref target="http://id.loc.gov/authorities/subjects/sh85018717.html"> Cairo
+                        Genizah </ref>
+                  </item>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2012-04-10">
+            <persName>CUL. Translation by Ben Outhwaite.</persName>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic decls="#document-thumbnail"
+               rend="portrait"
+               url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00025-00005-000-00001_files/8/0_0.jpg"/>
+      <surface n="1r" xml:id="i1">
+         <graphic height="8415px"
+                  width="6078px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00025-00005-000-00001.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00025-00005-000-00001_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+      <surface n="1v" xml:id="i2">
+         <graphic height="8572px"
+                  width="5989px"
+                  decls="#downloadImageRights #download"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00025-00005-000-00002.jpg"/>
+         <graphic decls="#thumbnail"
+                  url="http://cudl.lib.cam.ac.uk/content/images/MS-TS-00013-J-00025-00005-000-00002_files/8/0_0.jpg"
+                  rend="portrait"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb xml:id="Lg-1r" n="1r" facs="#i1"/>
+            <pb xml:id="Lg-1v" n="1v" facs="#i2"/>
+         </div>
+         <div type="translation">
+            <pb xml:id="tr-1r" n="1r" facs="#i1"/>
+            <p>[We] thank His Holy Name for ransoming it, as it is written: ‘My lips will jubilantly
+               cry out when I sing praises to you, and my soul, which you have ransomed’. And [we
+               are hereby] informing [you] that though you — our brothers, the delights of our eyes,
+               and the joys of our hearts and our friends in spirit — may have forgotten us, we have
+               not forgotten you; for you are considered by us the very essence of our life, and how
+               can a man forget the essence of his life?! And [we have not forgotten] your
+               contributions, ‘of which we have heard and known, and of which our forefathers told
+               us’, for you used to provide our daily bread, and how can a man forget the food that
+               is his need? And [we have not forgotten] that the provision of our water is from you,
+               and how can a man fail to recall the source of his life? Therefore, though many years
+               have passed and many days have gone by and you have not been in contact with us,
+               [whether in the form of] letters, [legal] questions, votive offerings or donations,
+               as was your forefathers’ custom — may the memory of the righteous be for a blessing —
+               [yet, despite all this] you are foremost in our thoughts. You are inscribed like a
+               seal upon our heart; you murmur with its stirring; like a seal upon our arms you are
+               engraven. And despite the fact that it is not always seen, it is the place of an
+               important precept. And ‘behold on the palms’ we have engraven you, which will be
+               seen. Therefore, with their movements you will appear to us from a distance like
+               lightning in the darkness, like the shade of a rock in the wilderness. And indeed it
+               is said: the Lord ‘is the one who knows and a witness’ in these matters. If we should
+               forget you, may our strength be forgotten. And we [praise] the memory of your parents
+               so often, our tongues become dry. And above our highest joy [you] will be set, as the
+               messenger prophesied, saying: ‘If I forget you, O Jerusalem, let my right hand
+               wither, let [my tongue] cleave to my palate if I do not remember you, if I do not set
+               Jerusalem above my highest joy’. And with a great deal of contemplation we say: ‘For
+               what reason have you forgotten us?’ Our elders sit desolate, our young men are
+               sighing, our teachers are grieving, and we suffer bitterly because we see how the
+               world continues to be laid waste. Though surely it is in accordance with the bidding
+               of our Holy One, because on His covenant, which is his Law, [the world] stands. As it
+               is written: ‘Thus said the Lord: “As surely as I have established my covenant with
+               day and night, the laws of heaven and earth”. And [because His Torah] is found
+               continually to be diminishing, so also the world that rests upon it continues to
+               perish, as it is written: ‘They neither know nor understand. They walk about in
+               darkness. All the foundations of the world are shaken’. And what profit is there that
+               you forge a path for the world’s destruction? If you say [about us] that we are
+               lacking and that our wisdom has diminished, truly it is so. Certainly our splendour
+               has been tarnished, our learning is diminished and our schools are desolate. We are
+               left, few from many. The school of the teachers is like a wasteland, for every
+               bright-eyed lad used to be brought to the house of study, but now no one brings his
+               son and we must employ strategems to bring them one by one so that the Mishnah will
+               not be forgotten. Also many of the children of the talmudic scholars are leaving for
+               other activities and taking their place among the salary-earners or emigrating. And
+               from generation to generation we are becoming fewer, and from year to year [we are
+               shrinking in number...]. What has brought about all this? The inaction of Israel, who
+               withhold from them their stipend and their sustenance. For who can stand without
+               sustenance?! When He gave his Torah to his people, ordering them to study it, each
+               according to the sufficiency of his needs, did not manna descend every day so that
+               they could not find a pretext not to follow it? As it is written: ‘Behold, I will
+               rain down bread from the heavens for you, and the people will go out and gather it
+               etc’. And when He brought them to their land, and ordered the priests and the Levites
+               to study and to teach because He knew that not all were able to dedicate themselves
+               to the study of law, he also ordered the people to attend to their needs. As it is
+               written: ‘He ordered the people, the inhabitants of Jerusalem, to deliver the
+               portions of the priests and the Levites so that they might devote themselves to the
+               Torah of the Lord’. And if the people display inaction, what will their sages do?
+               Should they go hungry and thirsty? For we are left now calculating and toiling in
+               order to get enough food — we and our children — and we will use the food to satisfy
+               the remainder [of the sages] that are left and their children. And as it has been
+               said about us: ‘For you will be like an oak whose leaf withers and like a garden that
+               is without water’. For our leaves have withered and our water is exhausted, because
+               when the sages of the law were compared to a cluster [of grapes], so also the
+               wealthier people [...] the clusters. And because of what Rav Šimʿon b. Laqiš
+               said:[...]</p>
+
+            <pb xml:id="tr-1v" n="1v" facs="#i2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
