@@ -8,7 +8,7 @@
 
 ### p15795coll4: [Iryan Moftah Coptic Language and Religion Manuscripts](http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll4)
           
-### p15795coll5: [Ramses Wissa Wassef]9(http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll5)
+### p15795coll5: [Ramses Wissa Wassef](http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll5)
 
 ### p15795coll6: [Historical Maps](http://digitalcollections.aucegypt.edu/cdm/landingpage/collection/p15795coll6)
 
