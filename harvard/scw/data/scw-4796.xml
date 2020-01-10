@@ -1,0 +1,265 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <mods:titleInfo>
+    <mods:title>Hamzanama, Mughal (dispersed, various repositories)</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Dastan-e-Amir Hamza</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Epic of Hamza</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>Mir Sayyid 'Ali</mods:namePart>
+    <mods:namePart type="date">b. c. 1510, d. Mecca after 1572, Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>artist</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>'Abd al-Samad</mods:namePart>
+    <mods:namePart type="date">Iranian miniature painter and calligrapher, active ca.1540-1595</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>attributed Akbar</mods:namePart>
+    <mods:namePart type="date">Mughal emperor, 1542-1605</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>patron</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:genre>painting</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther keyDate="yes">1560-1580</mods:dateOther>
+    <mods:dateCreated point="start">1560</mods:dateCreated>
+    <mods:dateCreated point="end">1580</mods:dateCreated>
+    <mods:dateCreated>1560-1580</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>area 64 x 55.5 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:abstract>Dispersed manuscript of 14 volumes</mods:abstract>
+  <mods:subject>
+    <mods:topic>epics</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>prophets</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>monsters</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>giants</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>storytelling</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>battles</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Hamza</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>architecture</mods:topic>
+  </mods:subject>
+  <mods:extension>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal: Akbar</cdwalite:style>
+               </cdwalite:styleWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>cotton</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>painting</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:location>
+    <mods:physicalLocation type="repository">Victoria and Albert Museum, London, England</mods:physicalLocation>
+    <mods:shelfLocator>I.S. 1505-1883</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Fitzwilliam Museum, Cambridge, Cambridgeshire, England</mods:physicalLocation>
+    <mods:shelfLocator>PD 203-1948</mods:shelfLocator>
+    <mods:shelfLocator>PD 204-1948</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Brooklyn Musuem of Art, Brooklyn (Nova Scotia, Canada) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>24.48</mods:shelfLocator>
+    <mods:shelfLocator>24-47</mods:shelfLocator>
+    <mods:shelfLocator>24-46</mods:shelfLocator>
+    <mods:shelfLocator>24-49</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Seattle Art Museum, Seattle (King county, Washington, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>68.160</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Los Angeles County Museum of Art, Los Angeles, California, United States</mods:physicalLocation>
+    <mods:shelfLocator>M.78.9.1</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin borough (County Dublin, Leinster, Republic of Ireland) (borough)</mods:physicalLocation>
+    <mods:shelfLocator>01.1</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Cleveland Museum of Art, Cleveland, Ohio, United States</mods:physicalLocation>
+    <mods:shelfLocator>1976.74</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Metropolitan Museum of Art, New York City (New York state, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>24.48.1</mods:shelfLocator>
+    <mods:shelfLocator>23.264.2</mods:shelfLocator>
+    <mods:shelfLocator>18.44.1</mods:shelfLocator>
+    <mods:shelfLocator>18.44.2</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Museum of Fine Arts, Boston (Suffolk county, Massachusetts, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>24.129</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Free Library of Philadelphia, Philadelphia (Philadelphia county, Pennsylvania, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>m2</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Arthur M. Sackler Museum, Cambridge (Middlesex county, Massachusetts, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>1941.292</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Freer Gallery of Art, Washington (DC, United States) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>F1981.11</mods:shelfLocator>
+    <mods:shelfLocator>F1960.15</mods:shelfLocator>
+    <mods:shelfLocator>F1949.18</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Private Collection</mods:physicalLocation>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">al-Sabah Collection, Kuwait City, Capital, Kuwait</mods:physicalLocation>
+    <mods:shelfLocator>LNS 297 MS</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Museum f&#252;r Angewandte Kunst, Vienna, Austria</mods:physicalLocation>
+    <mods:shelfLocator> B.I 8770/19</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/45</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/47</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/41</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/42</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/48</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/35</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/54</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/39</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/37</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/50</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/34</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/49</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/52</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/26</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/6</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/28 </mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/25</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/33</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/ 36</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/59</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/43</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/55</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/ 32</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/9</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/13</mods:shelfLocator>
+    <mods:shelfLocator>B.I 8770/15</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Cincinnati Art Museum, Cincinnati, Ohio, United States</mods:physicalLocation>
+    <mods:shelfLocator>1948.192</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Philadelphia Museum of Art, Philadelphia, Pennsylvania, United States</mods:physicalLocation>
+    <mods:shelfLocator>1937-4-1</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Hodgkin, Howard - Collection</mods:physicalLocation>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">British Museum, London (Greater London, England, United Kingdom) (inhabited place)</mods:physicalLocation>
+    <mods:shelfLocator>1925-9-29-02</mods:shelfLocator>
+    <mods:shelfLocator>1925-9-29-01</mods:shelfLocator>
+    <mods:shelfLocator>1948-10-9-065</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation type="repository">Arthur M. Sackler Gallery, Washington, District of Columbia, United States</mods:physicalLocation>
+  </mods:location>
+  <mods:relatedItem type="constituent">
+    <mods:titleInfo>
+      <mods:title>General view, (MAK) BI 8770-18r: During a campaign Hamza kills the leader of Qaf, people who have elephant ears</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
+    <mods:classification/>
+    <mods:location>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34885218</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34885218?width=150&amp;height=150&amp;usethumb=y</mods:url>
+    </mods:location>
+    <mods:location>
+      <mods:physicalLocation type="repository"/>
+      <mods:shelfLocator>SCW2016.12867</mods:shelfLocator>
+    </mods:location>
+    <mods:recordInfo>
+      <mods:recordIdentifier>22348599</mods:recordIdentifier>
+    </mods:recordInfo>
+  </mods:relatedItem>
+  <mods:relatedItem otherType="HOLLIS Images record">
+    <mods:location>
+      <mods:url>https://id.lib.harvard.edu/images/8001007218/urn-3:FHCL:34885218/catalog</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
+    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
+    <mods:recordChangeDate encoding="iso8601">20190418</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001007218_urn-3:FHCL:34885218</mods:recordIdentifier>
+    <mods:languageOfCataloging>
+      <mods:languageTerm>eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:language>
+    <mods:languageTerm type="code">zxx</mods:languageTerm>
+    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
+  </mods:language>
+  <mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001007218.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-22T23:20Z</librarycloud:processingDate>
+               </librarycloud:librarycloud>
+            </mods:extension>
+  <mods:location/>
+</mods:mods>

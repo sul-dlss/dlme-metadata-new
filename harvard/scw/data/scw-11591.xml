@@ -1,0 +1,103 @@
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <mods:titleInfo>
+    <mods:title>Deified hero (veeran) (Leo S. Figiel collection)</mods:title>
+  </mods:titleInfo>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:genre>figurines</mods:genre>
+  <mods:genre>metalwork</mods:genre>
+  <mods:originInfo>
+    <mods:place>
+      <mods:placeTerm>Maharashtra, India</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther keyDate="yes">17th cent.</mods:dateOther>
+    <mods:dateCreated point="start">1600</mods:dateCreated>
+    <mods:dateCreated point="end">1699</mods:dateCreated>
+    <mods:dateCreated>17th cent.</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>18 cm (height); 19 cm (length)</mods:extent>
+  </mods:physicalDescription>
+  <mods:abstract>Possibly in the Peabody Essex Museum, MA, or another U.S. museum.</mods:abstract>
+  <mods:note>General note:  "Ritual bronzes of Maharashtra and Karnataka" by Leo S. Figiel, 2007.</mods:note>
+  <mods:subject>
+    <mods:topic>Hinduism</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>ritual objects</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>heroes</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>equestrian figures</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>horses</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>horse trappings</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>bows (weapons)</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>swords</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>weapons</mods:topic>
+  </mods:subject>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Hindu</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>bronze</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:relatedItem type="constituent">
+    <mods:titleInfo>
+      <mods:title>Right side, full. Note the Maratha turban.</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
+    <mods:classification/>
+    <mods:location>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34887310</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34887310?width=150&amp;height=150&amp;usethumb=y</mods:url>
+    </mods:location>
+    <mods:location>
+      <mods:physicalLocation type="repository"/>
+      <mods:shelfLocator>SCW2016.14261</mods:shelfLocator>
+    </mods:location>
+    <mods:recordInfo>
+      <mods:recordIdentifier>22350409</mods:recordIdentifier>
+    </mods:recordInfo>
+  </mods:relatedItem>
+  <mods:relatedItem otherType="HOLLIS Images record">
+    <mods:location>
+      <mods:url>https://id.lib.harvard.edu/images/8001563968/urn-3:FHCL:34887310/catalog</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
+    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
+    <mods:recordChangeDate encoding="iso8601">20190627</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001563968_urn-3:FHCL:34887310</mods:recordIdentifier>
+    <mods:languageOfCataloging>
+      <mods:languageTerm>eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:language>
+    <mods:languageTerm type="code">zxx</mods:languageTerm>
+    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
+  </mods:language>
+  <mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001563968.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-22T23:36Z</librarycloud:processingDate>
+               </librarycloud:librarycloud>
+            </mods:extension>
+  <mods:location/>
+</mods:mods>
