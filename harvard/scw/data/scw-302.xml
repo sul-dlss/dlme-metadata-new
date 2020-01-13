@@ -1,145 +1,28 @@
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
-  <mods:titleInfo>
-    <mods:title>Leaf from an album: "Palace Complex with Harem Gardens"</mods:title>
-  </mods:titleInfo>
-  <mods:name>
-    <mods:namePart>Faizallah</mods:namePart>
-    <mods:namePart type="date">Faizallah, a Mughal artist who located to Awadh, is the son of Faqirallah Khan and the grandson of Muhammad Afzal. Both his father and grandfather were important Mughal artists who flourished in Delhi. His father, Faqirallah Khan later migrated with Faizallah to the province of Awadh by the 1760s.</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>creator</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>artist</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>manuscripts</mods:genre>
-  <mods:originInfo>
-    <mods:dateOther keyDate="yes">c. 1765</mods:dateOther>
-    <mods:dateCreated point="start">1765</mods:dateCreated>
-    <mods:dateCreated point="end">1765</mods:dateCreated>
-    <mods:dateCreated>c. 1765</mods:dateCreated>
-  </mods:originInfo>
-  <mods:physicalDescription>
-    <mods:extent> 46.3 x 31.8 cm</mods:extent>
-  </mods:physicalDescription>
-  <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Faizabad, Uttar Pradesh, India</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>buildings</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>landscape</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Islamic architecture</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>South Asians</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>complexes</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>harems</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>palaces</mods:topic>
-  </mods:subject>
-  <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"><mods:url>https://iiif.lib.harvard.edu/manifests/ids:425510537</mods:url>
+<mods:titleInfo><mods:title>Cheetah Trainer (HAM, 2011.533)</mods:title></mods:titleInfo><mods:name><mods:namePart>attributed to Aqa Riza</mods:namePart><mods:namePart type="date">Indian</mods:namePart><mods:role><mods:roleTerm>creator</mods:roleTerm></mods:role><mods:role><mods:roleTerm>artist</mods:roleTerm></mods:role></mods:name><mods:typeOfResource>still image</mods:typeOfResource><mods:genre>drawing</mods:genre><mods:originInfo><mods:place><mods:placeTerm>Isfahan, Iran</mods:placeTerm></mods:place><mods:dateOther keyDate="yes">ca. 1590</mods:dateOther><mods:dateCreated point="start">1590</mods:dateCreated><mods:dateCreated point="end">1590</mods:dateCreated><mods:dateCreated>ca. 1590</mods:dateCreated></mods:originInfo><mods:physicalDescription><mods:extent>13.6 x 10.1 cm</mods:extent></mods:physicalDescription><mods:note>Provenance: The Stuart Cary Welch Collection, gift</mods:note><mods:subject><mods:topic>Islamic art</mods:topic></mods:subject><mods:subject><mods:topic>cheetah</mods:topic></mods:subject><mods:subject><mods:topic>animal trainers</mods:topic></mods:subject><mods:subject><mods:topic>horses</mods:topic></mods:subject><mods:extension>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
                </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
+            </mods:extension><mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension><mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
                </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Mughal</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
+            </mods:extension><mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension><mods:extension>
                <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:location>
-    <mods:physicalLocation type="repository">The David Collection, Copenhagen, K&#248;benhavn, Denmark</mods:physicalLocation>
-    <mods:shelfLocator>46/1980</mods:shelfLocator>
-  </mods:location>
-  <mods:relatedItem type="constituent">
-    <mods:titleInfo>
-      <mods:title>Detail view</mods:title>
-    </mods:titleInfo>
-    <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>female figures</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>fountains</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>hookahs</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>herons</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>parterres</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>poppies</mods:topic>
-    </mods:subject>
-    <mods:classification/>
-    <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41073305</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41073305?width=150&amp;height=150&amp;usethumb=y</mods:url>
-    </mods:location>
-    <mods:location>
-      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Digital Images &amp; Slides Collection, Harvard
-            University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.18813</mods:shelfLocator>
-    </mods:location>
-    <mods:recordInfo>
-      <mods:recordIdentifier>23087147</mods:recordIdentifier>
-    </mods:recordInfo>
-    <mods:extension>
-                  <librarycloud:HarvardRepositories xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
-                  </librarycloud:HarvardRepositories>
-               </mods:extension>
-  </mods:relatedItem>
-  <mods:relatedItem otherType="HOLLIS Images record">
-    <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001252947/urn-3:FHCL:41073305/catalog</mods:url>
-    </mods:location>
-  </mods:relatedItem>
-  <mods:recordInfo>
-    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
-    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20180813</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001252947_urn-3:FHCL:41073305</mods:recordIdentifier>
-    <mods:languageOfCataloging>
-      <mods:languageTerm>eng</mods:languageTerm>
-    </mods:languageOfCataloging>
-  </mods:recordInfo>
-  <mods:language>
-    <mods:languageTerm type="code">zxx</mods:languageTerm>
-    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
-  </mods:language>
-  <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001252947.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-10-11T01:35Z</librarycloud:processingDate>
+            </mods:extension><mods:location><mods:physicalLocation type="repository">Harvard Art Museums, Cambridge, Massachusetts, United States</mods:physicalLocation><mods:shelfLocator>2011.533</mods:shelfLocator></mods:location><mods:relatedItem type="constituent"><mods:titleInfo><mods:title>Detail</mods:title></mods:titleInfo><mods:typeOfResource>still image</mods:typeOfResource><mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note><mods:classification/><mods:location><mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:29086732</mods:url><mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:29086732?width=150&amp;height=150&amp;usethumb=y</mods:url></mods:location><mods:location><mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation><mods:shelfLocator>SCW2016.04793</mods:shelfLocator></mods:location><mods:recordInfo><mods:recordIdentifier>17199682</mods:recordIdentifier></mods:recordInfo><mods:extension>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                     </librarycloud:HarvardRepositories>
+                  </librarycloud:librarycloud>
+               </mods:extension></mods:relatedItem><mods:relatedItem otherType="HOLLIS Images record"><mods:location><mods:url>https://id.lib.harvard.edu/images/8001519985/urn-3:FHCL:29086732/catalog</mods:url></mods:location></mods:relatedItem><mods:recordInfo><mods:recordContentSource authority="marcorg">MH</mods:recordContentSource><mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource><mods:recordChangeDate encoding="iso8601">20191125</mods:recordChangeDate><mods:recordIdentifier source="MH:VIA">8001519985_urn-3:FHCL:29086732</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm>eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo><mods:language><mods:languageTerm type="code">zxx</mods:languageTerm><mods:languageTerm type="text">No linguistic content</mods:languageTerm></mods:language><mods:extension>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:29086732</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-10-26T20:22:50.298Z</HarvardDRS:lastModifiedDate>
+               </HarvardDRS:DRSMetadata>
+            </mods:extension><mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001519985.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-12-11T20:42Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
-            </mods:extension>
-  <mods:location/>
-</mods:mods>
+            </mods:extension><mods:location><mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001519985_urn-3:FHCL:29086732</mods:url></mods:location></mods:mods>

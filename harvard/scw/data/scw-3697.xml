@@ -1,87 +1,106 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Shahnama, Inju (dispersed, Sackler)</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Book of Kings</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Shahnameh</mods:title>
+    <mods:title>Bahram Gur and the shepherd (MFA, 14.589)</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>Firdawsi</mods:namePart>
-    <mods:namePart type="date">b. 940-941/329-330 AH; d. 1020-1021/411 AH, Iranian</mods:namePart>
+    <mods:namePart>attributed to Mirza 'Ali</mods:namePart>
+    <mods:namePart type="date">b. c. 1510, d. before 1576, Iranian</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
     <mods:role>
-      <mods:roleTerm>author</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Qiwam al-Daulah wa'l-Din Hasan</mods:namePart>
-    <mods:namePart type="date">court official</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>patron</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Vever Collection, Paris, France</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>former repository</mods:roleTerm>
+      <mods:roleTerm>artist</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>illuminated manuscripts</mods:genre>
+  <mods:genre>drawing</mods:genre>
+  <mods:genre>album leaf</mods:genre>
   <mods:originInfo>
     <mods:place>
-      <mods:placeTerm>Shiraz, Iran</mods:placeTerm>
+      <mods:placeTerm>Tabriz, Iran</mods:placeTerm>
     </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1341</mods:dateOther>
-    <mods:dateCreated point="start">1341</mods:dateCreated>
-    <mods:dateCreated point="end">1341</mods:dateCreated>
-    <mods:dateCreated>ca. 1341</mods:dateCreated>
+    <mods:dateOther keyDate="yes">First half 16th cent.</mods:dateOther>
+    <mods:dateCreated point="start">1500</mods:dateCreated>
+    <mods:dateCreated point="end">1550</mods:dateCreated>
+    <mods:dateCreated>First half 16th cent.</mods:dateCreated>
   </mods:originInfo>
-  <mods:abstract>A group of twelve detached folios; gold and black rulings on cream-colored paper.</mods:abstract>
+  <mods:physicalDescription>
+    <mods:extent>45.4 &#215; 30 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:abstract>Drawing, probably for an illustration in a manuscript of the "Khamsa" of Nizami, mounted as an album page. A couplet of unrelated text in the upper right and lower left corner.</mods:abstract>
+  <mods:note>Inscription: Your kindness is consolation to the poor; your wrath is the destruction of the mighty. Whether you are kind or wrathful, in either case there is a share of your mercy.</mods:note>
   <mods:subject>
-    <mods:topic>Persian</mods:topic>
+    <mods:topic>Bahram-i Gur</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>shepherds</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>dogs</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>mountains</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>dragons</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>nasta'liq</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>cartouches</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>poetry</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>tents</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>dragons</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>milking</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>cows</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>donkeys</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>horses</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>children</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>waterfalls</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>jugs</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>Islamic art</mods:topic>
   </mods:subject>
-  <mods:subject>
-    <mods:topic>illuminations</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>shahnama</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>calligraphy</mods:topic>
-  </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Inju'id</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
                </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mongol</cdwalite:style>
-               </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
-               </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>red chalk</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>black chalk</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:extension>
@@ -89,7 +108,11 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>color (pigment)</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:extension>
@@ -97,46 +120,57 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Arthur M. Sackler Gallery, Washington, District of Columbia, United States</mods:physicalLocation>
+    <mods:physicalLocation type="repository">Museum of Fine Arts, Boston, Massachusetts, United States</mods:physicalLocation>
+    <mods:shelfLocator>14.589</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Lahhak and Farshidward before Afrasiyab; folio completely repainted (S1986.99; 36.4 x 28.8 cm; full view)</mods:title>
+      <mods:title>Detail</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:subject>
-      <mods:topic>courtiers</mods:topic>
+      <mods:topic>horses</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>thrones</mods:topic>
+      <mods:topic>jars</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>kneeling figures</mods:topic>
+      <mods:topic>water</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>female figures</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>male figures</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34886864</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34886864?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41011893</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41011893?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
-      <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.13834</mods:shelfLocator>
+      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
+      <mods:shelfLocator>SCW2016.17802</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>22349972</mods:recordIdentifier>
+      <mods:recordIdentifier>22396397</mods:recordIdentifier>
     </mods:recordInfo>
+    <mods:extension>
+                  <librarycloud:HarvardRepositories xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                  </librarycloud:HarvardRepositories>
+               </mods:extension>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001551506/urn-3:FHCL:34886864/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8000983016/urn-3:FHCL:41011893/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20190418</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001551506_urn-3:FHCL:34886864</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20191003</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8000983016_urn-3:FHCL:41011893</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -146,7 +180,7 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001551506.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-22T23:30Z</librarycloud:processingDate>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8000983016.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-22T23:14Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location/>

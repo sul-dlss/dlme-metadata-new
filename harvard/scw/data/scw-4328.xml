@@ -111,66 +111,45 @@
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Plate 201: Jahangir Embracing Shah 'Abbas (Freer F45.9a) (Detail view)</mods:title>
+      <mods:title>Plate 133 (full view): Battle at a Camp [f. 54a]</mods:title>
     </mods:titleInfo>
-    <mods:name>
-      <mods:namePart/>
-      <mods:role>
-        <mods:roleTerm>associated name</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name>
-      <mods:namePart/>
-      <mods:role>
-        <mods:roleTerm>associated name</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name>
-      <mods:namePart/>
-      <mods:role>
-        <mods:roleTerm>associated name</mods:roleTerm>
-      </mods:role>
-    </mods:name>
     <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:originInfo>
-      <mods:dateCreated>circ. 1618</mods:dateCreated>
-    </mods:originInfo>
-    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
     <mods:subject>
-      <mods:topic>emperors</mods:topic>
+      <mods:topic>battles</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>jewelry</mods:topic>
+      <mods:topic>military camps</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>pearl</mods:topic>
+      <mods:topic>horses in art</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>embracing</mods:topic>
+      <mods:topic>pennants</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:37872231</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:37872231?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34885786</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34885786?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.16006</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.13140</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>24216152</mods:recordIdentifier>
+      <mods:recordIdentifier>22349014</mods:recordIdentifier>
     </mods:recordInfo>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork371069/urn-3:FHCL:37872231/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork371069/urn-3:FHCL:34885786/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20141227</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W371069_urn-3:FHCL:37872231</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">W371069_urn-3:FHCL:34885786</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -180,7 +159,7 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork371069.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-17T22:16Z</librarycloud:processingDate>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork371069.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-23T02:24Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location/>
