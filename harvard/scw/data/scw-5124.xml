@@ -1,42 +1,157 @@
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"><mods:url>https://iiif.lib.harvard.edu/manifests/ids:424020698</mods:url>
-<mods:titleInfo><mods:title>Maharaja Jai Singh of Amber and Maharaja Gaj Singh of Marwar (LACMA M.80.6.6)</mods:title></mods:titleInfo><mods:titleInfo type="alternative"><mods:title>Shah Shuja enthroned with Gaj Singh of Marwar</mods:title></mods:titleInfo><mods:name><mods:namePart>Bichitr</mods:namePart><mods:namePart type="date">fl ca. 1615-50, Indian</mods:namePart><mods:role><mods:roleTerm>creator</mods:roleTerm></mods:role><mods:role><mods:roleTerm>artist</mods:roleTerm></mods:role></mods:name><mods:name><mods:namePart>Gaj Singh</mods:namePart><mods:namePart type="date">Indian</mods:namePart><mods:role><mods:roleTerm>associated name</mods:roleTerm></mods:role><mods:role><mods:roleTerm>subject</mods:roleTerm></mods:role></mods:name><mods:typeOfResource>still image</mods:typeOfResource><mods:genre>paintings</mods:genre><mods:genre>watercolors</mods:genre><mods:originInfo><mods:place><mods:placeTerm>India</mods:placeTerm></mods:place><mods:dateOther keyDate="yes">ca. 1633</mods:dateOther><mods:dateCreated point="start">1620</mods:dateCreated><mods:dateCreated point="end">1640</mods:dateCreated><mods:dateCreated>ca. 1633</mods:dateCreated></mods:originInfo><mods:physicalDescription><mods:extent>45.1 x 34.3 cm.</mods:extent></mods:physicalDescription><mods:abstract>Illustrated folio from the Amber Album</mods:abstract><mods:note>Attribution: Attributed to Bichtir, painter (India active ca. 1610&#8211;ca. 1650)</mods:note><mods:note>Citation/references: Rosenfield, John.  The Arts of India and Nepal: The Nasli and Alice Heeramaneck Collection.  Boston:  Museum of Fine Arts, Boston, 1966. ; Pal, Pratapaditya.  The Classical Tradition in Rajput Painting.  New York: The Gallery Association of New York State, 1978. ; Pal, Pratapaditya, Janice Leoshko, Joseph M. Dye, III,  Stephen Markel.  Romance of the Taj Mahal.  Los Angeles:  Los Angeles County Museum of Art, 1989. ; Pal, Pratapaditya. Indian Painting, vol.1. Los Angeles: Los Angeles County Museum of Art, 1993.</mods:note><mods:note>General note:  Shah Shuja (Shah Jahan's second son), on the right, and Gaj Singh, on the left. ; The devengari inscriptions are later additions.</mods:note><mods:note>Provenance: From the Nasli and Alice Heeramaneck Collection, Museum Associates Purchase (M.80.6.6)</mods:note><mods:subject><mods:topic>miniatures (paintings)</mods:topic></mods:subject><mods:subject><mods:topic>portrait paintings</mods:topic></mods:subject><mods:subject><mods:topic>portraits</mods:topic></mods:subject><mods:subject><mods:topic>male figures</mods:topic></mods:subject><mods:subject><mods:topic>princes</mods:topic></mods:subject><mods:subject><mods:topic>angels</mods:topic></mods:subject><mods:subject><mods:topic>eating</mods:topic></mods:subject><mods:subject><mods:topic>sitting</mods:topic></mods:subject><mods:subject><mods:topic>rugs, Persian</mods:topic></mods:subject><mods:subject><mods:topic>jewelry</mods:topic></mods:subject><mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+  <mods:titleInfo>
+    <mods:title>Yusuf va Zulaykha (Chester Beatty, Ms. 251)</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Yusuf u Zulaikha</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Yusuf and Zulaikha</mods:title>
+  </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>Jami</mods:namePart>
+    <mods:namePart type="date">1414-1492/817-898 AH, Afghan</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>attributed Mirza 'Ali</mods:namePart>
+    <mods:namePart type="date">b. c. 1510, d. before 1576, Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>artist</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:genre>illuminated manuscript</mods:genre>
+  <mods:originInfo>
+    <mods:dateOther keyDate="yes">1540</mods:dateOther>
+    <mods:dateCreated point="start">1540</mods:dateCreated>
+    <mods:dateCreated point="end">1540</mods:dateCreated>
+    <mods:dateCreated>1540</mods:dateCreated>
+  </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>22.6 x 13.6 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:abstract>Illuminated heading (1b); five miniatures</mods:abstract>
+  <mods:subject>
+    <mods:topic>poetry</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>nasta&#699;liq</mods:topic>
+  </mods:subject>
+  <mods:extension>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
                </cdwalite:styleWrap>
-            </mods:extension><mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Shah Jahan</cdwalite:style>
-               </cdwalite:styleWrap>
-            </mods:extension><mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
                </cdwalite:cultureWrap>
-            </mods:extension><mods:extension>
+            </mods:extension>
+  <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
                </cdwalite:cultureWrap>
-            </mods:extension><mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Mughal</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension><mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>opaque watercolor on paper</cdwalite:termMaterialsTech>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
-            </mods:extension><mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gesso</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension><mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension><mods:extension>
+            </mods:extension>
+  <mods:extension>
                <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
-            </mods:extension><mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor, gold, gesso, and ink on paper</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension><mods:location><mods:physicalLocation type="repository">Los Angeles County Museum of Art, Los Angeles, California, United States</mods:physicalLocation><mods:shelfLocator>M.80.6.6</mods:shelfLocator></mods:location><mods:relatedItem type="constituent"><mods:titleInfo><mods:title>Detail view</mods:title></mods:titleInfo><mods:typeOfResource>still image</mods:typeOfResource><mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note><mods:classification/><mods:location><mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:28263724</mods:url><mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:28263724?width=150&amp;height=150&amp;usethumb=y</mods:url></mods:location><mods:location><mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation><mods:shelfLocator>SCW2016.03375</mods:shelfLocator></mods:location><mods:recordInfo><mods:recordIdentifier>16696684</mods:recordIdentifier></mods:recordInfo><mods:extension>
-                  <librarycloud:HarvardRepositories xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
-                  </librarycloud:HarvardRepositories>
-               </mods:extension></mods:relatedItem><mods:relatedItem otherType="HOLLIS Images record"><mods:location><mods:url>https://id.lib.harvard.edu/images/olvwork260537/urn-3:FHCL:28263724/catalog</mods:url></mods:location></mods:relatedItem><mods:recordInfo><mods:recordContentSource authority="marcorg">MH</mods:recordContentSource><mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource><mods:recordChangeDate encoding="iso8601">20180131</mods:recordChangeDate><mods:recordIdentifier source="MH:VIA">W260537_urn-3:FHCL:28263724</mods:recordIdentifier><mods:languageOfCataloging><mods:languageTerm>eng</mods:languageTerm></mods:languageOfCataloging></mods:recordInfo><mods:language><mods:languageTerm type="code">zxx</mods:languageTerm><mods:languageTerm type="text">No linguistic content</mods:languageTerm></mods:language><mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:28263724</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-09-06T15:18:59.952Z</HarvardDRS:lastModifiedDate>
+            </mods:extension>
+  <mods:location>
+    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin, Ireland</mods:physicalLocation>
+    <mods:shelfLocator>Ms. 251</mods:shelfLocator>
+  </mods:location>
+  <mods:relatedItem type="constituent">
+    <mods:titleInfo>
+      <mods:title>f. 94a: Yusuf entertained with music by Zulaikha's maids (full view)</mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
+    <mods:subject>
+      <mods:topic>thrones</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>fences</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>musicians</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>haloes</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>flames</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>harps</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>tambourines</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>fruit</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>entertainment</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>candles</mods:topic>
+    </mods:subject>
+    <mods:classification/>
+    <mods:location>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:29633993</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:29633993?width=150&amp;height=150&amp;usethumb=y</mods:url>
+    </mods:location>
+    <mods:location>
+      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
+      <mods:shelfLocator>SCW2016.05261</mods:shelfLocator>
+    </mods:location>
+    <mods:recordInfo>
+      <mods:recordIdentifier>17719262</mods:recordIdentifier>
+    </mods:recordInfo>
+    <mods:extension>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                     </librarycloud:HarvardRepositories>
+                  </librarycloud:librarycloud>
+               </mods:extension>
+  </mods:relatedItem>
+  <mods:relatedItem otherType="HOLLIS Images record">
+    <mods:location>
+      <mods:url>https://id.lib.harvard.edu/images/8001548046/urn-3:FHCL:29633993/catalog</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
+    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
+    <mods:recordChangeDate encoding="iso8601">20190312</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001548046_urn-3:FHCL:29633993</mods:recordIdentifier>
+    <mods:languageOfCataloging>
+      <mods:languageTerm>eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
+  <mods:language>
+    <mods:languageTerm type="code">zxx</mods:languageTerm>
+    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
+  </mods:language>
+  <mods:extension>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>426383731</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>426383733</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:29633993</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-12-05T18:50:44Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-12-05T18:50:44Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_17719262</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_17719262--SS_17719262.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
-            </mods:extension><mods:extension>
+            </mods:extension>
+  <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork260537.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-23T04:30Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001548046.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:39Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
-            </mods:extension><mods:location><mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W260537_urn-3:FHCL:28263724</mods:url></mods:location></mods:mods>
+            </mods:extension>
+  <mods:location>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001548046_urn-3:FHCL:29633993</mods:url>
+  </mods:location>
+</mods:mods>

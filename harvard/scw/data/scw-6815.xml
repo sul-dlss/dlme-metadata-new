@@ -1,19 +1,19 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Jami' Masjid, Fatehpur Sikri, Uttar Pradesh, India</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Congregational Mosque</mods:title>
+    <mods:title>Lal Qil'a, Shahjahanabad, Delhi, National Capital Territory of Delhi, India</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Jami Masjid</mods:title>
+    <mods:title>Red Fort Complex</mods:title>
   </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Friday Mosque</mods:title>
+  <mods:titleInfo type="alternative">
+    <mods:title>Lal Quila</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Lal Qila</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>Akbar, Emperor of Hindustan</mods:namePart>
-    <mods:namePart type="date">1542-1605, Indian</mods:namePart>
+    <mods:namePart>Shah Jahan</mods:namePart>
+    <mods:namePart type="date">reg. 1628-1658, Indian</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
@@ -21,23 +21,15 @@
       <mods:roleTerm>patron</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:name>
-    <mods:namePart>Shaykh Salim Cishti</mods:namePart>
-    <mods:namePart type="date">-1572</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>honoree</mods:roleTerm>
-    </mods:role>
-  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>mosques</mods:genre>
+  <mods:genre>gardens</mods:genre>
+  <mods:genre>fortresses</mods:genre>
+  <mods:genre>palaces</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">1571/72-1575</mods:dateOther>
-    <mods:dateCreated point="start">1571</mods:dateCreated>
-    <mods:dateCreated point="end">1575</mods:dateCreated>
-    <mods:dateCreated>1571/72-1575</mods:dateCreated>
+    <mods:dateOther keyDate="yes">1639-1648</mods:dateOther>
+    <mods:dateCreated point="start">1639</mods:dateCreated>
+    <mods:dateCreated point="end">1648</mods:dateCreated>
+    <mods:dateCreated>1639-1648</mods:dateCreated>
   </mods:originInfo>
   <mods:subject>
     <mods:topic>architecture</mods:topic>
@@ -51,47 +43,42 @@
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation displayLabel="site">Fatehpur Sikri, Uttar Pradesh, India</mods:physicalLocation>
+    <mods:physicalLocation displayLabel="site">Delhi, National Capital Territory of Delhi, India</mods:physicalLocation>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>General view</mods:title>
+      <mods:title>Exterior view of the western elevation of the Akbari gate</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>gateways</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>arches</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41011655</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41011655?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:29723615</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:29723615?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.17683</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.05718</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>22396278</mods:recordIdentifier>
+      <mods:recordIdentifier>18048962</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
-                  <librarycloud:HarvardRepositories xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
-                  </librarycloud:HarvardRepositories>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                     </librarycloud:HarvardRepositories>
+                  </librarycloud:librarycloud>
                </mods:extension>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvsite47746/urn-3:FHCL:41011655/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvsite50618/urn-3:FHCL:29723615/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20141226</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">S47746_urn-3:FHCL:41011655</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">S50618_urn-3:FHCL:29723615</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -101,8 +88,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite47746.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-24T21:09Z</librarycloud:processingDate>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>426534798</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>426534800</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:29723615</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-12-20T20:32:02Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-12-20T20:32:02Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_18048962</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_18048962--SS_18048962.jp2</HarvardDRS:suppliedFilename>
+               </HarvardDRS:DRSMetadata>
+            </mods:extension>
+  <mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite50618.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-16T11:30Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
-  <mods:location/>
+  <mods:location>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/S50618_urn-3:FHCL:29723615</mods:url>
+  </mods:location>
 </mods:mods>

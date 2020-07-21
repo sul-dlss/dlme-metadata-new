@@ -1,86 +1,52 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Khamsa of Nizami (Sackler, S1986.185, dispersed)</mods:title>
+    <mods:title>Portrait of a European doctor (Raza Library)</mods:title>
   </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Quintet</mods:title>
-  </mods:titleInfo>
-  <mods:name>
-    <mods:namePart>Nizami</mods:namePart>
-    <mods:namePart type="date">1141-1146/535-540 AH - early 13th c. (1217?), Azerbaijani</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>creator</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>author</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Bahram-i Gur</mods:namePart>
-    <mods:namePart type="date">Reign dates: 420-438</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>subject</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Vever Collection, Paris, France</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>former repository</mods:roleTerm>
-    </mods:role>
-  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>illuminated manuscript</mods:genre>
-  <mods:genre>painting</mods:genre>
+  <mods:genre>paintings</mods:genre>
+  <mods:genre>album leaf</mods:genre>
   <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm>Shiraz, Iran</mods:placeTerm>
-    </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1560-1570</mods:dateOther>
-    <mods:dateCreated point="start">1560</mods:dateCreated>
-    <mods:dateCreated point="end">1570</mods:dateCreated>
-    <mods:dateCreated>ca. 1560-1570</mods:dateCreated>
+    <mods:dateOther keyDate="yes">circa 1620-1640</mods:dateOther>
+    <mods:dateCreated point="start">1620</mods:dateCreated>
+    <mods:dateCreated point="end">1640</mods:dateCreated>
+    <mods:dateCreated>circa 1620-1640</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>35.7 x 24.1 cm</mods:extent>
+    <mods:extent>height 18 cm ; width 9.5 cm</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>A detached folio of a dispersed manuscript</mods:abstract>
-  <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>poetry</mods:topic>
-  </mods:subject>
+  <mods:abstract>Folio 9a from Album 4, an album of Mughal, Deccani, and Persian paintings, 16th-18th centuries, in the Raza Library. Stuart Cary Welch attributed the painting to Kesu Das. The subject depicted has been identified as Francois Bernier or as an earlier French physician who served under Jahangir known as Dr. Bernard. Published in Barbara Schmitz and Ziyaud-Din A. Desai, Mughal and Persian Paintings and Illustrated Manuscripts in the Raza Library, Rampur, pg. 31, pl. 45 (2006).</mods:abstract>
   <mods:subject>
     <mods:topic>miniatures (paintings)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>painted manuscripts</mods:topic>
+    <mods:topic>portraits</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>physicians</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>travelers</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>hats</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>landscapes</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Europeans</mods:topic>
   </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
                </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
-               </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Mughal</cdwalite:culture>
+               </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
                <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
@@ -91,68 +57,43 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Arthur M. Sackler Gallery, Washington, District of Columbia, United States</mods:physicalLocation>
-    <mods:shelfLocator>S1986.185</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Raza Library, Rampur, Uttar Pradesh, India</mods:physicalLocation>
+    <mods:shelfLocator>Album 4, folio 9a</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Bahram Gur and the princess in the Black Pavilion (full view)</mods:title>
+      <mods:title>Full view</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
-    <mods:subject>
-      <mods:topic>lovers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>balconies</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>eating &amp; drinking</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>musicians</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>tambourines</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>stringed instruments</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>pomegranates</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>interiors</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>dancing</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>drinking vessels</mods:topic>
-    </mods:subject>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34887100</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34887100?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:27419183</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:27419183?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
-      <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.13952</mods:shelfLocator>
+      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
+      <mods:shelfLocator>SCW2016.01925</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>22350090</mods:recordIdentifier>
+      <mods:recordIdentifier>15881970</mods:recordIdentifier>
     </mods:recordInfo>
+    <mods:extension>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                     </librarycloud:HarvardRepositories>
+                  </librarycloud:librarycloud>
+               </mods:extension>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001554592/urn-3:FHCL:34887100/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001352903/urn-3:FHCL:27419183/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20190617</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001554592_urn-3:FHCL:34887100</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20170816</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001352903_urn-3:FHCL:27419183</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -162,8 +103,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001554592.xml</librarycloud:originalDocument><librarycloud:processingDate>2019-11-22T23:31Z</librarycloud:processingDate>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>422681331</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>422681333</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:27419183</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-06-30T21:34:43Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-06-30T21:34:43Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_15881970</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_15881970--SS_15881970.jp2</HarvardDRS:suppliedFilename>
+               </HarvardDRS:DRSMetadata>
+            </mods:extension>
+  <mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352903.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:27Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
-  <mods:location/>
+  <mods:location>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352903_urn-3:FHCL:27419183</mods:url>
+  </mods:location>
 </mods:mods>
