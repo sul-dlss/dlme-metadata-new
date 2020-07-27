@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="147452"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001450000" scan="@5Vat.ar.145_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.145">Vat.ar.145</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Miscellanea theologica et alia auctore &lt;al-ʿAsad Hibatallāh ibn al-ʿAssāl&gt;, cf. Orientalia N. S. t. IX, 1940, pp. 374-377." value="Miscellanea theologica et alia auctore &lt;al-ʿAsad Hibatallāh ibn al-ʿAssāl&gt;, cf. Orientalia N. S. t. IX, 1940, pp. 374-377.">Miscellanea theologica et alia auctore &lt;al-ʿAsad Hibatallāh ibn al-ʿAssāl&gt;, cf. Orientalia N. S. t. IX, 1940, pp. 374-377.</p></overview><msItem><origDate notAfter="1400" notBefore="1201">saec. XIII-XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>167</height><width>123</width></dimensions><extent>193 (+4a, 92, 104)</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="28/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="13/05/2014">A.deFouchier</persName><persName n="29/10/2014">A.deFouchier</persName>
+					<persName n="03/03/2015">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

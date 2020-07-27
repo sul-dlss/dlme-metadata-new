@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115171"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000010000" scan="@5Vat.ar.1_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.1">Vat.ar.1</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Pentateuchus, e recensione, quam vocant syro-hexaplarem in sermonem arabicum versus ad al-Ḥāriṯ ibn Sinān ibn Sinbāṭ, ut e clausulis ad calcem librorum Mosi additis liquet." value="Pentateuchus, e recensione, quam vocant syro-hexaplarem in sermonem arabicum versus ad al-Ḥāriṯ ibn Sinān ibn Sinbāṭ, ut e clausulis ad calcem librorum Mosi additis liquet.">Pentateuchus, e recensione, quam vocant syro-hexaplarem in sermonem arabicum versus ad al-Ḥāriṯ ibn Sinān ibn Sinbāṭ, ut e clausulis ad calcem librorum Mosi additis liquet.</p></overview><msItem><textLang>arabic</textLang><origDate>1329 (Mart. 1045)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>250</height><width>165</width></dimensions><extent>307</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="10/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="10/05/2013">A.deFouchier</persName><persName n="10/05/2013">A.deFouchier</persName><persName n="10/05/2013">A.deFouchier</persName><persName n="15/05/2013">A.deFouchier</persName><persName n="24/05/2013">A.deFouchier</persName><persName n="26/11/2013">A.deFouchier</persName><persName n="26/11/2013">A.deFouchier</persName>
+					<persName n="05/12/2013">A.deFouchier</persName><persName n="13/06/2016">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

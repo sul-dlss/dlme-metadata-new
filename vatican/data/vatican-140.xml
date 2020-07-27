@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="154894">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.004650000" scan="@5Vat.ar.465_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.465">Vat.ar.465</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Pentateuchus e versione syriaca simplici translatus, divisione carens in libris I II III et IV, et initium libri Josue, sub hoc titulo : بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين &quot;In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen&quot;." value="Pentateuchus e versione syriaca simplici translatus, divisione carens in libris I II III et IV, et initium libri Josue, sub hoc titulo : بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين &quot;In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen&quot;.">Pentateuchus e versione syriaca simplici translatus, divisione carens in libris I II III et IV, et initium libri Josue, sub hoc titulo : بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين "In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen".</p></overview><msItem><title scan="@1بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين &quot;In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen&quot;_title" type="title" value="بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين &quot;In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen&quot;">بسم الله الخالق الابدى القديم الازلى الملك العظيم نبتدى بمعونة الله سبحانه وتعالى بكتاب التورة تكوين الخلايق وهو سفر الاول من التوراة الرب ينفعنا ببركاتها امين "In nomine Dei Creatoris sempiterni, aeterni, perpetui, Regis magni. Auxilio Dei laudati et altissimi incipimus describere librum Legis, (primo) conditionis creaturarum, qui est liber primus Legis. Dominus praestet nobis utilitatem eius benedictionibus. Amen"</title><origDate>saec. XVI</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>312</height><width>210</width></dimensions><extent>I. 207</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="09/09/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

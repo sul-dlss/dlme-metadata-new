@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="128883"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000870000" scan="@5Vat.ar.87_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.87">Vat.ar.87</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Idem opus Simeonis, filii Kalīl atque in codice praecedenti." value="Idem opus Simeonis, filii Kalīl atque in codice praecedenti.">Idem opus Simeonis, filii Kalīl atque in codice praecedenti.</p></overview><msItem><title scan="@1نبتدى بعون الله سبحانه وحسن توفيق بنسح الكتاب المعروف بروضة الفريد وسلوة الوحيد بسلام من الرب يشملنا امين/*3/ تاليف الفقير الى رحمة الله سبحانه سمعان ابن كليل اين مقارة المترهب بدير القديس ابو يحنس ببرة الاسقيط يغفر الله لنا بقدسه وصلواته ولساير بنى المعمودية امين &quot;Incipimus auxilio Dei laudatissimi eiusque ductu benefico transcribere librum vulgo nuncupatum hortum solitarii et consolationem monachi - pace a Domino impleat nos - auctore indigenti Dei laudatissimi misericordiae, Simeone filio Kalīl filii Macarii, monachi coenobii sancti Abū Iohannis in deserto scetensi siti. Deus donet nobis veniam per eiusdem sanctitatem ac suffragia, omnibusque filiis baptismi. Amen (ter)&quot;._title" type="title" value="نبتدى بعون الله سبحانه وحسن توفيق بنسح الكتاب المعروف بروضة الفريد وسلوة الوحيد بسلام من الرب يشملنا امين/*3/ تاليف الفقير الى رحمة الله سبحانه سمعان ابن كليل اين مقارة المترهب بدير القديس ابو يحنس ببرة الاسقيط يغفر الله لنا بقدسه وصلواته ولساير بنى المعمودية امين &quot;Incipimus auxilio Dei laudatissimi eiusque ductu benefico transcribere librum vulgo nuncupatum hortum solitarii et consolationem monachi - pace a Domino impleat nos - auctore indigenti Dei laudatissimi misericordiae, Simeone filio Kalīl filii Macarii, monachi coenobii sancti Abū Iohannis in deserto scetensi siti. Deus donet nobis veniam per eiusdem sanctitatem ac suffragia, omnibusque filiis baptismi. Amen (ter)&quot;.">نبتدى بعون الله سبحانه وحسن توفيق بنسح الكتاب المعروف بروضة الفريد وسلوة الوحيد بسلام من الرب يشملنا امين/*3/ تاليف الفقير الى رحمة الله سبحانه سمعان ابن كليل اين مقارة المترهب بدير القديس ابو يحنس ببرة الاسقيط يغفر الله لنا بقدسه وصلواته ولساير بنى المعمودية امين "Incipimus auxilio Dei laudatissimi eiusque ductu benefico transcribere librum vulgo nuncupatum hortum solitarii et consolationem monachi - pace a Domino impleat nos - auctore indigenti Dei laudatissimi misericordiae, Simeone filio Kalīl filii Macarii, monachi coenobii sancti Abū Iohannis in deserto scetensi siti. Deus donet nobis veniam per eiusdem sanctitatem ac suffragia, omnibusque filiis baptismi. Amen (ter)".</title><origDate>1580 (Gr. 1891, heg. 987, cf. 207r)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>210</height><width>155</width></dimensions><extent>I. 211</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="04/12/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="04/12/2013">A.deFouchier</persName>
+					<persName n="21/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

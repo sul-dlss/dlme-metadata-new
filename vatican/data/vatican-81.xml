@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="129457"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000900000" scan="@5Vat.ar.90_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.90">Vat.ar.90</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Iohannis, episcopi civitatis al-Burlus (برلس, πάραλος, Burullus) sermo de resurrectione mortuorum dieque iudicii sive tractatus compendiosus de statu hominis post mortem, e lingua coptica translatus, in lucem editus ab Arnoldo van Lantschoot." value="Iohannis, episcopi civitatis al-Burlus (برلس, πάραλος, Burullus) sermo de resurrectione mortuorum dieque iudicii sive tractatus compendiosus de statu hominis post mortem, e lingua coptica translatus, in lucem editus ab Arnoldo van Lantschoot.">Iohannis, episcopi civitatis al-Burlus (برلس, πάραλος, Burullus) sermo de resurrectione mortuorum dieque iudicii sive tractatus compendiosus de statu hominis post mortem, e lingua coptica translatus, in lucem editus ab Arnoldo van Lantschoot.</p></overview><msItem><origDate>1218 (mart. 934 ; cf. f. 52v)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>175</height><width>124</width></dimensions><extent>I. 54</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="09/12/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="11/12/2013">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

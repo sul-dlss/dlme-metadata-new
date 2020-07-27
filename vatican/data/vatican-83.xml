@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="130667"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000940000" scan="@5Vat.ar.94_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.94">Vat.ar.94</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Tractatus de Confessione &lt;complectens quaestiones et responsiones viginti duas inter discipulum et magistrum dispositas, ideo inscriptus Liber magistri et discipuli, autore Cyrillo ibn Laqlaq patriarcha Coptiorum (1235-1243), cooperante Paulo Būšensi episcopo, ut e praefatione in cod. Paris ar. 195 et in cod. quodam monasterii Sarfensis (Libani) servatae patet&gt; principio et fine mutilus. Vid. Oriens christianus, N. S., t. 2 (1912), p. 324-326. Orientalia t. 1 (1932) p. 45. 145-148. Singulae interrogationes inscribuntur مقالة &quot;dissertatio&quot; sive &quot;semo&quot;." value="Tractatus de Confessione &lt;complectens quaestiones et responsiones viginti duas inter discipulum et magistrum dispositas, ideo inscriptus Liber magistri et discipuli, autore Cyrillo ibn Laqlaq patriarcha Coptiorum (1235-1243), cooperante Paulo Būšensi episcopo, ut e praefatione in cod. Paris ar. 195 et in cod. quodam monasterii Sarfensis (Libani) servatae patet&gt; principio et fine mutilus. Vid. Oriens christianus, N. S., t. 2 (1912), p. 324-326. Orientalia t. 1 (1932) p. 45. 145-148. Singulae interrogationes inscribuntur مقالة &quot;dissertatio&quot; sive &quot;semo&quot;.">Tractatus de Confessione &lt;complectens quaestiones et responsiones viginti duas inter discipulum et magistrum dispositas, ideo inscriptus Liber magistri et discipuli, autore Cyrillo ibn Laqlaq patriarcha Coptiorum (1235-1243), cooperante Paulo Būšensi episcopo, ut e praefatione in cod. Paris ar. 195 et in cod. quodam monasterii Sarfensis (Libani) servatae patet&gt; principio et fine mutilus. Vid. Oriens christianus, N. S., t. 2 (1912), p. 324-326. Orientalia t. 1 (1932) p. 45. 145-148. Singulae interrogationes inscribuntur مقالة "dissertatio" sive "semo".</p></overview><msItem><author authorityID="31439" scan="@31439"><alias><authorityAuthor rif="aut" title="patriarca di Alessandria" type="person">ibn Laqlaq, Cyril,</authorityAuthor></alias></author><origDate notAfter="1300" notBefore="1201">saec. XIII</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>175</height><width>130</width></dimensions><extent>131</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="19/12/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="23/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

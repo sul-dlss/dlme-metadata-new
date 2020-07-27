@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="222060">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.001180000" scan="@5Sbath.118_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.118">Sbath.118</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Traduction, en truc, du muḫtaṣar al-qudūrī fī furūʿ al-ḥanafiyya, ouvrage de jurisprudence ḥanafite de Abū'l-Ḥussain Aḥmad ibn Muḥammad al-Qudūrī al-Baġdādī. Traduit par Amīr Ḥāğīn Qumārī al-Ḥamawī. Sur al-Qudūrī voir GAL S. I, 295, l'index du Suppl. III, 744 ne le mentionne pas. Vat.ar.1775 contient un commentaire mixte au muḫtaṣar al-qudūrī." value="Traduction, en truc, du muḫtaṣar al-qudūrī fī furūʿ al-ḥanafiyya, ouvrage de jurisprudence ḥanafite de Abū'l-Ḥussain Aḥmad ibn Muḥammad al-Qudūrī al-Baġdādī. Traduit par Amīr Ḥāğīn Qumārī al-Ḥamawī. Sur al-Qudūrī voir GAL S. I, 295, l'index du Suppl. III, 744 ne le mentionne pas. Vat.ar.1775 contient un commentaire mixte au muḫtaṣar al-qudūrī.">Traduction, en truc, du muḫtaṣar al-qudūrī fī furūʿ al-ḥanafiyya, ouvrage de jurisprudence ḥanafite de Abū'l-Ḥussain Aḥmad ibn Muḥammad al-Qudūrī al-Baġdādī. Traduit par Amīr Ḥāğīn Qumārī al-Ḥamawī. Sur al-Qudūrī voir GAL S. I, 295, l'index du Suppl. III, 744 ne le mentionne pas. Vat.ar.1775 contient un commentaire mixte au muḫtaṣar al-qudūrī.</p></overview><msItem><title scan="@1ترجمة قدوري tarğama qudūrī_title" type="title" value="ترجمة قدوري tarğama qudūrī">ترجمة قدوري tarğama qudūrī</title><origDate>1647 (1057 de l'hégire)</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>210</height><width>150</width></dimensions><extent>108</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="23/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

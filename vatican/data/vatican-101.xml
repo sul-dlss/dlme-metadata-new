@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="145748"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001260000" scan="@5Vat.ar.126_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.126">Vat.ar.126</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Opera theologica Petri as-Sadamanti, qui saeculi XIII post medium floruit, ut ex primo eorum liquet, et aliorum scriptorum apud Coptitas clarorum operibus." value="Opera theologica Petri as-Sadamanti, qui saeculi XIII post medium floruit, ut ex primo eorum liquet, et aliorum scriptorum apud Coptitas clarorum operibus.">Opera theologica Petri as-Sadamanti, qui saeculi XIII post medium floruit, ut ex primo eorum liquet, et aliorum scriptorum apud Coptitas clarorum operibus.</p></overview><msItem><origDate>1687 (mart. 1404)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>212</height><width>145</width></dimensions><extent>316 (+1a)</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="14/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="14/03/2014">A.deFouchier</persName><persName n="14/03/2014">A.deFouchier</persName>
+					<persName n="14/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

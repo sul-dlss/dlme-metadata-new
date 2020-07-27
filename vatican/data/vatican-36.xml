@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="224917"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.007220000" scan="@5Sbath.722_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.722">Sbath.722</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Deuxième volume de philosophie, suite de son introduction à la logique de Buṭros at-Tūlānī.   GCAL III, 395 ; voir aussi Sbath.229 et la suite du manuscrit dans Sbath.723.726." value="Deuxième volume de philosophie, suite de son introduction à la logique de Buṭros at-Tūlānī.   GCAL III, 395 ; voir aussi Sbath.229 et la suite du manuscrit dans Sbath.723.726.">Deuxième volume de philosophie, suite de son introduction à la logique de Buṭros at-Tūlānī. 
+GCAL III, 395 ; voir aussi Sbath.229 et la suite du manuscrit dans Sbath.723.726.</p></overview><msItem><title scan="@1كتاب الثاني في المنطق والات العلوم kitāb al-ṯānī fī'l-manṭiq wa-ālāt al'-ʿulūm_title" type="title" value="كتاب الثاني في المنطق والات العلوم kitāb al-ṯānī fī'l-manṭiq wa-ālāt al'-ʿulūm">كتاب الثاني في المنطق والات العلوم kitāb al-ṯānī fī'l-manṭiq wa-ālāt al'-ʿulūm</title><origDate notAfter="1800" notBefore="1701">saec. XVIII</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>220</height><width>170</width></dimensions><extent>212</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="09/01/2018"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="09/01/2018">A.deFouchier</persName>
+					<persName n="02/07/2018">A.deFouchier</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="222759">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.002350000" scan="@5Sbath.235_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.235">Sbath.235</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Traité sur les anges. C'est le 4ème traité de l’œuvre de Pierre at-Tūlānī. Ce traité est divisé en 21 sections et ici il y en a 10.   Ce traité se trouve aussi dans Sbath.457.   GCAL III, 396 ; voir aussi Sbath.457." value="Traité sur les anges. C'est le 4ème traité de l’œuvre de Pierre at-Tūlānī. Ce traité est divisé en 21 sections et ici il y en a 10.   Ce traité se trouve aussi dans Sbath.457.   GCAL III, 396 ; voir aussi Sbath.457.">Traité sur les anges. C'est le 4ème traité de l’œuvre de Pierre at-Tūlānī. Ce traité est divisé en 21 sections et ici il y en a 10. 
+Ce traité se trouve aussi dans Sbath.457. 
+GCAL III, 396 ; voir aussi Sbath.457.</p></overview><msItem><title scan="@1في برايا الباري الروحية اي المليئكة fī barāyā al-bārī ar-rūḥiyya ay al-mala'īka_title" type="title" value="في برايا الباري الروحية اي المليئكة fī barāyā al-bārī ar-rūḥiyya ay al-mala'īka">في برايا الباري الروحية اي المليئكة fī barāyā al-bārī ar-rūḥiyya ay al-mala'īka</title><origDate>1805</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>220</height><width>160</width></dimensions><extent>97</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="07/12/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

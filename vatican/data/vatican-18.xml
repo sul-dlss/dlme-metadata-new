@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="222814"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.002540000" scan="@5Sbath.254_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.254">Sbath.254</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Voyage d'un aleppin maronite en compagnie et au service de Paul Lucas, pèlerin français, de février 1707 jusqu'en juillet 1710. Départ à Tripoli du Liban puis Egypte et Maroc (jusqu'en février 1708), Espagne (février 1708), puis Paris. Au retour, le maronite passe par Istanbul, Antioche pour finalement rejoindre Alep en juillet 1710. Acéphale ; divisé en 7 chapitres.   GCAL III, 467." value="Voyage d'un aleppin maronite en compagnie et au service de Paul Lucas, pèlerin français, de février 1707 jusqu'en juillet 1710. Départ à Tripoli du Liban puis Egypte et Maroc (jusqu'en février 1708), Espagne (février 1708), puis Paris. Au retour, le maronite passe par Istanbul, Antioche pour finalement rejoindre Alep en juillet 1710. Acéphale ; divisé en 7 chapitres.   GCAL III, 467.">Voyage d'un aleppin maronite en compagnie et au service de Paul Lucas, pèlerin français, de février 1707 jusqu'en juillet 1710. Départ à Tripoli du Liban puis Egypte et Maroc (jusqu'en février 1708), Espagne (février 1708), puis Paris. Au retour, le maronite passe par Istanbul, Antioche pour finalement rejoindre Alep en juillet 1710. Acéphale ; divisé en 7 chapitres. 
+GCAL III, 467.</p></overview><msItem><title scan="@1السياحة as-siyyāḥa_title" type="title" value="السياحة as-siyyāḥa">السياحة as-siyyāḥa</title><origDate>1764</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>220</height><width>160</width></dimensions><extent>175</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="07/12/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="07/12/2017">A.deFouchier</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

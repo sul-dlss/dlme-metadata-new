@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="143904"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001110000" scan="@5Vat.ar.111_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.111">Vat.ar.111</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Opera theologica quorum plurima auctorem habent Paulum ar-Rahīb Antiochenum, episcopum Sidoniensem Melchitam, de quo cuiusque scriptis agitur in ephemeridibus 'Revue de l'Orient chrétien', t. 8 (1903) pp. 388-390, 'Oriens christianus', t. 5 (1905/7) pp. 126-131, 'Jahrbuch für Philosophie und scholastische Theologie' t. 20 (1906) pp. 55-59." value="Opera theologica quorum plurima auctorem habent Paulum ar-Rahīb Antiochenum, episcopum Sidoniensem Melchitam, de quo cuiusque scriptis agitur in ephemeridibus 'Revue de l'Orient chrétien', t. 8 (1903) pp. 388-390, 'Oriens christianus', t. 5 (1905/7) pp. 126-131, 'Jahrbuch für Philosophie und scholastische Theologie' t. 20 (1906) pp. 55-59.">Opera theologica quorum plurima auctorem habent Paulum ar-Rahīb Antiochenum, episcopum Sidoniensem Melchitam, de quo cuiusque scriptis agitur in ephemeridibus 'Revue de l'Orient chrétien', t. 8 (1903) pp. 388-390, 'Oriens christianus', t. 5 (1905/7) pp. 126-131, 'Jahrbuch für Philosophie und scholastische Theologie' t. 20 (1906) pp. 55-59.</p></overview><msItem><origDate notAfter="1400" notBefore="1301">saec. XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>250</height><width>160</width></dimensions><extent>I. 161</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="27/02/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="27/02/2014">A.deFouchier</persName>
+					<persName n="27/02/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

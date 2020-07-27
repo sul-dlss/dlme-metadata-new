@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="148922"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001530000" scan="@5Vat.ar.153_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.153">Vat.ar.153</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Compendium iuris ecclesiastici, quod apud Nestorianos amplissimum, a scriptore praeclaro &lt;Abū' l-Farağ ʿAbdallāh ibn aṭ-Ṭayyib&gt; e fontibus syriacis translatum, collectum e compilatum. Cf. ea quae de hoc opere habent Ignatius Guidi in ephemeride 'Zeitschrift der Deutschen Morgenländischen Gesellschaft', t. 43, 1889, pp. 388-390, et Eduardus Sachau, &quot;Syrische Rechtsbücher&quot;, t. III, Berolini, 1914, p. XVI sq. Eiusdem titulus كتاب فقه النصرانية &quot;Liber iuris christianitatis&quot; ex catalogo scriptorum christianorum, i. e. capite quinto summa theologicae &quot;Lampadis tenebrarum&quot; auctore Šams ar-Ri'āsa Ibn Kabar Abū' l-Barakāt intelligitur, ubi etiam conspectus capitum exhibetur ; vid. cod. Vat.ar.623, f. 87r-v, et G. Riedel, &quot;Die Kirchenrechtsquellen des Patriarchats Alexandrien&quot;, Lipsiae, 1900. Hoc compendium, initio et fine aliisque partibus mutilum, in priore parte comprehendit collectiones canonum occidentalem, in altera vero parte statuta de diversis rebus saecularibus et ecclesiasticis." value="Compendium iuris ecclesiastici, quod apud Nestorianos amplissimum, a scriptore praeclaro &lt;Abū' l-Farağ ʿAbdallāh ibn aṭ-Ṭayyib&gt; e fontibus syriacis translatum, collectum e compilatum. Cf. ea quae de hoc opere habent Ignatius Guidi in ephemeride 'Zeitschrift der Deutschen Morgenländischen Gesellschaft', t. 43, 1889, pp. 388-390, et Eduardus Sachau, &quot;Syrische Rechtsbücher&quot;, t. III, Berolini, 1914, p. XVI sq. Eiusdem titulus كتاب فقه النصرانية &quot;Liber iuris christianitatis&quot; ex catalogo scriptorum christianorum, i. e. capite quinto summa theologicae &quot;Lampadis tenebrarum&quot; auctore Šams ar-Ri'āsa Ibn Kabar Abū' l-Barakāt intelligitur, ubi etiam conspectus capitum exhibetur ; vid. cod. Vat.ar.623, f. 87r-v, et G. Riedel, &quot;Die Kirchenrechtsquellen des Patriarchats Alexandrien&quot;, Lipsiae, 1900. Hoc compendium, initio et fine aliisque partibus mutilum, in priore parte comprehendit collectiones canonum occidentalem, in altera vero parte statuta de diversis rebus saecularibus et ecclesiasticis.">Compendium iuris ecclesiastici, quod apud Nestorianos amplissimum, a scriptore praeclaro &lt;Abū' l-Farağ ʿAbdallāh ibn aṭ-Ṭayyib&gt; e fontibus syriacis translatum, collectum e compilatum. Cf. ea quae de hoc opere habent Ignatius Guidi in ephemeride 'Zeitschrift der Deutschen Morgenländischen Gesellschaft', t. 43, 1889, pp. 388-390, et Eduardus Sachau, "Syrische Rechtsbücher", t. III, Berolini, 1914, p. XVI sq. Eiusdem titulus كتاب فقه النصرانية "Liber iuris christianitatis" ex catalogo scriptorum christianorum, i. e. capite quinto summa theologicae "Lampadis tenebrarum" auctore Šams ar-Ri'āsa Ibn Kabar Abū' l-Barakāt intelligitur, ubi etiam conspectus capitum exhibetur ; vid. cod. Vat.ar.623, f. 87r-v, et G. Riedel, "Die Kirchenrechtsquellen des Patriarchats Alexandrien", Lipsiae, 1900. Hoc compendium, initio et fine aliisque partibus mutilum, in priore parte comprehendit collectiones canonum occidentalem, in altera vero parte statuta de diversis rebus saecularibus et ecclesiasticis.</p></overview><msItem><origDate>saec. XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>255</height><width>170</width></dimensions><extent>I. 210</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="10/04/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="11/04/2014">A.deFouchier</persName>
+					<persName n="13/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

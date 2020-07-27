@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="117206"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription composite="y" n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000320000" scan="@5Vat.ar.32_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.32">Vat.ar.32</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Codex e quinque libellis conflatus :  I- Variae historiae fictae et fabulosae. Ff. 1-60, an. 1584 (Mundi 7092).  II- Ff. 61-75, saec. XVI.  III- Ff. 76r-82v, saec. ut vid. XIV.  IV- Ff. 93-100, saec. XIV-XV" value="Codex e quinque libellis conflatus :  I- Variae historiae fictae et fabulosae. Ff. 1-60, an. 1584 (Mundi 7092).  II- Ff. 61-75, saec. XVI.  III- Ff. 76r-82v, saec. ut vid. XIV.  IV- Ff. 93-100, saec. XIV-XV">Codex e quinque libellis conflatus : 
+I- Variae historiae fictae et fabulosae. Ff. 1-60, an. 1584 (Mundi 7092). 
+II- Ff. 61-75, saec. XVI. 
+III- Ff. 76r-82v, saec. ut vid. XIV. 
+IV- Ff. 93-100, saec. XIV-XV</p></overview></msContents><physDesc><support><p>chart.</p></support><dimensions><height>217</height><width>155</width></dimensions><extent>III. 104</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="24/06/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="27/11/2013">A.deFouchier</persName>
+					<persName n="15/05/2014">A.deFouchier</persName><persName n="20/06/2016">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

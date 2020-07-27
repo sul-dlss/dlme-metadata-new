@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115491">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000130000" scan="@5Vat.ar.13_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.13">Vat.ar.13</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Novi Testamenti partes e codice, qui continebat psalterium, evangelia quattuor, actus, apostolorum, epistolas catholicas et s. Pauli, ut declaratur versibus f. 179v probaturque aestimatione lacunarum, in monasterio descripto ubi convivebat monachi Arabes et Hellenistae." value="Novi Testamenti partes e codice, qui continebat psalterium, evangelia quattuor, actus, apostolorum, epistolas catholicas et s. Pauli, ut declaratur versibus f. 179v probaturque aestimatione lacunarum, in monasterio descripto ubi convivebat monachi Arabes et Hellenistae.">Novi Testamenti partes e codice, qui continebat psalterium, evangelia quattuor, actus, apostolorum, epistolas catholicas et s. Pauli, ut declaratur versibus f. 179v probaturque aestimatione lacunarum, in monasterio descripto ubi convivebat monachi Arabes et Hellenistae.</p></overview><msItem><origDate>saec. IX et XI</origDate></msItem></msContents><physDesc><support><p>membran.</p></support><dimensions><height>270/280</height><width>170/180</width></dimensions><extent>179</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="22/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="01/12/2015">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

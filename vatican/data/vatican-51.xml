@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115183"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000020000" scan="@5Vat.ar.2_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.2">Vat.ar.2</idno>
+					</msIdentifier><msPart><msContents><p>1. (ff. 1-76r) Liber Genesis, in sectiones (فصل) XLII distributis.
+2. (ff. 77v-132v) Liber Exodi, sectiones XXVI.
+3. (ff. 133v-169v) Liber Leviticus, sectiones XV.
+4. (ff. 170v-223v) Liber Numerorum, sectiones XXXV.
+5. (ff. 224v-268v) Liber Deuteronomii, sectiones XVIII.</p><overview><p scan="@4Pentateuchus ex lingua hebraica translatus a &lt;Saadia, filio Ioseph, Fayyumensi&gt;, ut ex collatione cum extu huius versionis typis non semel edito liquet, et J.F. Rhode, &quot;The Arabic versions of the Pentateuch in the church of Egypt&quot;, St Louis, 1921, pp.94-97 clare elucidavit, qui ibidem pp. 36*. 49* textum Gen. capp. 1-6 18 et 50 ex hoc codice publici iuris fecit. Cf. P. Kahle, &quot;Die arabischen Bibelübersetzungen&quot;, Leipzig, 1904, pp. VIII-X, et 13-26." value="Pentateuchus ex lingua hebraica translatus a &lt;Saadia, filio Ioseph, Fayyumensi&gt;, ut ex collatione cum extu huius versionis typis non semel edito liquet, et J.F. Rhode, &quot;The Arabic versions of the Pentateuch in the church of Egypt&quot;, St Louis, 1921, pp.94-97 clare elucidavit, qui ibidem pp. 36*. 49* textum Gen. capp. 1-6 18 et 50 ex hoc codice publici iuris fecit. Cf. P. Kahle, &quot;Die arabischen Bibelübersetzungen&quot;, Leipzig, 1904, pp. VIII-X, et 13-26.">Pentateuchus ex lingua hebraica translatus a &lt;Saadia, filio Ioseph, Fayyumensi&gt;, ut ex collatione cum extu huius versionis typis non semel edito liquet, et J.F. Rhode, "The Arabic versions of the Pentateuch in the church of Egypt", St Louis, 1921, pp.94-97 clare elucidavit, qui ibidem pp. 36*. 49* textum Gen. capp. 1-6 18 et 50 ex hoc codice publici iuris fecit. Cf. P. Kahle, "Die arabischen Bibelübersetzungen", Leipzig, 1904, pp. VIII-X, et 13-26.</p></overview><msItem><name authorityID="27718" role="translator" scan="@27718"><alias><authorityAuthor rif="aut" type="person">Fayyumensi, Saada,</authorityAuthor></alias></name><origDate notAfter="1500" notBefore="1401">saec. XV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>257</height><width>175</width></dimensions><extent>269</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="13/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="13/05/2013">A.deFouchier</persName><persName n="15/05/2013">A.deFouchier</persName><persName n="15/05/2013">A.deFouchier</persName><persName n="24/05/2013">A.deFouchier</persName>
+					<persName n="23/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

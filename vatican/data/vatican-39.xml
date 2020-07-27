@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="233683">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Borg.ar." rend="Borg.ar.000220000" scan="@5Borg.ar.22_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Borg.ar.22">Borg.ar.22</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Recueil de canons." value="Recueil de canons.">Recueil de canons.</p></overview><msItem><colophon>f. 182r : كمل نقل هذا الكتاب في ليلة يسفر صباحها عن نهار يوم الجمعة التاسع وعشرين من شهر طوبه من سنة اربعة وستين والف للشهدا الاكهار يوافقه اليوم الثالث والعشرين من شهر شوال سنة ثمانية واربعين وسبعماية للهجرة العربية زذلك بحارة الروم العليا بجوار كنيسة الملاك الجليل مخاييل المعروفه بالفهادين بالقاهرة المحروسة وناقله الحقير بخطاياه لنفسه يوحنا عرف بالنقاس من نسخة بخط الاب القديس شمس الرياسة ابن الشيخ النفيس كاتب الجيوس المنصوره قمص كنيسة الشاهد العظيم مرقوريوس بمصر المحروسة... </colophon><colophon>f. 268v : كلمت قوانين الرسل التي انفدوها مع اقليمنطس وهي ستة وخمسون قانوناً لتمتت ماية سبعة وعشرون قانوناً وذلك في نهار يوم السبت رابع عشر امشير من سنة اربعة وستين والف للشهدا الاطهار يا رب سامح ناسخه واذكره بالرحمة مع ساير بني المعمودية امين والسبح لله دايماً ابداً  </colophon><origDate>1348 (1064 des Martyrs)</origDate></msItem></msContents><physDesc><support><p>papier oriental </p></support><dimensions><height>245</height><width>168</width></dimensions><extent>276</extent><msWriting><p>Le texte est en encre noire, rouge pour les rubriques, quelques ponctuations et des ajouts/corrections dans les marges. 
+Quelques mots en coptes. 
+Attention aux "fausses réclames", les mots écrits sont les fins de phrases. </p></msWriting><foliation><p>chiffres arabes ("latins") imprimés + à la main (encre et sens inverse) + copte marge supérieure externe. </p></foliation><signatures>Des quinions numérotés dans la marge supérieure externe du 1er recto en toutes lettres arabes d’une écriture de haut en bas sous un trait, cf. f. 110r. Avec aussi un n° "latin" crayon à papier dans la marge inférieure interne. </signatures></physDesc><history><provenance><p>Cachet de la Propagande ff. 1r. 276v. </p></provenance></history></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="25/10/2018"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

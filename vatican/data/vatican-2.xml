@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="220934">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.002230000" scan="@5Sbath.223_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.223">Sbath.223</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Cet ouvrage contient la réfutation par Antoine Ventura [missionnaire jésuite à Alep - 1773] de ce qu'a écrit Eliās Faḫr contre la virginité de saint Joseph, la primauté de saint Pierre et ses successeurs, et les missionnaires de l’Église catholique. GCAL IV, 234. Voir Sbath.333." value="Cet ouvrage contient la réfutation par Antoine Ventura [missionnaire jésuite à Alep - 1773] de ce qu'a écrit Eliās Faḫr contre la virginité de saint Joseph, la primauté de saint Pierre et ses successeurs, et les missionnaires de l’Église catholique. GCAL IV, 234. Voir Sbath.333.">Cet ouvrage contient la réfutation par Antoine Ventura [missionnaire jésuite à Alep - 1773] de ce qu'a écrit Eliās Faḫr contre la virginité de saint Joseph, la primauté de saint Pierre et ses successeurs, et les missionnaires de l’Église catholique. GCAL IV, 234. Voir Sbath.333.</p></overview><msItem><title scan="@1رسالة جدلية Risāla Ǧadaliyya_title" type="title" value="رسالة جدلية Risāla Ǧadaliyya">رسالة جدلية Risāla Ǧadaliyya</title><origDate notAfter="1800" notBefore="1701">saec. XVIII</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>170</height><width>110</width></dimensions><extent>67</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="09/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

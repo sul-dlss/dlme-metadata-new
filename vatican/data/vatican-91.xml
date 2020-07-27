@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="142929">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001080000" scan="@5Vat.ar.108_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.108">Vat.ar.108</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Summa theologica et historica auctore &lt;Mārī ibn Sulaymān&gt; Nestoriano qui medio saec. XII floruit, vulgo inscripta كتاب المجدل quod &quot;Liber turris&quot; transferri solet, imo potius &quot;Liber arcis&quot; interpretandum mihi videtur. Manus recentior in titulo huius codicis opus scriptori alii Nestorianorum praeclaro tribuit his verbis : كتاب المجدل للاستبصار/الاستبصار/ والجدل مجموع عمرو بن متى النسطورى الطيهانى/الطبرهانى &quot;Liber arcis - ad spectandum et disputandum, congestus ab ʿAmru ibn Mattā Nestoriano Tirhānensi&quot;. Syllabum huius libri cum notis reddidit J. S. Assemani, &quot;Bibl. or. t. III, 1 pp. 580-582." value="Summa theologica et historica auctore &lt;Mārī ibn Sulaymān&gt; Nestoriano qui medio saec. XII floruit, vulgo inscripta كتاب المجدل quod &quot;Liber turris&quot; transferri solet, imo potius &quot;Liber arcis&quot; interpretandum mihi videtur. Manus recentior in titulo huius codicis opus scriptori alii Nestorianorum praeclaro tribuit his verbis : كتاب المجدل للاستبصار/الاستبصار/ والجدل مجموع عمرو بن متى النسطورى الطيهانى/الطبرهانى &quot;Liber arcis - ad spectandum et disputandum, congestus ab ʿAmru ibn Mattā Nestoriano Tirhānensi&quot;. Syllabum huius libri cum notis reddidit J. S. Assemani, &quot;Bibl. or. t. III, 1 pp. 580-582.">Summa theologica et historica auctore &lt;Mārī ibn Sulaymān&gt; Nestoriano qui medio saec. XII floruit, vulgo inscripta كتاب المجدل quod "Liber turris" transferri solet, imo potius "Liber arcis" interpretandum mihi videtur. Manus recentior in titulo huius codicis opus scriptori alii Nestorianorum praeclaro tribuit his verbis : كتاب المجدل للاستبصار/الاستبصار/ والجدل مجموع عمرو بن متى النسطورى الطيهانى/الطبرهانى "Liber arcis - ad spectandum et disputandum, congestus ab ʿAmru ibn Mattā Nestoriano Tirhānensi". Syllabum huius libri cum notis reddidit J. S. Assemani, "Bibl. or. t. III, 1 pp. 580-582.</p></overview><msItem><origDate>saec. XIV et an. 1560 (mart. 1277)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>260</height><width>170</width></dimensions><extent>IV. 210 (+163a ; 184a)</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="24/02/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

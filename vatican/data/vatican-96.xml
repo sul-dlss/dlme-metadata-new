@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="145048"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001170000" scan="@5Vat.ar.117_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.117">Vat.ar.117</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Idem opus theologicum auctore Abū Šākir Buṭrus ibn ar-Rāhib quod in codd. 104 et 116, titulo carens et medio mutilum." value="Idem opus theologicum auctore Abū Šākir Buṭrus ibn ar-Rāhib quod in codd. 104 et 116, titulo carens et medio mutilum.">Idem opus theologicum auctore Abū Šākir Buṭrus ibn ar-Rāhib quod in codd. 104 et 116, titulo carens et medio mutilum.</p></overview><msItem><author authorityID="33683" scan="@33683"><alias><authorityAuthor rif="aut" type="person">Ibn al-Rāhib, Abū Shākir, Buṭrus b. Abī al-Karam al-Nushuʾ b. al-Madhhab al-Qibṭī al-Maṣrī</authorityAuthor></alias></author><origDate>1323 (mart. 1039/40, heg. 723)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>265</height><width>170</width></dimensions><extent>249</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="07/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="22/05/2014">A.deFouchier</persName>
+					<persName n="29/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="125941"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000840000" scan="@5Vat.ar.84_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.84">Vat.ar.84</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4S. Macarii Aegyptii homiliae, e lingua graeca satis exacte translatae, ut ex collatione cum iis cognoscitur, quae graece sunt traditae apud M. P. G. t. 34, col. 449-sqq. Omnino vero diversa est haec interpretatio ab illa codicum 70 et 80, ubi complures ex his homiliis sub nomine s. Simeonis Stylitae inveniuntur. Homiliae primae principium desideratur." value="S. Macarii Aegyptii homiliae, e lingua graeca satis exacte translatae, ut ex collatione cum iis cognoscitur, quae graece sunt traditae apud M. P. G. t. 34, col. 449-sqq. Omnino vero diversa est haec interpretatio ab illa codicum 70 et 80, ubi complures ex his homiliis sub nomine s. Simeonis Stylitae inveniuntur. Homiliae primae principium desideratur.">S. Macarii Aegyptii homiliae, e lingua graeca satis exacte translatae, ut ex collatione cum iis cognoscitur, quae graece sunt traditae apud M. P. G. t. 34, col. 449-sqq. Omnino vero diversa est haec interpretatio ab illa codicum 70 et 80, ubi complures ex his homiliis sub nomine s. Simeonis Stylitae inveniuntur. Homiliae primae principium desideratur.</p></overview><msItem><author authorityID="33169" scan="@33169"><alias><authorityAuthor date="sec. IV." formal="Opere spurie e dubbie" rif="aut" title="s.," type="person">Macarius Alexandrinus,</authorityAuthor></alias></author><origDate>1055 (Mundi 6563)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>165</height><width>125</width></dimensions><extent>I. 320</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="14/11/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="20/05/2014">A.deFouchier</persName><persName n="23/10/2014">A.deFouchier</persName>
+					<persName n="29/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

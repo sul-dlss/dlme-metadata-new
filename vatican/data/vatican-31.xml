@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="221568">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.000340000" scan="@5Sbath.34_ms" type="ms" uriSYS="https://digi.vatlib.it/view/MSS_Sbath.34">Sbath.34</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Ouvrage de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche qui n'est pas nommé ici. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge. GCAL III, 133. Texte identique dans Sbath.586.642." value="Ouvrage de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche qui n'est pas nommé ici. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge. GCAL III, 133. Texte identique dans Sbath.586.642.">Ouvrage de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche qui n'est pas nommé ici. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge. GCAL III, 133. Texte identique dans Sbath.586.642.</p></overview><msItem><title scan="@1صناعة الفصاحة Ṣināʿa al-faṣāḥa_title" type="title" value="صناعة الفصاحة Ṣināʿa al-faṣāḥa">صناعة الفصاحة Ṣināʿa al-faṣāḥa</title><origDate>1869</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>200</height><width>140</width></dimensions><extent>122</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="16/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="16/01/2018">Linking System: Automatic linking system</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

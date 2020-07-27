@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="155572"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.005030000" scan="@5Vat.ar.503_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.503">Vat.ar.503</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Continuatio libri prophetarum, cuius pars prior in cod. 495 habetur." value="Continuatio libri prophetarum, cuius pars prior in cod. 495 habetur.">Continuatio libri prophetarum, cuius pars prior in cod. 495 habetur.</p></overview><msItem><origDate notAfter="1400" notBefore="1301">saec. XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>235</height><width>165</width></dimensions><extent>190</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="03/10/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="07/10/2014">A.deFouchier</persName><persName n="21/04/2016">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>
