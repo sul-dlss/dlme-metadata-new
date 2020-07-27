@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="143190">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001090000" scan="@5Vat.ar.109_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.109">Vat.ar.109</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4&quot;Liber turris&quot;, vel potius &quot;Liber arcis&quot;, auctore &lt;Mārī ibn Sulaymān&gt;, cuius illa pars in cod. 108 asservata est, hic desideratur, scil. capita I-IV et capitis quinti sectio prima." value="&quot;Liber turris&quot;, vel potius &quot;Liber arcis&quot;, auctore &lt;Mārī ibn Sulaymān&gt;, cuius illa pars in cod. 108 asservata est, hic desideratur, scil. capita I-IV et capitis quinti sectio prima.">"Liber turris", vel potius "Liber arcis", auctore &lt;Mārī ibn Sulaymān&gt;, cuius illa pars in cod. 108 asservata est, hic desideratur, scil. capita I-IV et capitis quinti sectio prima.</p></overview><msItem><origDate>1213 (heg. 610, graec. 1525)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>255</height><width>180</width></dimensions><extent>346</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="25/02/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

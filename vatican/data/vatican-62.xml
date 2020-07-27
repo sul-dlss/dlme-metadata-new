@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="117677"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000370000" scan="@5Vat.ar.37_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.37">Vat.ar.37</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Operis exegetici, cui titulus Paradisus Christianitatis, partes I.II auctore Abū 'l-Farağ ʿAbdallāh Ibn aṭ-Ṭayyib nestoriano (cf. f. 111v). In prooemio, cuius finis tantum servatur (f. 1r, linn. 1-6), auctor declarat, multis tractatibus de fundamentis religionis compositis, evangelio et psalmis pluries comentatis, Epistolarum explanatione incepta, rebus iuris et historiae Christianorum collectis, in animum habuisse omnes libros utriusque Testamenti summatim exponere, ut haec commentaria a fidelibus legentur et biblia sacra saepe neglecta maioris aestimarentur. Textui praeeunt 1 (f. 1r.v) index librorum T. V. qui in toto opere exponuntur et 2 (f. 2r) dissertatio de versionibus T. V., deque origine librorum Mosi." value="Operis exegetici, cui titulus Paradisus Christianitatis, partes I.II auctore Abū 'l-Farağ ʿAbdallāh Ibn aṭ-Ṭayyib nestoriano (cf. f. 111v). In prooemio, cuius finis tantum servatur (f. 1r, linn. 1-6), auctor declarat, multis tractatibus de fundamentis religionis compositis, evangelio et psalmis pluries comentatis, Epistolarum explanatione incepta, rebus iuris et historiae Christianorum collectis, in animum habuisse omnes libros utriusque Testamenti summatim exponere, ut haec commentaria a fidelibus legentur et biblia sacra saepe neglecta maioris aestimarentur. Textui praeeunt 1 (f. 1r.v) index librorum T. V. qui in toto opere exponuntur et 2 (f. 2r) dissertatio de versionibus T. V., deque origine librorum Mosi.">Operis exegetici, cui titulus Paradisus Christianitatis, partes I.II auctore Abū 'l-Farağ ʿAbdallāh Ibn aṭ-Ṭayyib nestoriano (cf. f. 111v). In prooemio, cuius finis tantum servatur (f. 1r, linn. 1-6), auctor declarat, multis tractatibus de fundamentis religionis compositis, evangelio et psalmis pluries comentatis, Epistolarum explanatione incepta, rebus iuris et historiae Christianorum collectis, in animum habuisse omnes libros utriusque Testamenti summatim exponere, ut haec commentaria a fidelibus legentur et biblia sacra saepe neglecta maioris aestimarentur. Textui praeeunt 1 (f. 1r.v) index librorum T. V. qui in toto opere exponuntur et 2 (f. 2r) dissertatio de versionibus T. V., deque origine librorum Mosi.</p></overview><msItem><author authorityID="28333" scan="@28333"><alias><authorityAuthor rif="aut" type="person">Abū 'l-Farağ ʿAbdallāh ibn aṭ-Ṭayyib,</authorityAuthor></alias></author><origDate>1281 (Mart. 998)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>280</height><width>210</width></dimensions><extent>II. 201</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="01/07/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="15/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

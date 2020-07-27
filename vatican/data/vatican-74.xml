@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="126913"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000800000" scan="@5Vat.ar.80_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.80">Vat.ar.80</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4S. Simeonis Stylitae vita, et opera ascetica eidem supposita, ut in cod. 70, diversam vero secundum seriem dispertita, e coptico in sermonem arabicum translata, ut titulo (f. 1v) apparet : نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى &quot;Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)&quot;." value="S. Simeonis Stylitae vita, et opera ascetica eidem supposita, ut in cod. 70, diversam vero secundum seriem dispertita, e coptico in sermonem arabicum translata, ut titulo (f. 1v) apparet : نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى &quot;Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)&quot;.">S. Simeonis Stylitae vita, et opera ascetica eidem supposita, ut in cod. 70, diversam vero secundum seriem dispertita, e coptico in sermonem arabicum translata, ut titulo (f. 1v) apparet : نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى "Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)".</p></overview><msItem><author authorityID="33621" scan="@33621"><alias><authorityAuthor date="-459" rif="aut" title="s." type="person">Siméon Stylite,</authorityAuthor></alias></author><title scan="@1نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى &quot;Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)&quot;_title" type="title" value="نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى &quot;Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)&quot;">نبتدى بمعونة الله وحسن توفيقه بشرح مقالات واقوال ومسايل وجوابات كتاب القديس سمعان العمودى صلاة تكون معنا امين. مما نُقِل من القبطى الى العربى "Incipimus auxiliante Deo et benigniter secundante exscribere sermones, dicta et interrogationes responsionesque libri sancti Simeonis Stylitae, cuius intercessio semper sit nobiscum. Amen. Hic liber translatus fuit ex coptico in arabicum (sermonem)"</title><origDate notAfter="1300" notBefore="1201">saec. XIII</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>260</height><width>175</width></dimensions><extent>II. 290</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="22/11/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="20/05/2014">A.deFouchier</persName>
+					<persName n="23/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

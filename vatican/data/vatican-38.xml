@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="225049"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.007570000" scan="@5Sbath.757_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.757">Sbath.757</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4En caršūnī. Abrégé sur les vérités de la religion chrétienne, par l'évêque Jean-Baptiste al-Ḥaṣrūnī (al-Ḥaušabī, dominicain). Il traite de la sainte Trinité, du Christ, des sacrements, de la primauté etc. Il procède par question et réponse.   GCAL III, 346." value="En caršūnī. Abrégé sur les vérités de la religion chrétienne, par l'évêque Jean-Baptiste al-Ḥaṣrūnī (al-Ḥaušabī, dominicain). Il traite de la sainte Trinité, du Christ, des sacrements, de la primauté etc. Il procède par question et réponse.   GCAL III, 346.">En caršūnī. Abrégé sur les vérités de la religion chrétienne, par l'évêque Jean-Baptiste al-Ḥaṣrūnī (al-Ḥaušabī, dominicain). Il traite de la sainte Trinité, du Christ, des sacrements, de la primauté etc. Il procède par question et réponse. 
+GCAL III, 346.</p></overview><msItem><origDate>1624</origDate></msItem></msContents><physDesc><support><p>catalogue Malak</p></support><dimensions><height>200</height><width>150</width></dimensions><extent>112</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="10/01/2018"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="17/09/2018">A.deFouchier</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

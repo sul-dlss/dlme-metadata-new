@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="116964"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000280000" scan="@5Vat.ar.28_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.28">Vat.ar.28</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4S. Pauli epistolae inversione ex coptico, auctore &lt;al-Waǧīh Yūḥannā al-Qalyūbī&gt;, de quo vide sis quae Alexius Mallon, &quot;Une école de savants égyptiens au Moyen-Age&quot;, in collectione cui titulus &quot;Mélanges de la Faculté Orientale&quot;, Beryti, t. I (1906), pp. 126-129 ; t. II (1907), pp. 222-229." value="S. Pauli epistolae inversione ex coptico, auctore &lt;al-Waǧīh Yūḥannā al-Qalyūbī&gt;, de quo vide sis quae Alexius Mallon, &quot;Une école de savants égyptiens au Moyen-Age&quot;, in collectione cui titulus &quot;Mélanges de la Faculté Orientale&quot;, Beryti, t. I (1906), pp. 126-129 ; t. II (1907), pp. 222-229.">S. Pauli epistolae inversione ex coptico, auctore &lt;al-Waǧīh Yūḥannā al-Qalyūbī&gt;, de quo vide sis quae Alexius Mallon, "Une école de savants égyptiens au Moyen-Age", in collectione cui titulus "Mélanges de la Faculté Orientale", Beryti, t. I (1906), pp. 126-129 ; t. II (1907), pp. 222-229.</p></overview><msItem><author authorityID="33680" scan="@33680"><alias><authorityAuthor rif="aut" type="person">al-Wağīh al-Qalyūbī, Yūḥannā,</authorityAuthor></alias></author><origDate>1271 (Mart. 982, heg. 669)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>255</height><width>175</width></dimensions><extent>202</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="19/06/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="20/06/2013">A.deFouchier</persName><persName n="20/06/2013">A.deFouchier</persName><persName n="26/11/2013">A.deFouchier</persName><persName n="27/11/2013">A.deFouchier</persName><persName n="29/10/2014">A.deFouchier</persName>
+					<persName n="16/01/2015">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="221218">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.000680000" scan="@5Sbath.68_ms" type="ms" uriSYS="https://digi.vatlib.it/view/MSS_Sbath.68">Sbath.68</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Collection hagiographique et histoires édifiantes (de Paul de Monembasie)." value="Collection hagiographique et histoires édifiantes (de Paul de Monembasie).">Collection hagiographique et histoires édifiantes (de Paul de Monembasie).</p></overview><msItem><origDate>1653 (7161 de la création du monde)</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>150</height><width>110</width></dimensions><extent>342</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="14/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">17/02/2020</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="17/02/2020">Linking System: Automatic linking system</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115215"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000050000" scan="@5Vat.ar.5_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.5">Vat.ar.5</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Psalterium ad usum christianorum Hispaniae Mozaraborum, quod, quamvis non accurate et exquisite, recensuit Iacobus G. Chr. Adler, &quot;Biblischcritische Reise nach Rom&quot;, Altona, 1783, pp. 133 sq., et einde H. Goussen, &quot;Die christlich-arabische Literatur der Mozaraber&quot;, Leipzig, 1909, pp. 14 sq. Singulis psalmis argumenta eorum sensum typicum et allegoricum illustrantia sunt praefixa et alia manu in argine initia iuxta versionem vulgatam latine apposita. Saec. XIV-XV, cum iam non nulla folia deperdita suppleta essent, textus hebraicus masoretici similis charactere rabbinico hispanico inter lineas interpolatus est. Specimen huius versionis arabicae lumine repraesentatum, nempe initium praefationis (f. 1v) eiusque finem et ps. 1, 1-4 (f. 10r) habes apud Henricum Goussen, op. laud., pp. 28 sq." value="Psalterium ad usum christianorum Hispaniae Mozaraborum, quod, quamvis non accurate et exquisite, recensuit Iacobus G. Chr. Adler, &quot;Biblischcritische Reise nach Rom&quot;, Altona, 1783, pp. 133 sq., et einde H. Goussen, &quot;Die christlich-arabische Literatur der Mozaraber&quot;, Leipzig, 1909, pp. 14 sq. Singulis psalmis argumenta eorum sensum typicum et allegoricum illustrantia sunt praefixa et alia manu in argine initia iuxta versionem vulgatam latine apposita. Saec. XIV-XV, cum iam non nulla folia deperdita suppleta essent, textus hebraicus masoretici similis charactere rabbinico hispanico inter lineas interpolatus est. Specimen huius versionis arabicae lumine repraesentatum, nempe initium praefationis (f. 1v) eiusque finem et ps. 1, 1-4 (f. 10r) habes apud Henricum Goussen, op. laud., pp. 28 sq.">Psalterium ad usum christianorum Hispaniae Mozaraborum, quod, quamvis non accurate et exquisite, recensuit Iacobus G. Chr. Adler, "Biblischcritische Reise nach Rom", Altona, 1783, pp. 133 sq., et einde H. Goussen, "Die christlich-arabische Literatur der Mozaraber", Leipzig, 1909, pp. 14 sq. Singulis psalmis argumenta eorum sensum typicum et allegoricum illustrantia sunt praefixa et alia manu in argine initia iuxta versionem vulgatam latine apposita. Saec. XIV-XV, cum iam non nulla folia deperdita suppleta essent, textus hebraicus masoretici similis charactere rabbinico hispanico inter lineas interpolatus est. Specimen huius versionis arabicae lumine repraesentatum, nempe initium praefationis (f. 1v) eiusque finem et ps. 1, 1-4 (f. 10r) habes apud Henricum Goussen, op. laud., pp. 28 sq.</p></overview><msItem><origDate>saec. XIII-XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>200</height><width>140</width></dimensions><extent>132</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="15/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="15/05/2013">A.deFouchier</persName><persName n="28/05/2013">A.deFouchier</persName>
+					<persName n="20/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

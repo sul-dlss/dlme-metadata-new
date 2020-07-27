@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="146332"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001340000" scan="@5Vat.ar.134_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.134">Vat.ar.134</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Opuscula philosophica et theologica auctore Yaḥyā ibn ʿAdī, a doctore celeberrimo Coptita aṣ-Ṣafī &lt;ibn al-ʿAssāl&gt; (cf. f. 144v), ut in cod. 114, in compendia (مختصر) redacta, quorum conspectus habetur apud Augustinum Périer, &quot;Yaḥā Ben ʿAdī, un philosophe arabe chrétien du Xè siècle&quot;, Parisiis, 1920, pp. 68-71." value="Opuscula philosophica et theologica auctore Yaḥyā ibn ʿAdī, a doctore celeberrimo Coptita aṣ-Ṣafī &lt;ibn al-ʿAssāl&gt; (cf. f. 144v), ut in cod. 114, in compendia (مختصر) redacta, quorum conspectus habetur apud Augustinum Périer, &quot;Yaḥā Ben ʿAdī, un philosophe arabe chrétien du Xè siècle&quot;, Parisiis, 1920, pp. 68-71.">Opuscula philosophica et theologica auctore Yaḥyā ibn ʿAdī, a doctore celeberrimo Coptita aṣ-Ṣafī &lt;ibn al-ʿAssāl&gt; (cf. f. 144v), ut in cod. 114, in compendia (مختصر) redacta, quorum conspectus habetur apud Augustinum Périer, "Yaḥā Ben ʿAdī, un philosophe arabe chrétien du Xè siècle", Parisiis, 1920, pp. 68-71.</p></overview><msItem><author authorityID="31436" scan="@31436"><alias><authorityAuthor date="893-974" rif="aut" type="person">Yaḥyā ibn ʿAdī</authorityAuthor></alias></author><origDate>saec. XIII ante medium</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>157</height><width>120</width></dimensions><extent>145</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="20/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="20/03/2014">A.deFouchier</persName>
+					<persName n="14/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

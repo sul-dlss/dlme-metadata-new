@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="145830"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001270000" scan="@5Vat.ar.127_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.127">Vat.ar.127</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah, scriptoris Iacobitarum syrorum decimo saeculo clari, decem opuscula theologica, quibus adiunguntur duo alia a Yaḥyā ibn ʿAdī composita. Titulus est (f. 3r) : هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى &quot;Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus&quot;." value="Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah, scriptoris Iacobitarum syrorum decimo saeculo clari, decem opuscula theologica, quibus adiunguntur duo alia a Yaḥyā ibn ʿAdī composita. Titulus est (f. 3r) : هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى &quot;Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus&quot;.">Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah, scriptoris Iacobitarum syrorum decimo saeculo clari, decem opuscula theologica, quibus adiunguntur duo alia a Yaḥyā ibn ʿAdī composita. Titulus est (f. 3r) : هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى "Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus".</p></overview><msItem><title scan="@1هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى &quot;Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus&quot;_title" type="title" value="هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى &quot;Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus&quot;">هذا الجز تصنيف الشيخ ابو على | عيسى بن زُرعة رحمه الله تعالى "Haec pars est opus senioris Abū ʿAlī ʿĪsā ibn Isḥāq ibn Zurʿah. Misereatur eius Deus altissimus"</title><origDate>1233 (heg. 630)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>190</height><width>135</width></dimensions><extent>110</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="14/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

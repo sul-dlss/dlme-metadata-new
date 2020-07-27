@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="141791">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001050000" scan="@5Vat.ar.105_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.105">Vat.ar.105</idno>
+					</msIdentifier><msPart><msContents><msItem><origDate notAfter="1400" notBefore="1301">saec. XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>270</height><width>180</width></dimensions><extent>I. 121</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="19/02/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

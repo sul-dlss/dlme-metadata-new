@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="221105">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.000050000" scan="@5Sbath.5_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.5">Sbath.5</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Ouvrage d'algèbre du mathématicien, du XIIème siècle, Auḥad aš-Šām abū'l-Ḥasan ʿA. b. al-Muslim b. M. b. ʿA. b. al-Fatḥ as-Sulamī. Ouvrage divisé en quatre parties : 1)- ff. 5r-14r ; 2)- ff. 14r-38r ; 3)- ff. 38r-86r ; 4)- ff. 86r-98r. GCAL I, 858 [manuscrit unique]" value="Ouvrage d'algèbre du mathématicien, du XIIème siècle, Auḥad aš-Šām abū'l-Ḥasan ʿA. b. al-Muslim b. M. b. ʿA. b. al-Fatḥ as-Sulamī. Ouvrage divisé en quatre parties : 1)- ff. 5r-14r ; 2)- ff. 14r-38r ; 3)- ff. 38r-86r ; 4)- ff. 86r-98r. GCAL I, 858 [manuscrit unique]">Ouvrage d'algèbre du mathématicien, du XIIème siècle, Auḥad aš-Šām abū'l-Ḥasan ʿA. b. al-Muslim b. M. b. ʿA. b. al-Fatḥ as-Sulamī. Ouvrage divisé en quatre parties : 1)- ff. 5r-14r ; 2)- ff. 14r-38r ; 3)- ff. 38r-86r ; 4)- ff. 86r-98r. GCAL I, 858 [manuscrit unique]</p></overview><msItem><title scan="@1المقدمة الكافية في حساب الجبر والمقابلة Al-muqaddima al-kāfīya fī ḥisāb al-ǧabr wa'l-muqābala_title" type="title" value="المقدمة الكافية في حساب الجبر والمقابلة Al-muqaddima al-kāfīya fī ḥisāb al-ǧabr wa'l-muqābala">المقدمة الكافية في حساب الجبر والمقابلة Al-muqaddima al-kāfīya fī ḥisāb al-ǧabr wa'l-muqābala</title><origDate>1211 (608 de l'hégire)</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>170</height><width>120</width></dimensions><extent>98</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="14/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

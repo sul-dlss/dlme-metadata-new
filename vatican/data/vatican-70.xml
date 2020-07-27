@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="125525"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000740000" scan="@5Vat.ar.74_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.74">Vat.ar.74</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Varia opera theologica Mose filio Aṭšah, codicis librario, collecta et partim translata." value="Varia opera theologica Mose filio Aṭšah, codicis librario, collecta et partim translata.">Varia opera theologica Mose filio Aṭšah, codicis librario, collecta et partim translata.</p></overview><msItem><origDate>1455 (Gr. 1766)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>275</height><width>175</width></dimensions><extent>261</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="06/11/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="06/11/2013">A.deFouchier</persName><persName n="21/02/2014">A.deFouchier</persName>
+					<persName n="16/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

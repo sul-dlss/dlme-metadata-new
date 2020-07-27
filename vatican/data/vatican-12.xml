@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="221759">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.000730000" scan="@5Sbath.73_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.73">Sbath.73</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Typicon du rite grec melkite, ordre à suivre pour les prières et les cérémonies. Écrit en arabe et quelques passages en syriaque. L'ordre est le suivant : règles générales sur l'ordo des prières que doivent observer les monastères de Jérusalem (ff. 1r-19v) ; ordo à suivre pour chaque mois de l'année depuis septembre jurqu'au 31 août (ff. 20r-163v) ; ordo du carême et de la semaine sainte, depuis le dimanche du Pharisien et du Publicain jusqu'à Pâques (ff. 164r-220r) ; Pâques et le temps pascal, jusqu'au premier dimanche après la Pentecôte qui est le dimanche de tous les saints (ff. 220r-242v).   GCAL I, 629 ; voir aussi Sbath.72." value="Typicon du rite grec melkite, ordre à suivre pour les prières et les cérémonies. Écrit en arabe et quelques passages en syriaque. L'ordre est le suivant : règles générales sur l'ordo des prières que doivent observer les monastères de Jérusalem (ff. 1r-19v) ; ordo à suivre pour chaque mois de l'année depuis septembre jurqu'au 31 août (ff. 20r-163v) ; ordo du carême et de la semaine sainte, depuis le dimanche du Pharisien et du Publicain jusqu'à Pâques (ff. 164r-220r) ; Pâques et le temps pascal, jusqu'au premier dimanche après la Pentecôte qui est le dimanche de tous les saints (ff. 220r-242v).   GCAL I, 629 ; voir aussi Sbath.72.">Typicon du rite grec melkite, ordre à suivre pour les prières et les cérémonies. Écrit en arabe et quelques passages en syriaque. L'ordre est le suivant : règles générales sur l'ordo des prières que doivent observer les monastères de Jérusalem (ff. 1r-19v) ; ordo à suivre pour chaque mois de l'année depuis septembre jurqu'au 31 août (ff. 20r-163v) ; ordo du carême et de la semaine sainte, depuis le dimanche du Pharisien et du Publicain jusqu'à Pâques (ff. 164r-220r) ; Pâques et le temps pascal, jusqu'au premier dimanche après la Pentecôte qui est le dimanche de tous les saints (ff. 220r-242v). 
+GCAL I, 629 ; voir aussi Sbath.72.</p></overview><msItem><origDate notAfter="1300" notBefore="1201">saec. XIII</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>190</height><width>140</width></dimensions><extent>242</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="20/11/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

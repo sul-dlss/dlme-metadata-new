@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="127025"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000810000" scan="@5Vat.ar.81_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.81">Vat.ar.81</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Homiliarum collectis ad praecipua anni festa." value="Homiliarum collectis ad praecipua anni festa.">Homiliarum collectis ad praecipua anni festa.</p></overview><msItem><origDate notAfter="1300" notBefore="1201">saec. XIII</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>240</height><width>155</width></dimensions><extent>IV.179</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="25/11/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="20/05/2014">A.deFouchier</persName>
+					<persName n="19/02/2015">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

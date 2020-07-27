@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="224240">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.005420000" scan="@5Sbath.542_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.542">Sbath.542</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Recueil hagiographique et polémique. Traduit du grec et du syriaque." value="Recueil hagiographique et polémique. Traduit du grec et du syriaque.">Recueil hagiographique et polémique. Traduit du grec et du syriaque.</p></overview><msItem><origDate>1639 (7147 de la création du monde)</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>300</height><width>220</width></dimensions><extent>194</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="29/12/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="222623">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.002010000" scan="@5Sbath.201_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.201">Sbath.201</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Collection de 69 miracles de la Sainte Vierge, de Agapius Landus de Crète, traduit du grec par Makārius Ibn az-Zaʿīm. Mutilé, il commence par le 2ème miracle.   GCAL III, 108. Texte identique dans Sbath.152.307.356.418.637. Sur Agapius Landus et les diverses traductions en turc, roumain et arabe, voir A. van Lantschoot, Marie-Madeleine en Provence, in Le Muséon 61 (1958) pp. 88-89. Voir aussi DHGE t. 1 (1912), pp. 895-897 : Agapius, par S. Pétridès." value="Collection de 69 miracles de la Sainte Vierge, de Agapius Landus de Crète, traduit du grec par Makārius Ibn az-Zaʿīm. Mutilé, il commence par le 2ème miracle.   GCAL III, 108. Texte identique dans Sbath.152.307.356.418.637. Sur Agapius Landus et les diverses traductions en turc, roumain et arabe, voir A. van Lantschoot, Marie-Madeleine en Provence, in Le Muséon 61 (1958) pp. 88-89. Voir aussi DHGE t. 1 (1912), pp. 895-897 : Agapius, par S. Pétridès.">Collection de 69 miracles de la Sainte Vierge, de Agapius Landus de Crète, traduit du grec par Makārius Ibn az-Zaʿīm. Mutilé, il commence par le 2ème miracle. 
+GCAL III, 108. Texte identique dans Sbath.152.307.356.418.637. Sur Agapius Landus et les diverses traductions en turc, roumain et arabe, voir A. van Lantschoot, Marie-Madeleine en Provence, in Le Muséon 61 (1958) pp. 88-89. Voir aussi DHGE t. 1 (1912), pp. 895-897 : Agapius, par S. Pétridès.</p></overview><msItem><title scan="@1خلاص الخطاة عجائب ستنا السيدة ḫalāṣ al-ḫaṭa'a ʿağā'ib sittinā as-Sayyida_title" type="title" value="خلاص الخطاة عجائب ستنا السيدة ḫalāṣ al-ḫaṭa'a ʿağā'ib sittinā as-Sayyida">خلاص الخطاة عجائب ستنا السيدة ḫalāṣ al-ḫaṭa'a ʿağā'ib sittinā as-Sayyida</title><origDate>1668 (7176 de la création du monde)</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>200</height><width>150</width></dimensions><extent>117</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="06/12/2017"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

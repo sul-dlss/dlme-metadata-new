@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="224593">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.006420000" scan="@5Sbath.642_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Sbath.642">Sbath.642</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Œuvre de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge puis adresse une lettre au lecteur. GCAL III, 133. Texte identique dans Sbath.34.586." value="Œuvre de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge puis adresse une lettre au lecteur. GCAL III, 133. Texte identique dans Sbath.34.586.">Œuvre de rhétorique, traduit du grec par Athanase Dabbās patriarche melkite d'Antioche. L'ouvrage est divisé en cinq livres et en conclusion il donne un éloge à la Sainte Vierge puis adresse une lettre au lecteur. GCAL III, 133. Texte identique dans Sbath.34.586.</p></overview><msItem><title scan="@1صناعة الفصاحة ṣināʿa al-faṣāḥa_title" type="title" value="صناعة الفصاحة ṣināʿa al-faṣāḥa">صناعة الفصاحة ṣināʿa al-faṣāḥa</title><origDate>1724</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>220</height><width>160</width></dimensions><extent>127</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="03/01/2018"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					</resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

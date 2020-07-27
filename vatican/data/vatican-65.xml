@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="122876"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000440000" scan="@5Vat.ar.44_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.44">Vat.ar.44</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Commentarius in epistolam s. Pauli ad Romanos, quem composuit al-Wağīh Yūḥannā al-Qalyūbī pro amico suo Iohanne as-Samannūdī, uti praefatione liquet et iam declaravit Georgius Graf, &quot;Exegetische Schriften zum Neuen Testament in arabischer Sprache...&quot;, in ephemeride Biblische Zeitschrift, t. XXI, 1933, p. 164 sq. De auctore, cuius tantum opera grammaticalia cognovit, disseruit Alexius Mallon, &quot;Une école de savants égyptiens&quot; in collectione Mélanges de la Faculté Orientale, Beryti, t. I, 1906, pp. 126-129.  In ff. 5v. 6r manus paulo posterior addidit principium tractatus polemici adversus astrologos &lt;auctore Abū ʾl-Fatḥ ʿAbdallāh ibn al-Faḍl&gt;, quem, adiectis interpretatione germanica et codicis lectionibus variis, integrum evulgavit Georgius Graf, iuxta tenorem cod. Vat. ar. 178, ff. 71r-72v, sub titulo &quot;Die Widerlegung der Astrologen von ʿAbdallāh ibn al-Faḍl&quot;, in ephemeride Orientalia, nov. ser., t. VI, Romae, 1937, pp. 337-346." value="Commentarius in epistolam s. Pauli ad Romanos, quem composuit al-Wağīh Yūḥannā al-Qalyūbī pro amico suo Iohanne as-Samannūdī, uti praefatione liquet et iam declaravit Georgius Graf, &quot;Exegetische Schriften zum Neuen Testament in arabischer Sprache...&quot;, in ephemeride Biblische Zeitschrift, t. XXI, 1933, p. 164 sq. De auctore, cuius tantum opera grammaticalia cognovit, disseruit Alexius Mallon, &quot;Une école de savants égyptiens&quot; in collectione Mélanges de la Faculté Orientale, Beryti, t. I, 1906, pp. 126-129.  In ff. 5v. 6r manus paulo posterior addidit principium tractatus polemici adversus astrologos &lt;auctore Abū ʾl-Fatḥ ʿAbdallāh ibn al-Faḍl&gt;, quem, adiectis interpretatione germanica et codicis lectionibus variis, integrum evulgavit Georgius Graf, iuxta tenorem cod. Vat. ar. 178, ff. 71r-72v, sub titulo &quot;Die Widerlegung der Astrologen von ʿAbdallāh ibn al-Faḍl&quot;, in ephemeride Orientalia, nov. ser., t. VI, Romae, 1937, pp. 337-346.">Commentarius in epistolam s. Pauli ad Romanos, quem composuit al-Wağīh Yūḥannā al-Qalyūbī pro amico suo Iohanne as-Samannūdī, uti praefatione liquet et iam declaravit Georgius Graf, "Exegetische Schriften zum Neuen Testament in arabischer Sprache...", in ephemeride Biblische Zeitschrift, t. XXI, 1933, p. 164 sq. De auctore, cuius tantum opera grammaticalia cognovit, disseruit Alexius Mallon, "Une école de savants égyptiens" in collectione Mélanges de la Faculté Orientale, Beryti, t. I, 1906, pp. 126-129. 
+In ff. 5v. 6r manus paulo posterior addidit principium tractatus polemici adversus astrologos &lt;auctore Abū ʾl-Fatḥ ʿAbdallāh ibn al-Faḍl&gt;, quem, adiectis interpretatione germanica et codicis lectionibus variis, integrum evulgavit Georgius Graf, iuxta tenorem cod. Vat. ar. 178, ff. 71r-72v, sub titulo "Die Widerlegung der Astrologen von ʿAbdallāh ibn al-Faḍl", in ephemeride Orientalia, nov. ser., t. VI, Romae, 1937, pp. 337-346.</p></overview><msItem><author authorityID="33680" scan="@33680"><alias><authorityAuthor rif="aut" type="person">al-Wağīh al-Qalyūbī, Yūḥannā,</authorityAuthor></alias></author><origDate notAfter="1400" notBefore="1301">saec. XIV</origDate></msItem></msContents><physDesc><dimensions><height>245</height><width>180</width></dimensions><extent>249</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="04/10/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="04/10/2013">A.deFouchier</persName><persName n="04/10/2013">A.deFouchier</persName><persName n="21/02/2014">A.deFouchier</persName>
+					<persName n="29/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

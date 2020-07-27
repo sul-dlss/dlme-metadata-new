@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115551"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000180000" scan="@5Vat.ar.18_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.18">Vat.ar.18</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Evangelium secundum Lucam ut in cod. 17, ff. 1v-96v, in capita XXIII divisum, quae titulis dividuntur sine nomine الثانى - الثالث والعشرون." value="Evangelium secundum Lucam ut in cod. 17, ff. 1v-96v, in capita XXIII divisum, quae titulis dividuntur sine nomine الثانى - الثالث والعشرون.">Evangelium secundum Lucam ut in cod. 17, ff. 1v-96v, in capita XXIII divisum, quae titulis dividuntur sine nomine الثانى - الثالث والعشرون.</p></overview><msItem><origDate>993 (heg. 383)</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>205</height><width>180</width></dimensions><extent>94 (+1a.1b)</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="28/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="26/11/2013">A.deFouchier</persName><persName n="16/09/2015">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

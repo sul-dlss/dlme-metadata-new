@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="224430"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Sbath." rend="Sbath.005860000" scan="@5Sbath.586_ms" type="ms" uriSYS="https://digi.vatlib.it/view/MSS_Sbath.586">Sbath.586</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Œuvre de rhétorique traduite du grec par Athanase IV Dabbās.   GCAL III, 133 ; voir aussi Sbath.34.642 (texte identique)." value="Œuvre de rhétorique traduite du grec par Athanase IV Dabbās.   GCAL III, 133 ; voir aussi Sbath.34.642 (texte identique).">Œuvre de rhétorique traduite du grec par Athanase IV Dabbās. 
+GCAL III, 133 ; voir aussi Sbath.34.642 (texte identique).</p></overview><msItem><title scan="@1صنعة الفصاحة sanʿa al-faṣāḥa_title" type="title" value="صنعة الفصاحة sanʿa al-faṣāḥa">صنعة الفصاحة sanʿa al-faṣāḥa</title><origDate notAfter="1800" notBefore="1701">saec. XVIII</origDate></msItem></msContents><physDesc><support><p>papier</p></support><dimensions><height>210</height><width>150</width></dimensions><extent>174</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue Malak</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="02/01/2018"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">10/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="27/08/2018">A.deFouchier</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

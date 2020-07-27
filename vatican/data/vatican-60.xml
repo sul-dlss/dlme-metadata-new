@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="116993"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.000290000" scan="@5Vat.ar.29_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.29">Vat.ar.29</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Epistolarum, i. e. lectiones ex epistolis s. Pauli per anni criculum iuxta ritum Nestorianum distributae, in versione ut plurimum paraphrastica, fere ut in codice bilingui, Vat. Syr. 23, de quo Ioseph Simonius et Stephanus Evodius Assemani, &quot;Catalogus...&quot; t. II, pp. 189-195. Codicem fuse recensuit ordinemque lectionum perscripsit G. Graf in ephemeride &quot;Jahrbuch für Liturgienvissenschaft&quot;, t. VI, p. 237-242. Praeit titulus in primis paginis duabus elegantissime exornatis : هذه الفصول من كتاب بولس الرسول | تقرا فى الاحاد والاعياد السيدية | والملائكية | والاعياد الشهدائية القديسية | على عادة البيعة السطورية &quot;Hae sectiones libri Pauli apostoli leguntur diebus dominicis et festis Domini angelorumque nec non festis martyrum sacris secundum consuetudinem ecclesiae Nestorianae&quot;. Titulus alter in fronte folii 2v : كتاب السليح المفضّل من رسائل بولوس الرسول على الترتيب الموصلى الاحاد والاعياد والذكاينة فى دايرة السنة &quot;Liber Apostoli (as-salīḥ) dispositus ex epistolis Pauli apostoli secundum ordinem Mausiliensem ad dominicas et festa et commemorationes per anni circulum celebratas&quot;." value="Epistolarum, i. e. lectiones ex epistolis s. Pauli per anni criculum iuxta ritum Nestorianum distributae, in versione ut plurimum paraphrastica, fere ut in codice bilingui, Vat. Syr. 23, de quo Ioseph Simonius et Stephanus Evodius Assemani, &quot;Catalogus...&quot; t. II, pp. 189-195. Codicem fuse recensuit ordinemque lectionum perscripsit G. Graf in ephemeride &quot;Jahrbuch für Liturgienvissenschaft&quot;, t. VI, p. 237-242. Praeit titulus in primis paginis duabus elegantissime exornatis : هذه الفصول من كتاب بولس الرسول | تقرا فى الاحاد والاعياد السيدية | والملائكية | والاعياد الشهدائية القديسية | على عادة البيعة السطورية &quot;Hae sectiones libri Pauli apostoli leguntur diebus dominicis et festis Domini angelorumque nec non festis martyrum sacris secundum consuetudinem ecclesiae Nestorianae&quot;. Titulus alter in fronte folii 2v : كتاب السليح المفضّل من رسائل بولوس الرسول على الترتيب الموصلى الاحاد والاعياد والذكاينة فى دايرة السنة &quot;Liber Apostoli (as-salīḥ) dispositus ex epistolis Pauli apostoli secundum ordinem Mausiliensem ad dominicas et festa et commemorationes per anni circulum celebratas&quot;.">Epistolarum, i. e. lectiones ex epistolis s. Pauli per anni criculum iuxta ritum Nestorianum distributae, in versione ut plurimum paraphrastica, fere ut in codice bilingui, Vat. Syr. 23, de quo Ioseph Simonius et Stephanus Evodius Assemani, "Catalogus..." t. II, pp. 189-195. Codicem fuse recensuit ordinemque lectionum perscripsit G. Graf in ephemeride "Jahrbuch für Liturgienvissenschaft", t. VI, p. 237-242. Praeit titulus in primis paginis duabus elegantissime exornatis : هذه الفصول من كتاب بولس الرسول | تقرا فى الاحاد والاعياد السيدية | والملائكية | والاعياد الشهدائية القديسية | على عادة البيعة السطورية "Hae sectiones libri Pauli apostoli leguntur diebus dominicis et festis Domini angelorumque nec non festis martyrum sacris secundum consuetudinem ecclesiae Nestorianae". Titulus alter in fronte folii 2v : كتاب السليح المفضّل من رسائل بولوس الرسول على الترتيب الموصلى الاحاد والاعياد والذكاينة فى دايرة السنة "Liber Apostoli (as-salīḥ) dispositus ex epistolis Pauli apostoli secundum ordinem Mausiliensem ad dominicas et festa et commemorationes per anni circulum celebratas".</p></overview><msItem><origDate>1342</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>255</height><width>185</width></dimensions><extent>184 (+ 1a.b)</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="20/06/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="27/11/2013">A.deFouchier</persName><persName n="20/03/2014">A.deFouchier</persName>
+					<persName n="13/05/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

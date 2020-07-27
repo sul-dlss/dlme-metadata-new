@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="155446">
+	<teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.005250000" scan="@5Vat.ar.525_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.525">Vat.ar.525</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Pentateuchus ex versione syriaca quam vocant simplicem translata eiusdemque secundum ordinem in capita divisus, si librum Levitici excipias. Praeter Genesis capita priora tria et Deut. 34, 10-12 textus est idem qui in cod.Monacensi arab.234 (an. 1493) habetur, deque quo fusius disseruit G. Graf, &quot;Die arabische Pentateuchübersetzung in cod.Monac.arab.234&quot;, in ephemeride 'Biblische Zeitschrift', t. 25, 1918, pp. 97-115. 193-212. 291-300, sed nonnullis mutatis et pluribus glossis quae in illo codice inserta sunt (cf. pp. 193. 195), nec non capitum titulis (cf. pp. 294-299) omissis. Gen. 1, 1-11 (بازراً بازرة &quot;facientem semen&quot;) eumdem praebet textum atque cod. Bibliothecae Bodleianae HUnt. 424, cuius partes quasdam edidit I. Franciscus Rhode, &quot;The Arabic Versions of the Pentateuch in the church of Egypt&quot;, St Louis, 1921, p. 50 sqq." value="Pentateuchus ex versione syriaca quam vocant simplicem translata eiusdemque secundum ordinem in capita divisus, si librum Levitici excipias. Praeter Genesis capita priora tria et Deut. 34, 10-12 textus est idem qui in cod.Monacensi arab.234 (an. 1493) habetur, deque quo fusius disseruit G. Graf, &quot;Die arabische Pentateuchübersetzung in cod.Monac.arab.234&quot;, in ephemeride 'Biblische Zeitschrift', t. 25, 1918, pp. 97-115. 193-212. 291-300, sed nonnullis mutatis et pluribus glossis quae in illo codice inserta sunt (cf. pp. 193. 195), nec non capitum titulis (cf. pp. 294-299) omissis. Gen. 1, 1-11 (بازراً بازرة &quot;facientem semen&quot;) eumdem praebet textum atque cod. Bibliothecae Bodleianae HUnt. 424, cuius partes quasdam edidit I. Franciscus Rhode, &quot;The Arabic Versions of the Pentateuch in the church of Egypt&quot;, St Louis, 1921, p. 50 sqq.">Pentateuchus ex versione syriaca quam vocant simplicem translata eiusdemque secundum ordinem in capita divisus, si librum Levitici excipias. Praeter Genesis capita priora tria et Deut. 34, 10-12 textus est idem qui in cod.Monacensi arab.234 (an. 1493) habetur, deque quo fusius disseruit G. Graf, "Die arabische Pentateuchübersetzung in cod.Monac.arab.234", in ephemeride 'Biblische Zeitschrift', t. 25, 1918, pp. 97-115. 193-212. 291-300, sed nonnullis mutatis et pluribus glossis quae in illo codice inserta sunt (cf. pp. 193. 195), nec non capitum titulis (cf. pp. 294-299) omissis. Gen. 1, 1-11 (بازراً بازرة "facientem semen") eumdem praebet textum atque cod. Bibliothecae Bodleianae HUnt. 424, cuius partes quasdam edidit I. Franciscus Rhode, "The Arabic Versions of the Pentateuch in the church of Egypt", St Louis, 1921, p. 50 sqq.</p></overview><msItem><origDate>saec. XVII-XVIII</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>207</height><width>140</width></dimensions><extent>II. 177 (pp. 354)</extent></physDesc></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="01/10/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text>
+</TEI.2>

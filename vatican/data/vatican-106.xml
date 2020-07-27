@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="147248"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.001380000" scan="@5Vat.ar.138_ms" type="ms" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.138">Vat.ar.138</idno>
+					</msIdentifier><msPart><msContents><overview><p scan="@4Apologia Coptitarum fidei et rituum, cuius titulus in praefatione (f. 3r) legitur : كتاب البيان المختصر فى الايمان &quot;Liber expositionis compendiarius de fide&quot;. Auctor e catalogo scriptorum christianorum ab Abū' l-Barakāt libro suo Lampadis tenebrarum inserto intelligitur, scil. clarissimus Severus ibn al-Muqaffaʿ, episcopus oppidi al-Ašmūnain. Videas editionem huius catalogi a Guilelmo Riedel curatam (de qua qupra ad cod. 106) p. 654. Opus est divisum in capita tredecim." value="Apologia Coptitarum fidei et rituum, cuius titulus in praefatione (f. 3r) legitur : كتاب البيان المختصر فى الايمان &quot;Liber expositionis compendiarius de fide&quot;. Auctor e catalogo scriptorum christianorum ab Abū' l-Barakāt libro suo Lampadis tenebrarum inserto intelligitur, scil. clarissimus Severus ibn al-Muqaffaʿ, episcopus oppidi al-Ašmūnain. Videas editionem huius catalogi a Guilelmo Riedel curatam (de qua qupra ad cod. 106) p. 654. Opus est divisum in capita tredecim.">Apologia Coptitarum fidei et rituum, cuius titulus in praefatione (f. 3r) legitur : كتاب البيان المختصر فى الايمان "Liber expositionis compendiarius de fide". Auctor e catalogo scriptorum christianorum ab Abū' l-Barakāt libro suo Lampadis tenebrarum inserto intelligitur, scil. clarissimus Severus ibn al-Muqaffaʿ, episcopus oppidi al-Ašmūnain. Videas editionem huius catalogi a Guilelmo Riedel curatam (de qua qupra ad cod. 106) p. 654. Opus est divisum in capita tredecim.</p></overview><msItem><author authorityID="33685" scan="@33685"><alias><authorityAuthor date="-1363" rif="aut" type="person">Abū al-Barakāt b. Kabar (Shams al-Riyāsa) (Abū al-Barakāt), Abū al-Barakāt b. al-Asʿad al-Qibṭī al-Yaʿqūbī,</authorityAuthor></alias></author><title scan="@1كتاب البيان المختصر فى الايمان &quot;Liber expositionis compendiarius de fide&quot;_title" type="title" value="كتاب البيان المختصر فى الايمان &quot;Liber expositionis compendiarius de fide&quot;">كتاب البيان المختصر فى الايمان "Liber expositionis compendiarius de fide"</title><origDate notAfter="1400" notBefore="1201">saec. XIII-XIV</origDate></msItem></msContents><physDesc><support><p>chart.</p></support><dimensions><height>167</height><width>120</width></dimensions><extent>III. 96</extent></physDesc><additional><adminInfo><recordHist><source><p>catalogue G. Graf</p></source></recordHist></adminInfo></additional></msPart></msDescription>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="26/03/2014"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						<persName n="13/05/2014">A.deFouchier</persName>
+					<persName n="29/10/2014">A.deFouchier</persName><persName n="14/06/2017">R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>

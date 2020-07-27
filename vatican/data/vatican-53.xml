@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI.2 xmlns:ino="http://namespaces.softwareag.com/tamino/response2" inoid="115204"><teiHeader status="new">
+		<fileDesc>
+			<titleStmt>
+				<title scan="@1Bibl. Mediceae codicum mss. orientalum catalogus_title" type="title" value="Bibl. Mediceae codicum mss. orientalum catalogus">Bibl. Mediceae codicum mss. orientalum catalogus</title><author authorityID="4949" scan="@4949"><alias><authorityAuthor date="1711-1782" rif="aut" title="arciv. di Apamea," type="person">Assemani, Stefano Evodio,</authorityAuthor></alias></author>
+			</titleStmt>
+			<publicationStmt>
+				<pubPlace>Florentiae</pubPlace><date TEIform="date">1742</date>
+			</publicationStmt><notesStmt><note anchored="yes">p. 61</note></notesStmt>
+			<sourceDesc default="NO">
+				<msDescription n="y"><msIdentifier type="primary">
+						<repository>Biblioteca Apostolica Vaticana</repository>
+						<idno TEIform="0" n="Vat.ar." rend="Vat.ar.00001zzzzz" scan="@5Vat.ar.1_ms" type="bib" uriSYS="http://digi.vatlib.it/view/MSS_Vat.ar.1">Vat.ar.1</idno>
+					</msIdentifier></msDescription>
+			</sourceDesc><sourceSYS>catalogue G. Graf</sourceSYS>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date TEIform="date" value="15/05/2013"/>
+				<persName>A.deFouchier</persName>
+				<orig>console</orig>
+			</creation>
+		</profileDesc>
+		<revisionDesc>
+			<change>
+				<date TEIform="date">13/05/2019</date>
+				<respStmt>
+					<resp>
+						<name type="org">BAV</name>
+						
+					<persName n="15/05/2013">A.deFouchier</persName><persName n="13/06/2016">Linking System: R.Mancusi</persName></resp>
+				</respStmt>
+				<item id="Vero"/>
+			</change>
+		</revisionDesc>
+	</teiHeader><text>
+		<body>
+			<bibl default="NO"/>
+		</body>
+	</text></TEI.2>
