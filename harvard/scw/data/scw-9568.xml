@@ -125,60 +125,33 @@
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Page of Calligraphy by Mir 'Ali (Sackler Gallery, Washington, DC, S1986.91) (Full view)</mods:title>
+      <mods:title>Full view of "A courtier in a purple jama and orange turban" (CBL In 07B.22)</mods:title>
     </mods:titleInfo>
-    <mods:name>
-      <mods:namePart/>
-      <mods:role>
-        <mods:roleTerm>associated name</mods:roleTerm>
-      </mods:role>
-    </mods:name>
     <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:originInfo>
-      <mods:dateCreated>circ. 1505</mods:dateCreated>
-    </mods:originInfo>
-    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
-    <mods:subject>
-      <mods:topic>calligraphy</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>nasta&#699;liq</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>floral patterns</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>flowers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>poppies</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>Papaver</mods:topic>
-    </mods:subject>
+    <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34886850</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34886850?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:28263702</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:28263702?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.13827</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.03364</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>22349965</mods:recordIdentifier>
+      <mods:recordIdentifier>16696673</mods:recordIdentifier>
     </mods:recordInfo>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork411443/urn-3:FHCL:34886850/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork411443/urn-3:FHCL:28263702/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20190416</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W411443_urn-3:FHCL:34886850</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">W411443_urn-3:FHCL:28263702</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -188,9 +161,7 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>437528551</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>437528553</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:34886850</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-03-02T17:41:59Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-03-02T17:41:59Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_22349965</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_22349965.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>22349965</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
-                     </HarvardDRS:harvardMetadataLink>
-                  </HarvardDRS:harvardMetadataLinks>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>424020663</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>424020665</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:28263702</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-09-06T15:18:57Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-09-06T15:18:57Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_16696673</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_16696673--SS_16696673.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
@@ -199,6 +170,6 @@
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W411443_urn-3:FHCL:34886850</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W411443_urn-3:FHCL:28263702</mods:url>
   </mods:location>
 </mods:mods>

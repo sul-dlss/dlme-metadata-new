@@ -1,10 +1,37 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>A Mughal and Rajput converse at dusk (HAM 1999.295)</mods:title>
+    <mods:title>Baburnama (V&amp;A IM.275-1913)</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Baburname</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>Book of Babur</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Babur Nama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>Memoirs of Babur</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Vaqayi`</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Vaki'at-i Babur</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Babur-nama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Vaqi 'at-i Baburi</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>History of Babur</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>attributed to Basawan</mods:namePart>
-    <mods:namePart type="date">fl. ca. 1556-1600, Indian</mods:namePart>
+    <mods:namePart>Ram Das</mods:namePart>
+    <mods:namePart type="date">Indian artist</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
@@ -12,42 +39,61 @@
       <mods:roleTerm>artist</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:name>
+    <mods:namePart>Akbar, Emperor of Hindustan</mods:namePart>
+    <mods:namePart type="date">1542-1605, Indian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>patron</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Babur</mods:namePart>
+    <mods:namePart type="date">b. 1483/888 AH - d. Agra 1530/937 AH ; r. 1494/899-1530/937 AH (Mughal r. 1526/932 AH - 1530/937 AH), Indian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>paintings</mods:genre>
-  <mods:genre>album leaf</mods:genre>
+  <mods:genre>manuscripts</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">late 16th century</mods:dateOther>
-    <mods:dateCreated point="start">1550</mods:dateCreated>
-    <mods:dateCreated point="end">1610</mods:dateCreated>
-    <mods:dateCreated>late 16th century</mods:dateCreated>
+    <mods:dateOther keyDate="yes">circa 1590</mods:dateOther>
+    <mods:dateCreated point="start">1590</mods:dateCreated>
+    <mods:dateCreated point="end">1590</mods:dateCreated>
+    <mods:dateCreated>circa 1590</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>height 20.3 cm ; width 11.5 cm</mods:extent>
+    <mods:extent>height 24.3 cm ; width 13.5 cm (painting)</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>The Mughal figure is wearing brown, black and gold garments, and converses with a Hindu figure clothed in a green jameh, orange turban, and a white scarf. Published in Welch, Stuart C. &#8220;Early Mughal Miniature Paintings from Two Private Collections Shown at the Fogg Art Museum.&#8221; Ars Orientalis, vol. 3, 1959, pp. 133&#8211;146.</mods:abstract>
+  <mods:abstract>Baburnama illustration, Babur receiving Uzbek and Rajput envoys in a garden at Agra, by Ram Das. The time taken to complete the painting, 50 days, is recorded in minute lettering at bottom left of the page.</mods:abstract>
   <mods:subject>
     <mods:topic>miniatures (paintings)</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>kings and rulers</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>illuminations</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>tents</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>courtiers</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>gardens</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>religion</mods:topic>
+    <mods:topic>canopies (structural elements)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Hinduism</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Islam</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>swords</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>fountains</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>peacocks</mods:topic>
+    <mods:topic>walls</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
@@ -70,8 +116,8 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Harvard Art Museums, Cambridge, Massachusetts, United States</mods:physicalLocation>
-    <mods:shelfLocator>1999.295</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Victoria and Albert Museum, London, England</mods:physicalLocation>
+    <mods:shelfLocator>IM.275-1913</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
@@ -81,15 +127,15 @@
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:27419243</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:27419243?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:27031726</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:27031726?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.01955</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.01306</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>15882031</mods:recordIdentifier>
+      <mods:recordIdentifier>14899607</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -99,14 +145,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001352805/urn-3:FHCL:27419243/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001352702/urn-3:FHCL:27031726/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20170817</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001352805_urn-3:FHCL:27419243</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20170729</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001352702_urn-3:FHCL:27031726</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -116,15 +162,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>422681421</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>422681423</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:27419243</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-06-30T21:34:49Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-06-30T21:34:49Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_15882031</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_15882031--SS_15882031.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>422132958</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>422132960</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:27031726</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-05-25T21:06:10Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-05-25T21:06:10Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_14899607</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_14899607--SS_14899607.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352805.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:27Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352702.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:27Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352805_urn-3:FHCL:27419243</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352702_urn-3:FHCL:27031726</mods:url>
   </mods:location>
 </mods:mods>

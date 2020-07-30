@@ -125,45 +125,56 @@
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Persian Notable at the Mughal Court (Detail view)</mods:title>
+      <mods:title>Astrologer with Holy Men (Mus&#233;e Guimet MA 2471)</mods:title>
     </mods:titleInfo>
+    <mods:name>
+      <mods:namePart/>
+      <mods:role>
+        <mods:roleTerm>associated name</mods:roleTerm>
+      </mods:role>
+    </mods:name>
     <mods:typeOfResource>still image</mods:typeOfResource>
-    <mods:note>Provenance: Mus&#233;e Guimet Nr. MA 2473</mods:note>
+    <mods:originInfo>
+      <mods:dateCreated>circ. 1635</mods:dateCreated>
+    </mods:originInfo>
     <mods:subject>
-      <mods:topic>male figures</mods:topic>
+      <mods:topic>asceticism</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>older people</mods:topic>
+      <mods:topic>huts</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>courtiers</mods:topic>
+      <mods:topic>wells (container components)</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>Iranians</mods:topic>
+      <mods:topic>trees</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>books</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:37698668</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:37698668?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:37698362</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:37698362?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.16719</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.16661</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>24081513</mods:recordIdentifier>
+      <mods:recordIdentifier>24081455</mods:recordIdentifier>
     </mods:recordInfo>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork411443/urn-3:FHCL:37698668/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork411443/urn-3:FHCL:37698362/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20190416</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W411443_urn-3:FHCL:37698668</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">W411443_urn-3:FHCL:37698362</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -173,7 +184,7 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>459578366</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>459578368</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:37698668</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-10-25T19:37:24Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-10-25T19:37:24Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_24081513</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_24081513.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>24081513</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>459578192</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>459578194</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:37698362</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-10-25T19:36:32Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-10-25T19:36:32Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_24081455</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_24081455.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>24081455</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
                      </HarvardDRS:harvardMetadataLink>
                   </HarvardDRS:harvardMetadataLinks>
                </HarvardDRS:DRSMetadata>
@@ -184,6 +195,6 @@
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W411443_urn-3:FHCL:37698668</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W411443_urn-3:FHCL:37698362</mods:url>
   </mods:location>
 </mods:mods>

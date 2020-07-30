@@ -1,32 +1,38 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>I'timad al-Dawla's Tomb, Agra, Uttar Pradesh, India</mods:title>
+    <mods:title>Masjid-i Shah, Isfahan, Ostan-e Esfahan, Iran</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Itimad-ud-Daulah's Tomb</mods:title>
+    <mods:title>Shah Mosque</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Mausoleum of I'timad al-Daula</mods:title>
+    <mods:title>Masjed-e Shah</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Tomb of Itimad al-Dawla</mods:title>
+    <mods:title>Mehedi Mosque</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Mausoleum of Itimad al Daula</mods:title>
+    <mods:title>Royal Mosque</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Masjid-e Imam</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Imam's Mosque</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>I'timad al-Dawla</mods:namePart>
-    <mods:namePart type="date">d. 1622/1031 AH, Iranian</mods:namePart>
+    <mods:namePart>'Abbas I, Shah of Iran</mods:namePart>
+    <mods:namePart type="date">1571-1629/978-1038 AH, Iranian</mods:namePart>
     <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
+      <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
     <mods:role>
-      <mods:roleTerm>dedicatee</mods:roleTerm>
+      <mods:roleTerm>founder</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Nur Jahan</mods:namePart>
-    <mods:namePart type="date">b. 1577/985 AH ; d. 1645</mods:namePart>
+    <mods:namePart>Safi, Shah of Iran</mods:namePart>
+    <mods:namePart type="date">r. 1629-1642, Iranian</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
@@ -34,21 +40,62 @@
       <mods:roleTerm>patron</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:name>
+    <mods:namePart>'Abbas I, Shah of Iran</mods:namePart>
+    <mods:namePart type="date">1571-1629/978-1038 AH, Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>tombs</mods:genre>
-  <mods:genre>mausoleums</mods:genre>
-  <mods:genre>shrines</mods:genre>
+  <mods:genre>mosques</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">1622-28 AD</mods:dateOther>
-    <mods:dateCreated point="start">1622</mods:dateCreated>
-    <mods:dateCreated point="end">1628</mods:dateCreated>
-    <mods:dateCreated>1622-28 AD</mods:dateCreated>
+    <mods:dateOther keyDate="yes">1611-ca.1638/1020-1048 AH</mods:dateOther>
+    <mods:dateCreated point="start">1611</mods:dateCreated>
+    <mods:dateCreated point="end">1638</mods:dateCreated>
+    <mods:dateCreated>1611-ca.1638/1020-1048 AH</mods:dateCreated>
   </mods:originInfo>
   <mods:subject>
-    <mods:topic>Islamic architecture</mods:topic>
+    <mods:topic>architecture</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>mosques</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>iwans</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>muqarnas</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>minarets</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>mosaics</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>balconies</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>arabesques</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>courtyards</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>inscriptions</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Persian</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Safavids</mods:topic>
   </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
                </cdwalite:styleWrap>
             </mods:extension>
   <mods:extension>
@@ -56,36 +103,33 @@
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Iranian</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>marble</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Safavid</cdwalite:culture>
+               </cdwalite:cultureWrap>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation displayLabel="site">Agra, Uttar Pradesh, India</mods:physicalLocation>
+    <mods:physicalLocation displayLabel="site">Isfahan, Ostan-e Esfahan, Iran</mods:physicalLocation>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Detail view. Stone inlay.</mods:title>
+      <mods:title>Detail view of the northwestern iwan</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>floral patterns</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32602767</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32602767?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:29084284</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:29084284?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.09012</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.04287</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>20329926</mods:recordIdentifier>
+      <mods:recordIdentifier>17199010</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -95,14 +139,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvsite49291/urn-3:FHCL:32602767/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvsite47793/urn-3:FHCL:29084284/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20141226</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">S49291_urn-3:FHCL:32602767</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20180509</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">S47793_urn-3:FHCL:29084284</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -112,15 +156,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431927588</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431927590</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32602767</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T15:33:57Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T15:33:57Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20329926</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20329926--SS_20329926.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>425506534</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>425506536</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:29084284</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-10-26T18:09:00Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-10-26T18:09:00Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_17199010</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_17199010--SS_17199010.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite49291.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-05-11T11:31Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite47793.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-03-31T22:17Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/S49291_urn-3:FHCL:32602767</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/S47793_urn-3:FHCL:29084284</mods:url>
   </mods:location>
 </mods:mods>

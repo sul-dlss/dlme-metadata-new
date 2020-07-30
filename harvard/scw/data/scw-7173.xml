@@ -1,6 +1,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Shah Tahmasp (Houghton) Shahnama, f. 367b (NY Met, 1970.301.48)</mods:title>
+    <mods:title>Shah Tahmasp (Houghton) Shanama, f. 294a (Aga Khan, AKM 162)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
     <mods:title>Shahnameh</mods:title>
@@ -25,6 +25,16 @@
     </mods:role>
   </mods:name>
   <mods:name>
+    <mods:namePart>Muzaffar 'Ali</mods:namePart>
+    <mods:namePart type="date">fl. late 1520s - 1570, Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>artist</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
     <mods:namePart>Tahmasp I, Shah</mods:namePart>
     <mods:namePart type="date">r. 1524-1576</mods:namePart>
     <mods:role>
@@ -42,24 +52,6 @@
     </mods:role>
     <mods:role>
       <mods:roleTerm>patron</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Afrasiyab</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>subject</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name>
-    <mods:namePart>Kay Khusrow</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>subject</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:name>
@@ -85,36 +77,35 @@
     <mods:dateCreated>ca. 1525-1530</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>30.8 x 18.4 cm</mods:extent>
+    <mods:extent>Page: 47 x 31.8 cm; painting: 26.8 x 17.3 cm</mods:extent>
   </mods:physicalDescription>
   <mods:note>General note:  760 folios w/ 258 illustrated pages</mods:note>
-  <mods:note>Provenance: In 1568, the manuscript was presented to the Ottoman Sultan Selim II.  The manuscript remained in Istanbul until procured for the Paris Rothchilds ca. 1900.  The manuscript was virtually intact until 1959 when it was purchased by Arthur A. Houghton, Jr., and dispersed subsequently.</mods:note>
   <mods:subject>
     <mods:topic>Islamic art</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
+    <mods:topic>Rustam</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>combat</mods:topic>
+    <mods:topic>Akvan</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>equestrian figures</mods:topic>
+    <mods:topic>divs</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>horses</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>trumpets</mods:topic>
+    <mods:topic>onagers</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>spears</mods:topic>
+    <mods:topic>equestrian figures</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>shields</mods:topic>
+    <mods:topic>natural landscapes</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Rustam</mods:topic>
+    <mods:topic>streams</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
@@ -149,47 +140,26 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Metropolitan Museum of Art, New York, New York, United States</mods:physicalLocation>
-    <mods:shelfLocator>1970.301.48</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Aga Khan Museum, Toronto Metropolitan Area, Ontario, Canada</mods:physicalLocation>
+    <mods:shelfLocator>AKM 162</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>f. 367b: Night battle of Kay Khusrow with Afrasiyab (detail)</mods:title>
+      <mods:title>f. 294a: Rustam pursues Akvan (detail)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>shields</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>maces</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>helmets</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>horses</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>Rustam</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>vambraces</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>arabesques</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32060033</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32060033?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32060109</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32060109?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.07408</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.07446</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>19303723</mods:recordIdentifier>
+      <mods:recordIdentifier>19303761</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -199,14 +169,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork203932/urn-3:FHCL:32060033/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork203877/urn-3:FHCL:32060109/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20200422</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W203932_urn-3:FHCL:32060033</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20200417</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">W203877_urn-3:FHCL:32060109</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -216,15 +186,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>430938262</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>430938264</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32060033</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-04T14:42:00Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-04T14:42:00Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_19303723</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_19303723--SS_19303723.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>430938376</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>430938378</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32060109</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-04T14:42:10Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-04T14:42:10Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_19303761</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_19303761--SS_19303761.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork203932.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-24T11:30Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork203877.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-18T11:30Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W203932_urn-3:FHCL:32060033</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W203877_urn-3:FHCL:32060109</mods:url>
   </mods:location>
 </mods:mods>

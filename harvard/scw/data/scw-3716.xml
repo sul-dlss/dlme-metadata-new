@@ -1,16 +1,22 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Majma' al-tawarikh (Chester Beatty, Per 105)</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Assembly of Histories</mods:title>
+    <mods:title>Khamsah of Nizami (Chester Beatty, MS. Pers. 137)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Majma al-tavarikh</mods:title>
+    <mods:title>Khamsa of Nizami</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Khamseh of Nizami</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Quintet of Nizami</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Five poems of Nizami</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>Hafiz-i Abru</mods:namePart>
-    <mods:namePart type="date">d. 1430/833 AH</mods:namePart>
+    <mods:namePart>Nizami</mods:namePart>
+    <mods:namePart type="date">1141-1146/535-540 AH - early 13th c. (1217?), Azerbaijani</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
@@ -19,43 +25,75 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Shah Rukh Mirza</mods:namePart>
-    <mods:namePart type="date">r. 1405-1447/807-850 AH, Iranian</mods:namePart>
+    <mods:namePart>Majnun</mods:namePart>
+    <mods:namePart type="date">Iranian</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
     <mods:role>
-      <mods:roleTerm>patron</mods:roleTerm>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Yusuf</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Zulaykha</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>manuscripts</mods:genre>
-  <mods:genre>paintings</mods:genre>
   <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm>Her&#257;t, Her&#257;t, Afghanistan</mods:placeTerm>
-    </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1425</mods:dateOther>
-    <mods:dateCreated point="start">1425</mods:dateCreated>
-    <mods:dateCreated point="end">1425</mods:dateCreated>
-    <mods:dateCreated>ca. 1425</mods:dateCreated>
+    <mods:dateOther keyDate="yes">c. 868 A.H./1463 A.D.</mods:dateOther>
+    <mods:dateCreated point="start">1463</mods:dateCreated>
+    <mods:dateCreated point="end">1463</mods:dateCreated>
+    <mods:dateCreated>c. 868 A.H./1463 A.D.</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>43 x 34 cm (page); 33.5 x 22.7 cm (text)</mods:extent>
+    <mods:extent> 32.4 centimeters;  21.7 centimeters</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>Dispersed manuscript; previously thought to be Rashid al-Din&#8217;s Jami&#703; al-Tawarikh; est. 407 folios with 150 illustrations (Martinovitch); naskh script</mods:abstract>
-  <mods:note>Bibliography: Ghiasian, Mohamad Reza. "The &#8220;Historical Style&#8221; of Painting for Shahrukh and Its Revival in the Dispersed Manuscript of Majma&#703; al-Tawarikh."  Iranian Studies, 2014.</mods:note>
   <mods:subject>
     <mods:topic>miniatures (paintings)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>painted manuscripts</mods:topic>
+    <mods:topic>borders (ornamental areas)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
+    <mods:topic>illuminations</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>histories</mods:topic>
+    <mods:topic>inscriptions</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Persian</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>nasta'liq</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>poetry</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>kings and rulers</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>lovers</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>battles</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>pilgrimages</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Timurid</cdwalite:style>
@@ -63,6 +101,10 @@
             </mods:extension>
   <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Timurid</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
@@ -78,62 +120,30 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>silver</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
                <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin borough (County Dublin, Leinster, Republic of Ireland) (borough)</mods:physicalLocation>
-    <mods:shelfLocator>Per 105</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin, Ireland</mods:physicalLocation>
+    <mods:shelfLocator>MS. Pers. 137</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Sultan Mahmud giving audience during his last illness (105.4a)</mods:title>
+      <mods:title>General view, f. 100: The pilgrimage of Majnun to the Ka'bah at Mecca where his father brings him in hopes of curing Majnun's love-frenzy for Laila</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>Mahmud of Ghazni</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>death</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>beds</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>courtiers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>kings and rulers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>kneeling figures</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>curtains</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>crowns</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32605677</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32605677?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32605581</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32605581?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.10169</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.10121</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>20331949</mods:recordIdentifier>
+      <mods:recordIdentifier>20331901</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -143,14 +153,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001352636/urn-3:FHCL:32605677/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001352626/urn-3:FHCL:32605581/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20200318</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001352636_urn-3:FHCL:32605677</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20170719</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001352626_urn-3:FHCL:32605581</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -160,15 +170,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431943415</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431943417</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32605677</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T19:53:37Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T19:53:37Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20331949</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20331949--SS_20331949.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431943271</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431943273</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32605581</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T19:53:24Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T19:53:24Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20331901</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20331901--SS_20331901.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352636.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-06T11:46Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352626.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:26Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352636_urn-3:FHCL:32605677</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352626_urn-3:FHCL:32605581</mods:url>
   </mods:location>
 </mods:mods>

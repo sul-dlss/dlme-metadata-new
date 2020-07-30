@@ -1,25 +1,26 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Tarikh-e khandan-e timuriyah (Khuda Bakhsh 551)</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Timur-nama</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Timurnama</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Tarikh-i khandan-i timuriyah</mods:title>
+    <mods:title>Majma' al-tawarikh (AKM, AKM40)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="translated">
-    <mods:title>History of the Timurids</mods:title>
+    <mods:title>Assembly of Histories</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Tarikh-i khandan-i Timuriyya</mods:title>
+    <mods:title>Majma' al-tavarikh</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>Akbar</mods:namePart>
-    <mods:namePart type="date">Mughal emperor, 1542-1605</mods:namePart>
+    <mods:namePart>Hafiz-i Abru</mods:namePart>
+    <mods:namePart type="date">d. 1430/833 AH</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Shahrukh</mods:namePart>
+    <mods:namePart type="date">Timurid ruler, 1377-1447</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
@@ -29,81 +30,90 @@
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
   <mods:genre>manuscripts</mods:genre>
+  <mods:genre>paintings (visual works)</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">1577-1578</mods:dateOther>
-    <mods:dateCreated point="start">1577</mods:dateCreated>
-    <mods:dateCreated point="end">1578</mods:dateCreated>
-    <mods:dateCreated>1577-1578</mods:dateCreated>
+    <mods:place>
+      <mods:placeTerm>Herat, Afghanistan</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther keyDate="yes">early 15th century</mods:dateOther>
+    <mods:dateCreated point="start">1400</mods:dateCreated>
+    <mods:dateCreated point="end">1425</mods:dateCreated>
+    <mods:dateCreated>early 15th century</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>height 15.75 in ; width 10.5 in</mods:extent>
+    <mods:extent>42 x 32.4 cm</mods:extent>
   </mods:physicalDescription>
-  <mods:note>General note:  The Tarikh-e khandan-e timuriyah, more commonly known as the Timur-nama, is a manuscript in the Khuda Bakhsh Oriental Library in Patna. The manuscript is a history of Timur and his descendants and was written during the reign of the Mughal Emperor Akbar, most likely in the late 1570s.</mods:note>
-  <mods:note>General note:  The manuscript contains 338 folios with 133 illustrations (miniatures).</mods:note>
-  <mods:note>Inscription: An inscription at the beginning of the manuscript (flyleaf) by Emperor Shah Jahan states that this history was written during the time of &#8220;Shah Baba&#8221; (Akbar).</mods:note>
-  <mods:note>Inscription: Signature of Francis Gladwin on flyleaf</mods:note>
+  <mods:abstract>Detached folio of a dispersed manuscript</mods:abstract>
   <mods:subject>
-    <mods:topic>manuscripts</mods:topic>
+    <mods:topic>Islamic art</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>history</mods:topic>
+    <mods:topic>miniatures (paintings)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Akbar, Emperor of Hindustan</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>kings and rulers</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>battles</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Timur</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>nasta&#699;liq</mods:topic>
+    <mods:topic>histories</mods:topic>
   </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Timurid</cdwalite:style>
                </cdwalite:styleWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
+               </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Khuda Bakhsh Oriental Public Library, B&#257;nkipur (West Bengal, India) (inhabited place)</mods:physicalLocation>
-    <mods:shelfLocator>MS 551</mods:shelfLocator>
-  </mods:location>
-  <mods:location>
-    <mods:physicalLocation displayLabel="current">Patna, Bih&#257;r, India</mods:physicalLocation>
+    <mods:physicalLocation type="repository">Aga Khan Museum, Toronto Metropolitan Area, Ontario, Canada</mods:physicalLocation>
+    <mods:shelfLocator>AKM40</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Unidentified folio (full view)</mods:title>
+      <mods:title>An obituary listing the victims of Isma'ili assassins</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:subject>
+      <mods:topic>rulers (people)</mods:topic>
+    </mods:subject>
+    <mods:subject>
       <mods:topic>thrones</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>canopies (structural elements)</mods:topic>
+      <mods:topic>crowns (headdresses)</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>servants</mods:topic>
+      <mods:topic>step stools</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:26366533</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:26366533?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:28264362</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:28264362?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.00707</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.03694</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>13615596</mods:recordIdentifier>
+      <mods:recordIdentifier>16697006</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -113,14 +123,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001310289/urn-3:FHCL:26366533/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001306512/urn-3:FHCL:28264362/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20171003</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001310289_urn-3:FHCL:26366533</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20200429</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001306512_urn-3:FHCL:28264362</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -130,15 +140,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>421379323</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>421379325</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:26366533</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-04-05T18:31:08Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-04-05T18:31:08Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_13615596</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_13615596--SS_13615596.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>424021653</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>424021655</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:28264362</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-09-06T15:34:31Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-09-06T15:34:31Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_16697006</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_16697006--SS_16697006.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001310289.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-05-28T11:31Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001306512.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-05-04T11:33Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001310289_urn-3:FHCL:26366533</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001306512_urn-3:FHCL:28264362</mods:url>
   </mods:location>
 </mods:mods>

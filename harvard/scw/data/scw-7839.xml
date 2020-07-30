@@ -1,50 +1,45 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Bhagavata Purana (Harvard/LACMA)</mods:title>
+    <mods:title>Lady Yearning for Her Lover</mods:title>
   </mods:titleInfo>
-  <mods:name>
-    <mods:namePart>Krishna  </mods:namePart>
-    <mods:namePart type="date">Indian</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>associated name</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>subject</mods:roleTerm>
-    </mods:role>
-  </mods:name>
+  <mods:titleInfo type="alternative">
+    <mods:title>Woman Yearning for Her Lover and Her Messenger</mods:title>
+  </mods:titleInfo>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>watercolors</mods:genre>
-  <mods:genre>drawings</mods:genre>
+  <mods:genre>paintings</mods:genre>
   <mods:originInfo>
     <mods:place>
-      <mods:placeTerm>Rajasthan, India Mewar, Rajasthan, India</mods:placeTerm>
+      <mods:placeTerm>Bundi, Rajasthan, India Rajasthan, India</mods:placeTerm>
     </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1540</mods:dateOther>
-    <mods:dateCreated point="start">1525</mods:dateCreated>
-    <mods:dateCreated point="end">1550</mods:dateCreated>
-    <mods:dateCreated>ca. 1540</mods:dateCreated>
+    <mods:dateOther keyDate="yes">ca. 1770</mods:dateOther>
+    <mods:dateCreated point="start">1760</mods:dateCreated>
+    <mods:dateCreated point="end">1780</mods:dateCreated>
+    <mods:dateCreated>ca. 1770</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>18 x 24 cm.</mods:extent>
+    <mods:extent>24.3 x 15.8 cm.</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>Illustrated folios from a dispersed Bhagavata Purana ("Ancient Stories of the Lord")</mods:abstract>
+  <mods:abstract>Illustrated folio</mods:abstract>
+  <mods:note>Citation/references: Naveen Patnaik and Stuart Cary Welch, A Second Paradise: Indian Courtly Life, 1590-1947, Doubleday &amp; and Co. (Garden City, NY, 1985), page 104, 183/figure 35 ; Kristin A. Mortimer, Harvard University Art Museums: A Guide to the Collections, Harvard University Art Museums/Abbeville Press (Cambridge, MA; New York, NY, 1985), page 92/figure 99 ; J.C. Harle, The Art and Architecture of the Indian Subcontinent, Penguin Books (London, England (?), 1986), pp391, 570, fig. 310 ; James Cuno, Harvard's Art Museums: 100 Years of Collecting, Harvard University Art Museums/Harry N. Abrams, Inc. (Cambridge, MA, 1996), page 152-153 ; Steven Kossak, Indian Court Painting, 16th-19th Century, exh. cat., Harry N. Abrams, Inc. (New York, NY, 1997), Page 118-119/Figure 73 ; Hideji Takakai, ed., Nimai no E---Two Paintings, Mainichi Shinbun Sha. (Japan, 2000), pp 126 ; Stephan Wolohojian, ed., Harvard Art Museum Handbook, Harvard Art Museum (Cambridge, MA, 2008), p. 127.</mods:note>
+  <mods:note>Exhibitions: Gods, Thrones, and Peacocks - Revisited: Northern Indian Miniatures from two Traditions, Fifteenth to Nineteenth Centuries, Harvard University Art Museums, Cambridge, 03/31/1990 - 06/10/1990 ; Poignant, Picturesque, and Berserk Northern Indian Paintings and Objects of the Seventeenth through Nineteenth Centuries, Harvard University Art Museums, Cambridge, 08/08/1992 - 10/04/1992 ; From India's Hills and Plains: Rajput Painting from the Punjab and Rajasthan, 17th through 19th Centuries, Harvard University Art Museums, Cambridge, 09/04/1993 - 10/31/1993 ; The Grace of White: Indian Paintings and Objects, 16th-19th Centuries, Harvard University Art Museums, Cambridge, 07/23/1994 - 09/29/1994 ; Indian Court Painting: 16th-19th Century, The Metropolitan Museum of Art, New York, 03/24/1997 - 07/06/1997 ; Ambassador's Choice: The Galbraith Collection of Indian Painting, Harvard University Art Museums, Arthur M. Sackler Museum, Cambridge, 02/15/1986 - 04/06/1986 ; Rasika, the Discerning Connoisseur: Indian Paintings from the John Kenneth Galbraith Collection, Harvard University Art Museums, Cambridge, 01/31/1998 - 04/05/1998 ; The Sensuous and the Sublime, Harvard University Art Museums, Cambridge, 07/07/2001 - 12/30/2001</mods:note>
+  <mods:note>Provenance: Harvard Art Museums; Arthur M. Sackler Museum, Gift of John Kenneth Galbraith, 1972.352</mods:note>
   <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
+    <mods:topic>female figures</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>South Asians</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>stories</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>painted manuscripts</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Hinduism</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Hindu gods</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>Hindus</mods:topic>
+    <mods:topic>nudes</mods:topic>
   </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mewar</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Rajasthani</cdwalite:style>
                </cdwalite:styleWrap>
             </mods:extension>
   <mods:extension>
@@ -52,14 +47,12 @@
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor and ink on paper</cdwalite:termMaterialsTech>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor and gold on paper</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
     <mods:physicalLocation type="repository">Harvard Art Museums, Cambridge, Massachusetts, United States</mods:physicalLocation>
-  </mods:location>
-  <mods:location>
-    <mods:physicalLocation displayLabel="current">Los Angeles County Museum of Art, Los Angeles, California, United States</mods:physicalLocation>
+    <mods:shelfLocator>1972.352</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
@@ -67,17 +60,29 @@
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
+    <mods:subject>
+      <mods:topic>bracelets (jewelry)</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>pearls</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>sofas</mods:topic>
+    </mods:subject>
+    <mods:subject>
+      <mods:topic>hookahs</mods:topic>
+    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:33726520</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:33726520?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:33725203</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:33725203?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.10801</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.10550</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>21092786</mods:recordIdentifier>
+      <mods:recordIdentifier>21092418</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -87,14 +92,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork264061/urn-3:FHCL:33726520/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork264006/urn-3:FHCL:33725203/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20141227</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W264061_urn-3:FHCL:33726520</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">W264006_urn-3:FHCL:33725203</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -104,15 +109,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>434424843</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>434424845</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:33726520</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-08-08T18:52:41Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-08-08T18:52:41Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_21092786</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_21092786--SS_21092786.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>434421515</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>434421517</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:33725203</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-08-08T16:02:43Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-08-08T16:02:43Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_21092418</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_21092418--SS_21092418.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork264061.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:44Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork264006.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:44Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W264061_urn-3:FHCL:33726520</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W264006_urn-3:FHCL:33725203</mods:url>
   </mods:location>
 </mods:mods>
