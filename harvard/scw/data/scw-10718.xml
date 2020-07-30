@@ -1,18 +1,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Bustan of Sa'di (Dar al-Kutub, 22 M. Adab Farsi)</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Orchard of Sa'di</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Flower Garden of Sa'di</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="translated">
-    <mods:title>Fragrant Place of Sa'di</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Bostan of Saadi</mods:title>
+    <mods:title>Bustan</mods:title>
   </mods:titleInfo>
   <mods:name>
     <mods:namePart>Sa'di</mods:namePart>
@@ -25,7 +13,7 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Attributed to Bihzad</mods:namePart>
+    <mods:namePart>Attributed to in colophon Bihzad</mods:namePart>
     <mods:namePart type="date">ca. 1450-1535-6/935 AH</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
@@ -35,7 +23,7 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Sultan-Ali al-Katib</mods:namePart>
+    <mods:namePart>Signed in colophon Mir Shaykh Muhammad ibn Shaykh Ahmad</mods:namePart>
     <mods:namePart type="date">Afghan</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
@@ -45,39 +33,65 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Husayn Bayqara, Sultan of Korasan</mods:namePart>
-    <mods:namePart type="date">r. 1469-1506/873-911 AH, Iranian</mods:namePart>
+    <mods:namePart>Abraham (Biblical patriarch)</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
     <mods:role>
-      <mods:roleTerm>patron</mods:roleTerm>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Majnun</mods:namePart>
+    <mods:namePart type="date">Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Jesus Christ</mods:namePart>
+    <mods:namePart type="date">ca. 5 BC - 30 AD</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Malik Shah I</mods:namePart>
+    <mods:namePart type="date">1054/446 AH - 1092/485 AHReign dates: 1073-1092/465-485 AH , Iranian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Dawud al-Ta'i</mods:namePart>
+    <mods:namePart type="date">d. 781-782/165 AH</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>subject</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
   <mods:genre>manuscripts</mods:genre>
   <mods:originInfo>
     <mods:place>
-      <mods:placeTerm>Herat, Velayat-e Herat, Afghanistan</mods:placeTerm>
+      <mods:placeTerm>Herat, Herat, Afghanistan</mods:placeTerm>
     </mods:place>
-    <mods:dateOther keyDate="yes">1488/893 AH</mods:dateOther>
-    <mods:dateCreated point="start">1488</mods:dateCreated>
-    <mods:dateCreated point="end">1488</mods:dateCreated>
-    <mods:dateCreated>1488/893 AH</mods:dateCreated>
+    <mods:dateOther keyDate="yes">1478/883 AH</mods:dateOther>
+    <mods:dateCreated point="start">1478</mods:dateCreated>
+    <mods:dateCreated point="end">1478</mods:dateCreated>
+    <mods:dateCreated>1478/883 AH</mods:dateCreated>
   </mods:originInfo>
-  <mods:physicalDescription>
-    <mods:extent>24 x 16 cm</mods:extent>
-  </mods:physicalDescription>
-  <mods:note>Bibliography: Treasures of the Illustrated &amp; Illuminated Persian Manucripts, National Library of Egypt, 2008, pp 47-53</mods:note>
-  <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>poetry</mods:topic>
-  </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Timurid</cdwalite:style>
                </cdwalite:styleWrap>
@@ -107,41 +121,26 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Dar al-Kutub wa al-Watha'iq al-Qawmiyah, Cairo, Egypt (after Ancient)</mods:physicalLocation>
-    <mods:shelfLocator>22 Adab Farsi</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin, Ireland</mods:physicalLocation>
+    <mods:shelfLocator>Ms.156</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>f. 2a: Party at Court of Sultan Husayn Mirza (detail)</mods:title>
+      <mods:title>General view, f. 73b: Sa'di, in a boat on the western sea, astonished to see his companion, a Sufi from Faryab, following it on his praying-mat floating on the water</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>courts (social groups)</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>musicians</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>wine bottles</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>conversations</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>rugs</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32605236</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32605236?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:33236153</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:33236153?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.09955</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.10248</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>20331645</mods:recordIdentifier>
+      <mods:recordIdentifier>21006771</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -151,14 +150,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork48341/urn-3:FHCL:32605236/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork48230/urn-3:FHCL:33236153/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20190905</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W48341_urn-3:FHCL:32605236</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20180131</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">W48230_urn-3:FHCL:33236153</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -168,15 +167,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431942759</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431942761</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32605236</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T19:28:30Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T19:28:30Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20331645</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20331645--SS_20331645.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>433374703</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>433374705</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:33236153</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-07-10T14:29:09Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-07-10T14:29:09Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_21006771</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_21006771--SS_21006771.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork48341.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-05-11T11:31Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork48230.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-03-31T22:50Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W48341_urn-3:FHCL:32605236</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W48230_urn-3:FHCL:33236153</mods:url>
   </mods:location>
 </mods:mods>

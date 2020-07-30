@@ -1,6 +1,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Dancing dervishes, detached folio from the Shah Jahan album (NY Met, 55.121.10.18)</mods:title>
+    <mods:title>Youth Fallen from a Tree (NY Met, 55.121.10.20)</mods:title>
   </mods:titleInfo>
   <mods:name>
     <mods:namePart>Mir 'Ali Husayni Haravi</mods:namePart>
@@ -9,59 +9,80 @@
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
     <mods:role>
+      <mods:roleTerm>calligrapher</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart>Aqa Riza</mods:namePart>
+    <mods:namePart type="date">Indian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
       <mods:roleTerm>painter (artist)</mods:roleTerm>
     </mods:role>
   </mods:name>
+  <mods:name>
+    <mods:namePart>Shah Jahan</mods:namePart>
+    <mods:namePart type="date">reg. 1628-1658, Indian</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>associated name</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>patron</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>album leaf</mods:genre>
   <mods:genre>paintings</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">c. early 16th-17th centuries</mods:dateOther>
-    <mods:dateCreated point="start">1530</mods:dateCreated>
-    <mods:dateCreated point="end">1610</mods:dateCreated>
-    <mods:dateCreated>c. early 16th-17th centuries</mods:dateCreated>
+    <mods:dateOther keyDate="yes">ca. 1610</mods:dateOther>
+    <mods:dateCreated point="start">1600</mods:dateCreated>
+    <mods:dateCreated point="end">1620</mods:dateCreated>
+    <mods:dateCreated>ca. 1610</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>38.6 x 25.9 cm.</mods:extent>
+    <mods:extent>39 x 25.6 cm.</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>Illustrated folio that belonged to "Emperor's Album," made for Emperors Jahangir and Shah Jahan</mods:abstract>
-  <mods:note>Provenance: Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955. Metropolitan Museum of Art, New York (55.121.10.18)</mods:note>
-  <mods:note>Inscription: Signature: 55.121.10.18 verso: ; In Persian, in upper left rectangle: The poor 'Ali. ; Marking: 55.121.10.18 recto: ; Margin number '46' is inscribed in the gilt margin.</mods:note>
+  <mods:abstract>Illustrated folio from the Shah Jahan Album</mods:abstract>
+  <mods:note>Historical: Folio from the Shah Jahan Album</mods:note>
+  <mods:note>Provenance: Jack S. Rofe, Scotland (in 1929; sale, Sotheby's London,December 12, 1929, to Kevorkian); Hagop Kevorkian, New York, 1929&#8211;55; gift and sale to MMA]. Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955.</mods:note>
+  <mods:note>Inscription: Signature: 55.121.10.20 recto: ; In Persian, in lower left corner triangle: By its scribe, the sinful slave Mir 'Ali. ; Inscription: 55.121.10.20 verso: ; In Persian, over butterfly in margin below painting: Painted by Aqa Riza. ; 55.121.10.20 recto: ; In Persian, in lower part of gilt margin: Work of Fath Muhammad. ; Marking: 55.121.10.20 verso: ; Margin number '17' is inscribed in the gilt margin.</mods:note>
   <mods:subject>
-    <mods:topic>music</mods:topic>
+    <mods:topic>male figures</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>religious ceremonies</mods:topic>
+    <mods:topic>miniatures (paintings)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>sama'</mods:topic>
+    <mods:topic>painted manuscripts</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>South Asians</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Muslims</mods:topic>
+    <mods:topic>Persian</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>dervishes</mods:topic>
+    <mods:topic>trees</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>turbans</mods:topic>
+    <mods:topic>tree climbing</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>flute players</mods:topic>
+    <mods:topic>young adults</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>flutes</mods:topic>
+    <mods:topic>youth</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>tambourines</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>musicians</mods:topic>
+    <mods:topic>birds</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
+               </cdwalite:styleWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Jahangir</cdwalite:style>
                </cdwalite:styleWrap>
             </mods:extension>
   <mods:extension>
@@ -89,30 +110,33 @@
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Ink, opaque watercolor, and gold on paper</cdwalite:termMaterialsTech>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor, gold and ink on paper</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
     <mods:physicalLocation type="repository">Metropolitan Museum of Art, New York, New York, United States</mods:physicalLocation>
-    <mods:shelfLocator>55.121.10.18</mods:shelfLocator>
+    <mods:shelfLocator>55.121.10.20</mods:shelfLocator>
+  </mods:location>
+  <mods:location>
+    <mods:physicalLocation displayLabel="former site">India</mods:physicalLocation>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Detail view, musicians and dervishes</mods:title>
+      <mods:title>General view</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:33727641</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:33727641?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:33727697</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:33727697?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.11023</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.11051</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>21093068</mods:recordIdentifier>
+      <mods:recordIdentifier>21093096</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -122,14 +146,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork260503/urn-3:FHCL:33727641/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork260501/urn-3:FHCL:33727697/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20180131</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W260503_urn-3:FHCL:33727641</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20181213</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">W260501_urn-3:FHCL:33727697</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -139,15 +163,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>434426263</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>434426265</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:33727641</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-08-08T19:30:21Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-08-08T19:30:21Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_21093068</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_21093068--SS_21093068.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>434426347</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>434426349</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:33727697</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-08-08T19:30:28Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-08-08T19:30:28Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_21093096</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_21093096--SS_21093096.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork260503.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:41Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork260501.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:41Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W260503_urn-3:FHCL:33727641</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W260501_urn-3:FHCL:33727697</mods:url>
   </mods:location>
 </mods:mods>

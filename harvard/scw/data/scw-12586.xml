@@ -1,12 +1,6 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Muraqqa' (Walters W. 668)</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Presentation of a Book by Sa'di</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Muraqqa</mods:title>
+    <mods:title>Squirrels in a plane tree (BL, Johnson 1,30)</mods:title>
   </mods:titleInfo>
   <mods:name>
     <mods:namePart>Abu'l Hasan</mods:namePart>
@@ -19,48 +13,52 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>Sa'di Sa'di</mods:namePart>
-    <mods:namePart type="date">ca. 610-691 AH, Iranian ca. 610-691 AH, Iranian</mods:namePart>
+    <mods:namePart>India Office Library, London (Greater London, England, United Kingdom) (inhabited place)</mods:namePart>
+    <mods:namePart type="date">British repository, London, contemporary</mods:namePart>
     <mods:role>
       <mods:roleTerm>associated name</mods:roleTerm>
     </mods:role>
     <mods:role>
-      <mods:roleTerm>subject</mods:roleTerm>
+      <mods:roleTerm>former repository</mods:roleTerm>
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>album leaf</mods:genre>
-  <mods:genre>single page painting/drawing</mods:genre>
-  <mods:genre>watercolors</mods:genre>
   <mods:genre>manuscripts</mods:genre>
+  <mods:genre>album leaf</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">1616</mods:dateOther>
-    <mods:dateCreated point="start">1616</mods:dateCreated>
-    <mods:dateCreated point="end">1616</mods:dateCreated>
-    <mods:dateCreated>1616</mods:dateCreated>
+    <mods:dateOther keyDate="yes">ca. 1610</mods:dateOther>
+    <mods:dateCreated point="start">1610</mods:dateCreated>
+    <mods:dateCreated point="end">1610</mods:dateCreated>
+    <mods:dateCreated>ca. 1610</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>17.2 x 12.2 cm.</mods:extent>
+    <mods:extent>36.2 x 22.5 cm</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>Album containing 34 illustrated folios</mods:abstract>
-  <mods:note>Exhibitions: Splendor in Books. Grolier Club, New York; The Walters Art Gallery, Baltimore. 1977-1978. ; The Grand Mogul: Imperial Painting in India, 1600-1900. The Sterling and Francine Clark Art Institute, Williamstown; The Walters Art Gallery, Baltimore; Museum of Fine Arts, Boston, Boston; Asia House Gallery, New York. 1978-1979. ; Illuminated Manuscripts: Masterpieces in Miniature. The Walters Art Gallery, Baltimore. 1984-1985. ; Muslim and Hindu Art. Duke University Museum of Art, Durham. 1985. ; The Royal Style. The Walters Art Gallery, Baltimore. 1988-1989. ; Poetry and Prayer: Islamic Manuscripts from the Walters Art Museum. The Walters Art Museum, Baltimore. 2010.</mods:note>
-  <mods:note>General note:  The album contains 34 illustrations, 3 of which are attributed to the Mughal painter Abu al-Hasan (Nadir al-al-Zaman), 2 to Manuhar, and 1 each to Dawlat and Sadiqi.</mods:note>
-  <mods:note>Production: Probably Iran or India (most probably compiled in the thirteenth century AH / nineteenth CE)</mods:note>
-  <mods:note>Provenance: 'Abduh Khudadad, 1189 AH/AD 1775 [mode of acquisition unknown] [seal impression: 'Abduh Khudadad, 1189 AH/AD 1775 on fol. 58a]; Farhad, 1234 AH/AD 1800 [mode of acquisition unknown] [seal impression: Farhad, 1234 AH/AD 1800 on a number of folios]; Muhammad al-Hasani [date and mode of acquisition unknown] [seal impression: Muhammad al-Hasani on fol. 28a]; Fath 'Ali [date and mode of acquisition unknown] [seal impression: Fath 'Ali on fol. 82b]; Henry Walters, Baltimore [date and mode of acquisition unknown]; Walters Art Museum, 1931, by bequest.</mods:note>
+  <mods:abstract>One of 30 leaves, separately mounted</mods:abstract>
+  <mods:note>General Notes: Richard Johnson, collector (English; India, ca. 1770&#8211;1790)</mods:note>
   <mods:subject>
     <mods:topic>miniatures (paintings)</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>painted manuscripts</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>South Asians</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Persian</mods:topic>
+    <mods:topic>Islamic art</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>calligraphy</mods:topic>
+    <mods:topic>squirrels</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>tree climbing</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>hunters</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>animals</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Platanus</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
@@ -74,66 +72,54 @@
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Walters Art Museum, Baltimore, Maryland, United States</mods:physicalLocation>
-    <mods:shelfLocator>W.668</mods:shelfLocator>
+    <mods:physicalLocation type="repository">British Library, London, United Kingdom</mods:physicalLocation>
+    <mods:shelfLocator>Johnson 1,30</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>f. 48b: Three illustrations from a Gulistan (full view)</mods:title>
+      <mods:title>Full view</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:subject>
-      <mods:topic>Mughal</mods:topic>
+      <mods:topic>Platanus</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>gardens</mods:topic>
+      <mods:topic>oriental plane</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>gardeners</mods:topic>
+      <mods:topic>Platanus orientalis</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>chahar bagh</mods:topic>
+      <mods:topic>rocks</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>Equus caballus</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>male figures</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>horses</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>turbans</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>cypress</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>Cupressus sempervirens</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>flowers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>Iris</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>books</mods:topic>
+      <mods:topic>autumn</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:37872506</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:37872506?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41025783</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41025783?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.16089</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.18069</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>24216235</mods:recordIdentifier>
+      <mods:recordIdentifier>23040744</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -143,14 +129,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork738895/urn-3:FHCL:37872506/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork738899/urn-3:FHCL:41025783/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20150806</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W738895_urn-3:FHCL:37872506</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20200320</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">W738899_urn-3:FHCL:41025783</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -160,17 +146,17 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>460134639</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>460134641</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:37872506</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-12-06T21:34:26Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-12-06T21:34:26Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_24216235</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_24216235.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>24216235</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>474703569</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>474703571</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41025783</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-07-31T19:22:40Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-07-31T19:22:40Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23040744</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23040744.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23040744</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
                      </HarvardDRS:harvardMetadataLink>
                   </HarvardDRS:harvardMetadataLinks>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork738895.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T03:49Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork738899.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-06-04T11:30Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W738895_urn-3:FHCL:37872506</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W738899_urn-3:FHCL:41025783</mods:url>
   </mods:location>
 </mods:mods>

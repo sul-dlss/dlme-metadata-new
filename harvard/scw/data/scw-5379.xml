@@ -1,29 +1,10 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Khamsa of Nizami, (Sackler, S1986.43)</mods:title>
+    <mods:title>Qur&#8217;an, Seljuk (Sackler, S1986.65a-b)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Hamsa of Nizami</mods:title>
+    <mods:title>Koran</mods:title>
   </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Five poems of Nizami</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Khamseh of Nizami</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="alternative">
-    <mods:title>Quintet of Nizami</mods:title>
-  </mods:titleInfo>
-  <mods:name>
-    <mods:namePart>Nizami</mods:namePart>
-    <mods:namePart type="date">1141-1146/535-540 AH - early 13th c. (1217?), Azerbaijani</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>creator</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>author</mods:roleTerm>
-    </mods:role>
-  </mods:name>
   <mods:name>
     <mods:namePart>Vever Collection, Paris, France</mods:namePart>
     <mods:role>
@@ -34,35 +15,44 @@
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:genre>Korans</mods:genre>
   <mods:genre>illuminated manuscript</mods:genre>
-  <mods:genre>painting</mods:genre>
   <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm>Shiraz, Iran</mods:placeTerm>
-    </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1550-1560</mods:dateOther>
-    <mods:dateCreated point="start">1550</mods:dateCreated>
-    <mods:dateCreated point="end">1560</mods:dateCreated>
-    <mods:dateCreated>ca. 1550-1560</mods:dateCreated>
+    <mods:dateOther keyDate="yes">ca. 1075-1100</mods:dateOther>
+    <mods:dateCreated point="start">1075</mods:dateCreated>
+    <mods:dateCreated point="end">1100</mods:dateCreated>
+    <mods:dateCreated>ca. 1075-1100</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>31.3 x 19.8 cm</mods:extent>
+    <mods:extent>32.2 x 21.3 cm</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>366 folios with a double-page frontispiece, 5 sarlawhs, and 16 paintings; standard page: 4 columns, 21 lines of text; nasta'liq; illuminated headings in blue</mods:abstract>
+  <mods:abstract>Two detached folios of a dispersed Qur'an</mods:abstract>
   <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
+    <mods:topic>Islamic art</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>illuminations</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
+    <mods:topic>calligraphy</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>poetry</mods:topic>
+    <mods:topic>religion</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>service books (religious texts)</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>Korans</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>floral motifs</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>kufic</mods:topic>
   </mods:subject>
   <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
+               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Seljuk</cdwalite:style>
                </cdwalite:styleWrap>
             </mods:extension>
   <mods:extension>
@@ -91,64 +81,37 @@
             </mods:extension>
   <mods:location>
     <mods:physicalLocation type="repository">Arthur M. Sackler Gallery, Washington, District of Columbia, United States</mods:physicalLocation>
-    <mods:shelfLocator>S1986.43</mods:shelfLocator>
+    <mods:shelfLocator>S1986.65a-b</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>f. 89a: Khusraw at Shirin's palace (full view)</mods:title>
+      <mods:title>Sura 5, al-Ma&#8217;ida (the Table spread); right: S1986.64b; left: S1986.65a</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection.</mods:note>
-    <mods:subject>
-      <mods:topic>lovers</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>palaces</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>flat roofs</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>thrones</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>blossoms</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>horses</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>aigrettes</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>platters</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>mountains</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34887010</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34887010?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:34886890</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:34886890?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation type="repository"/>
-      <mods:shelfLocator>SCW2016.13907</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.13847</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>22350045</mods:recordIdentifier>
+      <mods:recordIdentifier>22349985</mods:recordIdentifier>
     </mods:recordInfo>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001555033/urn-3:FHCL:34887010/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001554993/urn-3:FHCL:34886890/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20190508</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001555033_urn-3:FHCL:34887010</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20190514</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001554993_urn-3:FHCL:34886890</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -158,17 +121,17 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>437528791</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>437528793</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:34887010</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-03-02T17:42:21Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-03-02T17:42:21Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_22350045</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_22350045.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>22350045</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>437528611</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>437528613</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:34886890</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2018-03-02T17:42:03Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2018-03-02T17:42:03Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_22349985</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_22349985.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>22349985</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
                      </HarvardDRS:harvardMetadataLink>
                   </HarvardDRS:harvardMetadataLinks>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001555033.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-03-31T22:04Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001554993.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-03-31T22:04Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001555033_urn-3:FHCL:34887010</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001554993_urn-3:FHCL:34886890</mods:url>
   </mods:location>
 </mods:mods>

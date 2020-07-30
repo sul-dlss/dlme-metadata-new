@@ -1,110 +1,118 @@
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Pattadakal</mods:title>
+    <mods:title>The assembly of sages (Berenson Collection)</mods:title>
   </mods:titleInfo>
+  <mods:name>
+    <mods:namePart>attributed to Bihzad</mods:namePart>
+    <mods:namePart type="date">ca. 1450-1535-6/935 AH</mods:namePart>
+    <mods:role>
+      <mods:roleTerm>creator</mods:roleTerm>
+    </mods:role>
+    <mods:role>
+      <mods:roleTerm>school</mods:roleTerm>
+    </mods:role>
+  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>Religious structures, temples, shrines</mods:genre>
+  <mods:genre>miniatures (paintings)</mods:genre>
+  <mods:genre>album leaf</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">c. 7th-9th centuries</mods:dateOther>
-    <mods:dateCreated point="start">690</mods:dateCreated>
-    <mods:dateCreated point="end">800</mods:dateCreated>
-    <mods:dateCreated>c. 7th-9th centuries</mods:dateCreated>
+    <mods:place>
+      <mods:placeTerm>Her&#257;t, Her&#257;t, Afghanistan</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther keyDate="yes">Late 15th cent.</mods:dateOther>
+    <mods:dateCreated point="start">1475</mods:dateCreated>
+    <mods:dateCreated point="end">1499</mods:dateCreated>
+    <mods:dateCreated>Late 15th cent.</mods:dateCreated>
   </mods:originInfo>
+  <mods:physicalDescription>
+    <mods:extent>14.7 x 10.1 cm</mods:extent>
+  </mods:physicalDescription>
+  <mods:abstract>Possibly part of an Indian calligraphy album. Disproved signature of Bihzad.</mods:abstract>
+  <mods:note>Attribution: Bailey, Gauvin Alexander. "The Bernard Berenson Collection of Islamic Painting at Villa I Tatti: Turkman, Uzbek, and Safavid Miniatures (Part II)." Oriental Art, Vol XLVIII No. 1 (2002): 2-16.</mods:note>
+  <mods:note>Provenance: Charles Vigner, Paris, 1911</mods:note>
   <mods:subject>
-    <mods:topic>Jain architecture</mods:topic>
+    <mods:topic>Islamic art</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Sanskrit</mods:topic>
+    <mods:topic>gardens</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Kannada</mods:topic>
+    <mods:topic>books</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Virupaksa</mods:topic>
+    <mods:topic>calligraphy</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>epics</mods:topic>
+    <mods:topic>floral designs</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>rock-cut temples</mods:topic>
+    <mods:topic>pavilions</mods:topic>
   </mods:subject>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
   <mods:location>
-    <mods:physicalLocation displayLabel="current">Bijapur, Karnataka, India</mods:physicalLocation>
+    <mods:physicalLocation displayLabel="Harvard repository" type="repository">Berenson Art Collection, Villa I Tatti - The Harvard University Center for Italian Renaissance Studies</mods:physicalLocation>
   </mods:location>
+  <mods:accessCondition displayLabel="copyright" type="useAndReproduction">&#169; The President and Fellows of Harvard College. / This artwork is subject to a no-loan policy.</mods:accessCondition>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Detail view of the information plate</mods:title>
+      <mods:title>Right border, detail</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>plate (object genre)</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>fences</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:23018102</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:23018102?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32059777</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32059777?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.00359</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.07280</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>10898506</mods:recordIdentifier>
+      <mods:recordIdentifier>19303594</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
-                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
                      </librarycloud:HarvardRepositories>
                   </librarycloud:librarycloud>
                </mods:extension>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001002177/urn-3:FHCL:23018102/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001001986/urn-3:FHCL:32059777/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
-  <mods:language>
-    <mods:languageTerm type="code">zxx</mods:languageTerm>
-    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
-  </mods:language>
-  <mods:location/>
-  <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001002177_urn-3:FHCL:23018102</mods:url>
-  </mods:location>
-  <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:style>Chalukyan</cdwalite:style>
-               </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:culture>Chalukyan</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:culture>Jainist</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>418006512</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>418006514</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:23018102</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2015-10-06T20:06:36Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2015-10-06T20:06:36Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_10898506</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_10898506--SS_10898506.jp2</HarvardDRS:suppliedFilename>
-               </HarvardDRS:DRSMetadata>
-            </mods:extension>
-  <mods:extension>
-               <librarycloud:librarycloud xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001002177.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-07-17T12:00Z</librarycloud:processingDate>
-               </librarycloud:librarycloud>
-            </mods:extension>
-  <mods:extension>
-               <sets:sets xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"/>
-            </mods:extension>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20160330</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001002177_urn-3:FHCL:23018102</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20200122</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001001986_urn-3:FHCL:32059777</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
   </mods:recordInfo>
+  <mods:language>
+    <mods:languageTerm type="code">zxx</mods:languageTerm>
+    <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
+  </mods:language>
+  <mods:extension>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>430937878</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>430937880</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32059777</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-04T14:23:18Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-04T14:23:18Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_19303594</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_19303594--SS_19303594.jp2</HarvardDRS:suppliedFilename>
+               </HarvardDRS:DRSMetadata>
+            </mods:extension>
+  <mods:extension>
+               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
+                  </librarycloud:digitalFormats><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Biblioteca Berenson</librarycloud:HarvardRepository>
+                  </librarycloud:HarvardRepositories><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001001986.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-03-31T23:47Z</librarycloud:processingDate>
+               </librarycloud:librarycloud>
+            </mods:extension>
+  <mods:location>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001001986_urn-3:FHCL:32059777</mods:url>
+  </mods:location>
 </mods:mods>

@@ -1,15 +1,27 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Shah Tahmasp (Houghton) Shahnama, f. 20v (Aga Khan Museum, AKM165)</mods:title>
+    <mods:title>Shah Tahmasp (Houghton) Shahnama, f. 18b (NY Met, 1970.301.1)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
     <mods:title>Shahnameh</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Shah-Nama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Shah-Nameh</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="translated">
     <mods:title>Book of Kings</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
     <mods:title>Houghton Shahnama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Tahmasp Shahnama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Tahmasb</mods:title>
   </mods:titleInfo>
   <mods:name>
     <mods:namePart>Firdawsi</mods:namePart>
@@ -22,8 +34,8 @@
     </mods:role>
   </mods:name>
   <mods:name>
-    <mods:namePart>attributed to Sultan Muhammad</mods:namePart>
-    <mods:namePart type="date">fl. ca. 1505-1550, Iranian</mods:namePart>
+    <mods:namePart>Mirza 'Ali</mods:namePart>
+    <mods:namePart type="date">b. c. 1510, d. before 1576, Iranian</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
@@ -63,21 +75,18 @@
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
   <mods:genre>manuscripts</mods:genre>
-  <mods:genre>paintings</mods:genre>
+  <mods:genre>paintings (visual works)</mods:genre>
   <mods:originInfo>
     <mods:place>
       <mods:placeTerm>Tabriz, Azerbaijan-e Sharqi, Iran</mods:placeTerm>
     </mods:place>
-    <mods:dateOther keyDate="yes">ca. 1524-1525</mods:dateOther>
-    <mods:dateCreated point="start">1524</mods:dateCreated>
-    <mods:dateCreated point="end">1525</mods:dateCreated>
-    <mods:dateCreated>ca. 1524-1525</mods:dateCreated>
+    <mods:dateOther keyDate="yes">1525-1530/933-938 AH</mods:dateOther>
+    <mods:dateCreated point="start">1525</mods:dateCreated>
+    <mods:dateCreated point="end">1530</mods:dateCreated>
+    <mods:dateCreated>1525-1530/933-938 AH</mods:dateCreated>
   </mods:originInfo>
-  <mods:physicalDescription>
-    <mods:extent>34.2 x 23.1 cm (painting); 45 x 30 cm (folio)</mods:extent>
-  </mods:physicalDescription>
-  <mods:note>General note:  760 folios w/ 258 illustrated pages</mods:note>
-  <mods:note>Provenance: In 1568, the manuscript was presented to the Ottoman Sultan Selim II.  The manuscript remained in Istanbul until procured for the Paris Rothchilds ca. 1900.  In 1959 the manuscript was purchased by Arthur A. Houghton, Jr., and dispersed subsequently.</mods:note>
+  <mods:note>General note:  One of the most luxurious examples of Persian book arts ever created, this monumental copy of Firdawsi's 10th c. "Shahnama" was produced in the kitabkhana (scriptorium-library) of Shah Tahmasp I in Tabriz between 1525-1530. Exceptionally large in scale, the Tahmasp Shahnama contained 760 folios w/ 258 illustrated pages.</mods:note>
+  <mods:note>Provenance: In 1568, the manuscript was presented to the Ottoman Sultan Selim II.  The manuscript remained in Istanbul until procured for the Paris Rothchilds ca. 1900.  The manuscript was virtually intact until 1959 when it was purchased by Arthur A. Houghton, Jr., and dispersed subsequently.</mods:note>
   <mods:subject>
     <mods:topic>Islamic art</mods:topic>
   </mods:subject>
@@ -85,16 +94,13 @@
     <mods:topic>miniatures (paintings)</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Islamic art</mods:topic>
+    <mods:topic>illustrations</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>epics</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>poetry</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>manuscripts</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
@@ -109,58 +115,30 @@
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>silver</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor, gold, silver, and ink on paper.</cdwalite:termMaterialsTech>
                </cdwalite:indexingMaterialsTechSet>
             </mods:extension>
   <mods:location>
-    <mods:physicalLocation type="repository">Aga Khan Museum, Toronto Metropolitan Area, Ontario, Canada</mods:physicalLocation>
-    <mods:shelfLocator>AKM165</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Metropolitan Museum of Art, New York, New York, United States</mods:physicalLocation>
+    <mods:shelfLocator>1970.301.1</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>f. 20b: The court of Gayumars (detail); center of the painting, left side of Gayumars' throne</mods:title>
+      <mods:title>f. 18b: Firdausi's parable of the Ship of Shi'ism (detail)</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
-    <mods:subject>
-      <mods:topic>rocks</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>tree trunks</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>blossoms</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>nature spirits</mods:topic>
-    </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41071085</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41071085?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:30088750</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:30088750?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
-      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Digital Images &amp; Slides Collection, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.18598</mods:shelfLocator>
+      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
+      <mods:shelfLocator>SCW2016.06559</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>23044334</mods:recordIdentifier>
+      <mods:recordIdentifier>18551042</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -170,14 +148,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork203672/urn-3:FHCL:41071085/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork203671/urn-3:FHCL:30088750/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20200401</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W203672_urn-3:FHCL:41071085</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20200422</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">W203671_urn-3:FHCL:30088750</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -187,17 +165,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>474800522</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>474800524</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41071085</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-08-05T18:31:42Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-08-05T18:31:42Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23044334</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23044334.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23044334</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
-                     </HarvardDRS:harvardMetadataLink>
-                  </HarvardDRS:harvardMetadataLinks>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>427148235</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>427148237</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:30088750</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-01-25T20:50:08Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-01-25T20:50:08Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_18551042</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_18551042--SS_18551042.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork203672.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-24T11:30Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvwork203671.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-24T11:30Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W203672_urn-3:FHCL:41071085</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W203671_urn-3:FHCL:30088750</mods:url>
   </mods:location>
 </mods:mods>

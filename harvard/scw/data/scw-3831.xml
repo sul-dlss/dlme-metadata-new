@@ -1,13 +1,25 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Yusuf u Zulaikha of Jami (British Library, Or. 4122)</mods:title>
+    <mods:title>Zafarnameh (British Library, Or. 1359)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Yusuf u Zuleikha</mods:title>
+    <mods:title>Zafarnamah</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Zafarnama</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>Book of Victory</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>Book of Conquest</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>Epistle of Victory</mods:title>
   </mods:titleInfo>
   <mods:name>
-    <mods:namePart>Jami</mods:namePart>
-    <mods:namePart type="date">1414-1492/817-898 AH, Afghan</mods:namePart>
+    <mods:namePart>Sharaf al-Din Ali Yazdi</mods:namePart>
+    <mods:namePart type="date">d. 1454/858 AH</mods:namePart>
     <mods:role>
       <mods:roleTerm>creator</mods:roleTerm>
     </mods:role>
@@ -20,10 +32,10 @@
     <mods:place>
       <mods:placeTerm>Shiraz, Iran</mods:placeTerm>
     </mods:place>
-    <mods:dateOther keyDate="yes">c. 1580</mods:dateOther>
-    <mods:dateCreated point="start">1580</mods:dateCreated>
-    <mods:dateCreated point="end">1580</mods:dateCreated>
-    <mods:dateCreated>c. 1580</mods:dateCreated>
+    <mods:dateOther keyDate="yes">c. 1552</mods:dateOther>
+    <mods:dateCreated point="start">1552</mods:dateCreated>
+    <mods:dateCreated point="end">1552</mods:dateCreated>
+    <mods:dateCreated>c. 1552</mods:dateCreated>
   </mods:originInfo>
   <mods:subject>
     <mods:topic>miniatures (paintings)</mods:topic>
@@ -35,19 +47,10 @@
     <mods:topic>illuminations</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>poetry</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>vegetal motifs</mods:topic>
-  </mods:subject>
-  <mods:subject>
     <mods:topic>inscriptions</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>poetry</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>inscriptions</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>Persian</mods:topic>
@@ -56,27 +59,27 @@
     <mods:topic>nasta'liq</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>epics</mods:topic>
+    <mods:topic>kings and rulers</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>love</mods:topic>
+    <mods:topic>battles</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>mysticism</mods:topic>
+    <mods:topic>letters</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>Sufism</mods:topic>
+    <mods:topic>epistolaries</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Safavid</cdwalite:style>
                </cdwalite:styleWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Safavid</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Safavid</cdwalite:culture>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Persian</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
@@ -97,25 +100,25 @@
             </mods:extension>
   <mods:location>
     <mods:physicalLocation type="repository">British Library, London, United Kingdom</mods:physicalLocation>
-    <mods:shelfLocator>Or. 4122</mods:shelfLocator>
+    <mods:shelfLocator>Or. 1359</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>General view, f. 76b: Zulaikha watching the old woman bidding for Yusuf</mods:title>
+      <mods:title>f. 413a: Bayazid I brought before Timur after the Battle of Ankara</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32604380</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32604380?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32603878</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32603878?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.09530</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.09280</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>20331069</mods:recordIdentifier>
+      <mods:recordIdentifier>20330658</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -125,14 +128,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001352683/urn-3:FHCL:32604380/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001352680/urn-3:FHCL:32603878/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20170728</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001352683_urn-3:FHCL:32604380</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20170727</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001352680_urn-3:FHCL:32603878</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -142,15 +145,15 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431941484</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431941486</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32604380</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T18:38:29Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T18:38:29Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20331069</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20331069--SS_20331069.jp2</HarvardDRS:suppliedFilename>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431940726</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431940728</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32603878</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T18:16:20Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T18:16:20Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20330658</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20330658--SS_20330658.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352683.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:27Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352680.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-06T11:46Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352683_urn-3:FHCL:32604380</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352680_urn-3:FHCL:32603878</mods:url>
   </mods:location>
 </mods:mods>

@@ -1,12 +1,15 @@
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
   <mods:titleInfo>
-    <mods:title>Agra Fort, Agra, Uttar Pradesh, India</mods:title>
+    <mods:title>Fatehpur Sikri, Uttar Pradesh, India</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Agra Fort Complex</mods:title>
+    <mods:title>Fathpur Sikri</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="alternative">
-    <mods:title>Red Fort in Agra</mods:title>
+    <mods:title>Fatehpur-Sikri</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="translated">
+    <mods:title>City of Victory</mods:title>
   </mods:titleInfo>
   <mods:name>
     <mods:namePart>Akbar, Emperor of Hindustan</mods:namePart>
@@ -19,52 +22,13 @@
     </mods:role>
   </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>fortresses</mods:genre>
-  <mods:genre>abbey churches</mods:genre>
+  <mods:genre>cities</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">1565-1570s</mods:dateOther>
-    <mods:dateCreated point="start">1565</mods:dateCreated>
-    <mods:dateCreated point="end">1579</mods:dateCreated>
-    <mods:dateCreated>1565-1570s</mods:dateCreated>
+    <mods:dateOther keyDate="yes">16th c.</mods:dateOther>
+    <mods:dateCreated>16th c.</mods:dateCreated>
   </mods:originInfo>
   <mods:subject>
-    <mods:topic>Islamic architecture</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>complexes</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>forts</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>plans (drawings)</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>riverfronts</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>marbles</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>gardens</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>courts (built works)</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>walls</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>masjids</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>bazaars</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>courtyards</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>gates</mods:topic>
+    <mods:topic>architecture</mods:topic>
   </mods:subject>
   <mods:extension>
                <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
@@ -75,48 +39,32 @@
                </cdwalite:cultureWrap>
             </mods:extension>
   <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Indian</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
                <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Mughal</cdwalite:culture>
                </cdwalite:cultureWrap>
             </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>sandstone</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
   <mods:location>
-    <mods:physicalLocation displayLabel="site">Agra, Uttar Pradesh, India</mods:physicalLocation>
+    <mods:physicalLocation displayLabel="site">Uttar Pradesh, India</mods:physicalLocation>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Exterior view: Khass Mahal</mods:title>
+      <mods:title>Exterior view: Divan-i Khass</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:subject>
-      <mods:topic>columns</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>brackets (structural elements)</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>eaves</mods:topic>
-    </mods:subject>
-    <mods:subject>
-      <mods:topic>arched niches</mods:topic>
+      <mods:topic>chatris</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41650080</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41650080?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41649788</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41649788?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
-      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Digital Images &amp; Slides Collection, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.20934</mods:shelfLocator>
+      <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Digital Images &amp; Slides Collection, Harvard
+            University</mods:physicalLocation>
+      <mods:shelfLocator>SCW2016.20790</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>23902290</mods:recordIdentifier>
+      <mods:recordIdentifier>23902146</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -126,14 +74,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvsite50616/urn-3:FHCL:41650080/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvsite50404/urn-3:FHCL:41649788/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20161012</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">S50616_urn-3:FHCL:41650080</mods:recordIdentifier>
+    <mods:recordChangeDate encoding="iso8601">20160627</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">S50404_urn-3:FHCL:41649788</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -143,17 +91,17 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>481254692</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>481254694</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41650080</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-10-25T15:03:01Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-10-25T15:03:01Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23902290</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23902290.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23902290</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>481254260</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>481254262</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41649788</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-10-25T14:54:00Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-10-25T14:54:00Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23902146</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23902146.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23902146</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
                      </HarvardDRS:harvardMetadataLink>
                   </HarvardDRS:harvardMetadataLinks>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
                <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite50616.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-05-04T11:30Z</librarycloud:processingDate>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/olvsite50404.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-06T11:31Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/S50616_urn-3:FHCL:41650080</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/S50404_urn-3:FHCL:41649788</mods:url>
   </mods:location>
 </mods:mods>

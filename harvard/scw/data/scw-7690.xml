@@ -128,43 +128,50 @@
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Shaykh Hasan Chishti [f. 26v] (Detail view)</mods:title>
+      <mods:title>Dervish Leading a Bear [f. 10r] (Detail view)</mods:title>
     </mods:titleInfo>
+    <mods:name>
+      <mods:namePart>Govardhan</mods:namePart>
+      <mods:namePart type="date">Indian painter, illuminator, and gem cutter, active 1596-1656</mods:namePart>
+      <mods:role>
+        <mods:roleTerm>associated name</mods:roleTerm>
+      </mods:role>
+    </mods:name>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:originInfo>
-      <mods:dateCreated>Early 19th cent.</mods:dateCreated>
+      <mods:dateCreated>circ. 1630-1640</mods:dateCreated>
     </mods:originInfo>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:subject>
-      <mods:topic>male figures</mods:topic>
+      <mods:topic>ascetics</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>pirs (saints)</mods:topic>
+      <mods:topic>dervishes</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>Sufism</mods:topic>
+      <mods:topic>bears</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>flowers</mods:topic>
+      <mods:topic>furs</mods:topic>
     </mods:subject>
     <mods:subject>
       <mods:topic>nasta&#699;liq</mods:topic>
     </mods:subject>
     <mods:subject>
-      <mods:topic>Persian-Farsi (language)</mods:topic>
+      <mods:topic>Persian-Farsi  (language)</mods:topic>
     </mods:subject>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41648902</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41648902?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:41648836</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:41648836?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Digital Images &amp; Slides Collection, Harvard
             University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.20391</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.20358</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>23901130</mods:recordIdentifier>
+      <mods:recordIdentifier>23901097</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
                   <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
@@ -174,14 +181,14 @@
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/olvwork260488/urn-3:FHCL:41648902/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/olvwork260488/urn-3:FHCL:41648836/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
     <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
     <mods:recordChangeDate encoding="iso8601">20190116</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">W260488_urn-3:FHCL:41648902</mods:recordIdentifier>
+    <mods:recordIdentifier source="MH:VIA">W260488_urn-3:FHCL:41648836</mods:recordIdentifier>
     <mods:languageOfCataloging>
       <mods:languageTerm>eng</mods:languageTerm>
     </mods:languageOfCataloging>
@@ -191,7 +198,7 @@
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>481162634</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>481162636</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41648902</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-10-24T21:44:46Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-10-24T21:44:46Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23901130</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23901130.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23901130</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>481162535</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>481162537</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:41648836</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2019-10-24T21:42:43Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2019-10-24T21:42:43Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_23901097</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_23901097.jp2</HarvardDRS:suppliedFilename><HarvardDRS:harvardMetadataLinks><HarvardDRS:harvardMetadataLink><HarvardDRS:metadataIdentifier>23901097</HarvardDRS:metadataIdentifier><HarvardDRS:metadataType>Shared Shelf</HarvardDRS:metadataType><HarvardDRS:displayLabel>Shared Shelf</HarvardDRS:displayLabel>
                      </HarvardDRS:harvardMetadataLink>
                   </HarvardDRS:harvardMetadataLinks>
                </HarvardDRS:DRSMetadata>
@@ -202,6 +209,6 @@
                </librarycloud:librarycloud>
             </mods:extension>
   <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W260488_urn-3:FHCL:41648902</mods:url>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/W260488_urn-3:FHCL:41648836</mods:url>
   </mods:location>
 </mods:mods>
