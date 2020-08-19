@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 330: Transcription of an Arabic epic poem</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 330: Transcription of an Arabic epic poem are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Catchword at end of verso. In the poetic section, each verse starts a new line. Verse endings denoted by a sof pasuk&#803;; Halper: Seems to be part of a transcription, in Hebrew characters, of an Arabic book modelled after the Mak&#803;amat of al-H&#803;ariri; The folio opens with seven verses in wafir meter rhymed -&#1488;&#1500; (i.e., &#1614;&#1575;&#1604;-). The next paragraph is in prose, from the words of the ra&#7807;i (narrator), as stated in the heading &#1511;&#1488;&#1500; &#1488;&#1500;&#1512;&#1488;&#1493;&#1497;. The hero's name seems to be &#699;Antar (no doubt after the name of the famous poet of the pre-Muhammedan era); Halper: the orthography is sometimes vulgar. Thus &#1502;&#1488; &#1514;&#1511;&#1512; &#1489;&#1492;&#1497; &#1506;&#1497;&#1504;&#1497; (verso l. 1).</note>
+        <note>Condition: complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 330</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420093503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="ara">Arabic</textlang>
+            <msitem>
+              <title>Transcription of an Arabic epic poem</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.3 X 9.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 20; ruling method: left rule justified by graphic filler graphic fillers (puncti, semi-clefs).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Epic poetry, Arabic</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3842px" url="master/4697_0000.tif" width="2400px"/>
+      <graphic height="190px" url="thumb/4697_0000_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4697_0000_web.jpg" width="1124px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3842px" url="master/4697_0001.tif" width="2400px"/>
+      <graphic height="190px" url="thumb/4697_0001_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4697_0001_web.jpg" width="1124px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

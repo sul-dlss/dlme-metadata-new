@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 154: Nah&#803;manides' novellae on the Talmud, Gittin 25b-26a</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 154: Nah&#803;manides' novellae on the Talmud, Gittin 25b-26a are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Text breaks are denoted by two puncti plus space, of varying width; The folio contains the novellae on Gittin 25b, starting from the lengthy essay on the issue of Bererah, the paragraph from the starts &#1493;&#1494;&#1492; &#1492;&#1499;&#1500;&#1500; (in the critical edition, Heshrik, 1995, p. 159 l. 17 &#1493;&#1488;&#1501; &#1500;&#1488;&#1493;] &#1500;&#1488; &#1514;&#1492;&#1488; &#1490;&#1496;]) to the beginning of the next article on 26b &#1513;&#1488;&#1512;] &#1513;&#1496;&#1512;&#1493;&#1514;] (ibid. p. 174 l. 3 [&#1488;&#1500;&#1488; [&#1492;&#1499;&#1497; &#1511;&#1488;&#1502;&#1512;). There are numerous variant readings, many of them are probably errant copy.</note>
+        <note>Condition: loss in upper interior corner.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 154</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418423503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Nah&#803;manides' novellae on the Talmud, Gittin 25b-26a</title>
+              <author>Nah&#803;manides, ca. 1195-ca. 1270.</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>31.1 X 21.6 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 2; lines: 33; ruling method: left rule justified by graphic fillers (semi-aleph, or stretching last character).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Sephardic semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1300" notafter="1499"/>
+              <p>14th century-15th century?</p>
+              <origplace>Mediterranean</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Bererah (Jewish law)</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7726px" url="master/4524_0000.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4524_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4524_0000_web.jpg" width="1260px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7726px" url="master/4524_0001.tif" width="5408px"/>
+      <graphic height="190px" url="thumb/4524_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4524_0001_web.jpg" width="1260px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

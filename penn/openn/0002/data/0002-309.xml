@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 285: Rahat&#803;</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 285: Rahat&#803; are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>One word vocalized; each verse starts a new line; in upper and lower margins of recto (title), are secondary inscriptions in Arabic characters; The first folio of a booklet. The recto is the title page &#1488;&#1512;&#1492;&#1488;&#1496; &#1502;&#1500;&#1488;&#1495; followed by a rhymed panegyric dedication to the owner, Sa'id ben Israel (probably not Sa'id ben Israel al-Tustar&#299;, of the early 11th century). The verso is the first page of the content, repeating the above title, followed by the first eight rhymed verses, forming the acrostic signature [&#1497;&#1495;&#1494;&#1511;&#1488;&#1500; &#1492;&#1499;[&#1492;&#1503;. The Rahat&#803; starts &#1497;&#1493;&#1504;&#1497;&#1501; &#1504;&#1491;&#1493;&#1491;&#1497;&#1501; &#1492;&#1495;&#1494;&#1512; &#1500;&#1511;&#1497;&#1504;&#1501;.</note>
+        <note>Condition: nearly complete; marginalia in Arabic.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 285</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419673503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="ara">Hebrew; Arabic</textlang>
+            <msitem>
+              <title>Rahat&#803;</title>
+              <author>Yeh&#803;ezk&#803;el ben &#697;Ali, 11th cent.</author>
+              <respstmt>
+                <resp>former owner</resp>
+                <persname>Abu Sa&#697;ad ben Yi&#347;ra&#702;el.</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.8 X 12.7 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 11.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Arabic Oriental semi-square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+            <provenance>Abu Sa?ad ben Yis?ra?el.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4424px" url="master/4652_0000.tif" width="3296px"/>
+      <graphic height="190px" url="thumb/4652_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4652_0000_web.jpg" width="1341px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4424px" url="master/4652_0001.tif" width="3296px"/>
+      <graphic height="190px" url="thumb/4652_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/4652_0001_web.jpg" width="1341px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

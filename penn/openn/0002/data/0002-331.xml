@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 307: K&#803;edushta for Shavuot</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 307: K&#803;edushta for Shavuot are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Vocalization substitutes shev&#803;ah for h&#803;ataf patah&#803;; This is the first folio of the booklet, as the recto is blank; catchword on verso; The verso is headed &#1502;&#1506;&#1502;&#1491; &#1500;. &#1493;&#1513;&#1489;[&#1493;&#1506;&#1493;]&#1514; &#1500;&#1497;&#1505;&#1504;&#1490;&#1488;&#1512;&#1497; &#1494;&#1524;&#1500; (the last word, attributing this to Solomon Sulemain Alsanjari, is in a smaller, later hand). The remainder includes the first lines of &#1488;&#1512;&#1493;&#1490;&#1497;&#1501; &#1499;&#1492;&#1497;&#1496;&#1492; &#1500;&#1512;&#1511;&#1493;&#1506;&#1497;&#1501;.</note>
+        <note>Condition: damaged, loss in exterior edge; faded; recto is blank, scribblings.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 307</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419873503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>K&#803;edushta for Shavuot</title>
+              <author>&#1513;&#1500;&#1502;&#1492; &#1505;&#1493;&#1500;&#1497;&#1502;&#1503;, &#1488;&#1500;&#1505;&#1504;&#1490;'&#1512;&#1497; Solomon Suliman ben Amar Solomon Suliman Ben-Amar ca. 9./10. Jh. Al-Sanjary, Shelomo Suleiman Al-Sinjari, Shelomo Suleiman</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.8 X 12 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 11 (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shavuot , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4135px" url="master/4674_0000.tif" width="3168px"/>
+      <graphic height="190px" url="thumb/4674_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4674_0000_web.jpg" width="1379px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

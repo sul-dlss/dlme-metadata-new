@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 395: Letter to Ali Abu'l-H&#803;asan ben Sa'id "the banker" in the Matsatsa, Fustat</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 395: Letter to Ali Abu'l-H&#803;asan ben Sa'id "the banker" in the Matsatsa, Fustat are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>In the address, the family name of the addressee is ben al-Matsmudi, Tayib Almarb'aah (Doctor of the Square); The name of the writer is faded. He is in the service of the diggers of a canal for Abu'l-Munajj&#257;. He asks Abu'l-Hassan to approach the Nagid, asking him to induce Abu'l-Munajj&#257; to pay his accumulated salary, and requests to be relieved of his post; He mentions (l. 5)Bakhur ben Na&#7779;r, a notable in Sahur (near Alexandria), and the refinement of sugar in Minya[t Zift&#257;] (l. 10); In the postscript in the margin he sends regards to acquaintances. On the verso, in the marginal postscript he asks that his family buy wheat and grapes and have them processed; About the neighborhood mentioned in the address, see Goitein, Mediterranean Society, vol. II, p. 264.</note>
+        <note>Condition: torn, loss along left edge; folded mail format; marginal postscripts.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 395</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420723503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Letter to Ali Abu'l-H&#803;asan ben Sa'id "the banker" in the Matsatsa, Fustat</title>
+              <author>Ben &#697;Amram,9th/10th cent.</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.7 X 17.6 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 19 (recto), 13 (verso); ruling method: in mail format; wide left and upper margins, for postscript on recto; half width of verso used for marginal postscripts, written widthwise.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate/>
+              <p>ca. 1100</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Sugar trade , History , To 1500 , Egypt</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6380px" url="master/4760_0000.tif" width="4448px"/>
+      <graphic height="190px" url="thumb/4760_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4760_0000_web.jpg" width="1255px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6380px" url="master/4760_0001.tif" width="4448px"/>
+      <graphic height="190px" url="thumb/4760_0001_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4760_0001_web.jpg" width="1255px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

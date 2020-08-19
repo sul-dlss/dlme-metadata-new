@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 262: Part of a Judeo-Arabic version of the Azharah, enumerating the 613 precepts</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 262: Part of a Judeo-Arabic version of the Azharah, enumerating the 613 precepts are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Titles of the commandments appear as in Hebrew version, in the right margin in smaller writing; From the Judeo-Arabic version of the Azharah &#1488;&#1514;&#1492; &#1492;&#1504;&#1495;&#1500;&#1514; &#1514;&#1493;&#1512;&#1492; &#1500;&#1506;&#1502;&#1498; (Davidson: Thesaurus of Medieval Hebrew poetry. New York : JTS, 1924, 8788&#1488;). The fragment (partially vocalized) contains, parallel to the Hebrew version (in Goldschmidt, Frenkel: Mah&#803;azor Shavu&#697;ot / Yonah Frenk&#803;el, E.D. Goldschmidt [ed.]. Jerusalem : Koren, 2000, p. 617-623), ll. 10-58; See the description by S. Hahn, Ginze K&#803;oifman, 1939, pp. 72-73; Halper's notes: In the language as well as in the orthography there is an attempt to imitate classical Arabic. Nevertheless there are such spellings as &#1593;&#1604;&#1609; = &#1506;&#1500;&#1488; , and &#1604;&#1607; = &#1500;&#1492;&#1493;. Some of the words are vocalized, the Tiberian system, as a rule, being used. The pronunciation, however, indicated by the vowels, is not classical, and in many cases the scribe displays ingnorance of elementary rules of Arabic grammar. Thus has has: &#1489;&#1488;&#1512;&#1509;&#1455; &#1488;&#1500;&#1511;&#1467;&#1491;&#1468;&#1505;&#1467; &#1508;&#1471;&#1497;&#1491;&#1488;&#1514;&#1468; &#1488;&#1500;&#1496;&#1460;&#1488;&#1500;. Systematical a dagesh lene is used in &#1489;&#1490;&#1491; &#1499;&#1514;. A short slanting line above te letter is used to indicate &#1601; ;&#1592;;&#1590; ;&#1584; ;&#1582; ;&#1579; (to differentiate it from &#1508;&#1468;); while &#1590; is represented by &#1510;&#1455;. The &#1588; is usually written &#1513;. In some cases a dagesh forte is written for a Tashdid, thus &#1575;&#1604;&#1593;&#1605;&#1575;&#1578; = &#1488;&#1500;&#1506;&#1463;&#1502;&#1468;&#1488;&#1514;.</note>
+        <note>Condition: consecutive, nearly complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 262</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419413503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Part of a Judeo-Arabic version of the Azharah, enumerating the 613 precepts</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17 X 18.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 16-17; ruling method: left rule justified by stretching last character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Azharot</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4098px" url="master/4629_0000.tif" width="4400px"/>
+      <graphic height="176px" url="thumb/4629_0000_thumb.jpg" width="190px"/>
+      <graphic height="1676px" url="web/4629_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4098px" url="master/4629_0001.tif" width="4400px"/>
+      <graphic height="176px" url="thumb/4629_0001_thumb.jpg" width="190px"/>
+      <graphic height="1676px" url="web/4629_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4098px" url="master/4629_0002.tif" width="4400px"/>
+      <graphic height="176px" url="thumb/4629_0002_thumb.jpg" width="190px"/>
+      <graphic height="1676px" url="web/4629_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4098px" url="master/4629_0003.tif" width="4400px"/>
+      <graphic height="176px" url="thumb/4629_0003_thumb.jpg" width="190px"/>
+      <graphic height="1676px" url="web/4629_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

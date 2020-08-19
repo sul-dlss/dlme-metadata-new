@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 405: Business Letter to 'Arus ben Joseph, Fustat</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 405: Business Letter to 'Arus ben Joseph, Fustat are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Verso bears the signature and address; Published, with translation and notes, by M. Gil: Be-malkhut Yishma&#697;el bi-tek&#803;ufat ha-Ge&#697;onim / Moshe Gil. Tel Aviv University of Tel Aviv, 1997, v. 4, p. 403-404 (no. 735); The addressee is known from other Genizah documents as a dealer in purple cloth. His Hebrew name is Abraham. See Goitein, A Mediterranean Society, vol. I, p. 207, index; Eight other articles of his mail have been published by Gil, ibid. nos. 467, 468, 607, 697, 714, 767, 785 and 786. In the address here the title Abu'l-Ifrah&#803; is added to his name; The writer informs 'Arus of payments that he made for him. He reports on prices, including that of silk, and of the difficulty of sending currency overland. In the marginal postscript he sends regards to Abu 'Ali ben Solomon (Alashqar).</note>
+        <note>Condition: torn along bottom; marginal postscript on recto.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 405</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420843503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Business Letter to 'Arus ben Joseph, Fustat</title>
+              <author>Yitsh&#803;ak&#803; ben Aharon Sigilmasi</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>12.4 X 11.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 14 extant (recto); ruling method: in mail format.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1199"/>
+              <p>12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Silk industry , History , To 1500 , Egypt</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3270px" url="master/4770_0000.tif" width="3072px"/>
+      <graphic height="190px" url="thumb/4770_0000_thumb.jpg" width="178px"/>
+      <graphic height="1800px" url="web/4770_0000_web.jpg" width="1691px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3270px" url="master/4770_0001.tif" width="3072px"/>
+      <graphic height="190px" url="thumb/4770_0001_thumb.jpg" width="178px"/>
+      <graphic height="1800px" url="web/4770_0001_web.jpg" width="1691px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

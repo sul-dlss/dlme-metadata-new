@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 244: Part of a collection of Selih&#803;ot, with directions in Judeo-Arabic</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 244: Part of a collection of Selih&#803;ot, with directions in Judeo-Arabic are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Fol. 1 contains a the first seven verses from Judah ha-Levi's selih&#803;ah that starts &#1497;&#1506;&#1497;&#1512;&#1493;&#1504;&#1497; &#1512;&#1506;&#1497;&#1493;&#1504;&#1497; &#1493;&#1505;&#1493;&#1491; &#1500;&#1489;&#1497; (Thesaurus of Medieval Hebrew poetry / Israel Davidson. New York : JTS, 1924, 3155; in the Div&#803;an / Heinrich Brody [ed.]. Berlin : T.H. Itskovski, 1910, v. 3, no. 32; Bernstein, Shire Yehudah ha-Lev&#803;i / Simon Bernstein [ed.]. New York : Ogen, 1945, p. 65, no. XVII); In this version, the poem starts&#1497;&#1506;&#1497;&#1512;&#1493;&#1504;&#1497; &#1489;&#1513;&#1502;&#1498; &#1512;&#1506;&#1497;&#1493;&#1504;&#1497;, as in his Ma&#697;ariv for Shavu&#697;ot bearing this title (Davidson, TMHP 3149, Brody, ibid. vol. III no. 99); Fol. 2 contains parts of the prayers &#1492;' &#1488;&#1500;&#1492;&#1497; &#1488;&#1489;&#1512;&#1492;&#1501; and &#1502;&#1499;&#1504;&#1497;&#1505;&#1497; &#1512;&#1495;&#1502;&#1497;&#1501;, commonly found at the end of the Selih&#803;ot service.</note>
+        <note>Condition: non-consecutive, nearly complete; versi faded and illegible.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 244</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419233503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Part of a collection of Selih&#803;ot, with directions in Judeo-Arabic</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>11 X 7.9 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 10-12.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursivesporadic vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1399"/>
+              <p>12th century-14th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shavuot , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2917px" url="master/4611_0000.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0000_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2917px" url="master/4611_0001.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0001_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="2917px" url="master/4611_0002.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0002_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="2917px" url="master/4611_0003.tif" width="2176px"/>
+      <graphic height="190px" url="thumb/4611_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4611_0003_web.jpg" width="1343px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

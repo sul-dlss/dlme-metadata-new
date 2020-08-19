@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 169: Judeo-Arabic treatise on prayer</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 169: Judeo-Arabic treatise on prayer are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Text breaks are denoted by a punctus plus 2-3 spaces; catchword at end of fol. 2v, indicating it may be last fol. of a fascicle; A fol. from a treatise on prayer including Talmudic citations. The format is enumerated "descriptions" [&#1493;&#1510;&#1507;] or qualifications, among classified lists. Fol. 1 contains 5 preconditions for proper prayer, which are numbered 21-25; Towards the end of the verso, the author mentions that he has already dealt with the topic of uncleanliness in chapter 3 of this book. Fol. 2 contains 2-5 &#1493;&#1510;&#1507; of a similar list; Among the known Gaonic monographs, the content here is most fitting to Samuel ben H&#803;ofni Gaon's Kitab al-&#697;imma, a title found in a booklist published by Schechter: Saadyana / S. Schechter. Oxford : Deighton and Bell, 1903, p. 54.</note>
+        <note>Condition: non-consecutive, complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 169</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418553503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb" otherlangs="arc">Judeo-Arabic; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>Judeo-Arabic treatise on prayer</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>13.2 X 9.2 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 13-14.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Prayer , Judaism , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3398px" url="master/4539_0000.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4539_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4539_0000_web.jpg" width="1305px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3398px" url="master/4539_0001.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4539_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4539_0001_web.jpg" width="1305px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3398px" url="master/4539_0002.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4539_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4539_0002_web.jpg" width="1305px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3398px" url="master/4539_0003.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4539_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4539_0003_web.jpg" width="1305px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 134: Judeo-Arabic treatise on ritual slaughter (title page)</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 134: Judeo-Arabic treatise on ritual slaughter (title page) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Title in bold square characters; text, with writing exercises, mostly in a smaller, cursive hand; Either title page(!), or the fly leaf from a monograph on ritual slaughter, possibly a draft copy, that was discarded and served as scrap paper; original writing is just the title, and covers only the upper third of one side; The title: &#1492;&#1500;&#1499;&#1514; &#1513;&#1495;&#1497;&#1496;&#1492; &#1499;.\ &#1514;&#1510;&#1504;&#1497;&#1507; &#1499;&#1490;"&#1511; &#1502;&#1512;&#1504;&#1493; &#1493;&#1512;&#1489;&#1497;&#1504;[&#1493;.]\ &#1513;&#1502;&#1493;&#1488;&#1500; &#1492;&#1491;&#1497;&#1497;&#1503; &#1492;&#1502;&#1513;&#1499;&#1497;[&#1500;.]\ &#1494;&#1510;"&#1500;; The title may be referring to a &#1513;&#1500;&#1502;&#1492; &#1492;&#1500;&#1493;&#1497; &#1489;&#1512; &#1513;&#1502;&#1493;&#1488;&#1500; &#1492;&#1491;&#1497;&#1497;&#1503; &#1492;&#1502;&#1513;&#1499;&#1497;&#1500;, who is the scribe of a manuscript codex of Maimonides' Commentary on the Mishnah (Oxford Bodleian 394/399) dated 1223, and a codex of Mishneh Torah, Book of Mishpatim (ms. Escorial G III 2); A collection of responsa copied by &#1492;&#1491;&#1497;&#1497;&#1503; &#1492;&#1502;&#1513;&#1499;&#1497;&#1500; &#1494;&#1510;&#1524;&#1500; appears in a booklist in Oxford Bodleian Heb. d. 76 fol. 53.</note>
+        <note>Condition: incomplete; losses in exterior edge, recto(?) only.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 134</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418243503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Judeo-Arabic treatise on ritual slaughter (title page)</title>
+              <respstmt>
+                <resp>scribe</resp>
+                <persname>Shelomoh ben Shemu?el.</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.8 X 9.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: (recto?).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1200" notafter="1299"/>
+              <p>13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shehitah , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3975px" url="master/4506_0000.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4506_0000_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/4506_0000_web.jpg" width="1130px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3975px" url="master/4506_0001.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4506_0001_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/4506_0001_web.jpg" width="1130px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

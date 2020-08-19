@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 76: Mishnah, Nedarim 9:10-Nazir 3:2</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 76: Mishnah, Nedarim 9:10-Nazir 3:2 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Recto includes Nedarim XI, starting with Mishnah 10 "&#1504;&#1506;&#1512;&#1492; &#1513;&#1500;&#1488; &#1489;&#1490;&#1512;&#1492;" to the end of tractate; the beginning of Nazir, under the heading "[..] &#1508;&#1497;&#1512;&#1511;&#1488; &#1511;&#1491;&#1502;&#1488;&#1492;". Ends at the end of Nazir I 7; Verso missing the beginning of Nazir II 1, starts "&#1489;&#1497;&#1514; &#1513;&#1502;]&#1497; &#1488;&#1493;&#1502;&#1512;&#1497;&#1501;]" to ibid. III 2 "[&#1492;&#1512;&#1488;&#1513;&#1493;&#1504;&#1497;&#1501; &#1497;&#1493;[&#1501;"; A complete fol. from this codex measures 28.8 X 22.5 cm; Divided into numbered text units ('Halakhot'); lists the sum of Halakhot at the end of the chapters, and the sum of chapters at the end of the tractate; The variant readings from this fragment where incorporated in the critical edition of Nazir (Israel Hershler, ed.): Yerushalyaim : Mekhon ha-Talmud ha-Yis&#769;reeli ha-shalem, 1985 (description on p. 42.); Remnants of at least 33 folios from this codex have been gleaned from the Genizah, almost all are from Seder Nashim and Seder Taharot; The most complete listing of the fragments of this codex was assembled by Israel Yeivin: Masoret ha-lashon ha-&#699;Ivrit ha-mishtak&#803;efet ba-nik&#803;ud ha-Bavli / Israel Yeivin. Yerushalayim : ha-Ak&#803;ademyah la-lashon ha-&#699;Ivrit, 1985, p. 194; Descriptions and portions of the text have been published. C.B Freidman, Zur Geshichte der alsten Mischna-Uberlieferung, JJLG XVIII, 1927, pp. 265-288; P. Kahle-J. Weinberg, Hebrew Union College Annual, v. 10 (1935), pp. 185-222, and Hebrew Union College Annual, v. 12-13 (1937-1938), p. 275-325.</note>
+        <note>Condition: damaged; loss of one line at top; loss of third to half of interior edge; blurred.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 76</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417733503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Mishnah, Nedarim 9:10-Nazir 3:2</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>26.6 X 14.6 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 28 (partially extant).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="0800" notafter="0899"/>
+              <p>9th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic , Particles</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6260px" url="master/4448_0000.tif" width="3515px"/>
+      <graphic height="190px" url="thumb/4448_0000_thumb.jpg" width="106px"/>
+      <graphic height="1800px" url="web/4448_0000_web.jpg" width="1010px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6260px" url="master/4448_0001.tif" width="3515px"/>
+      <graphic height="190px" url="thumb/4448_0001_thumb.jpg" width="106px"/>
+      <graphic height="1800px" url="web/4448_0001_web.jpg" width="1010px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 331: K&#803;etubah</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 331: K&#803;etubah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>The oldest dated Genizah document. A draft of a k&#803;etubah, in which the writing is interrupted after the date in the seventh line, probably because the day in the month is mistaken: 17 Tishre 1183 (&#1513;&#1489;&#1514; &#1488;&#1513;&#1512; &#1489;&#1514;&#1513;&#1512;&#1497; [...] &#1488;&#1500;&#1508;&#1488; &#1493;&#1502;&#1488;&#1514; &#1493;&#1514;&#1502;&#1504;&#1524;&#1503; &#1502;&#1510;&#1497;&#1493;&#1503; &#1493;&#1514;&#1500;&#1514;), Seleucid year (&#1500;&#1513;&#1514;&#1512;&#1493;&#1514;). The parchment has been cut off beneath this final line. On the right margin: &#1489;&#1512;&#1493;&#1498; &#1497;&#1497;&#1497; &#1492;&#1500;&#1500;&#1493;&#1497;&#1492; &#1502;&#1510;&#1497;&#1493;&#1503; &#1513;&#1499;&#1493;&#1503; &#1497;&#1512;&#1493;&#1513;&#1500;&#1493;&#1501; (sic!); Verso contains a secondary inscription, added much later, which fits the cut of the discarded parchment. It contains a Midrashic passage in Aramaic about the humility of Adam among the creatures. The term &#1489;&#1511;&#1488; (single flea) appears, which is mentioned but once in Rabbinic literature (Talmud H&#803;ulin 58b).</note>
+        <note>Condition: fragment; incomplete, cropped beneath final line.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 331</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9934790513503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>K&#803;etubah</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>14 x 8.8 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1 1; lines: 7 (recto); 17 (verso); ruling method: recto (original document), drypoint, stylus lines visible, large margin on interior side; verso, secondary inscription fills fragment widthwise, lines poorly ruled.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="0869" notafter="0870"/>
+              <p>869 or 870</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Ketubah</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2289px" url="master/4698_0000.tif" width="3664px"/>
+      <graphic height="118px" url="thumb/4698_0000_thumb.jpg" width="190px"/>
+      <graphic height="1124px" url="web/4698_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3666px" url="master/4698_0001.tif" width="2288px"/>
+      <graphic height="190px" url="thumb/4698_0001_thumb.jpg" width="118px"/>
+      <graphic height="1800px" url="web/4698_0001_web.jpg" width="1123px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>
