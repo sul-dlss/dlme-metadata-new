@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 454: Classified List of remedies</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 454: Classified List of remedies are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Number of lines varies according to content; text breaks in fols. 1-3 denoted by three puncti; 1r remedies extracted from dogs, from foxes, in Hebrew, starting &#1505;&#1490;&#1493;&#1500;&#1493;&#1514; &#1492;&#1513;&#1493;&#1506;&#1500;; 1v remedies extracted from ducks. in Hebrew; 2r two paragraphs of cures, in Judeo-Arabic; 2v record of words, maybe a magical chant, in Aramaic; 3r instructions in Judeo-Arabic for the preparation of different remedies, followed by Hebrew instructions for the preparation of an amulet, engraved into a heart; 4r in a different hand; contains instructions in Hebrew for preparing parchment for a Torah Scroll. Headed: &#1506;&#1497;&#1489;&#1493;&#1491; &#1490;&#1493;&#1497;&#1500; &#1513;&#1500; &#1505;&#1508;&#1512; &#1514;&#1493;&#1512;&#1492; &#1502;&#1503; &#1502;&#1506;&#1513;&#1492;. The term &#1502;&#1506;&#1513;&#1492; usually infers a unit of transmitted practical Halakhah, most common among the literature of the Erets Israeli tradition. This too is not written as a Halakhic monograph, but rather as a recipe, in second person format:&#1514;&#1511;&#1495; &#1506;&#1508;&#1509;. This is a complete, distinct essay, ending towards bottom of recto: &#1514;&#1501; &#1514;&#1501;; 4v (in the same hand as recto) contains the same, in Judeo-Arabic. The heading: &#1492;&#1491;&#1488; &#1506;&#1502;&#1500; &#1488;&#1500;&#1512;&#1497;&#1511;.</note>
+        <note>Condition: fol. 1 damaged, losses from top bottom edges; fols. 2-4 nearly complete; stained, faded.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 454</idno>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Classified List of remedies</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.4 X 12.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 22(?).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Medicine , to 1800 , Formulae, receipts, prescriptions, early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5330px" url="master/4817_0000.tif" width="4842px"/>
+      <graphic height="190px" url="thumb/4817_0000_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4817_0000_web.jpg" width="1635px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5268px" url="master/4817_0001.tif" width="4972px"/>
+      <graphic height="190px" url="thumb/4817_0001_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/4817_0001_web.jpg" width="1699px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5330px" url="master/4817_0002.tif" width="4842px"/>
+      <graphic height="190px" url="thumb/4817_0002_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4817_0002_web.jpg" width="1635px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5268px" url="master/4817_0003.tif" width="4972px"/>
+      <graphic height="190px" url="thumb/4817_0003_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/4817_0003_web.jpg" width="1699px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5330px" url="master/4817_0004.tif" width="4842px"/>
+      <graphic height="190px" url="thumb/4817_0004_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4817_0004_web.jpg" width="1635px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5268px" url="master/4817_0005.tif" width="4972px"/>
+      <graphic height="190px" url="thumb/4817_0005_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/4817_0005_web.jpg" width="1699px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5330px" url="master/4817_0006.tif" width="4842px"/>
+      <graphic height="190px" url="thumb/4817_0006_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/4817_0006_web.jpg" width="1635px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5268px" url="master/4817_0007.tif" width="4972px"/>
+      <graphic height="190px" url="thumb/4817_0007_thumb.jpg" width="179px"/>
+      <graphic height="1800px" url="web/4817_0007_web.jpg" width="1699px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 428: Commentary on Ghazza&#772;li&#772;s Maqa&#772;s&#803;id al-fala&#772;sifah and Hebrew translation.</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 428: Commentary on Ghazza&#772;li&#772;s Maqa&#772;s&#803;id al-fala&#772;sifah and Hebrew translation. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Incipits enlarged square characters, above a space; A folio from a Hebrew commentary on Ghazza&#772;li&#772;s Maqa&#772;s&#803;id al-fala&#772;sifah (Intentions of the Philosophers), in which paragraphs from Ghazza&#772;li&#772;'s text, starting with &#1488;&#1502;&#1512; &#1488;&#1489;&#1493;&#1495;&#1502;&#1491;, are interspersed with his comments, starting with &#1488;&#1502;&#1512; &#1492;&#1502;&#1506;&#1514;&#1497;&#1511;; Fragment contains the two articles parallel to, in the published edition (Georges Vajda. Sefer Tik&#803;un ha-de&#699;ot le-Yitsh&#803;ak&#803; Albalag / hehedir &#699;al-pi kitve-yad v&#803;e-tsiref mavo, mar&#702;e-mek&#803;omot u-mafteh&#803;ot, Yehudah Aryeh V&#803;aidah. Yerushalayim : ha-Ak&#803;ademyah ha-le&#702;umit ha-Yis&#769;ra&#702;elit la-mada&#699;im. 733 [1973]) p. 20 l. 21-p. 22 l. 4 (comment nos. 19, 20).</note>
+        <note>Condition: nearly complete; damaged, folded.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 428</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421073503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Commentary on Ghazza&#772;li&#772;s Maqa&#772;s&#803;id al-fala&#772;sifah and Hebrew translation.</title>
+              <author>Albalag, Isaac,13th cent.</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.7 X 18.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 30; ruling method: left rule justified by stretching last character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1200" notafter="1399"/>
+              <p>13th century-14th century?</p>
+              <origplace>Byzantium</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Philosophy , Early works to 1800 , Introductions</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6476px" url="master/4793_0000.tif" width="4832px"/>
+      <graphic height="190px" url="thumb/4793_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4793_0000_web.jpg" width="1343px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6476px" url="master/4793_0001.tif" width="4832px"/>
+      <graphic height="190px" url="thumb/4793_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/4793_0001_web.jpg" width="1343px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

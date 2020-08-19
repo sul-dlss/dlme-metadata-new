@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 135: Hilkhot sheh&#803;itah</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 135: Hilkhot sheh&#803;itah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Left rule justified (once) by two dashes; From Judah ben Benjamin ha-Rofe Anav of Rome's treatise on ritual slaughter. It contains the end of the section on sheh&#803;itah, and the beginning of the section on t&#803;erefot. Parallel to, in the published edition of Blau: Shit&#803;at ha-k&#803;admonin / J.M. ha-Kohen Blau [ed.], Brooklyn : N.Y. Bloi, 1980, Hullin vol. II,p. 284 l. 15 &#1506;&#1500;&#1497;&#1492;&#1503; to 285 l. 13 &#1502;&#1505;&#1504;&#1497;; The text is interrupted here, and a second headline is inserted: &#1508;&#1505;&#1511;&#1497; &#1492;&#1500;&#1499;&#1493;&#1514; &#1489;&#1491;&#1497;&#1511;&#1492; &#1513;&#1495;&#1497;&#1489;&#1512; &#1492;&#1512; &#1497;&#1492;&#1493;&#1491;&#1492; &#1489;&#1492;"&#1512; &#1489;&#1504;&#1497;&#1502;&#1497;&#1503; &#1504;"&#1506; &#1488;&#1497;&#1513; &#1512;&#1493;&#1502;&#1497; &#1493;&#1495;&#1500;&#1511;&#1501; &#1500;&#1513;&#1502;&#1493;&#1504;&#1492;; The scribe, Abraham ben Elijah of Rome, signs the end of the section on sheh&#803;itah, even though he continues to copy the next section; This is probably in order to insert his original and clever remark, paraphrasing R. Jose in the end of Mishnah Kelim in the context of this treatise: &#1488;&#1513;&#1512;&#1497;&#1498; &#1506;&#1504;&#1497;&#1497;&#1503; &#1513;&#1495;&#1497;&#1496;&#1492; &#1513;&#1504;&#1499;&#1504;&#1505;&#1514; &#1489;&#1502;&#1493;&#1502;&#1495;&#1492; &#1493;&#1497;&#1510;&#1488;&#1514; &#1489;&#1494;&#1492;&#1489;, followed by a short homily on the symbolism of gold.</note>
+        <note>Condition: nearly complete, damage.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 135</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418253503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Hilkhot sheh&#803;itah</title>
+              <author>Anav, Judah ben Benjamin, ha-Rofe, active 13th century</author>
+              <respstmt>
+                <resp>scribe</resp>
+                <persname>Avraham ben Eliyah, ish Romi.</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>20.6 X 14.1 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 18 (recto), 20 (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Byzantine semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1200" notafter="1399"/>
+              <p>13th century-14th century?</p>
+              <origplace>Italy</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shehitah , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5322px" url="master/4507_0000.tif" width="3744px"/>
+      <graphic height="190px" url="thumb/4507_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4507_0000_web.jpg" width="1266px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5322px" url="master/4507_0001.tif" width="3744px"/>
+      <graphic height="190px" url="thumb/4507_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4507_0001_web.jpg" width="1266px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

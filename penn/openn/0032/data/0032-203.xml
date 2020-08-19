@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Columbia University MS Or 407 - GREY BOX: Leaf from the Qur&#700;a&#772;n</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Columbia University</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Rare Book and Manuscript Library MS Or 407 - GREY BOX: Leaf from the Qur&#700;a&#772;n are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Columbia University, Rare Book &amp; Manuscript Library has waived all copyright and related or neighboring rights to this metadata about Rare Book and Manuscript Library MS Or 407 - GREY BOX: Leaf from the Qur&#700;a&#772;n. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Manuscript leaf.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <settlement>New York, NY. 10027</settlement>
+            <institution>Columbia University</institution>
+            <repository>Rare Book and Manuscript Library</repository>
+            <idno type="call-number">MS Or 407 - GREY BOX</idno>
+            <altidentifier type="bibid">
+              <idno>14634250</idno>
+            </altidentifier>
+            <altidentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1144936741</idno>
+            </altidentifier>
+            <altidentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0032/html/ms_or_407.html</idno>
+            </altidentifier>
+            <altidentifier type="resource">
+              <idno>https://clio.columbia.edu/catalog/14634250</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary>Copy of a portion of Su&#772;rat Hu&#772;d (11), from the second half of verse 79 through the first word of verse 88.</summary>
+            <textlang mainlang="ara">Arabic</textlang>
+            <msitem>
+              <title>Leaf from the Qur&#700;a&#772;n</title>
+            </msitem>
+            <msitem n="1r">
+              <locus>[1]r</locus>
+              <title>[Leaf from the Qur&#700;a&#772;n].</title>
+            </msitem>
+            <msitem n="1r">
+              <locus>[1]r</locus>
+              <title>Su&#772;rat Hu&#772;d verses 79-87</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="mixed">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 leaf : 250 x 260 (205 x 305) mm</extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Written in 13 long lines.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Written in Early Abbasid (Kufic) in black ink.</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Vowels in red, three gold dots in a triangle formation indicate verse endings, one circular medallion.</deconote>
+              <deconote n="1r">Medallion</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <p>The item is undated; perhaps produced in the 11th century.</p>
+              <origdate>10--?</origdate>
+            </origin>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Manuscripts, Arabic--New York (State)--New York</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Detached leaves</term>
+          <term>Manuscripts (documents)</term>
+          <term>Qur&#700;ans</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="Loose leaf recto">
+      <graphic height="2832px" url="master/9814_0000.tif" width="2288px"/>
+      <graphic height="190px" url="thumb/9814_0000_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/9814_0000_web.jpg" width="1454px"/>
+    </surface>
+    <surface n="Loose leaf verso">
+      <graphic height="2832px" url="master/9814_0001.tif" width="2288px"/>
+      <graphic height="190px" url="thumb/9814_0001_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/9814_0001_web.jpg" width="1454px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5138px" url="master/9814_0002.tif" width="7341px"/>
+      <graphic height="132px" url="thumb/9814_0002_thumb.jpg" width="190px"/>
+      <graphic height="1259px" url="web/9814_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5138px" url="master/9814_0003.tif" width="7341px"/>
+      <graphic height="132px" url="thumb/9814_0003_thumb.jpg" width="190px"/>
+      <graphic height="1259px" url="web/9814_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

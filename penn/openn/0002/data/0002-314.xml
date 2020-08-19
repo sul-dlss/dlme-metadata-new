@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 290: Yotser for the Sabbath of the reading of Nitsavim (Devarim 29:9)</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 290: Yotser for the Sabbath of the reading of Nitsavim (Devarim 29:9) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Strophe endings denoted by a punctus; incomplete vocalization; A. The fragment opens with the last 10 strophes (&#1502;-&#1514;) of the Yotser &#1488;&#1512;&#1489;&#1506;&#1497;&#1501; &#1493;&#1513;&#1502;&#1493;&#1504;&#1492; &#1489;&#1512;&#1497;&#1514;&#1493;&#1514;. The verses of biblical content mix the themes of the Torah portion with that of the Haftorah, Isaiah LXI. Some of the strophes are incatenated. A complete version is found in Cambridge T-S 8H 20.4, the acrostic signature there is &#1488;-&#1514; &#1513;&#1502;&#1493;&#1488;&#1500;; A nearly complete copy is found above, 289 (Davidson, TMHP 1087&#1500;).</note>
+        <note>Condition: nearly complete; stained, faded.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 290</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419713503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Yotser for the Sabbath of the reading of Nitsavim (Devarim 29:9)</title>
+              <author>Shemu&#700;el ben Hosha&#699;na &#1513;&#1502;&#1493;&#1488;&#1500; &#1489;&#1503; &#1492;&#1493;&#1513;&#1506;&#1504;&#1488;, &#1508;&#1497;&#1496;&#1503; Samuel ben Hoshana 09..-1012?</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>14 X 9.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 17 (recto), 18 (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Piyutim</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3474px" url="master/4657_0000.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4657_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4657_0000_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3474px" url="master/4657_0001.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4657_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4657_0001_web.jpg" width="1285px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 28: Psalms 106:5-107:37; Psalms 118:29-119:86</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 28: Psalms 106:5-107:37; Psalms 118:29-119:86 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Every odd line with large open space at center; Fol. 1 contains Psalms CVI 5 &#1504;&#1495;&#1500;&#1514;&#1498; - CVII 37 &#1513;&#1491;&#1493;&#1514;; fol. 2 contains CXVIII 29 &#1500;&#1497;&#1492;&#1493; &#1492; &#1499;&#1497; &#1496;&#1493;&#1489; - CIX 86 &#1499;&#1500; &#1502;&#1510;&#1493;&#1514;&#1497;&#1498;; numerous variants from standard Masoretic text, both in vocalization and orthography.</note>
+        <note>Condition: non-consecutive; damaged and stained, with erasures and losses, particularly in upper exterior corner.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 28</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417263503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Psalms 106:5-107:37; Psalms 118:29-119:86</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>28.2 X 23.8 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 26; ruling method: drypoint (visible deep stylus marks).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square vocalization and cantillation (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass/>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6840px" url="master/4404_0000.tif" width="11006px"/>
+      <graphic height="118px" url="thumb/4404_0000_thumb.jpg" width="190px"/>
+      <graphic height="1118px" url="web/4404_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6840px" url="master/4404_0001.tif" width="11006px"/>
+      <graphic height="118px" url="thumb/4404_0001_thumb.jpg" width="190px"/>
+      <graphic height="1118px" url="web/4404_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

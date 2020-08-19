@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 219: Liturgical poems, probably for funeral services</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 219: Liturgical poems, probably for funeral services are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Verse endings are signified by a punctus, strophe endings by a sof pasuk&#803; and paragraph break; Fol. 1 recto and the upper third of the verso: under the heading &#1488;&#1495;&#1512;&#1514; &#1500;&#1495;&#1499;&#1501; a dirge of six strophes, four rhymed verses each (except for the final strophe which has 6). Apparently not intended for any specific sage; Starts: &#1492;&#1488;&#1505;&#1508;&#1493; &#1488;&#1504;&#1513;&#1497; &#1488;&#1502;&#1514;. This dirge appears in Cambridge T-S K25.15 where it is attributed (in the heading) to&#1497;&#1513;&#1493;&#1506;&#1492; &#1492;&#1499;&#1492;&#1503; &#1489;&#1503; &#1497;&#1493;&#1505;&#1507; &#1492;&#1491;&#1497;&#1497;&#1503;. This poem was published by Sarah Cohen, Tarbits v. 69 (2000, p.449-460) on p. 460, from a different fragment: JTSA ENA 2165; The remainder of the fragment, under the heading &#1488;&#1495;&#1512;&#1514;, contains the first eight strophes of a Eulogy poem &#1489;&#1503; &#1488;&#1491;&#1501; &#1488;&#1500;, probably intended for a Rosh Yeshivah in Erets Israel; Four rhyming verses each, the first starts &#1489;&#1503; &#1488;&#1491;&#1501; followed by the acrostic &#1488;-&#1514; at the head of each verse (the fragment reaches verse &#1505;).</note>
+        <note>Condition: complete, consecutive.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 219</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419003503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Liturgical poems, probably for funeral services</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.6 X 13 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 16.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursivesporadic vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1199"/>
+              <p>12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Funeral rites and ceremonies, Jewish</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4488px" url="master/4587_0000.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0000_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4488px" url="master/4587_0001.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0001_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4488px" url="master/4587_0002.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0002_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0002_web.jpg" width="1360px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4488px" url="master/4587_0003.tif" width="3392px"/>
+      <graphic height="190px" url="thumb/4587_0003_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4587_0003_web.jpg" width="1360px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

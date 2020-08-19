@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 75: Mishnah, Zera'im, Bik&#803;urim 3:2-4:2</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 75: Mishnah, Zera'im, Bik&#803;urim 3:2-4:2 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Text breaks (Mishnah endings) marked by sof pasuk&#803;; Bikkurim III 2 &#1493;&#1500;&#1502;&#1513;&#1499;&#1497;&#1501; &#1492;&#1497;&#1492; &#8211; IV 2 [..&#1513;&#1493;&#1492; &#1500;[&#1488;&#1504;&#1513;&#1497;&#1501;. chapters subdivided into numbered Mishnayot.</note>
+        <note>Condition: damaged; losses in interior and lower edges.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 75</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417723503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Mishnah, Zera'im, Bik&#803;urim 3:2-4:2</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>17.4 X 19 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 2; lines: 24; ruling method: left rule is justified with a filler (broken "&#1488;").</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Friedenwald.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4370px" url="master/4447_0000.tif" width="4644px"/>
+      <graphic height="178px" url="thumb/4447_0000_thumb.jpg" width="190px"/>
+      <graphic height="1693px" url="web/4447_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4370px" url="master/4447_0001.tif" width="4644px"/>
+      <graphic height="178px" url="thumb/4447_0001_thumb.jpg" width="190px"/>
+      <graphic height="1693px" url="web/4447_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

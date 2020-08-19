@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 67: Judeo-Arabic lexicon of the Bible</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 67: Judeo-Arabic lexicon of the Bible are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Text breaks denoted by a sof pasuk&#803; plus three spaces; marginalia in a different hand; vocalization as needed; Similar to the Karaite David ben Abraham Alfasi's Kita&#772;b Ja&#772;mi al-Alfa&#772;s&#803;, possibly a variation of this work. Most of the differences between them are in the Arabic narrative; The first fol. here is from the article on the root &#1488;&#1502;&#1524;&#1504;, comparable to Alfasi, in the published edition (Skoss, New Haven, 1936) p. 114. The second is from the article on the root &#1488;&#1502;&#1524;&#1512; comparable to ibid. p. 118.</note>
+        <note>Condition: non-consecutive; losses in upper-exterior corner; marginalia.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 67</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417633503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Judeo-Arabic lexicon of the Bible</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.1 X 10.9 (15 X 8) cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 17; ruling method: left rule justified a single broken character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1099"/>
+              <p>11th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew language , Judeo-Arabic , Dictionaries Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4392px" url="master/4439_0000.tif" width="2848px"/>
+      <graphic height="190px" url="thumb/4439_0000_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/4439_0000_web.jpg" width="1167px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4392px" url="master/4439_0001.tif" width="2848px"/>
+      <graphic height="190px" url="thumb/4439_0001_thumb.jpg" width="123px"/>
+      <graphic height="1800px" url="web/4439_0001_web.jpg" width="1167px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4488px" url="master/4439_0002.tif" width="2848px"/>
+      <graphic height="190px" url="thumb/4439_0002_thumb.jpg" width="120px"/>
+      <graphic height="1800px" url="web/4439_0002_web.jpg" width="1142px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4488px" url="master/4439_0003.tif" width="2848px"/>
+      <graphic height="190px" url="thumb/4439_0003_thumb.jpg" width="120px"/>
+      <graphic height="1800px" url="web/4439_0003_web.jpg" width="1142px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

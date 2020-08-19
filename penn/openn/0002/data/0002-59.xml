@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 33: Job 2:4-3:26; Job 7:8-8:21</title>
+        <respstmt>
+          <resp>contributor</resp>
+          <persname>Laura Eckstein</persname>
+        </respstmt>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 33: Job 2:4-3:26; Job 7:8-8:21 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>In prose segment (chapter II) columns are internally consecutive; in the poetic segment each verse is split between the columns. Fol. 1 contains Job II 4 &#1497;&#1514;&#1503; &#1489;&#1506;&#1491; - III 26 &#1513;&#1500;&#1493;&#1514;&#1497; &#1493;&#1500;&#1488;; in missing part of fol. were III 4-7 and the latter phrases of III 24, to end of chapter; fol. 2 contains ibid., VII 8 &#1500;&#1488; &#1514;&#1513;&#1493;&#1512;&#1504;&#1497; - VIII 22 &#1512;]&#1513;&#1506;]&#1497;&#1501;]; in missing part of fol. were VII 20-VIII 7 and approximately IX 1-11; only text break signified graphically follows III 1.</note>
+        <note>Black ink ruling method: writing accommodates uneven cut of parchment columns</note>
+        <note type="relatedResource" target="http://openn.library.upenn.edu/Data/0002/html/h002.html">OPenn</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 33</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417313503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Job 2:4-3:26; Job 7:8-8:21</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>22.2 X 21.2 cm </extent>
+              </supportdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square vocalization and cantillation (Tiberian)</scriptnote>
+            </scriptdesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library). Cairo Genizah Collection (Dropsie College. Library). Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass/>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5352px" url="master/4847_0000.tif" width="5457px"/>
+      <graphic height="186px" url="thumb/4847_0000_thumb.jpg" width="190px"/>
+      <graphic height="1765px" url="web/4847_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5352px" url="master/4847_0001.tif" width="5505px"/>
+      <graphic height="184px" url="thumb/4847_0001_thumb.jpg" width="190px"/>
+      <graphic height="1749px" url="web/4847_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5352px" url="master/4847_0002.tif" width="5457px"/>
+      <graphic height="186px" url="thumb/4847_0002_thumb.jpg" width="190px"/>
+      <graphic height="1765px" url="web/4847_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5352px" url="master/4847_0003.tif" width="5505px"/>
+      <graphic height="184px" url="thumb/4847_0003_thumb.jpg" width="190px"/>
+      <graphic height="1749px" url="web/4847_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

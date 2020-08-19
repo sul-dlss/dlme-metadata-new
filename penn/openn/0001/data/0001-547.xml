@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of University of Pennsylvania LJS 465: Didactic poem on surveying and measurement of areas (taksi&#772;r).</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 465: Didactic poem on surveying and measurement of areas (taksi&#772;r). are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 465</idno>
+            <altidentifier type="bibid">
+              <idno>9959781433503681</idno>
+            </altidentifier>
+            <altidentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/852991445</idno>
+            </altidentifier>
+            <altidentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5978143</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary>A didactic poem on surveying and measuring areas including triangles, quadrilaterals and circles.</summary>
+            <textlang mainlang="ara">Arabic</textlang>
+            <msitem>
+              <title>Didactic poem on surveying and measurement of areas (taksi&#772;r).</title>
+              <author>
+                <persname type="authority">Ibn Luyu&#772;n al-Tuji&#772;bi&#772;, Sa&#699;d ibn Ah&#803;mad, 1282 or 1283-1349 or 1350</persname>
+                <persname type="vernacular">&#1575;&#1576;&#1606; &#1604;&#1610;&#1608;&#1606; &#1575;&#1604;&#1578;&#1580;&#1610;&#1576;&#1610;&#1548; &#1587;&#1593;&#1583; &#1576;&#1606; &#1575;&#1581;&#1605;&#1583;&#1548;</persname>
+              </author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>7 leaves : 198 x 142 (144 x 95) mm. bound to 202 x 159 mm</extent>
+                <collation>
+                  <p>Paper, i (modern paper) + 7 + i (modern paper).</p>
+                </collation>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Written in 21 long lines; ruled in dry point.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Written in small, neat maghribi in brown ink; pointed.</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Small marginal geometric diagrams (f. 2v-6v); diagram annotations in red ink.</deconote>
+              <deconote n="2v">Diagram, f. 2v</deconote>
+              <deconote n="3v">Diagram, f. 3v</deconote>
+              <deconote n="4r">Diagram, f. 4r</deconote>
+              <deconote n="4v">Diagram, f. 4v</deconote>
+              <deconote n="5r">Diagram, f. 5r</deconote>
+              <deconote n="5v">Diagram, f. 5v</deconote>
+              <deconote n="6r">Diagram, f. 6r</deconote>
+              <deconote n="6v">Diagram, f. 6v</deconote>
+            </decodesc>
+            <bindingdesc>
+              <binding>
+                <p>Later morocco over pasteboard binding with flap (Type II) that is too large for the textblock; blind tooled with a central mandorla and double frame, spine repaired; inscriptions inside front cover; text and tables visible on inside back cover.</p>
+              </binding>
+            </bindingdesc>
+          </physdesc>
+          <history>
+            <origin>
+              <p>Item is undated, possibly copied in Spain in the 14th or 15th century.</p>
+              <origdate>13--?-14--?</origdate>
+              <origplace>Spain?</origplace>
+            </origin>
+            <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, June 2004.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2013.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Mathematics--Early works to 1800</term>
+          <term>Geometry--Early works to 1800</term>
+          <term>Geometry</term>
+          <term>Mathematics</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, Arabic--14th century</term>
+          <term>Manuscripts, Arabic--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Codices (bound manuscripts)</term>
+          <term>Diagrams</term>
+          <term>Treatises</term>
+          <term>Early works</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-465-1">
+      <graphic height="3472px" url="master/0025_0000.tif" width="3142px"/>
+      <graphic height="190px" url="thumb/0025_0000_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/0025_0000_web.jpg" width="1628px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-465-2">
+      <graphic height="3472px" url="master/0025_0001.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0001_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-465-3">
+      <graphic height="3505px" url="master/0025_0002.tif" width="4542px"/>
+      <graphic height="146px" url="thumb/0025_0002_thumb.jpg" width="190px"/>
+      <graphic height="1389px" url="web/0025_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-465-4">
+      <graphic height="3472px" url="master/0025_0003.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0003_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0003_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-465-5">
+      <graphic height="3505px" url="master/0025_0004.tif" width="4542px"/>
+      <graphic height="146px" url="thumb/0025_0004_thumb.jpg" width="190px"/>
+      <graphic height="1389px" url="web/0025_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-465-6">
+      <graphic height="3472px" url="master/0025_0005.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0005_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0005_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-465-7">
+      <graphic height="3505px" url="master/0025_0006.tif" width="4593px"/>
+      <graphic height="144px" url="thumb/0025_0006_thumb.jpg" width="190px"/>
+      <graphic height="1373px" url="web/0025_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-465-8">
+      <graphic height="3472px" url="master/0025_0007.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0007_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0007_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-465-9">
+      <graphic height="3505px" url="master/0025_0008.tif" width="4542px"/>
+      <graphic height="146px" url="thumb/0025_0008_thumb.jpg" width="190px"/>
+      <graphic height="1389px" url="web/0025_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-465-10">
+      <graphic height="3472px" url="master/0025_0009.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0009_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0009_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-465-11">
+      <graphic height="3505px" url="master/0025_0010.tif" width="4593px"/>
+      <graphic height="144px" url="thumb/0025_0010_thumb.jpg" width="190px"/>
+      <graphic height="1373px" url="web/0025_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-465-12">
+      <graphic height="3472px" url="master/0025_0011.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0011_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0011_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-465-13">
+      <graphic height="3505px" url="master/0025_0012.tif" width="4593px"/>
+      <graphic height="144px" url="thumb/0025_0012_thumb.jpg" width="190px"/>
+      <graphic height="1373px" url="web/0025_0012_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-465-14">
+      <graphic height="3472px" url="master/0025_0013.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0013_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0013_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-465-15">
+      <graphic height="3505px" url="master/0025_0014.tif" width="4593px"/>
+      <graphic height="144px" url="thumb/0025_0014_thumb.jpg" width="190px"/>
+      <graphic height="1373px" url="web/0025_0014_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-465-16">
+      <graphic height="3472px" url="master/0025_0015.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0015_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0015_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-465-17">
+      <graphic height="3505px" url="master/0025_0016.tif" width="4593px"/>
+      <graphic height="144px" url="thumb/0025_0016_thumb.jpg" width="190px"/>
+      <graphic height="1373px" url="web/0025_0016_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-465-18">
+      <graphic height="3472px" url="master/0025_0017.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0017_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0017_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-465-19">
+      <graphic height="3505px" url="master/0025_0018.tif" width="4542px"/>
+      <graphic height="146px" url="thumb/0025_0018_thumb.jpg" width="190px"/>
+      <graphic height="1389px" url="web/0025_0018_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-465-20">
+      <graphic height="3472px" url="master/0025_0019.tif" width="2787px"/>
+      <graphic height="190px" url="thumb/0025_0019_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0025_0019_web.jpg" width="1445px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-465-21">
+      <graphic height="3505px" url="master/0025_0020.tif" width="4542px"/>
+      <graphic height="146px" url="thumb/0025_0020_thumb.jpg" width="190px"/>
+      <graphic height="1389px" url="web/0025_0020_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-465-22">
+      <graphic height="3472px" url="master/0025_0021.tif" width="3142px"/>
+      <graphic height="190px" url="thumb/0025_0021_thumb.jpg" width="172px"/>
+      <graphic height="1800px" url="web/0025_0021_web.jpg" width="1628px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ljs-465-23">
+      <graphic height="3579px" url="master/0025_0022.tif" width="437px"/>
+      <graphic height="190px" url="thumb/0025_0022_thumb.jpg" width="23px"/>
+      <graphic height="1800px" url="web/0025_0022_web.jpg" width="219px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

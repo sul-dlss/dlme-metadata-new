@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 268: Dirges for the Ninth of Av</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 268: Dirges for the Ninth of Av are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Strophe endings denoted by a sof pasuk&#803;; A. (fol. 1) the end of an unknown k&#803;inah constructed mostly of phrases from Lamentations; last strophe has at least 4 rhyming verses; ends &#1514;&#1489;&#1493;&#1488; &#1499;&#1500; [&#1512;&#1506;]&#1514;&#1501; &#1500;&#1508;&#1504;&#1497;&#1498;; B. (fols. 1-2) fully vocalized; after the lead verse &#1512;&#1491;&#1497; &#1506;&#1497;&#1504;&#1497; &#1512;&#1493;&#1489; &#1491;&#1502;&#1506;&#1492;, the alphabetized strophes start &#1488;&#1499;&#1507; &#1512;&#1488;&#1513; &#1493;&#1490;&#1501; &#1511;&#1493;&#1502;&#1492;. The fragment reaches strophe &#1496;. Four verses per strophe, the first three rhyme with each other, the fourth is rhymed &#1506;&#1492;-. Strophes &#1488;-&#1506; are in a fragment from a different ms., found in Philadelphia NS 5.</note>
+        <note>Condition: consecutive; losses in lower and exterior edges.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 268</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419483503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Dirges for the Ninth of Av</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>12 X 8.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 11.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Ninth of Av , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3218px" url="master/4635_0000.tif" width="2112px"/>
+      <graphic height="190px" url="thumb/4635_0000_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4635_0000_web.jpg" width="1181px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3218px" url="master/4635_0001.tif" width="2112px"/>
+      <graphic height="190px" url="thumb/4635_0001_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4635_0001_web.jpg" width="1181px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3218px" url="master/4635_0002.tif" width="2112px"/>
+      <graphic height="190px" url="thumb/4635_0002_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4635_0002_web.jpg" width="1181px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3218px" url="master/4635_0003.tif" width="2112px"/>
+      <graphic height="190px" url="thumb/4635_0003_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/4635_0003_web.jpg" width="1181px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

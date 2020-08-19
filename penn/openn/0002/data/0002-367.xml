@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 344: Court document</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 344: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>A document in Judeo-Arabic and legal Hebrew, issued in the court of Samuel (ben H&#803;ananyah) ha-Nagid. Documents referring to him as the Nagid date between 1141-1159; The signatures are Yah&#803;iyah ben Elijah (autograph) and El&#699;azar ben Abraham, whose signature appears to be the same hand as the content of this document. El'azar signs his autograph on a Ketubah issued by the court of Matsliah&#803; ha-kohen Gaon in 1134, found in Oxford Heb. b. 12 (Cowely 2875) fol. 1; Abu 'Amr Sa'adia ha-Levi confirms that Abu Natsr Samuel ha-Levi acted correctly at the sale of local, Egyptian silk (l. 2 &#1488;&#1500;&#1489;&#1500;&#1491;&#1497;), which was deposited by H&#803;alfon ben al-Damyati as a pledge on his loan. He also acquits H&#803;alfon of a debt of 25 dinar owed to him by H&#803;alfon's brother Eli.</note>
+        <note>Condition: damaged, loss in upper left corner; verso is blank.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 344</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420223503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb" otherlangs="heb">Judeo-Arabic; Hebrew</textlang>
+            <msitem>
+              <title>Court document</title>
+              <respstmt>
+                <resp>scribe</resp>
+                <persname>El&#699;azar ben Avraham, 12th cent.</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.4 X 16.4 cmm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 29.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate/>
+              <p>April 23, 1164</p>
+              <origplace>Alexandria</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6035px" url="master/4710_0000.tif" width="4096px"/>
+      <graphic height="190px" url="thumb/4710_0000_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/4710_0000_web.jpg" width="1221px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6035px" url="master/4710_0001.tif" width="4096px"/>
+      <graphic height="190px" url="thumb/4710_0001_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/4710_0001_web.jpg" width="1221px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>

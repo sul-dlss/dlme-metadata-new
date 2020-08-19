@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 172: Morning blessings and Psalms</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 172: Morning blessings and Psalms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Prayer endings denoted by a sof pasuk&#803; plus a semi-alef; From a prayer book. Fol. 1, partially vocalized, is from the beginning of Birkhot ha-shah&#803;ar, including &#1488;&#1500;&#1492;&#1497; &#1504;&#1513;&#1502;&#1492;, morning blessing 16, and the beginning of &#1500;&#1506;&#1493;&#1500;&#1501; &#1497;&#1492;&#1488; &#1488;&#1491;&#1501; (Midrash Tana dev&#803;e Eliyahu 22) as in Sidur R. &#697;Amram Ga&#702;on; The blessings include some uncommon ones, in addition to the basic 11 (Talmud Berakhot 60b); The first two, &#1502;&#1506;&#1497;&#1512; &#1497;&#1513;&#1504;&#1497;&#1501; and &#1502;&#1511;&#1497;&#1509; &#1512;&#1491;&#1493;&#1502;&#1497;&#1501; are signed for erasure, &#1492;&#1504;&#1493;&#1514;&#1503; &#1500;&#1513;&#1499;&#1493;&#1497; &#1489;&#1497;&#1504;&#1492; is tenth,&#1506;&#1493;&#1496;&#1512; &#1497;&#1513;&#1512;&#1488;&#1500; is omitted (as is &#1492;&#1504;&#1493;&#1514;&#1503; &#1500;&#1497;&#1506;&#1507; &#1499;&#1495;, consistent with the Oriental custom); After the standard series &#1513;&#1500;&#1488; &#1513;&#1502;&#1514;&#1504;&#1497; (as in Sidur R. Se&#697;adyah Ga&#697;on) &#1490;&#1493;&#1497;-&#1506;&#1489;&#1491;-&#1488;&#1513;&#1492; (ibid. Menah&#803;ot 43b) are added added &#1513;&#1500;&#1488; &#1513;&#1502;&#1514;&#1504;&#1497; &#1489;&#1492;&#1502;&#1492; and &#1513;&#1500;&#1488; &#1513;&#1502;&#1514;&#1504;&#1497; &#1502;&#1488;&#1493;&#1502;&#1493;&#1514; &#1492;&#1506;&#1493;&#1500;&#1501; &#1488;&#1500;&#1488; &#1502;&#1506;&#1502;&#1498; &#1497;&#1513;&#1512;&#1488;&#1500;. Both are encircled for erasure; Fol. 2 is from the common assembled Psalms at the beginning of Pesuk&#803;e de-zimrah (Psalm CV 1-15 and other excerpts).</note>
+        <note>Condition: non-consecutive, nearly complete; loss from upper exterior corner of fol. 1.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 172</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418573503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Morning blessings and Psalms</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>14 X 9.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 16.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Judaism , Prayer-books and devotions Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3474px" url="master/4542_0000.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0000_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3474px" url="master/4542_0001.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0001_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3474px" url="master/4542_0002.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0002_web.jpg" width="1285px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3474px" url="master/4542_0003.tif" width="2480px"/>
+      <graphic height="190px" url="thumb/4542_0003_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/4542_0003_web.jpg" width="1285px"/>
+    </surface>
+  </facsimile>
+</tei>
+</body>
+</html>
