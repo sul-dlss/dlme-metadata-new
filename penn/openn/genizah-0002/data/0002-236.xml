@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 212: Part of the Hagadah for Passover</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 212: Part of the Hagadah for Passover are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Maggid segment of the Passover Hagaddah, including from from &#1488;&#1502;&#1512; &#1500;&#1492;&#1501; &#1512;&#1523; &#1488;&#1500;&#1506;&#1494;&#1512; &#1489;&#1503; &#1506;&#1494;&#1512;&#1497;&#1492; to &#1493;&#1497;&#1513;&#1502;&#1506; &#1488;&#1500;&#1492;&#1497;&#1501; &#1488;&#1514; &#1504;&#1488;&#1511;&#1514;&#1501;; Interlinear addenda on fol. 2 recto; text breaks denoted with a semi-alef; vocalized where needed.</note>
+        <note>Condition: consecutive, complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 212</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418923503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>Part of the Hagadah for Passover</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>15.5 X 15.2 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 14-15; ruling method: left rule justified by stretching last character, or filler of one character of anticipated word.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1299"/>
+              <p>11th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Adler.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Passover , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3943px" url="master/4580_0000.tif" width="3968px"/>
+      <graphic height="188px" url="thumb/4580_0000_thumb.jpg" width="190px"/>
+      <graphic height="1788px" url="web/4580_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3943px" url="master/4580_0001.tif" width="3968px"/>
+      <graphic height="188px" url="thumb/4580_0001_thumb.jpg" width="190px"/>
+      <graphic height="1788px" url="web/4580_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3943px" url="master/4580_0002.tif" width="3968px"/>
+      <graphic height="188px" url="thumb/4580_0002_thumb.jpg" width="190px"/>
+      <graphic height="1788px" url="web/4580_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3943px" url="master/4580_0003.tif" width="3968px"/>
+      <graphic height="188px" url="thumb/4580_0003_thumb.jpg" width="190px"/>
+      <graphic height="1788px" url="web/4580_0003_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h212/data/h212_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 187: Incipit of prayer-book with owner's inscription, Se&#697;adyah ha-Lev&#803;i ben Hilel</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 187: Incipit of prayer-book with owner's inscription, Se&#697;adyah ha-Lev&#803;i ben Hilel are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Inscribed in the verso in large square letters: &#1500;&#1505;&#1506;&#1491;&#1497;&#1492; &#1492;&#1500;&#1493;&#1497;\ &#1489;&#1503; &#1492;&#1500;&#1500; &#1492;&#1500;&#1493;&#1497;\ &#1492;&#1488;&#1500;&#1492;&#1497;&#1501; &#1497;&#1494;&#1499;&#1492;&#1493; &#1500;&#1511;&#1512;&#1488; &#1489;&#1493; &#1493;&#1513;&#1500;&#1493;&#1501;; on recto after owner's inscription, a second column (more frame format than marginalia?); marginalia (?) and ornamentation in upper margin of recto; verso is vocalized.</note>
+        <note>Condition: nearly complete; orn. dev.; stained; marginalia.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 187</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418713503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Incipit of prayer-book with owner's inscription, Se&#697;adyah ha-Lev&#803;i ben Hilel</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.1 X 12 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 5, 16 (recto); 12 (? verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square semi-cursive vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Judaism , Prayer-books and devotions Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4098px" url="master/4557_0000.tif" width="3232px"/>
+      <graphic height="190px" url="thumb/4557_0000_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/4557_0000_web.jpg" width="1419px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4098px" url="master/4557_0001.tif" width="3232px"/>
+      <graphic height="190px" url="thumb/4557_0001_thumb.jpg" width="150px"/>
+      <graphic height="1800px" url="web/4557_0001_web.jpg" width="1419px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h187/data/h187_TEI.xml</dlme_url></body>
+</html>

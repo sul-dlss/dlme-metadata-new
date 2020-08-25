@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of University of Pennsylvania LJS 460: Gathering from Ikhtis&#803;a&#772;r lil-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis.</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 460: Gathering from Ikhtis&#803;a&#772;r lil-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis. are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Ms. gathering.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 460</idno>
+            <altidentifier type="bibid">
+              <idno>9948056223503681</idno>
+            </altidentifier>
+            <altidentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/779348960</idno>
+            </altidentifier>
+            <altidentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4805622</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary>One gathering, perhaps partial, from an abridgment in Arabic of Euclid's Elements, written on paper.</summary>
+            <textlang mainlang="ara">Arabic</textlang>
+            <msitem>
+              <title>Gathering from Ikhtis&#803;a&#772;r lil-maqa&#772;la&#772;t min kita&#772;b Uqli&#772;dis.</title>
+              <author>
+                <persname type="authority">Euclid</persname>
+              </author>
+              <respstmt>
+                <resp>former owner</resp>
+                <persname type="authority">Schoenberg, Lawrence J</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="mixed">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>8 leaves : 188 x 100 (145 x 60) mm</extent>
+                <collation>
+                  <p>Paper, 8 ; 1&#8312;.</p>
+                </collation>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Written in 15 long lines; ruled with a mist&#803;arah with approximately 8 mm. between lines, a standard measurement for manuscripts written in Egypt.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Written in naskh in dark brown ink; partially pointed.</scriptnote>
+            </scriptdesc>
+          </physdesc>
+          <history>
+            <origin>
+              <p>From a parent manuscript (LJS 37) written in Fatimid Egypt, Iraq, or Syria, between A.H. Juma&#772;da&#769; al-U&#772;la&#769; and Rama&#7693;a&#772;n 502 (Dec. 1108-April 1109).</p>
+              <origdate>A.H. 502 (1108-1109)</origdate>
+              <origplace>Egypt, Iraq, or Syria</origplace>
+            </origin>
+            <provenance>From a parent manuscript (LJS 37) that was in Persia in the 18th century.</provenance>
+            <provenance>LJS 460 sold at auction at Christie's, 17 Oct. 2003, lot 407, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+            <provenance>Gift of Barbara Brizdle Schoenberg, 2016.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Geometry--Early works to 1800</term>
+          <term>Mathematics, Greek</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Abridgements</term>
+          <term>Treatises</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Arabic--12th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r" xml:id="surface-ljs-460-1">
+      <graphic height="4928px" url="master/0197_0000.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0000_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0000_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-460-2">
+      <graphic height="4928px" url="master/0197_0001.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0001_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0001_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-460-3">
+      <graphic height="4928px" url="master/0197_0002.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0002_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0002_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-460-4">
+      <graphic height="4928px" url="master/0197_0003.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0003_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0003_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-460-5">
+      <graphic height="4928px" url="master/0197_0004.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0004_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0004_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-460-6">
+      <graphic height="4928px" url="master/0197_0005.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0005_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0005_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-460-7">
+      <graphic height="4928px" url="master/0197_0006.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0006_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0006_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-460-8">
+      <graphic height="4928px" url="master/0197_0007.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0007_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0007_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-460-9">
+      <graphic height="4928px" url="master/0197_0008.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0008_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0008_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-460-10">
+      <graphic height="4928px" url="master/0197_0009.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0009_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0009_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-460-11">
+      <graphic height="4928px" url="master/0197_0010.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0010_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0010_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-460-12">
+      <graphic height="4928px" url="master/0197_0011.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0011_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0011_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-460-13">
+      <graphic height="4928px" url="master/0197_0012.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0012_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0012_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-460-14">
+      <graphic height="4928px" url="master/0197_0013.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0013_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0013_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-460-15">
+      <graphic height="4928px" url="master/0197_0014.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0014_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0014_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-460-16">
+      <graphic height="4928px" url="master/0197_0015.tif" width="2910px"/>
+      <graphic height="190px" url="thumb/0197_0015_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0197_0015_web.jpg" width="1062px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0001/ljs460/data/ljs460_TEI.xml</dlme_url></body>
+</html>

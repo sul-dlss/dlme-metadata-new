@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 207: Mah&#803;azor, Erets Yis&#769;re&#702;eli rite, Shemini &#697;atseret</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 207: Mah&#803;azor, Erets Yis&#769;re&#702;eli rite, Shemini &#697;atseret are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Text break denoted by vertical ellipsis and three spaces; Instruction in Judeo-Arabic for services on Hoshanna Rabbah, including prayer, Hallel, taking of the four species, and Torah reading. Followed by instructions for Shemini &#697;atseret, under the heading &#1488;&#1500;&#1506;&#1497;&#1491; &#1488;&#1500;&#1514;'&#1488;&#1504;&#1497; (the second Holiday, as opposed to Sa'adia Gaon's Kita&#772;b g&#769;a&#772;mi&#699; as&#803;-s&#803;alawa&#772;t wat-tasa&#772;bi&#772;h which starts with Passover, thus Shemini 'atseret is referred to there as the seventh holiday); This includes a complete copy of the designated Psalm (CXLVIII) for the eve of the holiday, in accordance with one of the Erez Israeli rites. See E. Fleischer: Tefilah u-minhage tefilah Erets Yis&#769;re&#702;el / Ezra Fleischer. Jerusalem : Magnes, 1988, p. 172.</note>
+        <note>Condition: nearly-complete; marginalia.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 207</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418883503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Mah&#803;azor, Erets Yis&#769;re&#702;eli rite, Shemini &#697;atseret</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.5 X 11.2 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 16.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1200" notafter="1299"/>
+              <p>13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shemini Atzeret</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4039px" url="master/4575_0000.tif" width="3040px"/>
+      <graphic height="190px" url="thumb/4575_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4575_0000_web.jpg" width="1355px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4039px" url="master/4575_0001.tif" width="3040px"/>
+      <graphic height="190px" url="thumb/4575_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4575_0001_web.jpg" width="1355px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h207/data/h207_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 107: Cabalistic commentary on Masekhet Berakhot 3a</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 107: Cabalistic commentary on Masekhet Berakhot 3a are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Talmudic text is presented in enlarged and squared characters, the commentary is in a Sephardic cursive hand; catchwords at end of each verso; The first article, covering fol. 1 and most of fol. 2a, is on the passage in Berakhot 3a ll. 10-16 (the text does not appear in the fragment). The author portrays the divisions of the night that appear in this passage, in accordance to the respective interaction of the appropriate Sefirot; Towards the end of the article the Zohar is cited. The next article includes an insert of a contracted version of the passage Berakhot 3a ll. 29-45, in the right column, and the article on it, in the left column; The essay is written in second person, a style common among the early Cabbalists, for example: &#1493;&#1488;&#1495;&#1512; &#1513;&#1499;&#1489;&#1512; &#1497;&#1491;&#1506;&#1514; &#1492;&#1492;&#1508;&#1512;&#1513;; Recti are headed &#1508;&#1512;&#1511; &#1488;; versi are headed &#1502;&#1505;&#1499;&#1514; &#1489;&#1512;&#1499;&#1493;&#1514;. It is likely that the commentary covered more than one tractate, probably commenting only on the aggadic excerpts; this would also explain the contracted presentation of the Talmud text, omitting the halakhic content.</note>
+        <note>Condition: consecutive; damaged, faded, with losses in upper interior corner; fol. 2: additional losses in lower exterior corner.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 107</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417973503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Cabalistic commentary on Masekhet Berakhot 3a</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>22.2 X 16.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 28; ruling method: left rule justified by stretching last character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Sephardic square (text) cursive (commentary)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1400" notafter="1799"/>
+              <p>15th century-18th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Aggada , Commentaries Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5399px" url="master/4479_0000.tif" width="7913px"/>
+      <graphic height="129px" url="thumb/4479_0000_thumb.jpg" width="190px"/>
+      <graphic height="1228px" url="web/4479_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5399px" url="master/4479_0001.tif" width="7913px"/>
+      <graphic height="129px" url="thumb/4479_0001_thumb.jpg" width="190px"/>
+      <graphic height="1228px" url="web/4479_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h107/data/h107_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 346: Court document</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 346: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>A legal document in Judeo-Arabic and legal Hebrew-Aramaic, issued in the court of Daniel, titled here here &#1492;&#1504;&#1513;&#1497;&#1488; &#1492;&#1490;&#1491;&#1493;&#1500; &#1512;&#1488;&#1513; &#1490;&#1500;&#1497;&#1493;&#1514; &#1499;&#1500; &#1497;&#1513;&#1512;&#1488;&#1500;, identical to the title bestowed on Daniel in a K&#803;etubah dated one month before this document, in London, British Library Or. 5561B fol. 2, and a few months later in Cambridge T-S 13J 13 fol. 11. See Mann, the Jews of Egypt, vol. I p. 175; The autograph signatures of the clerks of the court, serving here as witnesses, Abraham ha-kohen ben Aaron and Mevorakh ben Nathan he-h&#803;aver. The latter appears in Genizah documents, as a clerk, judge and scribe in the court of Fustat, between 1150, serving under his father, until 1181, when he served under Maimonides; He appears in the list of judges assembled by S. D. Goitein, A Mediterranean Society vol. II Appendix D, no. 22. The content of the document appears to be in his hand. Compare to Cambridge T-S 13J 1 fol. 21 (dated 1150); The autographs of the judges: Jacob ha-Kohen ben Joseph (found on documents dated 1161-1164, the period preceding that of Maimonides), Menah&#803;em ben Berakhot and Menasheh ben Joseph, a member of Maimonides'court, 1164-1199. See Goitein, ibid. nos. 19, 27; Testimony that the seven dinar given by Abu'l-Ala ben Asbu Sahl al-Jubaili to Abul'Ma'ali the merchant as a pledge, has been taken from him, he is thus acquitted of any claim. The latter is also known as Samuel ben Judah ibn Asad.</note>
+        <note>Condition: nearly complete, damaged; verso, save scribblings in Arabic, is blank.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 346</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420243503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb" otherlangs="heb arc">Judeo-Arabic; Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>Court document</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>28 X 26 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 26 (25 text, 1 signature) (recto); ruling method: left rule justified by stretching last character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Arabic Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate/>
+              <p>June-July 1164</p>
+              <origplace>Fustat</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Acquittals</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7598px" url="master/4712_0000.tif" width="6592px"/>
+      <graphic height="190px" url="thumb/4712_0000_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4712_0000_web.jpg" width="1562px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7598px" url="master/4712_0001.tif" width="6592px"/>
+      <graphic height="190px" url="thumb/4712_0001_thumb.jpg" width="165px"/>
+      <graphic height="1800px" url="web/4712_0001_web.jpg" width="1562px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h346/data/h346_TEI.xml</dlme_url></body>
+</html>

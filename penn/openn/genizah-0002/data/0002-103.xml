@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 78: Mishnah, Zevah&#803;im 5:1-4}</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 78: Mishnah, Zevah&#803;im 5:1-4} are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>The writing is interrupted at the end of Mishnah 5; Text breaks (Mishnah endings) are marked by three dots; Apparently not a fragment from a Mishnah codex, rather an individual slip of paper; chapter is often copied independently, in a prayer book, or in a Tik&#803;un (collected Mishnah chapters for specific occasions, e. g. Cambridge T-S E1.114); The chapter is subdivided into unnumbered units (Mishnayot); partially vocalized, as necessary.</note>
+        <note>Condition: complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 78</idno>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Mishnah, Zevah&#803;im 5:1-4}</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>25.1 X 9.2 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 31 (recto), 5 (verso); ruling method: left rule justified by cramping last word.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Judaism , Prayer-books and devotions , Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5870px" url="master/4450_0000.tif" width="2466px"/>
+      <graphic height="190px" url="thumb/4450_0000_thumb.jpg" width="79px"/>
+      <graphic height="1800px" url="web/4450_0000_web.jpg" width="756px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5762px" url="master/4450_0001.tif" width="2356px"/>
+      <graphic height="190px" url="thumb/4450_0001_thumb.jpg" width="77px"/>
+      <graphic height="1800px" url="web/4450_0001_web.jpg" width="736px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h078/data/h078_TEI.xml</dlme_url></body>
+</html>

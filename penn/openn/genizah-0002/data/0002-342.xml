@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 318: Panegyric poem in honor of Yeh&#803;iyah ben Avraham</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 318: Panegyric poem in honor of Yeh&#803;iyah ben Avraham are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>In Wafir meter; under the heading, stating that the poem is dedicated to the honorable&#1497;&#1495;&#1497;&#1492; &#1489;&#1512; &#1488;&#1489;&#1512;&#1492;&#1501; &#1513;&#1512; &#1489;&#1497;&#1514; &#1497;&#1513;&#1512;&#1488;&#1500; ,twenty-seven monorhymed lines starting &#1495;&#1499;&#1501; &#1505;&#1493;&#1508;&#1512;&#1497;&#1501; &#1493;&#1513;&#1493;&#1512;&#1513; &#1492;&#1495;&#1505;&#1497;&#1491;&#1497;&#1501;. This may be the philanthropist mentioned in a document published by Jacob Mann: The Jews in Egypt and in Palestine under the Fatimid caliphs. London : Oxford Univ. Press, v. 2, p. 319. On the verso is another copy of the first lines of the poem, apparently its draft. Much of the blank space of the verso is covered with jottings and writing exercises in different hands.</note>
+        <note>Condition: losses along lower edge; widthwise mail format folds; faded; draft(?), scribblings, pen tests on verso.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 318</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419983503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Panegyric poem in honor of Yeh&#803;iyah ben Avraham</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>58.5 X 18.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 27 (recto); ruling method: left rule justified by stretching last character.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Laudatory poetry, Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="13935px" url="master/4685_0000.tif" width="4436px"/>
+      <graphic height="190px" url="thumb/4685_0000_thumb.jpg" width="60px"/>
+      <graphic height="1800px" url="web/4685_0000_web.jpg" width="573px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="13937px" url="master/4685_0001.tif" width="4437px"/>
+      <graphic height="190px" url="thumb/4685_0001_thumb.jpg" width="60px"/>
+      <graphic height="1800px" url="web/4685_0001_web.jpg" width="573px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h318/data/h318_TEI.xml</dlme_url></body>
+</html>
