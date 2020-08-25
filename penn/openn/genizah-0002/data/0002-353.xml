@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 329: Collected poems In Hebrew and Judeo-Arabic</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 329: Collected poems In Hebrew and Judeo-Arabic are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Hebrew and Judeo-Arabic, both in Hebrew and Arabic characters; full vocalization in both languages/characters; lines alternating between Hebrew and Arabic characters; in the Hebrew vocalization patah&#803; often replaces segol; A. 1r begins in a K&#803;inah or Selih&#803;ah, ends in the middle of verso &#1493;&#1502;&#1506;&#1497; &#1493;&#1511;&#1512;&#1489;&#1497; &#1504;&#1514;&#1495;&#1493;; B. 1v. l.12: Under the heading &#1581;&#1585;&#1575;&#1614;, a dirge in Judeo-Arabic for a "rib&#299; Da&#7807;&#275;d" &#1502;&#1460;&#1503; &#1489;&#1463;&#1506;&#1456;&#1491;&#1463;&#1498; &#1497;&#1461;&#1488;&#1512;&#1460;&#1489;&#1460;&#1497; &#1491;&#1464;&#1493;&#1461;&#1497;&#1491;. Continues to 2r l. 12; C. 2r. l. 13: Poetic lines in Arabic, alternating lines of Arabic characters with lines of Hebrew characters; continues to the 2v l.15; D. 2v. l. 16Another k&#803;inah that starts &#1488;&#1461;&#1500;&#1460;&#1497; &#1488;&#1461;&#1500;&#1497; &#1500;&#1464;&#1502;&#1463;&#1492; &#1500;&#1464;&#1502;&#1464;&#1492; &#1506;&#1463;&#1500; &#1497;&#1464;&#1491;&#1460;&#1497; &#1497;&#1463;&#1491; &#1510;&#1464;&#1512;&#1497; &#1512;&#1464;&#1502;&#1464;&#1492;; folio ends after four strophes of three verses, each followed by the refrain.</note>
+        <note>Condition: consecutive, nearly complete; losses along bottom edge of fol. 2.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 329</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420083503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Collected poems In Hebrew and Judeo-Arabic</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>27 X 9.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 18-26; ruling method: lines unruled, vary in density; left rule justified by cramping exceeding word between lines.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Arabic Oriental semi-cursive vocalization (Tiberian)</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Dirges</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6692px" url="master/4696_0000.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4696_0000_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/4696_0000_web.jpg" width="671px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6692px" url="master/4696_0001.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4696_0001_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/4696_0001_web.jpg" width="671px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6692px" url="master/4696_0002.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4696_0002_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/4696_0002_web.jpg" width="671px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6692px" url="master/4696_0003.tif" width="2496px"/>
+      <graphic height="190px" url="thumb/4696_0003_thumb.jpg" width="70px"/>
+      <graphic height="1800px" url="web/4696_0003_web.jpg" width="671px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h329/data/h329_TEI.xml</dlme_url></body>
+</html>

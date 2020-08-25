@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 70: Notes for a treatise in Judeo-Arabic on the significance of words</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 70: Notes for a treatise in Judeo-Arabic on the significance of words are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Probably a draft; It is unclear what the function of this essay is; fragment opens with statement that there are three types (&#1510;'&#1512;&#1489;) of &#1500;&#1511;&#1497;&#1495;&#1492;, in obedience of God, in disobedience, and neither; He then proceeds to quote Biblical and Talmudic sources for the first type. Fol. 2 begins with the list of sources of the third type. After just one example, a new article is started about the usage of &#1500;&#1511;&#1497;&#1495;&#1492; in the context of death; Talmudic sources are quoted in full form, and listed by tractate and chapter (and occasionally by placement in the chapter: &#1506;&#1512;&#1500;&#1492; &#1514;&#1495;&#1497;&#1500;&#1514; &#1508;&#1512;&#1511; &#1489;); the Talmudic sources are not necessarily for the purpose of the article, rather to give depth to the context; For example, a large section of Sanhedrin 22a-b is copied because it part of it relates to Ezekiel XLIV 16. This gives the impression that this is a draft of sources for an encyclopedic article; The only named post-Talmudic source is Sa'adia Gaon, whose Tafsir to Exodus is mentioned.</note>
+        <note>Condition: complete, non-consecutive; erasures, marginalia.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 70</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417663503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb" otherlangs="heb">Judeo-Arabic; Hebrew</textlang>
+            <msitem>
+              <title>Notes for a treatise in Judeo-Arabic on the significance of words</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17 X 12.7 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 20-22.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew language , Phraseology , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4050px" url="master/4442_0000.tif" width="5884px"/>
+      <graphic height="130px" url="thumb/4442_0000_thumb.jpg" width="190px"/>
+      <graphic height="1238px" url="web/4442_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4050px" url="master/4442_0001.tif" width="5811px"/>
+      <graphic height="132px" url="thumb/4442_0001_thumb.jpg" width="190px"/>
+      <graphic height="1254px" url="web/4442_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h070/data/h070_TEI.xml</dlme_url></body>
+</html>

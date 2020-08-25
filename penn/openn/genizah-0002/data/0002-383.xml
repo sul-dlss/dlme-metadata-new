@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 361: Court document</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 361: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>The right side of an official court document, produced under the auspices of the Nagid. The first two digits of the date and the name of the Nagid are in the missing left side. He is referred to as &#1504;&#1512; &#1492;&#1502;&#1506;&#1512;&#1489;&#1497;; The subject is the ritual slaughter preformed by R. Yeh&#803;iel &#1488;&#1500;&#1491;&#1497;&#1497;&#1503;. Perhaps this is R. Yeh&#803;iel "the Judge" ben Eliakim who served under Abraham Maimonides in the early 13th century (see Goitein, A Mediterranean Society vol. II, pp. 485-488, and in the list of judges, ibid. Appendix D, no. 30); If so, than the date (in l. 3) is Seleucid [15]48 (=1237), the last year of Abraham Maimonides' reign. No signatures remain/appear in this fragment.</note>
+        <note>Condition: fragment, right side only, torn lengthwise; verso is blank.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 361</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420393503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Court document</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>17.1 X 8.8 </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 19 partially extant.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate/>
+              <p>1237?</p>
+              <origplace>Fustat</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4328px" url="master/4726_0000.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4726_0000_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/4726_0000_web.jpg" width="1024px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4328px" url="master/4726_0001.tif" width="2464px"/>
+      <graphic height="190px" url="thumb/4726_0001_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/4726_0001_web.jpg" width="1024px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h361/data/h361_TEI.xml</dlme_url></body>
+</html>

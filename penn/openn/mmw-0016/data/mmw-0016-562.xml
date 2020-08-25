@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of University of Pennsylvania Penn Museum 2006-24-2: Two bifolia with selections from Sa&#699;di&#772;'s poetry</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/2.0/legalcode">Images are  &#169;2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution ShareAlike License version 4.0 (CC-BY-2.0 https://creativecommons.org/licenses/by/2.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/2.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2019 University of Pennsylvania Museum of Archaeology and Anthropology and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Dimensions of original manuscript: 290 x 200 (200 x 120) mm.</note>
+        <note>Laid, watermarked paper; two watermarks: VALLARINO and a circle with a six-toothed shape in the middle of a shield set under a crown.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>University of Pennsylvania Museum of Archaeology and Anthropology</repository>
+            <idno type="call-number">Penn Museum 2006-24-2</idno>
+            <altidentifier type="bibid">
+              <idno>9977571453403681</idno>
+            </altidentifier>
+            <altidentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/1112669820</idno>
+            </altidentifier>
+            <altidentifier type="resource">
+              <idno>http://openn.library.upenn.edu/Data/0016/html/2006_24_2.html</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary>Two bifolia, not consecutive pages, from different sections of Sa&#699;di&#772;'s poetry; contains selections from the ghazali&#772;ya&#772;t and the ruba&#772;&#699;i&#772;ya&#772;t.</summary>
+            <textlang mainlang="per">Persian</textlang>
+            <msitem>
+              <title>Two bifolia with selections from Sa&#699;di&#772;'s poetry</title>
+              <author>
+                <persname type="authority">Sa&#699;di&#772;</persname>
+                <persname type="vernacular">&#1587;&#1593;&#1583;&#1609;</persname>
+              </author>
+              <respstmt>
+                <resp>former owner</resp>
+                <persname type="authority">Dyson, Robert H</persname>
+              </respstmt>
+            </msitem>
+            <msitem n="2B = 658">
+              <locus>2B = 658</locus>
+              <title>[Two bifolia with selections from Sa&#699;di&#772;'s poetry]</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc>
+                <extent>1 online resource (2 bifolia)</extent>
+                <foliation>Pagination in ink in Hindu-Arabic numerals (658-661; 702-705); modern pagination added in pencil, upper outer corners (1A-4B) as if the leaves were to be read left-to-right; catchwords every verso, lower left. Order of digital images follows pagination in ink.</foliation>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Written in 13-17 lines in two columns with a third column of 12 angled lines; ruled with a mist&#803;arah.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Written in nasta&#699;li&#772;q in black ink; pointed.</scriptnote>
+            </scriptdesc>
+            <bindingdesc>
+              <binding>
+                <p>Bifolia are loose.</p>
+              </binding>
+            </bindingdesc>
+          </physdesc>
+          <history>
+            <origin>
+              <p>Item is undated, but probably produced in the 19th century based on the watermark.</p>
+              <origdate>between 1800 and 1899?</origdate>
+            </origin>
+            <provenance>Gift of Dr. Robert H. Dyson, Jr. in 2006</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Persian poetry--747-1500</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fascimiles</term>
+          <term>Detached leaves</term>
+          <term>Manuscripts, Persian</term>
+          <term>Manuscripts, 19th century</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="2B = 658">
+      <graphic height="7602px" url="master/9353_0000.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0000_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="2A = 659">
+      <graphic height="7602px" url="master/9353_0001.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0001_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="1B = 660">
+      <graphic height="7602px" url="master/9353_0002.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0002_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0002_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="A1 = 661">
+      <graphic height="7602px" url="master/9353_0003.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0003_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0003_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="4B = 702">
+      <graphic height="7602px" url="master/9353_0004.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0004_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0004_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="4A = 703">
+      <graphic height="7602px" url="master/9353_0005.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0005_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0005_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="3B = 704">
+      <graphic height="7602px" url="master/9353_0006.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0006_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0006_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="3A = 705">
+      <graphic height="7602px" url="master/9353_0007.tif" width="5366px"/>
+      <graphic height="190px" url="thumb/9353_0007_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/9353_0007_web.jpg" width="1270px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0016/2006_24_2/data/2006_24_2_TEI.xml</dlme_url></body>
+</html>

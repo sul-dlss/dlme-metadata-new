@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 277: Collected liturgical poems for mourners</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 277: Collected liturgical poems for mourners are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Verse endings denoted by a punctus, strophe endings by a semi-alef; Three poems of the Tsiduk&#803; ha-din type, sporadically vocalized, probably all are by Joseph ben Abitur; A. (fol. 1) 22 strophes (&#1494;-&#1512;), four verses each, the last of which is from the biblical theme, Ecclesiastes XII 1-7. The refrain starts with &#1505;&#1493;&#1507;; listed among Tsiduk&#803;e ha-din of Abitur, by E. Fleischer, (Yetsirato shel Yosef ben Abitur / Ezra Fleischer (Doctoral dissertation). Jeruslaem : Hebrew University, 1968, p. 546) with a parallel ms. source, Cambridge T-S K8.17, which reached the end of the poem &#1505;&#1493;&#1506;&#1512; &#1500;&#1512;&#1490;&#1506;&#1497;&#1501; &#1493;&#1497;&#1513;&#1499;&#1495; &#1512;&#1489;&#1492;; B. (fol. 2) another poem of this type, in same scheme. The acrostic signature in the final two strophes reads &#1497;&#1493;&#1513;&#1507;; C. (fol. 2v) On line 22, first line of a third poem of this type, &#1488;&#1504;&#1493;&#1513; &#1488;&#1504;&#1497; &#1508;&#1514;&#1506; &#1497;&#1513;&#1489;&#1512;.</note>
+        <note>Condition: non-consecutive; losses, lacking [9] lines from upper edge.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 277</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419573503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Collected liturgical poems for mourners</title>
+              <author>Ibn Avitor, Joseph ben Isaac ben Shtnash, active 10th century-11th century &#1488;&#1489;&#1497;&#1514;&#1493;&#1512;, &#1497;&#1493;&#1505;&#1507; &#1489;&#1503; &#1497;&#1510;&#1495;&#1511; &#1488;&#1489;&#1503; &#1513;&#1496;&#1504;&#1513; &#1488;&#1489;&#1503; &#1497;&#1493;&#1505;&#1507; &#1488;&#1489;&#1503; &#1488;&#1489;&#1497;&#1514;&#1493;&#1512; &#1512;&#1489; &#1493;&#1502;&#1513;&#1493;&#1512;&#1512; &#1489;&#1488;&#1500;-&#1488;&#1504;&#1491;&#1500;&#1493;&#1505; &#1493;&#1489;&#1505;&#1493;&#1512;&#1497;&#1492;</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>20 X 14 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 20 (extant?).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Jewish religious poetry, Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5129px" url="master/4644_0000.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0000_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5129px" url="master/4644_0001.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0001_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5129px" url="master/4644_0002.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0002_web.jpg" width="1302px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5129px" url="master/4644_0003.tif" width="3712px"/>
+      <graphic height="190px" url="thumb/4644_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4644_0003_web.jpg" width="1302px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h277/data/h277_TEI.xml</dlme_url></body>
+</html>

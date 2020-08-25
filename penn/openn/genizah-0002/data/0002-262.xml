@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 238: Part of a collection of rahit&#803;im for Yom Kippur</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 238: Part of a collection of rahit&#803;im for Yom Kippur are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Verse endings are signified by a sof pasuk&#803;, piyyut endings are signified by a circles; Unknown rah&#803;itim, some are followed by a few biblical phrases. A. on fols. 1-2 (recto), strophes &#1496;-&#1514; of a rah&#803;it in which each letter has a four-verse strophe. The rhyme changes every two letters. The lead phrase of each verss &#1497;'&#1497; &#1488;&#1511;&#1512;&#1488; &#1493;&#1497;&#1506;&#1503;. Ends &#1514;&#1511;&#1497;&#1507; &#1493;&#1502;&#1512;&#1493;&#1502;&#1501; &#1506;&#1500; &#1499;&#1500; &#1489;&#1512;&#1499;&#1493;&#1514;. Fol.2v is blank, save for a writing exercise; B. on fol. 3 to verso l.9, verses &#1491;-&#1514; of a rah&#803;it, one verse per letter, all rhyme &#1512;&#1492;-. The constant lead phrase is -&#1493;&#1492;[&#1488;&#1491;&#1501;] &#1499;. Ends: &#1493;&#1514;&#1511;&#1491;&#1502;&#1492;&#1493; &#1505;&#1500;&#1497;&#1495;&#1492; &#1493;&#1499;&#1508;&#1512;&#1492;; C., the next rah&#803;it, on the remainder of fol. 3, to fol. 4 verso l. 9, is complete (&#1488;-&#1514;). It starts: &#1488;&#1502;&#1514; &#1514;&#1512;&#1506;&#1513; &#1492;&#1488;&#1512;&#1509;. The constant lead phrase is &#1493;&#1497;'&#1497; &#1488;&#1500;&#1492;&#1497;&#1501;; The remainder of the verso contains the beginning D. ordered &#1514;&#1513;&#1512;&#1524;&#1511;, starts: &#1492;&#1514;&#1493;&#1502;&#1498; &#1489;&#1499;&#1495;&#1493; &#1502;&#1506;&#1500;&#1492;. The fragment ends at verse &#1505;.</note>
+        <note>Condition: consecutive, lacuna between fols. [2]-[3]; nearly complete;  fol. 3  damaged with losses from external edge.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 238</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940419183503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Part of a collection of rahit&#803;im for Yom Kippur</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.2 X 10.4 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 16-20, per page; ruling method: left rule generally unjustified, but occasionally filled with two characters from anticipated word.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1000" notafter="1199"/>
+              <p>11th century-12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Yom Kippur , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="2527px" url="master/4605_0000.tif" width="1601px"/>
+      <graphic height="190px" url="thumb/4605_0000_thumb.jpg" width="120px"/>
+      <graphic height="1800px" url="web/4605_0000_web.jpg" width="1140px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="2515px" url="master/4605_0001.tif" width="1673px"/>
+      <graphic height="190px" url="thumb/4605_0001_thumb.jpg" width="126px"/>
+      <graphic height="1800px" url="web/4605_0001_web.jpg" width="1197px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3858px" url="master/4605_0002.tif" width="2688px"/>
+      <graphic height="190px" url="thumb/4605_0002_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4605_0002_web.jpg" width="1254px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3858px" url="master/4605_0003.tif" width="2688px"/>
+      <graphic height="190px" url="thumb/4605_0003_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4605_0003_web.jpg" width="1254px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="3858px" url="master/4605_0004.tif" width="2688px"/>
+      <graphic height="190px" url="thumb/4605_0004_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4605_0004_web.jpg" width="1254px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="3858px" url="master/4605_0005.tif" width="2688px"/>
+      <graphic height="190px" url="thumb/4605_0005_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4605_0005_web.jpg" width="1254px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="2449px" url="master/4605_0006.tif" width="1715px"/>
+      <graphic height="190px" url="thumb/4605_0006_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4605_0006_web.jpg" width="1260px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="2467px" url="master/4605_0007.tif" width="1781px"/>
+      <graphic height="190px" url="thumb/4605_0007_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4605_0007_web.jpg" width="1299px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h238/data/h238_TEI.xml</dlme_url></body>
+</html>

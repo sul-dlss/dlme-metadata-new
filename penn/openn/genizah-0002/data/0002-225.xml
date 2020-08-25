@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 200: Mah&#803;azor for Rosh ha-Shanah</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 200: Mah&#803;azor for Rosh ha-Shanah are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Incipits are in enlarged, squared characters over a space; A fragment from a complete version of the Rosh ha-Shanah services, including the text of regular blessings; The fragment starts at the end of the Morning &#697;Amidah, from the sixth blessing &#1502;&#1491;&#1493;&#1512; &#1500;&#1491;&#1493;&#1512; &#1504;&#1493;&#1491;&#1492; to the end, followed by the prayer Avinu Malkenu (18 verses), similar to the version found in Siddur Rav Amram Gaon (Seder Rav Amram Ga&#702;on. Warsaw, 1865, p. 45) with a few minor variants and four additional verses; Instructions on the Torah reading (first day) and Shofar blowing follow, in 11 lines of Judeo-Arabic, in a smaller, more cursive hand; Under the headline &#1506;&#1500;&#1493;&#1514; &#1502;&#1493;&#1505;&#1507; &#1512;&#1488;&#1513; &#1492;&#1513;&#1504;&#1492; is the beginning of the Musaf service. The fragment reaches the High Holiday supplements to the third blessing, up to &#1502;&#1513;&#1497;&#1495;&#1498; &#1489;&#1502;&#1512;&#1492; &#1489;&#1497;&#1502;&#1497;&#1504;&#1493;.</note>
+        <note>Condition: complete, consecutive.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 200</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418823503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb">Hebrew; Judeo-Arabic</textlang>
+            <msitem>
+              <title>Mah&#803;azor for Rosh ha-Shanah</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>22.2 X 15.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 22-24; ruling method: left rule justified by stretching last character, or aligning exceeding word upwards in margin.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1200" notafter="1599"/>
+              <p>13th century-16th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Rosh ha-Shanah , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5578px" url="master/4569_0000.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0000_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0000_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5578px" url="master/4569_0001.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0001_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0001_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5578px" url="master/4569_0002.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0002_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0002_web.jpg" width="1301px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5578px" url="master/4569_0003.tif" width="4032px"/>
+      <graphic height="190px" url="thumb/4569_0003_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/4569_0003_web.jpg" width="1301px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h200/data/h200_TEI.xml</dlme_url></body>
+</html>

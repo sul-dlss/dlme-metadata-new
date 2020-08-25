@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 125: Halakhot, Bava batra, pars 895-897</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 125: Halakhot, Bava batra, pars 895-897 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Beginning of Mishnah is identified &#1502;&#1514;&#1504;&#1497;&#1523; in enlarged squared characters; text breaks denoted by a sof pasuk&#803; plus 1-2 spaces; markings in upper corner of recto may indicate that this was the first fol. in a fascicle; A fragment from Bava batra chapter IX, parallel to, in the common, Vilna edition, 67b l. 39 &#1489;&#1497;&#1503; &#1513;&#1502;&#1514; &#1488;&#1512;&#1493;&#1505; to 68a l. 37 &#1488;&#1497;&#1503; &#1488;&#1500;&#1493; &#1504;&#1490;&#1489;&#1497;&#1503; (end of Mishnah).</note>
+        <note>Condition: nearly complete; possibly cropped in interior margin; blurred.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 125</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940418143503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>Halakhot, Bava batra, pars 895-897</title>
+              <author>&#1497;&#1510;&#1495;&#1511; &#1489;&#1503; &#1497;&#1506;&#1511;&#1489;, &#1488;&#1500;&#1508;&#1505;&#1497;, 1013-1103 Yizhaq ben Yaaqov, al-Fasi, 1013-1103 Alfasi, Isaac ben Jacob, 1013-1103 Yizhaq ben Yaaqov 1013-1103 al-Fasi Yiz&#803;h&#803;aq &#702;Alfasi&#772;, 1013-1103 Isaac ben Jacob Alfasi 1013-1103 Alfasi&#770;, Yis&#803;h&#803;a&#772;q Ben-Ya&#703;aqov 1013-1103 Alfassi, Isaac ben Jacob, 1013-1103 Alfasi, Icchak ben Jaakow ha-Kohen (1013-1103) &#1573;&#1587;&#1581;&#1575;&#1602; &#1575;&#1604;&#1601;&#1575;&#1587;&#1610; Jicchak ben Ja'akov al-Fasi, 1013-1103</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>23 X 14.3 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 19 (recto), 17 (verso); ruling method: left rule occasionally justified by upward slanting the exceeding word.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass/>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5763px" url="master/4497_0000.tif" width="3632px"/>
+      <graphic height="190px" url="thumb/4497_0000_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/4497_0000_web.jpg" width="1134px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5763px" url="master/4497_0001.tif" width="3632px"/>
+      <graphic height="190px" url="thumb/4497_0001_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/4497_0001_web.jpg" width="1134px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h125/data/h125_TEI.xml</dlme_url></body>
+</html>

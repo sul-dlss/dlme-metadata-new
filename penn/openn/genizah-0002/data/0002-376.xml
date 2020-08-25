@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 354: Court document (draft)</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 354: Court document (draft) are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>The hand of the scribe who wrote this document is recognized as that of Ephraim ben Shemaryah, who presided as a court judge in 'Azza and Fustat. A list of his documents was assembled by E. Bareket, Shafrir Mitsrayim, 1995, p. 257-259; See also, above no. 337. He served as the head of the Erets Israeli community of Fustat, in documents between 1020-1047 (see Bareket, ibid., pp. 100-121); Two sons of the deceased Nah&#803;man the Doctor (&#1492;&#1512;&#1493;&#1508;&#1492; sic!) from Aleppo declare to the court that they have received from Ephraim the H&#803;aver ben [Shemarya], what their father deposited with him; In the left margin is a title &#1494;&#1499;&#1512;&#1493;&#1503; &#1506;&#1491;&#1493;&#1514;, apparently added to the document for the purpose of indexing or filing among court documents. The correction, uneven rule, shorthand abbreviations, and relatively cursive hand, indicate that this is a draft copy; On the verso is a different inscription, in Arabic characters, which was also written before the destruction of the folio. This document, probably also a draft, is a charter designating the authority and functions of the court of the Gaonate (here "Rais al-Metivta") of the Erets Israeli Jewish community; Comparable to a charter drawn by Ephraim ben Shemarya upon his reappointment in 1028, found in Cambridge T-S 13J 7 fol. 25 (published by Goitein, ibid. pp. 84-86). This may have been the primary inscription.</note>
+        <note>Condition: fragment, upper portion of fol., left edge lacking; titular inscription in left margin recto.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 354</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420323503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="jrb ara">Hebrew; Judeo-Arabic; Arabic</textlang>
+            <msitem>
+              <title>Court document (draft)</title>
+              <respstmt>
+                <resp>scribe</resp>
+                <persname>Efraim ben Shemarya 0980?-1060? Efraim ben Shemarya, approximately 980-approximately 1060</persname>
+              </respstmt>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>18.1 X 13.2 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 18 (recto), ? (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Arabic Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1020" notafter="1047"/>
+              <p>1020-1047?</p>
+              <origplace>Fustat</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Witnesses (Jewish law)</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4712px" url="master/4719_0000.tif" width="3456px"/>
+      <graphic height="190px" url="thumb/4719_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/4719_0000_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4712px" url="master/4719_0001.tif" width="3456px"/>
+      <graphic height="190px" url="thumb/4719_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/4719_0001_web.jpg" width="1320px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h354/data/h354_TEI.xml</dlme_url></body>
+</html>

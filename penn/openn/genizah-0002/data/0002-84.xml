@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 58: Judeo-Arabic commentary on eight Psalms</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 58: Judeo-Arabic commentary on eight Psalms are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>This folio begins the text of the commentary, under the heading &#1489;&#1513;&#1502;&#1498; &#1512;&#1495;&#1502;&#1504;&#1488; &#1504;&#1499;&#1514;&#1491;&#1497; &#1489;&#1513;&#1502;&#1493;&#1504;&#1492; &#1514;&#1500;&#1497;&#1501;, inferring that he intends to comment on the (first?) eight Psalms, in the same manner that Sa'adia Gaon composed on the first four; The text is not broken into verses, rather the author treats the first Psalm as a unit.</note>
+        <note>Condition: loss in lower interior corner.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 58</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417533503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Judeo-Arabic commentary on eight Psalms</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>15.5 X 10.9 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 15.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass/>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3900px" url="master/4431_0000.tif" width="2940px"/>
+      <graphic height="190px" url="thumb/4431_0000_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4431_0000_web.jpg" width="1357px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3900px" url="master/4431_0001.tif" width="2940px"/>
+      <graphic height="190px" url="thumb/4431_0001_thumb.jpg" width="143px"/>
+      <graphic height="1800px" url="web/4431_0001_web.jpg" width="1357px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h058/data/h058_TEI.xml</dlme_url></body>
+</html>

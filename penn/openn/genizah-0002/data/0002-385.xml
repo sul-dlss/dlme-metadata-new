@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 363: Court document</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 363: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>A folio, folded widthwise into three equal parts, cropped in the 18th line, in an even cut on the third fold; The upper part of a court record in Judeo-Arabic, in which Abu Natsr the Hazzan files a complaint, that he, his wife and his children have been attacked. Afterwards, the witnesses R. Ezekiel ha-kohen the H&#803;aver and R. Obadiah ben Solomon testified of this attack, stating that the victim was beaten with a shoe (&#1502;&#1491;&#1488;&#1505;) on a Sunday; The former is probably the same R. Ezekiel ha-kohen ha-H&#803;aver ben Ali ha-H&#803;aver a witness in several Genizah documents, the earliest Cambridge 13J 2 fol. 3, dated Dec. 1093, the latest Oxford Bodleian Heb. b.12 (Cowely 2875) fol. 4, dated Feb. 1102; His father, a Jerusalemite, is the author of numerous Genizah documents (23 documents related to 'Ali ha-kohen, published by M. Gil, Erets-Yis&#769;ra&#702;el ba-tek&#803;ufah ha-Muslemit ha-rishonan / Moshe Gil. Tel Aviv : University of Tel Aviv, 1983, vol. III, nos. 433-455, the last of which is dated 1071).</note>
+        <note>Condition: cropped, torn, faded; verso is blank.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 363</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420413503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Court document</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>16.4 X 18.1 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: 18 extant (recto); ruling method: writing fills the left rule, justified once by stretching last character; margins in top and right rule.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1085" notafter="1099"/>
+              <p>late 11th cent.?</p>
+              <origplace>Fustat</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4264px" url="master/4728_0000.tif" width="4736px"/>
+      <graphic height="171px" url="thumb/4728_0000_thumb.jpg" width="190px"/>
+      <graphic height="1620px" url="web/4728_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4264px" url="master/4728_0001.tif" width="4736px"/>
+      <graphic height="171px" url="thumb/4728_0001_thumb.jpg" width="190px"/>
+      <graphic height="1620px" url="web/4728_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h363/data/h363_TEI.xml</dlme_url></body>
+</html>

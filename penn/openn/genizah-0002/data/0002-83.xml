@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 57: Commentary on Ezekiel 1:21-24</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 57: Commentary on Ezekiel 1:21-24 are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Incipits in enlarged squared characters, after a space; Significant variant readings compared to the common edition; This may be from a manuscript of Kimh&#803;i's Commentary collected on Haftarot, as is found in some manuscripts (e.g. from Genizah: Petersburg RNL Evr. II A 261). This chapter is the Haftarah of Shavuot.</note>
+        <note>Condition: non-consecutive, complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 57</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417523503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Commentary on Ezekiel 1:21-24</title>
+              <author>Kimhi, David, approximately 1160-approximately 1235 K&#803;imh&#803;i, Dav&#803;id 1160-1235 &#1511;&#1502;&#1495;&#1497;, &#1491;&#1493;&#1491; &#1489;&#1503; &#1497;&#1493;&#1505;&#1507;, 1160-1235 &#1050;&#1080;&#1084;&#1093;&#1080;, &#1044;&#1072;&#1074;&#1080;&#1076;, 1160-1235 Kim&#7717;i, David, ca 1160-ca 1235 Dawid ben Yosef ben Yiz&#817;h&#803;aq ibn Qimh&#803;i (David ben Joseph), ca1160-ca1235 David Qimhi c. 1160-c. 1235 rabbi Kimhi, David, rabbi, c. 1160-c. 1235 Kim&#7717;i, David &#1491;&#1493;&#1491; &#1511;&#1502;&#1495;&#1497; Kimhi, David ben Joseph 1160-1235 Qimh&#803;i, David Kimchi, David ben Josef, asi 1160-asi 1235 David ben Joseph Kimhi, rabbi, c. 1160-c. 1235 David Qimhi, rabbi, c. 1160-c. 1235 Maistre Petit, rabbi, c. 1160-c. 1235 Redak, rabbi, c. 1160-c. 1235</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>13.3 X 10.1 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 13; ruling method: left rule is justified often by a downward slant of the last word.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1199"/>
+              <p>12th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Libraries).</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Shavuot , Liturgy , Texts</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3462px" url="master/4430_0000.tif" width="2656px"/>
+      <graphic height="190px" url="thumb/4430_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4430_0000_web.jpg" width="1381px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3462px" url="master/4430_0001.tif" width="2656px"/>
+      <graphic height="190px" url="thumb/4430_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4430_0001_web.jpg" width="1381px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3462px" url="master/4430_0002.tif" width="2656px"/>
+      <graphic height="190px" url="thumb/4430_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4430_0002_web.jpg" width="1381px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3462px" url="master/4430_0003.tif" width="2656px"/>
+      <graphic height="190px" url="thumb/4430_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/4430_0003_web.jpg" width="1381px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h057/data/h057_TEI.xml</dlme_url></body>
+</html>

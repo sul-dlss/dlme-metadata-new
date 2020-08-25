@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 88: Talmud, Yevamot, 22b-24b</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 88: Talmud, Yevamot, 22b-24b are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Yevamot 22b l. 47 &#1497;&#1492;&#1493;&#1491;&#1492; to 23b l. 24 &#1499;&#1513;&#1492;]&#1493;&#1499;&#1512;&#1493;](recto); 24a l. 22 &#1500;&#1490;&#1502;&#1512;&#1497; to 24b l. 30 [&#1491;&#1500;&#1497;&#1499;&#1488; &#1506;[&#1491;&#1497;&#1501;(verso, likely to have continued to about l. 45); The Mishnah texts are represented by lead phrases only, probably having been presented as a consecutive text at the beginning of the chapter; one marginal note on the recto mentions the location of a parallel text, another, is in a Sephardic cursive hand at the top of the page; In the margin of the verso, also in a cursive hand, is a notification of an alternative reading which starts &#1502;&#1510;&#1488;&#1514;&#1497; &#1499;&#1514;&#1493;&#1489;. The name of the chapter appears in the upper edge of the recto in a cursive hand; This fragment not included in scientific edition, ed. Liss et al., Complete Israeli Talmud Institute, vol. I 1983; The graphic layout, width of fol. and probably the hand, are identical with that Talmud ms. Hamburg Heb. 19 (Gerona 1184). Texts breaks are signified by two hyphens plus two spaces; comparable also to New York JTSA MS RAB 2351 on Yevamot 100 (also not included in Liss et al.).</note>
+        <note>Condition: cropped, lacking lower [15?] lines, even lengthwise crease; marginalia.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 88</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940417863503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb" otherlangs="arc">Hebrew; Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)</textlang>
+            <msitem>
+              <title>Talmud, Yevamot, 22b-24b</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>21.6 X 30.5 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 23 (extant, of [38?]).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Sephardic square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Mediterranean</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew language, Talmudic</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5254px" url="master/4460_0000.tif" width="7323px"/>
+      <graphic height="136px" url="thumb/4460_0000_thumb.jpg" width="190px"/>
+      <graphic height="1291px" url="web/4460_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5254px" url="master/4460_0001.tif" width="7323px"/>
+      <graphic height="136px" url="thumb/4460_0001_thumb.jpg" width="190px"/>
+      <graphic height="1291px" url="web/4460_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h088/data/h088_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 420: Business letter</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 420: Business letter are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Recto: text starts after a blank upper quarter, 37 lines, leaving the right quarter of the page for postscript, which he fills (35 lines), written in the opposite direction; Verso: continues on upper half, 24 lines, ending with the author's signature. The second stage of the letter starts a marginal postscript of 27 lines, and continues in an additional postscript of 16 lines in the lower half; The author reports at great length to his partner, possibly in 'Azza (verso ll. 14, 35). He deals primarily in textiles, but also mentions the trade of pepper (verso l. 9). He reports on difficulties in business, largely due to high interest rates, and a plague (recto ll. 5-15); The marginal postscript on the verso starts a new session of writing, dated "Monday the 25th", upon receiving a letter from his addressee.</note>
+        <note>Condition: complete.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 420</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420993503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Business letter</title>
+              <author>Masina, Meir, 17th cent.</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>31.8 X 18.3 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Lines: (recto), (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Sephardic cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1685" notafter="1699"/>
+              <p>late 17th century</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Commercial correspondence, Hebrew</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7887px" url="master/4785_0000.tif" width="3936px"/>
+      <graphic height="190px" url="thumb/4785_0000_thumb.jpg" width="95px"/>
+      <graphic height="1800px" url="web/4785_0000_web.jpg" width="898px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7887px" url="master/4785_0001.tif" width="3936px"/>
+      <graphic height="190px" url="thumb/4785_0001_thumb.jpg" width="95px"/>
+      <graphic height="1800px" url="web/4785_0001_web.jpg" width="898px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h420/data/h420_TEI.xml</dlme_url></body>
+</html>

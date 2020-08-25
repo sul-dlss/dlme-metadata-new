@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 433: Ethical essay</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 433: Ethical essay are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Incipits in enlarged, square characters above a space; A fragment of an ethical essay in Judeo-Arabic. In this passage, biblical verses are cited, about bringing gifts to the prophets (Sam. I IX 7-8; Kings I XIV 3).</note>
+        <note>Condition: damaged, loss in lower interior corner, stained, faded.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 433</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421123503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Ethical essay</title>
+              <author>Ab&#775;raham ben Moses ben Maimon, 1186-1237 &#1488;&#1489;&#1512;&#1492;&#1501; &#1489;&#1503; &#1502;&#1513;&#1492; (&#1502;&#1497;&#1502;&#1493;&#1503;), 1186-1237 Abraham ben Mosheh ben Maimon 1186-1237 Avraham ben Mosheh ben Maimon 1186-1237 Avraham ben Rambam Mai&#776;monide, Abra&#770;ha&#770;m ben Moi&#776;se, 1186-1237 Maimon, Ab&#775;raham ben Moses, 1186-1237</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>22.2 X 16.8 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 20 (recto), 22 (verso).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental square semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Ethics, Jewish , to 1800 , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6059px" url="master/4798_0000.tif" width="4256px"/>
+      <graphic height="190px" url="thumb/4798_0000_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4798_0000_web.jpg" width="1264px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6059px" url="master/4798_0001.tif" width="4256px"/>
+      <graphic height="190px" url="thumb/4798_0001_thumb.jpg" width="133px"/>
+      <graphic height="1800px" url="web/4798_0001_web.jpg" width="1264px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h433/data/h433_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 432: Ethical essay</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 432: Ethical essay are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Most biblical citations denoted by superlinear bars; An autograph draft, as in indicated by numerous erasures and corrections, and addenda. The writing ends at the upper third of fol. 2 verso, in what appears to be the end of the article; The end of an essay, dealing with the function of every being of creation.</note>
+        <note>Condition: fol. 2, loss in lower interior corner; erasures, corrections, addenda.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 432</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940421113503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="jrb">Judeo-Arabic</textlang>
+            <msitem>
+              <title>Ethical essay</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>14.3 X 11 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1; lines: 17-19.</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental cursive</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1100" notafter="1299"/>
+              <p>12th century-13th century?</p>
+              <origplace>Orient</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Amram.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Ethics, Jewish , to 1800 , Early works to 1800</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="3751px" url="master/4797_0000.tif" width="2944px"/>
+      <graphic height="190px" url="thumb/4797_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/4797_0000_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="3751px" url="master/4797_0001.tif" width="2944px"/>
+      <graphic height="190px" url="thumb/4797_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/4797_0001_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="3751px" url="master/4797_0002.tif" width="2944px"/>
+      <graphic height="190px" url="thumb/4797_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/4797_0002_web.jpg" width="1412px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="3751px" url="master/4797_0003.tif" width="2944px"/>
+      <graphic height="190px" url="thumb/4797_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/4797_0003_web.jpg" width="1412px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h432/data/h432_TEI.xml</dlme_url></body>
+</html>

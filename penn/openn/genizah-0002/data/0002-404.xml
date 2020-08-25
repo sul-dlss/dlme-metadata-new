@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 382: Letter to Abraham ben Nathan, 'the Seventh'</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 382: Letter to Abraham ben Nathan, 'the Seventh' are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Folded and addressed in mail format; The letter opens with a paragraph of at least 20 lines of panegyric blessings in Hebrew. The 18 remaining lines are the content of the letter in Judeo-Arabic, which is also laden with honorific terms; The writers express their longing for Abraham yet decline his invitation to visit him in Syria (&#1488;&#1500;&#1513;&#1488;&#1501;), as they will be staying in al-Mah&#803;alla (in the central Nile delta), with friends from Aleppo for another two months; The addressee, referred to as &#1495;&#1502;&#1491;&#1514; &#1492;&#1497;&#1513;&#1497;&#1489;&#1493;&#1514;, also received the letters in Cambridge T-S NS J 131 (from the Nagid Mevorakh ben Sa'adia 1094-1111); Oxford Bodleian Heb. d. 68 (Cowely 2878) fol. 29; Cambridge T-S 13J 15 fol. 24 (from Solomon ben Yeshua, the same hand as the previous); T-S 10J 11 fol. 16 (there: b. Nathaniel); T-S NS J 24 (from his brother Arah&#803;); T-S 18J 4 fol. 2; T-S 13J 15 fol. 24; He appears in a list of dignitaries in British Library Or. 5535 (Margoliouth, vol. III no. 1131). A biographical sketch of him was assembled by M. Cohen, Jewish Self-Government in Medieval Egypt, 1980, pp. 130-131; Verso contains the name of the addressee, and the names of the writers, Obadiah, Abraham and Japheth the sons of Shemaryah. This is followed by a standard Arabic salutation in Arabic characters.</note>
+        <note>Condition: tears.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 382</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420603503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Letter to Abraham ben Nathan, 'the Seventh'</title>
+              <author>Abraham ben Nathan 11th/12th cent.</author>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="paper">
+                <support>
+                  <p>Paper</p>
+                </support>
+                <extent>34.6 X 13.7 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns:1; lines: 38 (recto).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate notbefore="1085" notafter="1115"/>
+              <p>ca. late 11th century-early 12th century</p>
+              <origplace>al-Mah&#803;alla</origplace>
+            </origin>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Hebrew letters</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="8432px" url="master/4747_0000.tif" width="3520px"/>
+      <graphic height="190px" url="thumb/4747_0000_thumb.jpg" width="79px"/>
+      <graphic height="1800px" url="web/4747_0000_web.jpg" width="751px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="8432px" url="master/4747_0001.tif" width="3520px"/>
+      <graphic height="190px" url="thumb/4747_0001_thumb.jpg" width="79px"/>
+      <graphic height="1800px" url="web/4747_0001_web.jpg" width="751px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h382/data/h382_TEI.xml</dlme_url></body>
+</html>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ASCII'?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml version='1.0' encoding='UTF-8'??>
+<html>
+  <body><tei xmlns="http://www.tei-c.org/ns/1.0">
+  <teiheader>
+    <filedesc>
+      <titlestmt>
+        <title>Description of Center for Advanced Judaic Studies Library, Halper 334: Court document</title>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Center for Advanced Judaic Studies Library</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Center for Advanced Judaic Studies Library, Halper 334: Court document are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is &#169;2017 University of Pennsylvania Books &amp; Manuscripts and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationstmt>
+      <notesstmt>
+        <note>Recto, in earlier hand, contains legal document, in which Siba &#768;ben Manasseh renounces all claims to anything belonging to Benjamin ben Joseph and his Wife Ganiyyah, daughter of Amram, since he divorced their daughter Rid&#803;a; Verso, in later hand, contains two liturgical compositions published by Israel Davidson in: ha-Tsofeh me-et erets Hagar, v. 2, p. 6-7.</note>
+        <note>Condition: missing, never microfilmed; incomplete, cropped; 2 hands; verso, originally blank, folded lenghtwise to create two columns or pages (Halper: 1a, 2b), left column/2b is blank.</note>
+      </notesstmt>
+      <sourcedesc>
+        <msdesc>
+          <msidentifier>
+            <country>United States</country>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Center for Advanced Judaic Studies Library</repository>
+            <collection>Cairo Genizah Collection</collection>
+            <idno type="call-number">Halper 334</idno>
+            <altidentifier type="resource">
+              <idno>https://franklin.library.upenn.edu/catalog/FRANKLIN_9940420123503681</idno>
+            </altidentifier>
+          </msidentifier>
+          <mscontents>
+            <summary/>
+            <textlang mainlang="heb">Hebrew</textlang>
+            <msitem>
+              <title>Court document</title>
+            </msitem>
+          </mscontents>
+          <physdesc>
+            <objectdesc>
+              <supportdesc material="parchment">
+                <support>
+                  <p>Parchment</p>
+                </support>
+                <extent>27 X 9 cm </extent>
+              </supportdesc>
+              <layoutdesc>
+                <layout>Columns: 1 (recto), 2 (verso); lines: 23 (recto), 23 (verso, right column/page 1a).</layout>
+              </layoutdesc>
+            </objectdesc>
+            <scriptdesc>
+              <scriptnote>Hebrew Oriental semi-square</scriptnote>
+            </scriptdesc>
+            <decodesc>
+              <deconote>Material applied: black ink</deconote>
+            </decodesc>
+          </physdesc>
+          <history>
+            <origin>
+              <origdate/>
+              <p>1040</p>
+              <origplace>Fustat</origplace>
+            </origin>
+            <provenance>Cairo Genizah Collection (University of Pennsylvania. Center for Advanced Judaic Studies. Library).</provenance>
+            <provenance>Cairo Genizah Collection (Dropsie College. Library).</provenance>
+            <provenance>Sulzberger.</provenance>
+          </history>
+        </msdesc>
+      </sourcedesc>
+    </filedesc>
+    <profiledesc>
+      <textclass>
+        <keywords n="subjects">
+          <term>Court records</term>
+        </keywords>
+      </textclass>
+    </profiledesc>
+  </teiheader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6989px" url="master/4701_0000.tif" width="4864px"/>
+      <graphic height="190px" url="thumb/4701_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4701_0000_web.jpg" width="1252px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6989px" url="master/4701_0001.tif" width="4864px"/>
+      <graphic height="190px" url="thumb/4701_0001_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/4701_0001_web.jpg" width="1252px"/>
+    </surface>
+  </facsimile>
+</tei>
+<dlme_url>/Data/0002/h334/data/h334_TEI.xml</dlme_url></body>
+</html>
