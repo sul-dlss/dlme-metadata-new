@@ -1,148 +1,129 @@
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:HarvardDRS="http://hul.harvard.edu/ois/xml/ns/HarvardDRS" xmlns="http://api.lib.harvard.edu/v2/item" xmlns:sets="http://hul.harvard.edu/ois/xml/ns/sets" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:librarycloud="http://hul.harvard.edu/ois/xml/ns/librarycloud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <mods:titleInfo>
-    <mods:title>Divan-i Hafiz</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo>
-    <mods:title>Diwan of Hafiz</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo>
-    <mods:title>Diwan of Hafez</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo>
-    <mods:title>Divan of Hafez</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo>
-    <mods:title>Divan of Hafiz</mods:title>
+    <mods:title>Sa'adat-namah (Chester Beatty, MS. Pers. 139)</mods:title>
   </mods:titleInfo>
   <mods:titleInfo type="translated">
-    <mods:title>Collected Poems of Hafiz</mods:title>
+    <mods:title>Book of Felicity</mods:title>
   </mods:titleInfo>
-  <mods:name>
-    <mods:namePart>Hafiz</mods:namePart>
-    <mods:namePart type="date">ca. 1325-26/726 AH - 1389-90/791-92 AH, Iranian</mods:namePart>
-    <mods:role>
-      <mods:roleTerm>creator</mods:roleTerm>
-    </mods:role>
-    <mods:role>
-      <mods:roleTerm>author</mods:roleTerm>
-    </mods:role>
-  </mods:name>
   <mods:typeOfResource>still image</mods:typeOfResource>
-  <mods:genre>manuscripts</mods:genre>
+  <mods:genre>illuminated manuscript</mods:genre>
   <mods:originInfo>
-    <mods:dateOther keyDate="yes">Copied ca. 1575 in Khurasan, illustrated 1585-95 probably in Lahore</mods:dateOther>
-    <mods:dateCreated point="start">1575</mods:dateCreated>
-    <mods:dateCreated point="end">1595</mods:dateCreated>
-    <mods:dateCreated>Copied ca. 1575 in Khurasan, illustrated 1585-95 probably in Lahore</mods:dateCreated>
+    <mods:place>
+      <mods:placeTerm>Baghdad, Iraq</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther keyDate="yes">c. 869 A.H./1465 A.D.</mods:dateOther>
+    <mods:dateCreated point="start">1465</mods:dateCreated>
+    <mods:dateCreated point="end">1465</mods:dateCreated>
+    <mods:dateCreated>c. 869 A.H./1465 A.D.</mods:dateCreated>
   </mods:originInfo>
   <mods:physicalDescription>
-    <mods:extent>height 26.5 cm ; width 20 cm (folio size)</mods:extent>
+    <mods:extent>31.2 x 18 cm.</mods:extent>
   </mods:physicalDescription>
-  <mods:abstract>404 pages containing 11 painted miniatures.</mods:abstract>
+  <mods:note>General note:  f.1a: a rosette in blue and gold with black fleurons and foliage forms; f.1b: a blue and gold sarlauh of similar style</mods:note>
   <mods:subject>
-    <mods:topic>miniatures (paintings)</mods:topic>
+    <mods:topic>borders (ornamental areas)</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>illuminations</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>kings and rulers</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>dervishes</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>musicians</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>gardens</mods:topic>
-  </mods:subject>
-  <mods:subject>
-    <mods:topic>princes</mods:topic>
+    <mods:topic>inscriptions</mods:topic>
   </mods:subject>
   <mods:subject>
     <mods:topic>poetry</mods:topic>
   </mods:subject>
   <mods:subject>
-    <mods:topic>borders (ornamental areas)</mods:topic>
+    <mods:topic>Persian</mods:topic>
   </mods:subject>
-  <mods:extension>
-               <cdwalite:styleWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:style>Mughal</cdwalite:style>
-               </cdwalite:styleWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Islamic</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:culture>Mughal</cdwalite:culture>
-               </cdwalite:cultureWrap>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>Opaque watercolor</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
-  <mods:extension>
-               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
-               </cdwalite:indexingMaterialsTechSet>
-            </mods:extension>
+  <mods:subject>
+    <mods:topic>nasta'liq</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>ethics</mods:topic>
+  </mods:subject>
+  <mods:subject>
+    <mods:topic>mysticism</mods:topic>
+  </mods:subject>
   <mods:location>
-    <mods:physicalLocation type="repository">Raza Library, Rampur, Uttar Pradesh, India</mods:physicalLocation>
-    <mods:shelfLocator>P.3277</mods:shelfLocator>
-    <mods:shelfLocator>M.K.336</mods:shelfLocator>
+    <mods:physicalLocation type="repository">Chester Beatty Library, Dublin, Ireland</mods:physicalLocation>
+    <mods:shelfLocator>MS. Pers. 139</mods:shelfLocator>
   </mods:location>
   <mods:relatedItem type="constituent">
     <mods:titleInfo>
-      <mods:title>Full view of folio 355; A battle scene</mods:title>
+      <mods:title>ff. ?: A poetry page</mods:title>
     </mods:titleInfo>
     <mods:typeOfResource>still image</mods:typeOfResource>
     <mods:note>Funding for this image is provided by the Aga Khan Program and the Stuart Cary Welch Islamic and South Asian Photograph Collection. </mods:note>
     <mods:classification/>
     <mods:location>
-      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:27031644</mods:url>
-      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:27031644?width=150&amp;height=150&amp;usethumb=y</mods:url>
+      <mods:url displayLabel="Full Image" note="unrestricted" access="raw object">https://nrs.harvard.edu/urn-3:FHCL:32605557</mods:url>
+      <mods:url displayLabel="Thumbnail" access="preview">https://nrs.harvard.edu/urn-3:FHCL:32605557?width=150&amp;height=150&amp;usethumb=y</mods:url>
     </mods:location>
     <mods:location>
       <mods:physicalLocation valueURI="http://isni.org/isni/0000000109432246" displayLabel="Harvard repository" type="repository">Fine Arts Library, Special Collections, Harvard University</mods:physicalLocation>
-      <mods:shelfLocator>SCW2016.01265</mods:shelfLocator>
+      <mods:shelfLocator>SCW2016.10109</mods:shelfLocator>
     </mods:location>
     <mods:recordInfo>
-      <mods:recordIdentifier>14899566</mods:recordIdentifier>
+      <mods:recordIdentifier>20331889</mods:recordIdentifier>
     </mods:recordInfo>
     <mods:extension>
-                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
+                  <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><librarycloud:HarvardRepositories><librarycloud:HarvardRepository>Fine Arts</librarycloud:HarvardRepository>
                      </librarycloud:HarvardRepositories>
                   </librarycloud:librarycloud>
                </mods:extension>
   </mods:relatedItem>
   <mods:relatedItem otherType="HOLLIS Images record">
     <mods:location>
-      <mods:url>https://id.lib.harvard.edu/images/8001352711/urn-3:FHCL:27031644/catalog</mods:url>
+      <mods:url>https://id.lib.harvard.edu/images/8001352623/urn-3:FHCL:32605557/catalog</mods:url>
     </mods:location>
   </mods:relatedItem>
-  <mods:recordInfo>
-    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
-    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
-    <mods:recordChangeDate encoding="iso8601">20170803</mods:recordChangeDate>
-    <mods:recordIdentifier source="MH:VIA">8001352711_urn-3:FHCL:27031644</mods:recordIdentifier>
-    <mods:languageOfCataloging>
-      <mods:languageTerm>eng</mods:languageTerm>
-    </mods:languageOfCataloging>
-  </mods:recordInfo>
   <mods:language>
     <mods:languageTerm type="code">zxx</mods:languageTerm>
     <mods:languageTerm type="text">No linguistic content</mods:languageTerm>
   </mods:language>
+  <mods:location/>
+  <mods:location>
+    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352623_URN-3:FHCL:32605557</mods:url>
+  </mods:location>
   <mods:extension>
-               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>422132835</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>422132837</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:27031644</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2016-05-25T21:05:37Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2016-05-25T21:05:37Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_14899566</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_14899566--SS_14899566.jp2</HarvardDRS:suppliedFilename>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:culture>Persian</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:cultureWrap xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:culture>Islamic</cdwalite:culture>
+               </cdwalite:cultureWrap>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:termMaterialsTech>gold</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:termMaterialsTech>ink</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <cdwalite:indexingMaterialsTechSet xmlns:cdwalite="http://www.getty.edu/research/conducting_research/standards/cdwa/cdwalite" xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><cdwalite:termMaterialsTech>paper</cdwalite:termMaterialsTech>
+               </cdwalite:indexingMaterialsTechSet>
+            </mods:extension>
+  <mods:extension>
+               <HarvardDRS:DRSMetadata xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><HarvardDRS:inDRS>true</HarvardDRS:inDRS><HarvardDRS:drsObjectId>431943235</HarvardDRS:drsObjectId><HarvardDRS:drsFileId>431943237</HarvardDRS:drsFileId><HarvardDRS:accessFlag>P</HarvardDRS:accessFlag><HarvardDRS:contentModel>STILL IMAGE</HarvardDRS:contentModel><HarvardDRS:contentModelCode>CMID-5.0</HarvardDRS:contentModelCode><HarvardDRS:uriType>IDS</HarvardDRS:uriType><HarvardDRS:fileDeliveryURL>https://nrs.harvard.edu/urn-3:FHCL:32605557</HarvardDRS:fileDeliveryURL><HarvardDRS:ownerCode>FHCL.FAL</HarvardDRS:ownerCode><HarvardDRS:ownerCodeDisplayName>Fine Arts Library</HarvardDRS:ownerCodeDisplayName><HarvardDRS:lastModifiedDate>2017-04-27T19:53:21Z</HarvardDRS:lastModifiedDate><HarvardDRS:insertionDate>2017-04-27T19:53:21Z</HarvardDRS:insertionDate><HarvardDRS:ownerSuppliedName>SS_20331889</HarvardDRS:ownerSuppliedName><HarvardDRS:viewText>off</HarvardDRS:viewText><HarvardDRS:mimeType>image/jp2</HarvardDRS:mimeType><HarvardDRS:suppliedFilename>SS_20331889--SS_20331889.jp2</HarvardDRS:suppliedFilename>
                </HarvardDRS:DRSMetadata>
             </mods:extension>
   <mods:extension>
-               <librarycloud:librarycloud xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/TR/xlink"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
-                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352711.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-04-01T06:27Z</librarycloud:processingDate>
+               <librarycloud:librarycloud xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"><librarycloud:availableTo>Everyone</librarycloud:availableTo><librarycloud:digitalFormats><librarycloud:digitalFormat>Images</librarycloud:digitalFormat>
+                  </librarycloud:digitalFormats><librarycloud:originalDocument>https://s3.amazonaws.com/via-presto/prod/8001352623.xml</librarycloud:originalDocument><librarycloud:processingDate>2020-12-11T14:47Z</librarycloud:processingDate>
                </librarycloud:librarycloud>
             </mods:extension>
-  <mods:location>
-    <mods:url displayLabel="Harvard Digital Collections" access="object in context">https://id.lib.harvard.edu/digital_collections/8001352711_urn-3:FHCL:27031644</mods:url>
-  </mods:location>
+  <mods:extension>
+               <sets:sets xmlns="http://www.loc.gov/mods/v3" xmlns:ext="http://exslt.org/common" xmlns:originalDocument="http://hul.harvard.edu/ois/xml/ns/originalDocument" xmlns:processingDate="http://hul.harvard.edu/ois/xml/ns/processingDate" xmlns:usage="http://lib.harvard.edu/usagedata" xmlns:priorrecordids="http://hul.harvard.edu/ois/xml/ns/priorrecordids" xmlns:availableTo="http://hul.harvard.edu/ois/xml/ns/availableTo" xmlns:HarvardRepositories="http://hul.harvard.edu/ois/xml/ns/HarvardRepositories" xmlns:digitalFormats="http://hul.harvard.edu/ois/xml/ns/digitalFormats"/>
+            </mods:extension>
+  <mods:recordInfo>
+    <mods:recordContentSource authority="marcorg">MH</mods:recordContentSource>
+    <mods:recordContentSource authority="marcorg">MH-VIA</mods:recordContentSource>
+    <mods:recordChangeDate encoding="iso8601">20181025</mods:recordChangeDate>
+    <mods:recordIdentifier source="MH:VIA">8001352623_URN-3:FHCL:32605557</mods:recordIdentifier>
+    <mods:languageOfCataloging>
+      <mods:languageTerm>eng</mods:languageTerm>
+    </mods:languageOfCataloging>
+  </mods:recordInfo>
 </mods:mods>
